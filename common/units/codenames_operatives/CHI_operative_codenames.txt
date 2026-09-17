@@ -1,0 +1,34 @@
+﻿CHI_OPERATIVE_CODENAME_HISTORICAL = {
+	name = CHI_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { CHI PRC GXC YUN SIK GXC SHX XSM MAN }
+
+	type = codename
+
+	fallback_name = "特工 %d"
+
+	unique = {
+		"周"
+		"秦"
+		"漢"
+		"晉"
+		"帝"
+		"梁"
+		"隋"
+		"唐"
+        "遼"
+        "宋"
+        "元"
+        "明"
+        "清"
+        "夏"
+        "商"
+        "吳"
+        "孫"
+        "大理"
+        "寧"
+        "槐"
+        "長生"
+        "苗"
+	}
+}

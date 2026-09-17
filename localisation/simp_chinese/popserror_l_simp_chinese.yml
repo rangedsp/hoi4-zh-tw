@@ -1,0 +1,21 @@
+﻿l_simp_chinese:
+ POPS_invalid-email: "電子郵箱地址不可用"
+ POPS_account-exists: "使用該電子郵箱地址的賬號已存在"
+ POPS_dynamodb-failure: "連接失敗"
+ POPS_ua: "沒有資格"
+ POPS_not-authorized: "您輸入的電子郵箱地址和密碼不匹配"
+ #These should "never" happen, we should have validated before we sent the data
+ POPS_bad-password-length: "密碼太短" #Might be too long to, but upper limit is 128 chars (at the time of writing)
+ POPS_missing-required-account-details-keys: "您有必要信息未填寫"
+ POPS_invalid-country-code: "國家代碼無效"
+ POPS_invalid-language-code: "語言代碼無效"
+ POPS_invalid-ISO-8601-format: "日期格式無效"
+ #These should also not happen, but are not related to validating our form
+ POPS_parse-failure: "客戶端出錯（解析）"
+ POPS_unsupported-account-details-keys: "客戶端出錯（不支持的密鑰）"
+ POPS_invalid-script-code: "客戶端出錯（無效腳本）"
+ #These can happen sometimes, when connection failed or some other error occurred
+ POPS_NO_MESSAGE: "發生了預料之外的錯誤"
+ POPS_UNEXPECTED_ERROR: "發生了一個預料之外的錯誤。"
+
+
