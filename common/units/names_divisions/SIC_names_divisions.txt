@@ -58,17 +58,17 @@ SIC_INF_01 =
 		7 = { "第%d Sichuan軍團" }			
 		8 = { "第%d Sichuan軍團" }			
 		9 = { "第%d Sichuan軍團" }			
-		10 = { "第%d Sichuan軍團" }		
-		11 = { "第%d Sichuan軍團" }		
-		12 = { "第%d Sichuan軍團" }		
-		13 = { "第%d Sichuan軍團" }		
-		14 = { "第%d Sichuan軍團" }		
-		15 = { "第%d Sichuan軍團" }		
-		16 = { "第%d Sichuan軍團" }		
-		17 = { "第%d Sichuan軍團" }		
-		18 = { "第%d Sichuan軍團" }		
-		19 = { "第%d Sichuan軍團" }		
-		20 = { "第%d Sichuan軍團" }		
+		10 = { "第十 Sichuan軍團" }		
+		11 = { "第十1 Sichuan軍團" }		
+		12 = { "第十2 Sichuan軍團" }		
+		13 = { "第十3 Sichuan軍團" }		
+		14 = { "第十4 Sichuan軍團" }		
+		15 = { "第十5 Sichuan軍團" }		
+		16 = { "第十6 Sichuan軍團" }		
+		17 = { "第十7 Sichuan軍團" }		
+		18 = { "第十8 Sichuan軍團" }		
+		19 = { "第十9 Sichuan軍團" }		
+		20 = { "第2十 Sichuan軍團" }		
 	}
 }
 
@@ -100,12 +100,12 @@ SIC_CAV_01 =
 		7 = { "第%d Sichuan騎兵軍" }
 		8 = { "第%d Sichuan騎兵軍" }
 		9 = { "第%d Sichuan騎兵軍" }
-		10 = { "第%d Sichuan騎兵軍" }
-		11 = { "第%d Sichuan騎兵軍" }
-		12 = { "第%d Sichuan騎兵軍" }
-		13 = { "第%d Sichuan騎兵軍" }
-		14 = { "第%d Sichuan騎兵軍" }
-		15 = { "第%d Sichuan騎兵軍" }
+		10 = { "第十 Sichuan騎兵軍" }
+		11 = { "第十1 Sichuan騎兵軍" }
+		12 = { "第十2 Sichuan騎兵軍" }
+		13 = { "第十3 Sichuan騎兵軍" }
+		14 = { "第十4 Sichuan騎兵軍" }
+		15 = { "第十5 Sichuan騎兵軍" }
 	}
 }
 
@@ -137,17 +137,17 @@ SIC_MOT_01 =
 		7 = { "第%d Sichuan軍團" }			
 		8 = { "第%d Sichuan軍團" }			
 		9 = { "第%d Sichuan軍團" }			
-		10 = { "第%d Sichuan軍團" }		
-		11 = { "第%d Sichuan軍團" }		
-		12 = { "第%d Sichuan軍團" }		
-		13 = { "第%d Sichuan軍團" }		
-		14 = { "第%d Sichuan軍團" }		
-		15 = { "第%d Sichuan軍團" }		
-		16 = { "第%d Sichuan軍團" }		
-		17 = { "第%d Sichuan軍團" }		
-		18 = { "第%d Sichuan軍團" }		
-		19 = { "第%d Sichuan軍團" }		
-		20 = { "第%d Sichuan軍團" }		
+		10 = { "第十 Sichuan軍團" }		
+		11 = { "第十1 Sichuan軍團" }		
+		12 = { "第十2 Sichuan軍團" }		
+		13 = { "第十3 Sichuan軍團" }		
+		14 = { "第十4 Sichuan軍團" }		
+		15 = { "第十5 Sichuan軍團" }		
+		16 = { "第十6 Sichuan軍團" }		
+		17 = { "第十7 Sichuan軍團" }		
+		18 = { "第十8 Sichuan軍團" }		
+		19 = { "第十9 Sichuan軍團" }		
+		20 = { "第2十 Sichuan軍團" }		
 	}
 }
 
@@ -179,17 +179,17 @@ SIC_MEC_01 =
 		7 = { "第%d Sichuan軍團" }			
 		8 = { "第%d Sichuan軍團" }			
 		9 = { "第%d Sichuan軍團" }			
-		10 = { "第%d Sichuan軍團" }		
-		11 = { "第%d Sichuan軍團" }		
-		12 = { "第%d Sichuan軍團" }		
-		13 = { "第%d Sichuan軍團" }		
-		14 = { "第%d Sichuan軍團" }		
-		15 = { "第%d Sichuan軍團" }		
-		16 = { "第%d Sichuan軍團" }		
-		17 = { "第%d Sichuan軍團" }		
-		18 = { "第%d Sichuan軍團" }		
-		19 = { "第%d Sichuan軍團" }		
-		20 = { "第%d Sichuan軍團" }		
+		10 = { "第十 Sichuan軍團" }		
+		11 = { "第十1 Sichuan軍團" }		
+		12 = { "第十2 Sichuan軍團" }		
+		13 = { "第十3 Sichuan軍團" }		
+		14 = { "第十4 Sichuan軍團" }		
+		15 = { "第十5 Sichuan軍團" }		
+		16 = { "第十6 Sichuan軍團" }		
+		17 = { "第十7 Sichuan軍團" }		
+		18 = { "第十8 Sichuan軍團" }		
+		19 = { "第十9 Sichuan軍團" }		
+		20 = { "第2十 Sichuan軍團" }		
 	}
 }
 
@@ -225,17 +225,17 @@ SIC_MNT_01 =
 		7 = { "第%d Sichuan軍團" }			
 		8 = { "第%d Sichuan軍團" }			
 		9 = { "第%d Sichuan軍團" }			
-		10 = { "第%d Sichuan軍團" }		
-		11 = { "第%d Sichuan軍團" }		
-		12 = { "第%d Sichuan軍團" }		
-		13 = { "第%d Sichuan軍團" }		
-		14 = { "第%d Sichuan軍團" }		
-		15 = { "第%d Sichuan軍團" }		
-		16 = { "第%d Sichuan軍團" }		
-		17 = { "第%d Sichuan軍團" }		
-		18 = { "第%d Sichuan軍團" }		
-		19 = { "第%d Sichuan軍團" }		
-		20 = { "第%d Sichuan軍團" }		
+		10 = { "第十 Sichuan軍團" }		
+		11 = { "第十1 Sichuan軍團" }		
+		12 = { "第十2 Sichuan軍團" }		
+		13 = { "第十3 Sichuan軍團" }		
+		14 = { "第十4 Sichuan軍團" }		
+		15 = { "第十5 Sichuan軍團" }		
+		16 = { "第十6 Sichuan軍團" }		
+		17 = { "第十7 Sichuan軍團" }		
+		18 = { "第十8 Sichuan軍團" }		
+		19 = { "第十9 Sichuan軍團" }		
+		20 = { "第2十 Sichuan軍團" }		
 	}
 }
 
@@ -268,13 +268,13 @@ SIC_GAR_01 =
 		105 = { "5 Ba an警備" }
 		114 = { "4 Chamdo警備" }
 		115 = { "5 Minsien警備" }
-		131 = { "Sichuan Baoan Ke" }		
-		132 = { "1 Labrang Baoan Ke" }		
-		133 = { "1 Liangshan Baoan Ke" }		
-		134 = { "2 Zhenxiong Baoan Ke" }		
-		135 = { "3 Zunyi Baoan Ke" }		
-		136 = { "2 Chongqing Baoan Ke" }		
-		137 = { "3 Chongqing Baoan Ke" }		
+		131 = { "Sichuan保安科" }		
+		132 = { "1 Labrang保安科" }		
+		133 = { "1 Liangshan保安科" }		
+		134 = { "2 Zhenxiong保安科" }		
+		135 = { "3 Zunyi保安科" }		
+		136 = { "2 Chongqing保安科" }		
+		137 = { "3 Chongqing保安科" }		
 		1 = { "第%d Sichuan警備" }		
 		2 = { "第%d Sichuan警備" }		
 		3 = { "第%d Sichuan警備" }		
@@ -284,7 +284,7 @@ SIC_GAR_01 =
 		7 = { "第%d Sichuan警備" }		
 		8 = { "第%d Sichuan警備" }		
 		9 = { "第%d Sichuan警備" }		
-		10 = { "第%d Sichuan警備" }		
+		10 = { "第十 Sichuan警備" }		
 	}
 }
 

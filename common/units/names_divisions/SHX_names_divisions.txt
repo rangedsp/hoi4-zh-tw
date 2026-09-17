@@ -58,17 +58,17 @@ SHX_INF_01 =
 		7 = { "第%d Shanxi軍團" }			
 		8 = { "第%d Shanxi軍團" }			
 		9 = { "第%d Shanxi軍團" }			
-		10 = { "第%d Shanxi軍團" }		
-		11 = { "第%d Shanxi軍團" }		
-		12 = { "第%d Shanxi軍團" }		
-		13 = { "第%d Shanxi軍團" }		
-		14 = { "第%d Shanxi軍團" }		
-		15 = { "第%d Shanxi軍團" }		
-		16 = { "第%d Shanxi軍團" }		
-		17 = { "第%d Shanxi軍團" }		
-		18 = { "第%d Shanxi軍團" }		
-		19 = { "第%d Shanxi軍團" }		
-		20 = { "第%d Shanxi軍團" }		
+		10 = { "第十 Shanxi軍團" }		
+		11 = { "第十1 Shanxi軍團" }		
+		12 = { "第十2 Shanxi軍團" }		
+		13 = { "第十3 Shanxi軍團" }		
+		14 = { "第十4 Shanxi軍團" }		
+		15 = { "第十5 Shanxi軍團" }		
+		16 = { "第十6 Shanxi軍團" }		
+		17 = { "第十7 Shanxi軍團" }		
+		18 = { "第十8 Shanxi軍團" }		
+		19 = { "第十9 Shanxi軍團" }		
+		20 = { "第2十 Shanxi軍團" }		
 	}
 }
 
@@ -100,12 +100,12 @@ SHX_CAV_01 =
 		7 = { "第%d Shanxi騎兵軍" }
 		8 = { "第%d Shanxi騎兵軍" }
 		9 = { "第%d Shanxi騎兵軍" }
-		10 = { "第%d Shanxi騎兵軍" }
-		11 = { "第%d Shanxi騎兵軍" }
-		12 = { "第%d Shanxi騎兵軍" }
-		13 = { "第%d Shanxi騎兵軍" }
-		14 = { "第%d Shanxi騎兵軍" }
-		15 = { "第%d Shanxi騎兵軍" }
+		10 = { "第十 Shanxi騎兵軍" }
+		11 = { "第十1 Shanxi騎兵軍" }
+		12 = { "第十2 Shanxi騎兵軍" }
+		13 = { "第十3 Shanxi騎兵軍" }
+		14 = { "第十4 Shanxi騎兵軍" }
+		15 = { "第十5 Shanxi騎兵軍" }
 	}
 }
 
@@ -137,17 +137,17 @@ SHX_MOT_01 =
 		7 = { "第%d Shanxi軍團" }			
 		8 = { "第%d Shanxi軍團" }			
 		9 = { "第%d Shanxi軍團" }			
-		10 = { "第%d Shanxi軍團" }		
-		11 = { "第%d Shanxi軍團" }		
-		12 = { "第%d Shanxi軍團" }		
-		13 = { "第%d Shanxi軍團" }		
-		14 = { "第%d Shanxi軍團" }		
-		15 = { "第%d Shanxi軍團" }		
-		16 = { "第%d Shanxi軍團" }		
-		17 = { "第%d Shanxi軍團" }		
-		18 = { "第%d Shanxi軍團" }		
-		19 = { "第%d Shanxi軍團" }		
-		20 = { "第%d Shanxi軍團" }		
+		10 = { "第十 Shanxi軍團" }		
+		11 = { "第十1 Shanxi軍團" }		
+		12 = { "第十2 Shanxi軍團" }		
+		13 = { "第十3 Shanxi軍團" }		
+		14 = { "第十4 Shanxi軍團" }		
+		15 = { "第十5 Shanxi軍團" }		
+		16 = { "第十6 Shanxi軍團" }		
+		17 = { "第十7 Shanxi軍團" }		
+		18 = { "第十8 Shanxi軍團" }		
+		19 = { "第十9 Shanxi軍團" }		
+		20 = { "第2十 Shanxi軍團" }		
 	}
 }
 
@@ -179,17 +179,17 @@ SHX_MEC_01 =
 		7 = { "第%d Shanxi軍團" }			
 		8 = { "第%d Shanxi軍團" }			
 		9 = { "第%d Shanxi軍團" }			
-		10 = { "第%d Shanxi軍團" }		
-		11 = { "第%d Shanxi軍團" }		
-		12 = { "第%d Shanxi軍團" }		
-		13 = { "第%d Shanxi軍團" }		
-		14 = { "第%d Shanxi軍團" }		
-		15 = { "第%d Shanxi軍團" }		
-		16 = { "第%d Shanxi軍團" }		
-		17 = { "第%d Shanxi軍團" }		
-		18 = { "第%d Shanxi軍團" }		
-		19 = { "第%d Shanxi軍團" }		
-		20 = { "第%d Shanxi軍團" }		
+		10 = { "第十 Shanxi軍團" }		
+		11 = { "第十1 Shanxi軍團" }		
+		12 = { "第十2 Shanxi軍團" }		
+		13 = { "第十3 Shanxi軍團" }		
+		14 = { "第十4 Shanxi軍團" }		
+		15 = { "第十5 Shanxi軍團" }		
+		16 = { "第十6 Shanxi軍團" }		
+		17 = { "第十7 Shanxi軍團" }		
+		18 = { "第十8 Shanxi軍團" }		
+		19 = { "第十9 Shanxi軍團" }		
+		20 = { "第2十 Shanxi軍團" }		
 	}
 }
 
@@ -225,17 +225,17 @@ SHX_MNT_01 =
 		7 = { "第%d Shanxi軍團" }			
 		8 = { "第%d Shanxi軍團" }			
 		9 = { "第%d Shanxi軍團" }			
-		10 = { "第%d Shanxi軍團" }		
-		11 = { "第%d Shanxi軍團" }		
-		12 = { "第%d Shanxi軍團" }		
-		13 = { "第%d Shanxi軍團" }		
-		14 = { "第%d Shanxi軍團" }		
-		15 = { "第%d Shanxi軍團" }		
-		16 = { "第%d Shanxi軍團" }		
-		17 = { "第%d Shanxi軍團" }		
-		18 = { "第%d Shanxi軍團" }		
-		19 = { "第%d Shanxi軍團" }		
-		20 = { "第%d Shanxi軍團" }		
+		10 = { "第十 Shanxi軍團" }		
+		11 = { "第十1 Shanxi軍團" }		
+		12 = { "第十2 Shanxi軍團" }		
+		13 = { "第十3 Shanxi軍團" }		
+		14 = { "第十4 Shanxi軍團" }		
+		15 = { "第十5 Shanxi軍團" }		
+		16 = { "第十6 Shanxi軍團" }		
+		17 = { "第十7 Shanxi軍團" }		
+		18 = { "第十8 Shanxi軍團" }		
+		19 = { "第十9 Shanxi軍團" }		
+		20 = { "第2十 Shanxi軍團" }		
 	}
 }
 
@@ -259,22 +259,22 @@ SHX_GAR_01 =
 	ordered =
 	{
 		101 = { "1 Suiyuan警備" }		# All fictional names for local militias
-		111 = { "1 Chahar警備" }		
+		111 = { "1察哈爾警備" }		
 		102 = { "2 Suiyuan警備" }
 		103 = { "3 Suiyuan警備" }
-		112 = { "2 Chahar警備" }
-		113 = { "3 Chahar警備" }
+		112 = { "2察哈爾警備" }
+		113 = { "3察哈爾警備" }
 		104 = { "4 Suiyuan警備" }
 		105 = { "5 Suiyuan警備" }
-		114 = { "4 Chahar警備" }
-		115 = { "5 Chahar警備" }
-		131 = { "Shanxi Baoan Ke" }		
-		132 = { "1 Suiyuan Baoan Ke" }		
-		133 = { "1 Taiyuan Baoan Ke" }		
-		134 = { "2 Taiyuan Baoan Ke" }		
-		135 = { "3 Taiyuan Baoan Ke" }		
-		136 = { "2 Suiyuan Baoan Ke" }		
-		137 = { "3 Suiyuan Baoan Ke" }		
+		114 = { "4察哈爾警備" }
+		115 = { "5察哈爾警備" }
+		131 = { "Shanxi保安科" }		
+		132 = { "1 Suiyuan保安科" }		
+		133 = { "1 Taiyuan保安科" }		
+		134 = { "2 Taiyuan保安科" }		
+		135 = { "3 Taiyuan保安科" }		
+		136 = { "2 Suiyuan保安科" }		
+		137 = { "3 Suiyuan保安科" }		
 		1 = { "第%d Shanxi警備" }		
 		2 = { "第%d Shanxi警備" }		
 		3 = { "第%d Shanxi警備" }		
@@ -284,7 +284,7 @@ SHX_GAR_01 =
 		7 = { "第%d Shanxi警備" }		
 		8 = { "第%d Shanxi警備" }		
 		9 = { "第%d Shanxi警備" }		
-		10 = { "第%d Shanxi警備" }		
+		10 = { "第十 Shanxi警備" }		
 	}
 }
 

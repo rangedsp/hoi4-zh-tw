@@ -58,17 +58,17 @@ HBC_INF_01 =
 		7 = { "第%d Hebei軍團" }			
 		8 = { "第%d Hebei軍團" }			
 		9 = { "第%d Hebei軍團" }			
-		10 = { "第%d Hebei軍團" }		
-		11 = { "第%d Hebei軍團" }		
-		12 = { "第%d Hebei軍團" }		
-		13 = { "第%d Hebei軍團" }		
-		14 = { "第%d Hebei軍團" }		
-		15 = { "第%d Hebei軍團" }		
-		16 = { "第%d Hebei軍團" }		
-		17 = { "第%d Hebei軍團" }		
-		18 = { "第%d Hebei軍團" }		
-		19 = { "第%d Hebei軍團" }		
-		20 = { "第%d Hebei軍團" }		
+		10 = { "第十 Hebei軍團" }		
+		11 = { "第十1 Hebei軍團" }		
+		12 = { "第十2 Hebei軍團" }		
+		13 = { "第十3 Hebei軍團" }		
+		14 = { "第十4 Hebei軍團" }		
+		15 = { "第十5 Hebei軍團" }		
+		16 = { "第十6 Hebei軍團" }		
+		17 = { "第十7 Hebei軍團" }		
+		18 = { "第十8 Hebei軍團" }		
+		19 = { "第十9 Hebei軍團" }		
+		20 = { "第2十 Hebei軍團" }		
 	}
 }
 
@@ -100,12 +100,12 @@ HBC_CAV_01 =
 		7 = { "第%d Hebei騎兵軍" }
 		8 = { "第%d Hebei騎兵軍" }
 		9 = { "第%d Hebei騎兵軍" }
-		10 = { "第%d Hebei騎兵軍" }
-		11 = { "第%d Hebei騎兵軍" }
-		12 = { "第%d Hebei騎兵軍" }
-		13 = { "第%d Hebei騎兵軍" }
-		14 = { "第%d Hebei騎兵軍" }
-		15 = { "第%d Hebei騎兵軍" }
+		10 = { "第十 Hebei騎兵軍" }
+		11 = { "第十1 Hebei騎兵軍" }
+		12 = { "第十2 Hebei騎兵軍" }
+		13 = { "第十3 Hebei騎兵軍" }
+		14 = { "第十4 Hebei騎兵軍" }
+		15 = { "第十5 Hebei騎兵軍" }
 	}
 }
 
@@ -137,17 +137,17 @@ HBC_MOT_01 =
 		7 = { "第%d Hebei軍團" }			
 		8 = { "第%d Hebei軍團" }			
 		9 = { "第%d Hebei軍團" }			
-		10 = { "第%d Hebei軍團" }		
-		11 = { "第%d Hebei軍團" }		
-		12 = { "第%d Hebei軍團" }		
-		13 = { "第%d Hebei軍團" }		
-		14 = { "第%d Hebei軍團" }		
-		15 = { "第%d Hebei軍團" }		
-		16 = { "第%d Hebei軍團" }		
-		17 = { "第%d Hebei軍團" }		
-		18 = { "第%d Hebei軍團" }		
-		19 = { "第%d Hebei軍團" }		
-		20 = { "第%d Hebei軍團" }		
+		10 = { "第十 Hebei軍團" }		
+		11 = { "第十1 Hebei軍團" }		
+		12 = { "第十2 Hebei軍團" }		
+		13 = { "第十3 Hebei軍團" }		
+		14 = { "第十4 Hebei軍團" }		
+		15 = { "第十5 Hebei軍團" }		
+		16 = { "第十6 Hebei軍團" }		
+		17 = { "第十7 Hebei軍團" }		
+		18 = { "第十8 Hebei軍團" }		
+		19 = { "第十9 Hebei軍團" }		
+		20 = { "第2十 Hebei軍團" }		
 	}
 }
 
@@ -179,17 +179,17 @@ HBC_MEC_01 =
 		7 = { "第%d Hebei軍團" }			
 		8 = { "第%d Hebei軍團" }			
 		9 = { "第%d Hebei軍團" }			
-		10 = { "第%d Hebei軍團" }		
-		11 = { "第%d Hebei軍團" }		
-		12 = { "第%d Hebei軍團" }		
-		13 = { "第%d Hebei軍團" }		
-		14 = { "第%d Hebei軍團" }		
-		15 = { "第%d Hebei軍團" }		
-		16 = { "第%d Hebei軍團" }		
-		17 = { "第%d Hebei軍團" }		
-		18 = { "第%d Hebei軍團" }		
-		19 = { "第%d Hebei軍團" }		
-		20 = { "第%d Hebei軍團" }		
+		10 = { "第十 Hebei軍團" }		
+		11 = { "第十1 Hebei軍團" }		
+		12 = { "第十2 Hebei軍團" }		
+		13 = { "第十3 Hebei軍團" }		
+		14 = { "第十4 Hebei軍團" }		
+		15 = { "第十5 Hebei軍團" }		
+		16 = { "第十6 Hebei軍團" }		
+		17 = { "第十7 Hebei軍團" }		
+		18 = { "第十8 Hebei軍團" }		
+		19 = { "第十9 Hebei軍團" }		
+		20 = { "第2十 Hebei軍團" }		
 	}
 }
 
@@ -225,17 +225,17 @@ HBC_MNT_01 =
 		7 = { "第%d Hebei軍團" }			
 		8 = { "第%d Hebei軍團" }			
 		9 = { "第%d Hebei軍團" }			
-		10 = { "第%d Hebei軍團" }		
-		11 = { "第%d Hebei軍團" }		
-		12 = { "第%d Hebei軍團" }		
-		13 = { "第%d Hebei軍團" }		
-		14 = { "第%d Hebei軍團" }		
-		15 = { "第%d Hebei軍團" }		
-		16 = { "第%d Hebei軍團" }		
-		17 = { "第%d Hebei軍團" }		
-		18 = { "第%d Hebei軍團" }		
-		19 = { "第%d Hebei軍團" }		
-		20 = { "第%d Hebei軍團" }		
+		10 = { "第十 Hebei軍團" }		
+		11 = { "第十1 Hebei軍團" }		
+		12 = { "第十2 Hebei軍團" }		
+		13 = { "第十3 Hebei軍團" }		
+		14 = { "第十4 Hebei軍團" }		
+		15 = { "第十5 Hebei軍團" }		
+		16 = { "第十6 Hebei軍團" }		
+		17 = { "第十7 Hebei軍團" }		
+		18 = { "第十8 Hebei軍團" }		
+		19 = { "第十9 Hebei軍團" }		
+		20 = { "第2十 Hebei軍團" }		
 	}
 }
 
@@ -258,23 +258,23 @@ HBC_GAR_01 =
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		101 = { "1 Chahar警備" }		# All fictional names for local militias
+		101 = { "1察哈爾警備" }		# All fictional names for local militias
 		111 = { "1 Beiping警備" }		
-		102 = { "2 Chahar警備" }
-		103 = { "3 Chahar警備" }
+		102 = { "2察哈爾警備" }
+		103 = { "3察哈爾警備" }
 		112 = { "2 Beiping警備" }
 		113 = { "3 Beiping警備" }
-		104 = { "4 Chahar警備" }
-		105 = { "5 Chahar警備" }
+		104 = { "4察哈爾警備" }
+		105 = { "5察哈爾警備" }
 		114 = { "4 Beiping警備" }
 		115 = { "5 Beiping警備" }
-		131 = { "Hebei Baoan Ke" }		
-		132 = { "1 Chahar Baoan Ke" }		
-		133 = { "1 Tianjin Baoan Ke" }		
-		134 = { "2 Tianjin Baoan Ke" }		
-		135 = { "3 Tianjin Baoan Ke" }		
-		136 = { "2 Chahar Baoan Ke" }		
-		137 = { "3 Chahar Baoan Ke" }		
+		131 = { "Hebei保安科" }		
+		132 = { "1察哈爾保安科" }		
+		133 = { "1 Tianjin保安科" }		
+		134 = { "2 Tianjin保安科" }		
+		135 = { "3 Tianjin保安科" }		
+		136 = { "2察哈爾保安科" }		
+		137 = { "3察哈爾保安科" }		
 		1 = { "第%d Hebei警備" }		
 		2 = { "第%d Hebei警備" }		
 		3 = { "第%d Hebei警備" }		
@@ -284,7 +284,7 @@ HBC_GAR_01 =
 		7 = { "第%d Hebei警備" }		
 		8 = { "第%d Hebei警備" }		
 		9 = { "第%d Hebei警備" }		
-		10 = { "第%d Hebei警備" }		
+		10 = { "第十 Hebei警備" }		
 	}
 }
 

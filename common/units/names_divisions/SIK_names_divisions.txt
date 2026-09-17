@@ -58,17 +58,17 @@ SIK_INF_01 =
 		7 = { "第%d Xin'jiang軍團" }
 		8 = { "第%d Xin'jiang軍團" }
 		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第%d Xin'jiang軍團" }
-		11 = { "第%d Xin'jiang軍團" }
-		12 = { "第%d Xin'jiang軍團" }
-		13 = { "第%d Xin'jiang軍團" }
-		14 = { "第%d Xin'jiang軍團" }
-		15 = { "第%d Xin'jiang軍團" }
-		16 = { "第%d Xin'jiang軍團" }
-		17 = { "第%d Xin'jiang軍團" }
-		18 = { "第%d Xin'jiang軍團" }
-		19 = { "第%d Xin'jiang軍團" }
-		20 = { "第%d Xin'jiang軍團" }
+		10 = { "第十 Xin'jiang軍團" }
+		11 = { "第十1 Xin'jiang軍團" }
+		12 = { "第十2 Xin'jiang軍團" }
+		13 = { "第十3 Xin'jiang軍團" }
+		14 = { "第十4 Xin'jiang軍團" }
+		15 = { "第十5 Xin'jiang軍團" }
+		16 = { "第十6 Xin'jiang軍團" }
+		17 = { "第十7 Xin'jiang軍團" }
+		18 = { "第十8 Xin'jiang軍團" }
+		19 = { "第十9 Xin'jiang軍團" }
+		20 = { "第2十 Xin'jiang軍團" }
 	}
 }
 
@@ -100,12 +100,12 @@ SIK_CAV_01 =
 		7 = { "第%d Xin'jiang騎兵軍" }
 		8 = { "第%d Xin'jiang騎兵軍" }
 		9 = { "第%d Xin'jiang騎兵軍" }
-		10 = { "第%d Xin'jiang騎兵軍" }
-		11 = { "第%d Xin'jiang騎兵軍" }
-		12 = { "第%d Xin'jiang騎兵軍" }
-		13 = { "第%d Xin'jiang騎兵軍" }
-		14 = { "第%d Xin'jiang騎兵軍" }
-		15 = { "第%d Xin'jiang騎兵軍" }
+		10 = { "第十 Xin'jiang騎兵軍" }
+		11 = { "第十1 Xin'jiang騎兵軍" }
+		12 = { "第十2 Xin'jiang騎兵軍" }
+		13 = { "第十3 Xin'jiang騎兵軍" }
+		14 = { "第十4 Xin'jiang騎兵軍" }
+		15 = { "第十5 Xin'jiang騎兵軍" }
 	}
 }
 
@@ -137,17 +137,17 @@ SIK_MOT_01 =
 		7 = { "第%d Xin'jiang軍團" }
 		8 = { "第%d Xin'jiang軍團" }
 		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第%d Xin'jiang軍團" }
-		11 = { "第%d Xin'jiang軍團" }
-		12 = { "第%d Xin'jiang軍團" }
-		13 = { "第%d Xin'jiang軍團" }
-		14 = { "第%d Xin'jiang軍團" }
-		15 = { "第%d Xin'jiang軍團" }
-		16 = { "第%d Xin'jiang軍團" }
-		17 = { "第%d Xin'jiang軍團" }
-		18 = { "第%d Xin'jiang軍團" }
-		19 = { "第%d Xin'jiang軍團" }
-		20 = { "第%d Xin'jiang軍團" }
+		10 = { "第十 Xin'jiang軍團" }
+		11 = { "第十1 Xin'jiang軍團" }
+		12 = { "第十2 Xin'jiang軍團" }
+		13 = { "第十3 Xin'jiang軍團" }
+		14 = { "第十4 Xin'jiang軍團" }
+		15 = { "第十5 Xin'jiang軍團" }
+		16 = { "第十6 Xin'jiang軍團" }
+		17 = { "第十7 Xin'jiang軍團" }
+		18 = { "第十8 Xin'jiang軍團" }
+		19 = { "第十9 Xin'jiang軍團" }
+		20 = { "第2十 Xin'jiang軍團" }
 	}
 }
 
@@ -179,17 +179,17 @@ SIK_MEC_01 =
 		7 = { "第%d Xin'jiang軍團" }
 		8 = { "第%d Xin'jiang軍團" }
 		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第%d Xin'jiang軍團" }
-		11 = { "第%d Xin'jiang軍團" }
-		12 = { "第%d Xin'jiang軍團" }
-		13 = { "第%d Xin'jiang軍團" }
-		14 = { "第%d Xin'jiang軍團" }
-		15 = { "第%d Xin'jiang軍團" }
-		16 = { "第%d Xin'jiang軍團" }
-		17 = { "第%d Xin'jiang軍團" }
-		18 = { "第%d Xin'jiang軍團" }
-		19 = { "第%d Xin'jiang軍團" }
-		20 = { "第%d Xin'jiang軍團" }
+		10 = { "第十 Xin'jiang軍團" }
+		11 = { "第十1 Xin'jiang軍團" }
+		12 = { "第十2 Xin'jiang軍團" }
+		13 = { "第十3 Xin'jiang軍團" }
+		14 = { "第十4 Xin'jiang軍團" }
+		15 = { "第十5 Xin'jiang軍團" }
+		16 = { "第十6 Xin'jiang軍團" }
+		17 = { "第十7 Xin'jiang軍團" }
+		18 = { "第十8 Xin'jiang軍團" }
+		19 = { "第十9 Xin'jiang軍團" }
+		20 = { "第2十 Xin'jiang軍團" }
 	}
 }
 
@@ -225,17 +225,17 @@ SIK_MNT_01 =
 		7 = { "第%d Xin'jiang軍團" }
 		8 = { "第%d Xin'jiang軍團" }
 		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第%d Xin'jiang軍團" }
-		11 = { "第%d Xin'jiang軍團" }
-		12 = { "第%d Xin'jiang軍團" }
-		13 = { "第%d Xin'jiang軍團" }
-		14 = { "第%d Xin'jiang軍團" }
-		15 = { "第%d Xin'jiang軍團" }
-		16 = { "第%d Xin'jiang軍團" }
-		17 = { "第%d Xin'jiang軍團" }
-		18 = { "第%d Xin'jiang軍團" }
-		19 = { "第%d Xin'jiang軍團" }
-		20 = { "第%d Xin'jiang軍團" }
+		10 = { "第十 Xin'jiang軍團" }
+		11 = { "第十1 Xin'jiang軍團" }
+		12 = { "第十2 Xin'jiang軍團" }
+		13 = { "第十3 Xin'jiang軍團" }
+		14 = { "第十4 Xin'jiang軍團" }
+		15 = { "第十5 Xin'jiang軍團" }
+		16 = { "第十6 Xin'jiang軍團" }
+		17 = { "第十7 Xin'jiang軍團" }
+		18 = { "第十8 Xin'jiang軍團" }
+		19 = { "第十9 Xin'jiang軍團" }
+		20 = { "第2十 Xin'jiang軍團" }
 	}
 }
 
@@ -273,9 +273,9 @@ SIK_GAR_01 =
 		114 = { "4 Talamakan警備" }
 		115 = { "5 Talamakan警備" }
 		125 = { "5 Yarkand警備" }
-		131 = { "1 Urumqi Baoan Ke" }		
-		132 = { "2 Urumqi Baoan Ke" }		
-		133 = { "3 Urumqi Baoan Ke" }		
+		131 = { "1 Urumqi保安科" }		
+		132 = { "2 Urumqi保安科" }		
+		133 = { "3 Urumqi保安科" }		
 		1 = { "第%d Xin'jiang警備" }		
 		2 = { "第%d Xin'jiang警備" }		
 		3 = { "第%d Xin'jiang警備" }		
@@ -285,7 +285,7 @@ SIK_GAR_01 =
 		7 = { "第%d Xin'jiang警備" }		
 		8 = { "第%d Xin'jiang警備" }		
 		9 = { "第%d Xin'jiang警備" }		
-		10 = { "第%d Xin'jiang警備" }		
+		10 = { "第十 Xin'jiang警備" }		
 	}
 }
 

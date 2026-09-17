@@ -58,17 +58,17 @@ KUM_INF_01 =
 		7 = { "第%d Kumul軍團" }			
 		8 = { "第%d Kumul軍團" }			
 		9 = { "第%d Kumul軍團" }			
-		10 = { "第%d Kumul軍團" }		
-		11 = { "第%d Kumul軍團" }		
-		12 = { "第%d Kumul軍團" }		
-		13 = { "第%d Kumul軍團" }		
-		14 = { "第%d Kumul軍團" }		
-		15 = { "第%d Kumul軍團" }		
-		16 = { "第%d Kumul軍團" }		
-		17 = { "第%d Kumul軍團" }		
-		18 = { "第%d Kumul軍團" }		
-		19 = { "第%d Kumul軍團" }		
-		20 = { "第%d Kumul軍團" }		
+		10 = { "第十 Kumul軍團" }		
+		11 = { "第十1 Kumul軍團" }		
+		12 = { "第十2 Kumul軍團" }		
+		13 = { "第十3 Kumul軍團" }		
+		14 = { "第十4 Kumul軍團" }		
+		15 = { "第十5 Kumul軍團" }		
+		16 = { "第十6 Kumul軍團" }		
+		17 = { "第十7 Kumul軍團" }		
+		18 = { "第十8 Kumul軍團" }		
+		19 = { "第十9 Kumul軍團" }		
+		20 = { "第2十 Kumul軍團" }		
 	}
 }
 
@@ -100,12 +100,12 @@ KUM_CAV_01 =
 		7 = { "第%d Kumul騎兵軍" }
 		8 = { "第%d Kumul騎兵軍" }
 		9 = { "第%d Kumul騎兵軍" }
-		10 = { "第%d Kumul騎兵軍" }
-		11 = { "第%d Kumul騎兵軍" }
-		12 = { "第%d Kumul騎兵軍" }
-		13 = { "第%d Kumul騎兵軍" }
-		14 = { "第%d Kumul騎兵軍" }
-		15 = { "第%d Kumul騎兵軍" }
+		10 = { "第十 Kumul騎兵軍" }
+		11 = { "第十1 Kumul騎兵軍" }
+		12 = { "第十2 Kumul騎兵軍" }
+		13 = { "第十3 Kumul騎兵軍" }
+		14 = { "第十4 Kumul騎兵軍" }
+		15 = { "第十5 Kumul騎兵軍" }
 	}
 }
 
@@ -137,17 +137,17 @@ KUM_MOT_01 =
 		7 = { "第%d Kumul軍團" }			
 		8 = { "第%d Kumul軍團" }			
 		9 = { "第%d Kumul軍團" }			
-		10 = { "第%d Kumul軍團" }		
-		11 = { "第%d Kumul軍團" }		
-		12 = { "第%d Kumul軍團" }		
-		13 = { "第%d Kumul軍團" }		
-		14 = { "第%d Kumul軍團" }		
-		15 = { "第%d Kumul軍團" }		
-		16 = { "第%d Kumul軍團" }		
-		17 = { "第%d Kumul軍團" }		
-		18 = { "第%d Kumul軍團" }		
-		19 = { "第%d Kumul軍團" }		
-		20 = { "第%d Kumul軍團" }		
+		10 = { "第十 Kumul軍團" }		
+		11 = { "第十1 Kumul軍團" }		
+		12 = { "第十2 Kumul軍團" }		
+		13 = { "第十3 Kumul軍團" }		
+		14 = { "第十4 Kumul軍團" }		
+		15 = { "第十5 Kumul軍團" }		
+		16 = { "第十6 Kumul軍團" }		
+		17 = { "第十7 Kumul軍團" }		
+		18 = { "第十8 Kumul軍團" }		
+		19 = { "第十9 Kumul軍團" }		
+		20 = { "第2十 Kumul軍團" }		
 	}
 }
 
@@ -179,17 +179,17 @@ KUM_MEC_01 =
 		7 = { "第%d Kumul軍團" }			
 		8 = { "第%d Kumul軍團" }			
 		9 = { "第%d Kumul軍團" }			
-		10 = { "第%d Kumul軍團" }		
-		11 = { "第%d Kumul軍團" }		
-		12 = { "第%d Kumul軍團" }		
-		13 = { "第%d Kumul軍團" }		
-		14 = { "第%d Kumul軍團" }		
-		15 = { "第%d Kumul軍團" }		
-		16 = { "第%d Kumul軍團" }		
-		17 = { "第%d Kumul軍團" }		
-		18 = { "第%d Kumul軍團" }		
-		19 = { "第%d Kumul軍團" }		
-		20 = { "第%d Kumul軍團" }		
+		10 = { "第十 Kumul軍團" }		
+		11 = { "第十1 Kumul軍團" }		
+		12 = { "第十2 Kumul軍團" }		
+		13 = { "第十3 Kumul軍團" }		
+		14 = { "第十4 Kumul軍團" }		
+		15 = { "第十5 Kumul軍團" }		
+		16 = { "第十6 Kumul軍團" }		
+		17 = { "第十7 Kumul軍團" }		
+		18 = { "第十8 Kumul軍團" }		
+		19 = { "第十9 Kumul軍團" }		
+		20 = { "第2十 Kumul軍團" }		
 	}
 }
 
@@ -225,17 +225,17 @@ KUM_MNT_01 =
 		7 = { "第%d Kumul軍團" }			
 		8 = { "第%d Kumul軍團" }			
 		9 = { "第%d Kumul軍團" }			
-		10 = { "第%d Kumul軍團" }		
-		11 = { "第%d Kumul軍團" }		
-		12 = { "第%d Kumul軍團" }		
-		13 = { "第%d Kumul軍團" }		
-		14 = { "第%d Kumul軍團" }		
-		15 = { "第%d Kumul軍團" }		
-		16 = { "第%d Kumul軍團" }		
-		17 = { "第%d Kumul軍團" }		
-		18 = { "第%d Kumul軍團" }		
-		19 = { "第%d Kumul軍團" }		
-		20 = { "第%d Kumul軍團" }		
+		10 = { "第十 Kumul軍團" }		
+		11 = { "第十1 Kumul軍團" }		
+		12 = { "第十2 Kumul軍團" }		
+		13 = { "第十3 Kumul軍團" }		
+		14 = { "第十4 Kumul軍團" }		
+		15 = { "第十5 Kumul軍團" }		
+		16 = { "第十6 Kumul軍團" }		
+		17 = { "第十7 Kumul軍團" }		
+		18 = { "第十8 Kumul軍團" }		
+		19 = { "第十9 Kumul軍團" }		
+		20 = { "第2十 Kumul軍團" }		
 	}
 }
 
@@ -268,13 +268,13 @@ KUM_GAR_01 =
 		105 = { "5 Hami警備" }
 		114 = { "4 Altay警備" }
 		115 = { "5 Altay警備" }
-		131 = { "Kumul Baoan Ke" }		
-		132 = { "1 Hami Baoan Ke" }		
-		133 = { "1 Ruoqiang Baoan Ke" }		
-		134 = { "2 Ruoqiang Baoan Ke" }		
-		135 = { "3 Ruoqiang Baoan Ke" }		
-		136 = { "2 Hami Baoan Ke" }		
-		137 = { "3 Hami Baoan Ke" }		
+		131 = { "Kumul保安科" }		
+		132 = { "1 Hami保安科" }		
+		133 = { "1 Ruoqiang保安科" }		
+		134 = { "2 Ruoqiang保安科" }		
+		135 = { "3 Ruoqiang保安科" }		
+		136 = { "2 Hami保安科" }		
+		137 = { "3 Hami保安科" }		
 		1 = { "第%d Kumul警備" }		
 		2 = { "第%d Kumul警備" }		
 		3 = { "第%d Kumul警備" }		
@@ -284,7 +284,7 @@ KUM_GAR_01 =
 		7 = { "第%d Kumul警備" }		
 		8 = { "第%d Kumul警備" }		
 		9 = { "第%d Kumul警備" }		
-		10 = { "第%d Kumul警備" }		
+		10 = { "第十 Kumul警備" }		
 	}
 }
 

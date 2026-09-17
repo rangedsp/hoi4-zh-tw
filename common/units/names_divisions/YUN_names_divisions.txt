@@ -58,17 +58,17 @@ YUN_INF_01 =
 		7 = { "第%d Yunnan軍團" }
 		8 = { "第%d Yunnan軍團" }
 		9 = { "第%d Yunnan軍團" }
-		10 = { "第%d Yunnan軍團" }
-		11 = { "第%d Yunnan軍團" }
-		12 = { "第%d Yunnan軍團" }
-		13 = { "第%d Yunnan軍團" }
-		14 = { "第%d Yunnan軍團" }
-		15 = { "第%d Yunnan軍團" }
-		16 = { "第%d Yunnan軍團" }
-		17 = { "第%d Yunnan軍團" }
-		18 = { "第%d Yunnan軍團" }
-		19 = { "第%d Yunnan軍團" }
-		20 = { "第%d Yunnan軍團" }
+		10 = { "第十 Yunnan軍團" }
+		11 = { "第十1 Yunnan軍團" }
+		12 = { "第十2 Yunnan軍團" }
+		13 = { "第十3 Yunnan軍團" }
+		14 = { "第十4 Yunnan軍團" }
+		15 = { "第十5 Yunnan軍團" }
+		16 = { "第十6 Yunnan軍團" }
+		17 = { "第十7 Yunnan軍團" }
+		18 = { "第十8 Yunnan軍團" }
+		19 = { "第十9 Yunnan軍團" }
+		20 = { "第2十 Yunnan軍團" }
 	}
 }
 
@@ -100,12 +100,12 @@ YUN_CAV_01 =
 		7 = { "第%d Yunnan騎兵軍" }
 		8 = { "第%d Yunnan騎兵軍" }
 		9 = { "第%d Yunnan騎兵軍" }
-		10 = { "第%d Yunnan騎兵軍" }
-		11 = { "第%d Yunnan騎兵軍" }
-		12 = { "第%d Yunnan騎兵軍" }
-		13 = { "第%d Yunnan騎兵軍" }
-		14 = { "第%d Yunnan騎兵軍" }
-		15 = { "第%d Yunnan騎兵軍" }
+		10 = { "第十 Yunnan騎兵軍" }
+		11 = { "第十1 Yunnan騎兵軍" }
+		12 = { "第十2 Yunnan騎兵軍" }
+		13 = { "第十3 Yunnan騎兵軍" }
+		14 = { "第十4 Yunnan騎兵軍" }
+		15 = { "第十5 Yunnan騎兵軍" }
 	}
 }
 
@@ -137,17 +137,17 @@ YUN_MOT_01 =
 		7 = { "第%d Yunnan軍團" }
 		8 = { "第%d Yunnan軍團" }
 		9 = { "第%d Yunnan軍團" }
-		10 = { "第%d Yunnan軍團" }
-		11 = { "第%d Yunnan軍團" }
-		12 = { "第%d Yunnan軍團" }
-		13 = { "第%d Yunnan軍團" }
-		14 = { "第%d Yunnan軍團" }
-		15 = { "第%d Yunnan軍團" }
-		16 = { "第%d Yunnan軍團" }
-		17 = { "第%d Yunnan軍團" }
-		18 = { "第%d Yunnan軍團" }
-		19 = { "第%d Yunnan軍團" }
-		20 = { "第%d Yunnan軍團" }
+		10 = { "第十 Yunnan軍團" }
+		11 = { "第十1 Yunnan軍團" }
+		12 = { "第十2 Yunnan軍團" }
+		13 = { "第十3 Yunnan軍團" }
+		14 = { "第十4 Yunnan軍團" }
+		15 = { "第十5 Yunnan軍團" }
+		16 = { "第十6 Yunnan軍團" }
+		17 = { "第十7 Yunnan軍團" }
+		18 = { "第十8 Yunnan軍團" }
+		19 = { "第十9 Yunnan軍團" }
+		20 = { "第2十 Yunnan軍團" }
 	}
 }
 
@@ -179,17 +179,17 @@ YUN_MEC_01 =
 		7 = { "第%d Yunnan軍團" }
 		8 = { "第%d Yunnan軍團" }
 		9 = { "第%d Yunnan軍團" }
-		10 = { "第%d Yunnan軍團" }
-		11 = { "第%d Yunnan軍團" }
-		12 = { "第%d Yunnan軍團" }
-		13 = { "第%d Yunnan軍團" }
-		14 = { "第%d Yunnan軍團" }
-		15 = { "第%d Yunnan軍團" }
-		16 = { "第%d Yunnan軍團" }
-		17 = { "第%d Yunnan軍團" }
-		18 = { "第%d Yunnan軍團" }
-		19 = { "第%d Yunnan軍團" }
-		20 = { "第%d Yunnan軍團" }
+		10 = { "第十 Yunnan軍團" }
+		11 = { "第十1 Yunnan軍團" }
+		12 = { "第十2 Yunnan軍團" }
+		13 = { "第十3 Yunnan軍團" }
+		14 = { "第十4 Yunnan軍團" }
+		15 = { "第十5 Yunnan軍團" }
+		16 = { "第十6 Yunnan軍團" }
+		17 = { "第十7 Yunnan軍團" }
+		18 = { "第十8 Yunnan軍團" }
+		19 = { "第十9 Yunnan軍團" }
+		20 = { "第2十 Yunnan軍團" }
 	}
 }
 
@@ -225,17 +225,17 @@ YUN_MNT_01 =
 		7 = { "第%d Yunnan軍團" }
 		8 = { "第%d Yunnan軍團" }
 		9 = { "第%d Yunnan軍團" }
-		10 = { "第%d Yunnan軍團" }
-		11 = { "第%d Yunnan軍團" }
-		12 = { "第%d Yunnan軍團" }
-		13 = { "第%d Yunnan軍團" }
-		14 = { "第%d Yunnan軍團" }
-		15 = { "第%d Yunnan軍團" }
-		16 = { "第%d Yunnan軍團" }
-		17 = { "第%d Yunnan軍團" }
-		18 = { "第%d Yunnan軍團" }
-		19 = { "第%d Yunnan軍團" }
-		20 = { "第%d Yunnan軍團" }
+		10 = { "第十 Yunnan軍團" }
+		11 = { "第十1 Yunnan軍團" }
+		12 = { "第十2 Yunnan軍團" }
+		13 = { "第十3 Yunnan軍團" }
+		14 = { "第十4 Yunnan軍團" }
+		15 = { "第十5 Yunnan軍團" }
+		16 = { "第十6 Yunnan軍團" }
+		17 = { "第十7 Yunnan軍團" }
+		18 = { "第十8 Yunnan軍團" }
+		19 = { "第十9 Yunnan軍團" }
+		20 = { "第2十 Yunnan軍團" }
 	}
 }
 
@@ -258,9 +258,9 @@ YUN_GAR_01 =
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		132 = { "1 Yunnan Baoan Ke" }		# All fictional names for local militias
-		133 = { "1 Kunming Baoan Ke" }		
-		131 = { "Dali Baoan Ke" }		
+		132 = { "1 Yunnan保安科" }		# All fictional names for local militias
+		133 = { "1 Kunming保安科" }		
+		131 = { "Dali保安科" }		
 		101 = { "1 Yunnan警備" }		
 		111 = { "1 Kunming警備" }		
 		102 = { "2 Yunnan警備" }
@@ -271,10 +271,10 @@ YUN_GAR_01 =
 		105 = { "5 Yunnan警備" }
 		114 = { "4 Kunming警備" }
 		115 = { "5 Kunming警備" }
-		134 = { "2 Kunming Baoan Ke" }		
-		135 = { "3 Kunming Baoan Ke" }		
-		136 = { "2 Yunnan Baoan Ke" }		
-		137 = { "3 Yunnan Baoan Ke" }		
+		134 = { "2 Kunming保安科" }		
+		135 = { "3 Kunming保安科" }		
+		136 = { "2 Yunnan保安科" }		
+		137 = { "3 Yunnan保安科" }		
 		1 = { "第%d Yunnan警備" }		
 		2 = { "第%d Yunnan警備" }		
 		3 = { "第%d Yunnan警備" }		
@@ -284,7 +284,7 @@ YUN_GAR_01 =
 		7 = { "第%d Yunnan警備" }		
 		8 = { "第%d Yunnan警備" }		
 		9 = { "第%d Yunnan警備" }		
-		10 = { "第%d Yunnan警備" }		
+		10 = { "第十 Yunnan警備" }		
 	}
 }
 
