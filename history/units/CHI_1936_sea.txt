@@ -13,7 +13,7 @@
 	priority = 0 # garrison
 }
 division_template = {
-	name = "Sanjiao Jun"			
+	name = "三角軍"			
 	division_names_group = CHI_INF_01
 
 	regiments = {
@@ -44,7 +44,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Qibing Jun"		
+	name = "騎兵軍"		
 	division_names_group = CHI_CAV_01
 
 	regiments = {
@@ -191,7 +191,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1004
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -200,7 +200,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7568
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -209,7 +209,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4079
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -218,7 +218,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7142
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -227,7 +227,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1083
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -236,7 +236,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7625
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -245,7 +245,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1066
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -254,7 +254,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 11961
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -263,7 +263,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4083
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -272,7 +272,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7222
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -281,7 +281,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 12350
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -290,7 +290,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7199
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -299,7 +299,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7071
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -308,7 +308,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4196
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -317,7 +317,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1055
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -326,7 +326,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 9974
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -335,7 +335,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7191
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -344,7 +344,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 10076
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -353,7 +353,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4091
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -362,7 +362,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4001
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -371,7 +371,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1029
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -380,7 +380,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1055
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -389,7 +389,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 9974
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -398,7 +398,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7191
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -409,7 +409,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 10076
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -418,7 +418,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4091
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -427,7 +427,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4001
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -436,7 +436,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1029
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -445,7 +445,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1004
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -454,7 +454,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7568
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -463,7 +463,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4079
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -472,7 +472,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7142
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -481,7 +481,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1083
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -490,7 +490,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7625
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -499,7 +499,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1066
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -508,7 +508,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 11961
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -517,7 +517,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4083
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -526,7 +526,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7222
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -535,7 +535,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 12350
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -544,7 +544,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7199
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -553,7 +553,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7071
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -562,7 +562,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4196
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -571,7 +571,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 1055
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -580,7 +580,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 9974
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -589,7 +589,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 7191
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -598,7 +598,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 10076
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -607,7 +607,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4091
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -616,7 +616,7 @@ units = {
 			is_name_ordered = yes
 		}
 		location = 4001
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -777,68 +777,68 @@ units = {
 	}
 
 	 # 6 Cavalry brigades 
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 10000
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.3
 
 	}
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 10000
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.3
 
 	}
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 10000
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.3
 
 	}
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 10000
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.3
 
 	}
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 10000
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.3
 
 	}
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 10000
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.3
 

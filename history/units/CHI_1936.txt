@@ -12,7 +12,7 @@
 	priority = 0 # garrison
 }
 division_template = {
-	name = "Sanjiao Jun"			# Represents three-division infantry corps (generally poorly-equipped militias)
+	name = "三角軍"			# Represents three-division infantry corps (generally poorly-equipped militias)
 	division_names_group = CHI_INF_01
 
 	regiments = {
@@ -25,7 +25,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Qibing Jun"		# Represents two-division cavalry corps (generally poorly-equipped)
+	name = "騎兵軍"		# Represents two-division cavalry corps (generally poorly-equipped)
 	division_names_group = CHI_CAV_01
 
 	regiments = {
@@ -42,38 +42,38 @@ units = {
 	##### Beiping-Tianjin Area (CO: ) #####
 	### 29 Juntuan (highly-reinforced corps) ###
 	division = {
-		name = "37 Bubing Shi"
+		name = "37 步兵師"
 		location = 9843
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 	}
 	division = {
-		name = "38 Bubing Shi"
+		name = "38 步兵師"
 		location = 10068
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 	}
 	division = {
-		name = "132 Bubing Shi"
+		name = "132 步兵師"
 		location = 11761
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 	}
 	division = {
-		name = "143 Bubing Shi"
+		name = "143 步兵師"
 		location = 4140
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.2
 	}
 
 	##### First War Area (CO: Cheng Qian) #####
-	division = { # "4 Qibing Jun"
+	division = { # "4 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 4
 		}
 		location = 4925
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.8
 
@@ -90,42 +90,42 @@ units = {
 		start_equipment_factor = 0.8
 
 	}
-	division = { # "2 Bubing Shi"
+	division = { # "2 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 402
 		}
 		location = 7256
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
-	division = { # "25 Bubing Shi"
+	division = { # "25 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 425
 		}
 		location = 7256
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
 	## 1st Army ##
-	division = { # "27 Bubing Shi"
+	division = { # "27 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 427
 		}
 		location = 2091
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
 	division = {
-		name = "1 Lujun Shi"
+		name = "1 陸兵師"
 		location = 8072
 		division_template = "軍團"
 		start_equipment_factor = 0.7
@@ -133,9 +133,9 @@ units = {
 	}
 	## 14th Army ##
 	division = {
-		name = "14 Lujun Shi"
+		name = "14 陸兵師"
 		location = 10144
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_equipment_factor = 0.7
 		start_experience_factor = 0.1
 	}
@@ -147,50 +147,50 @@ units = {
 			name_order = 9
 		}
 		location = 1069
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.7
 	}
-	division = { # "1 Qibing Jun"
+	division = { # "1 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 1
 		}
 		location = 1069
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.7
 	}
-	division = { # "2 Qibing Jun"
+	division = { # "2 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 2
 		}
 		location = 1069
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.7
 
 	}
 	### 7th Army Group (CO: Fu Zuoyi) ###
-	division = { # "4 Bubing Shi"
+	division = { # "4 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 404
 		}
 		location = 9958
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
-	division = { # "89 Bubing Shi"
+	division = { # "89 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 489
 		}
 		location = 9958
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
@@ -206,36 +206,36 @@ units = {
 		start_equipment_factor = 0.7
 
 	}
-	division = { # "6 Qibing Jun"
+	division = { # "6 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 6
 		}
 		location = 4114
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.7
 
 	}
 	### 14th Army Group (CO: Wei Lihuang) ###
-	division = { # "10 Bubing Shi"
+	division = { # "10 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 410
 		}
 		location = 10043
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
-	division = { # "83 Bubing Shi"
+	division = { # "83 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 483
 		}
 		location = 10043
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
@@ -248,7 +248,7 @@ units = {
 			name_order = 1
 		}
 		location = 7027
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.8
 
@@ -290,13 +290,13 @@ units = {
 		start_experience_factor = 0.1
 	}
 	## 8th Army (CO: Zhang Fakui) ##
-	division = { # "3 Bubing Shi"
+	division = { # "3 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 403
 		}
 		location = 10076
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
@@ -307,79 +307,79 @@ units = {
 			name_order = 499
 		}
 		location = 10076
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
 	division = {
-		name = "8 Lujun Shi"
+		name = "8 陸兵師"
 		location = 4925
 		division_template = "軍團"
 		start_equipment_factor = 0.8
 		start_experience_factor = 0.1
 	}
 	## 9th Army (CO: Zhang Zhizhong) ##
-	division = { # "36 Bubing Shi"
+	division = { # "36 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 436
 		}
 		location = 7191
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
-	division = { # "87 Bubing Shi"
+	division = { # "87 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 487
 		}
 		location = 7191
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
-	division = { # "88 Bubing Shi"
+	division = { # "88 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 488
 		}
 		location = 7191
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
 	## 10th Army (CO: Liu Jiangxu) ##
 	division = {
-		name = "10 Lujun Shi"
+		name = "10 陸兵師"
 		location = 10076
 		division_template = "軍團"
 		start_equipment_factor = 0.7
 		start_experience_factor = 0.1
 	}
 	### 15th Army Group (CO: Chen Cheng) ###
-	division = { # "11 Bubing Shi"
+	division = { # "11 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 411
 		}
 		location = 12076
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
-	division = { # "14 Bubing Shi"
+	division = { # "14 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 414
 		}
 		location = 12076
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
@@ -440,24 +440,24 @@ units = {
 
 	}
 	### 19th Army Group (CO: Xu Yue) ###
-	division = { # "6 Bubing Shi"
+	division = { # "6 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 406
 		}
 		location = 7058
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
 	}
-	division = { # "9 Bubing Shi"
+	division = { # "9 步兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 409
 		}
 		location = 7058
-		division_template = "Sanjiao Jun"		# German-trained division (frontline infantry, better equipment and experience)
+		division_template = "三角軍"		# German-trained division (frontline infantry, better equipment and experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
@@ -484,14 +484,14 @@ units = {
 	}
 	### River Defense Force (CO: ) ###
 	division = {
-		name = "11 Lujun Shi"
+		name = "11 陸兵師"
 		location = 1036
 		division_template = "軍團"
 		start_equipment_factor = 0.8
 		start_experience_factor = 0.1
 	}
 	division = {
-		name = "12 Lujun Shi"
+		name = "12 陸兵師"
 		location = 7637
 		division_template = "軍團"
 		start_equipment_factor = 0.7
@@ -510,7 +510,7 @@ units = {
 	}
 	### Capital Garrison Force (CO: ) ###
 	division = {
-		name = "2 Lujun Shi"
+		name = "2 陸兵師"
 		location = 11913
 		division_template = "軍團"
 		start_equipment_factor = 0.8
@@ -522,7 +522,7 @@ units = {
 			name_order = 498
 		}
 		location = 11913
-		division_template = "Sanjiao Jun"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
+		division_template = "三角軍"		# Reorganized German-trained division (frontline infantry, better equipment and highest experience)
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
 
@@ -557,13 +557,13 @@ units = {
 	}
 
 	##### Fifth War Area (CO: Li Zongren) #####
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 10000
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.6
 

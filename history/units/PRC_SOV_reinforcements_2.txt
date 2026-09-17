@@ -1,5 +1,5 @@
 ﻿division_template = {
-	name = "二進制軍團"			# Binary Infantry Corps
+	name = "二進制軍團"			# 二進制軍團 Corps
 
 	regiments = {
 		infantry = { x = 0 y = 0 }

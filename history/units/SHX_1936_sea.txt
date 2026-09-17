@@ -10,7 +10,7 @@
 	}
 }
 division_template = {
-	name = "Qibing Jun" 	
+	name = "騎兵軍" 	
 	division_names_group = SHX_CAV_01
 
 	regiments = {
@@ -23,7 +23,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Sanjiao Jun" 
+	name = "三角軍" 
 	division_names_group = SHX_INF_01
 	template_counter = 119
 	regiments = {
@@ -49,14 +49,14 @@ units = {
 	division = {
 		name = "70th Division" 
 		location = 4174 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 
 	}
 	division = {
 		name = "72nd Division" 
 		location = 4174 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_chen_chanjie
@@ -66,7 +66,7 @@ units = {
 	division = {
 		name = "68th Division" 
 		location = 4174 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_li_fuying
@@ -76,7 +76,7 @@ units = {
 	division = {
 		name = "69th Division" 
 		location = 4174 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_yang_chengyuan
@@ -86,7 +86,7 @@ units = {
 	division = {
 		name = "66th Division" 
 		location = 3427 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_yang_xiaoou
@@ -96,7 +96,7 @@ units = {
 	division = {
 		name = "71st Division" 
 		location = 3427 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_yang_yaofang
@@ -106,14 +106,14 @@ units = {
 	division = {
 		name = "68th Division" 
 		location = 7631 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 
 	}
 	division = {
 		name = "101st Division" 
 		location = 7631 
-		division_template = "Sanjiao Jun"		
+		division_template = "三角軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_sun_chu
@@ -155,7 +155,7 @@ units = {
 	division = {
 		name = "1st Cavalry Division," 
 		location = 1180 
-		division_template = "Qibing Jun"		
+		division_template = "騎兵軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_peng_yubin
@@ -165,7 +165,7 @@ units = {
 	division = {
 		name = "2nd Cavalry Division" 
 		location = 1519 
-		division_template = "Qibing Jun"		
+		division_template = "騎兵軍"		
 		start_equipment_factor = 0.2
 		officer = {
 			name = SHX_zhang_changsheng

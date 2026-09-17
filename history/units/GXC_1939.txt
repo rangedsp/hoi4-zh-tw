@@ -1,6 +1,6 @@
 ﻿start_equipment_factor = 0.2
 division_template = {
-	name = "Binary Infantry"		# Represents: two-division infantry corps (generally poorly-equipped militias),
+	name = "二進制軍團"		# Represents: two-division infantry corps (generally poorly-equipped militias),
 	division_names_group = GXC_INF_01								#	and local militia groups.
 	regiments = {
 		infantry = { x = 0 y = 0 }	# Note: Chinese divisions were brigade-sized compared other nations' armies
@@ -27,7 +27,7 @@ units = {
 	division = {
 		name = "Guilin Jingbei"
 		location = 10404
-		division_template = "Binary Infantry"		# Provincial militia unit (poor equipment and training)
+		division_template = "二進制軍團"		# Provincial militia unit (poor equipment and training)
 	}
 
 }

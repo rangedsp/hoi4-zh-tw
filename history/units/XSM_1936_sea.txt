@@ -29,7 +29,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Qibing Jun" 	
+	name = "騎兵軍" 	
 	division_names_group = XSM_CAV_01
 
 	regiments = {
@@ -88,7 +88,7 @@ units = {
 	division = { 
 		name = "100th Cavalry Brigade"
 		location = 8018 
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.6
 		officer = {
@@ -99,7 +99,7 @@ units = {
 	division = { 
 		name = "101st Cavalry Brigade"
 		location = 12732 
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.6
 

@@ -28,7 +28,7 @@ division_template = {
 units = {
 	##### Eighth Route Army (CO: Mao Zedong, Zhu De) #####
 	division = {
-		name = "115 Bubing Shi"
+		name = "115 步兵師"
 		location = 5007
 		division_template = "軍團"
 		start_experience_factor = 0.3
@@ -36,7 +36,7 @@ units = {
 
 	}
 	division = {
-		name = "120 Bubing Shi"
+		name = "120 步兵師"
 		location = 7208
 		division_template = "軍團"
 		start_experience_factor = 0.3
@@ -44,7 +44,7 @@ units = {
 
 	}
 	division = {
-		name = "129 Bubing Shi"
+		name = "129 步兵師"
 		location = 517
 		division_template = "軍團"
 		start_experience_factor = 0.3

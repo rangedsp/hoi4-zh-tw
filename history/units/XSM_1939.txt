@@ -1,6 +1,6 @@
 ﻿start_equipment_factor = 0.2
 division_template = {
-	name = "Binary Infantry"		# Represents: German-trained divisions (better equipment than rest),
+	name = "二進制軍團"		# Represents: German-trained divisions (better equipment than rest),
 	division_names_group = XSM_INF_01								# 	as well as two-division infantry corps (generally poorly-equipped militias),
 	regiments = {					#	and local militia groups.
 		infantry = { x = 0 y = 0 }	# Note: Chinese divisions were brigade-sized compared other nations' armies
@@ -23,7 +23,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Triangular Cavalry"		# Represents three-division cavalry corps (generally poorly-equipped)
+	name = "楔形騎兵"		# Represents three-division cavalry corps (generally poorly-equipped)
 	division_names_group = XSM_CAV_01
 	regiments = {
 		cavalry = { x = 0 y = 0 }
@@ -41,43 +41,43 @@ units = {
 	division = {
 		name = "80 軍團"
 		location = 8081
-		division_template = "Binary Infantry"
+		division_template = "二進制軍團"
 	}
 	division = {
 		name = "82 軍團"
 		location = 3745
-		division_template = "Binary Infantry"
+		division_template = "二進制軍團"
 	}
 	division = {
 		name = "新 2 軍團"
 		location = 1647
-		division_template = "Binary Infantry"
+		division_template = "二進制軍團"
 	}
 	division = {
-		name = "5 Qábing Jun"
+		name = "5 跨兵軍"
 		location = 8081
-		division_template = "Triangular Cavalry"
+		division_template = "楔形騎兵"
 	}
 	division = {
-		name = "Golmud Jingbei"
+		name = "格爾木京北"
 		location = 12846
-		division_template = "Binary Infantry"		# Provincial militia unit (poor equipment and training)
+		division_template = "二進制軍團"		# Provincial militia unit (poor equipment and training)
 	}
 	### 17th Army Group (CO: Hu Zongnan) ###
 	division = {
 		name = "81 軍團"
 		location = 10724
-		division_template = "Binary Infantry"
+		division_template = "二進制軍團"
 	}
 	division = {
-		name = "2 Qábing Jun"
+		name = "2 跨兵軍"
 		location = 8055
-		division_template = "Triangular Cavalry"
+		division_template = "楔形騎兵"
 	}
 	division = {
-		name = "6 Qábing Jun"
+		name = "6 跨兵軍"
 		location = 7803
-		division_template = "Triangular Cavalry"
+		division_template = "楔形騎兵"
 	}
 }
 instant_effect = {

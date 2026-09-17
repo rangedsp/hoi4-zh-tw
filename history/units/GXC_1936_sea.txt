@@ -1,5 +1,5 @@
 ﻿division_template = {
-	name = "Sanjiao Jun"
+	name = "三角軍"
 	division_names_group = GXC_INF_01
 
 	regiments = {
@@ -23,7 +23,7 @@ units = {
 		}
 		location = 7137 
 		start_experience_factor = 0.3
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_equipment_factor = 0.2
 
 	}
@@ -33,7 +33,7 @@ units = {
 			name_order = 171
 		}
 		location = 7137 
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.2
 
@@ -44,7 +44,7 @@ units = {
 			name_order = 172
 		}
 		location = 7137 
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.2
 
@@ -55,7 +55,7 @@ units = {
 			name_order = 173
 		}
 		location = 10404 
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.2
 
@@ -66,7 +66,7 @@ units = {
 			name_order = 174
 		}
 		location = 10404 
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.2
 
@@ -77,7 +77,7 @@ units = {
 			name_order = 175
 		}
 		location = 10404 
-		division_template = "Sanjiao Jun"
+		division_template = "三角軍"
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.2
 

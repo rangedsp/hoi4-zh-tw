@@ -1,5 +1,5 @@
 ﻿division_template = {
-	name = "Bubing Shi"				# Regular Infantry Division (brigade sized)
+	name = "步兵師"				# Regular Infantry Division (brigade sized)
 	division_names_group = MAN_INF_01
 									# Militia-level training and equipment
 	regiments = {
@@ -86,7 +86,7 @@ units = {
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "1 Qibing Jun"
+	division = { # "1 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 1
@@ -96,7 +96,7 @@ units = {
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "2 Qibing Jun"
+	division = { # "2 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 2
@@ -106,7 +106,7 @@ units = {
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "3 Qibing Jun"
+	division = { # "3 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
@@ -116,7 +116,7 @@ units = {
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "4 Qibing Jun"
+	division = { # "4 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 4

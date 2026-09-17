@@ -29,7 +29,7 @@ division_template = {
 
 }
 division_template = {
-	name = "Qibing Jun" 		
+	name = "騎兵軍" 		
 	division_names_group = XSM_CAV_01
 
 	regiments = {
@@ -69,14 +69,14 @@ units = {
 	division = {
 		name = "4th Cavalry Division" 
 		location = 1630 
-		division_template = "Qibing Jun"		
+		division_template = "騎兵軍"		
 		start_equipment_factor = 0.2
 
 	}
 	division = {
 		name = "5th Cavalry Division" 
 		location = 5100 
-		division_template = "Qibing Jun"		
+		division_template = "騎兵軍"		
 		start_equipment_factor = 0.2
 
 	}

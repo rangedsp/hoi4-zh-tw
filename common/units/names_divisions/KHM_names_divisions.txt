@@ -43,7 +43,7 @@ KHM_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "第%d 馬軍團"
+	fallback_name = "第%d馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
@@ -99,7 +99,7 @@ KHM_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Ma騎兵軍"
+	fallback_name = "第%d馬騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
@@ -136,7 +136,7 @@ KHM_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "第%d 馬軍團"
+	fallback_name = "第%d馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
@@ -192,7 +192,7 @@ KHM_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "第%d 馬軍團"
+	fallback_name = "第%d馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
@@ -252,7 +252,7 @@ KHM_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "第%d 馬軍團"
+	fallback_name = "第%d馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
@@ -308,7 +308,7 @@ KHM_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Ma警備"
+	fallback_name = "第%d馬警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.

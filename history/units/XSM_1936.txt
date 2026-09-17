@@ -11,7 +11,7 @@
 
 }
 division_template = {
-	name = "Qibing Jun"				# Represents two-division cavalry corps (generally poorly-equipped)
+	name = "騎兵軍"				# Represents two-division cavalry corps (generally poorly-equipped)
 	division_names_group = XSM_CAV_01
 
 	regiments = {
@@ -60,41 +60,41 @@ units = {
 		start_equipment_factor = 0.6
 
 	}
-	division = { # "1 Ma Qibing Jun"
+	division = { # "1 Ma 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 1
 		}
 		location = 7911
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.6
 
 	}
-	division = { # "2 Ma Qibing Jun"
+	division = { # "2 Ma 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 2
 		}
 		location = 531
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.6
 
 	}
-	division = { # "3 Ma Qibing Jun"
+	division = { # "3 Ma 騎兵軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 12846
-		division_template = "Qibing Jun"
+		division_template = "騎兵軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.6
 
 	}
 	division = {
-		name = "Golmud Jingbei"
+		name = "格爾木京北"
 		location = 12846
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.3
