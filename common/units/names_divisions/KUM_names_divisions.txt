@@ -43,32 +43,32 @@ KUM_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { KUM_INF_01 }
 
-	fallback_name = "%d Kumul Juntuán"
+	fallback_name = "第%d Kumul軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Kumul Juntuán" }			# fictional warlord corps
-		2 = { "%d Kumul Juntuán" }			
-		3 = { "%d Kumul Juntuán" }			
-		4 = { "%d Kumul Juntuán" }			
-		5 = { "%d Kumul Juntuán" }			
-		6 = { "%d Kumul Juntuán" }			
-		7 = { "%d Kumul Juntuán" }			
-		8 = { "%d Kumul Juntuán" }			
-		9 = { "%d Kumul Juntuán" }			
-		10 = { "%d Kumul Juntuán" }		
-		11 = { "%d Kumul Juntuán" }		
-		12 = { "%d Kumul Juntuán" }		
-		13 = { "%d Kumul Juntuán" }		
-		14 = { "%d Kumul Juntuán" }		
-		15 = { "%d Kumul Juntuán" }		
-		16 = { "%d Kumul Juntuán" }		
-		17 = { "%d Kumul Juntuán" }		
-		18 = { "%d Kumul Juntuán" }		
-		19 = { "%d Kumul Juntuán" }		
-		20 = { "%d Kumul Juntuán" }		
+		1 = { "第%d Kumul軍團" }			# fictional warlord corps
+		2 = { "第%d Kumul軍團" }			
+		3 = { "第%d Kumul軍團" }			
+		4 = { "第%d Kumul軍團" }			
+		5 = { "第%d Kumul軍團" }			
+		6 = { "第%d Kumul軍團" }			
+		7 = { "第%d Kumul軍團" }			
+		8 = { "第%d Kumul軍團" }			
+		9 = { "第%d Kumul軍團" }			
+		10 = { "第%d Kumul軍團" }		
+		11 = { "第%d Kumul軍團" }		
+		12 = { "第%d Kumul軍團" }		
+		13 = { "第%d Kumul軍團" }		
+		14 = { "第%d Kumul軍團" }		
+		15 = { "第%d Kumul軍團" }		
+		16 = { "第%d Kumul軍團" }		
+		17 = { "第%d Kumul軍團" }		
+		18 = { "第%d Kumul軍團" }		
+		19 = { "第%d Kumul軍團" }		
+		20 = { "第%d Kumul軍團" }		
 	}
 }
 
@@ -85,27 +85,27 @@ KUM_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Kumul Qibing Jun"
+	fallback_name = "第%d Kumul騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Kumul Qibing Jun" }			# All fictional warlord cavalry corps
-		2 = { "%d Kumul Qibing Jun" }
-		3 = { "%d Kumul Qibing Jun" }
-		4 = { "%d Kumul Qibing Jun" }
-		6 = { "%d Kumul Qibing Jun" }
-		5 = { "%d Kumul Qibing Jun" }
-		7 = { "%d Kumul Qibing Jun" }
-		8 = { "%d Kumul Qibing Jun" }
-		9 = { "%d Kumul Qibing Jun" }
-		10 = { "%d Kumul Qibing Jun" }
-		11 = { "%d Kumul Qibing Jun" }
-		12 = { "%d Kumul Qibing Jun" }
-		13 = { "%d Kumul Qibing Jun" }
-		14 = { "%d Kumul Qibing Jun" }
-		15 = { "%d Kumul Qibing Jun" }
+		1 = { "第%d Kumul騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第%d Kumul騎兵軍" }
+		3 = { "第%d Kumul騎兵軍" }
+		4 = { "第%d Kumul騎兵軍" }
+		6 = { "第%d Kumul騎兵軍" }
+		5 = { "第%d Kumul騎兵軍" }
+		7 = { "第%d Kumul騎兵軍" }
+		8 = { "第%d Kumul騎兵軍" }
+		9 = { "第%d Kumul騎兵軍" }
+		10 = { "第%d Kumul騎兵軍" }
+		11 = { "第%d Kumul騎兵軍" }
+		12 = { "第%d Kumul騎兵軍" }
+		13 = { "第%d Kumul騎兵軍" }
+		14 = { "第%d Kumul騎兵軍" }
+		15 = { "第%d Kumul騎兵軍" }
 	}
 }
 
@@ -122,32 +122,32 @@ KUM_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KUM_INF_01 }
 
-	fallback_name = "%d Kumul Juntuán"
+	fallback_name = "第%d Kumul軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Kumul Juntuán" }			# fictional warlord corps
-		2 = { "%d Kumul Juntuán" }			
-		3 = { "%d Kumul Juntuán" }			
-		4 = { "%d Kumul Juntuán" }			
-		5 = { "%d Kumul Juntuán" }			
-		6 = { "%d Kumul Juntuán" }			
-		7 = { "%d Kumul Juntuán" }			
-		8 = { "%d Kumul Juntuán" }			
-		9 = { "%d Kumul Juntuán" }			
-		10 = { "%d Kumul Juntuán" }		
-		11 = { "%d Kumul Juntuán" }		
-		12 = { "%d Kumul Juntuán" }		
-		13 = { "%d Kumul Juntuán" }		
-		14 = { "%d Kumul Juntuán" }		
-		15 = { "%d Kumul Juntuán" }		
-		16 = { "%d Kumul Juntuán" }		
-		17 = { "%d Kumul Juntuán" }		
-		18 = { "%d Kumul Juntuán" }		
-		19 = { "%d Kumul Juntuán" }		
-		20 = { "%d Kumul Juntuán" }		
+		1 = { "第%d Kumul軍團" }			# fictional warlord corps
+		2 = { "第%d Kumul軍團" }			
+		3 = { "第%d Kumul軍團" }			
+		4 = { "第%d Kumul軍團" }			
+		5 = { "第%d Kumul軍團" }			
+		6 = { "第%d Kumul軍團" }			
+		7 = { "第%d Kumul軍團" }			
+		8 = { "第%d Kumul軍團" }			
+		9 = { "第%d Kumul軍團" }			
+		10 = { "第%d Kumul軍團" }		
+		11 = { "第%d Kumul軍團" }		
+		12 = { "第%d Kumul軍團" }		
+		13 = { "第%d Kumul軍團" }		
+		14 = { "第%d Kumul軍團" }		
+		15 = { "第%d Kumul軍團" }		
+		16 = { "第%d Kumul軍團" }		
+		17 = { "第%d Kumul軍團" }		
+		18 = { "第%d Kumul軍團" }		
+		19 = { "第%d Kumul軍團" }		
+		20 = { "第%d Kumul軍團" }		
 	}
 }
 
@@ -164,32 +164,32 @@ KUM_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KUM_INF_01 }
 
-	fallback_name = "%d Kumul Juntuán"
+	fallback_name = "第%d Kumul軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Kumul Juntuán" }			# fictional warlord corps
-		2 = { "%d Kumul Juntuán" }			
-		3 = { "%d Kumul Juntuán" }			
-		4 = { "%d Kumul Juntuán" }			
-		5 = { "%d Kumul Juntuán" }			
-		6 = { "%d Kumul Juntuán" }			
-		7 = { "%d Kumul Juntuán" }			
-		8 = { "%d Kumul Juntuán" }			
-		9 = { "%d Kumul Juntuán" }			
-		10 = { "%d Kumul Juntuán" }		
-		11 = { "%d Kumul Juntuán" }		
-		12 = { "%d Kumul Juntuán" }		
-		13 = { "%d Kumul Juntuán" }		
-		14 = { "%d Kumul Juntuán" }		
-		15 = { "%d Kumul Juntuán" }		
-		16 = { "%d Kumul Juntuán" }		
-		17 = { "%d Kumul Juntuán" }		
-		18 = { "%d Kumul Juntuán" }		
-		19 = { "%d Kumul Juntuán" }		
-		20 = { "%d Kumul Juntuán" }		
+		1 = { "第%d Kumul軍團" }			# fictional warlord corps
+		2 = { "第%d Kumul軍團" }			
+		3 = { "第%d Kumul軍團" }			
+		4 = { "第%d Kumul軍團" }			
+		5 = { "第%d Kumul軍團" }			
+		6 = { "第%d Kumul軍團" }			
+		7 = { "第%d Kumul軍團" }			
+		8 = { "第%d Kumul軍團" }			
+		9 = { "第%d Kumul軍團" }			
+		10 = { "第%d Kumul軍團" }		
+		11 = { "第%d Kumul軍團" }		
+		12 = { "第%d Kumul軍團" }		
+		13 = { "第%d Kumul軍團" }		
+		14 = { "第%d Kumul軍團" }		
+		15 = { "第%d Kumul軍團" }		
+		16 = { "第%d Kumul軍團" }		
+		17 = { "第%d Kumul軍團" }		
+		18 = { "第%d Kumul軍團" }		
+		19 = { "第%d Kumul軍團" }		
+		20 = { "第%d Kumul軍團" }		
 	}
 }
 
@@ -210,32 +210,32 @@ KUM_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KUM_INF_01 }
 
-	fallback_name = "%d Kumul Juntuán"
+	fallback_name = "第%d Kumul軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Kumul Juntuán" }			# fictional warlord corps
-		2 = { "%d Kumul Juntuán" }			
-		3 = { "%d Kumul Juntuán" }			
-		4 = { "%d Kumul Juntuán" }			
-		5 = { "%d Kumul Juntuán" }			
-		6 = { "%d Kumul Juntuán" }			
-		7 = { "%d Kumul Juntuán" }			
-		8 = { "%d Kumul Juntuán" }			
-		9 = { "%d Kumul Juntuán" }			
-		10 = { "%d Kumul Juntuán" }		
-		11 = { "%d Kumul Juntuán" }		
-		12 = { "%d Kumul Juntuán" }		
-		13 = { "%d Kumul Juntuán" }		
-		14 = { "%d Kumul Juntuán" }		
-		15 = { "%d Kumul Juntuán" }		
-		16 = { "%d Kumul Juntuán" }		
-		17 = { "%d Kumul Juntuán" }		
-		18 = { "%d Kumul Juntuán" }		
-		19 = { "%d Kumul Juntuán" }		
-		20 = { "%d Kumul Juntuán" }		
+		1 = { "第%d Kumul軍團" }			# fictional warlord corps
+		2 = { "第%d Kumul軍團" }			
+		3 = { "第%d Kumul軍團" }			
+		4 = { "第%d Kumul軍團" }			
+		5 = { "第%d Kumul軍團" }			
+		6 = { "第%d Kumul軍團" }			
+		7 = { "第%d Kumul軍團" }			
+		8 = { "第%d Kumul軍團" }			
+		9 = { "第%d Kumul軍團" }			
+		10 = { "第%d Kumul軍團" }		
+		11 = { "第%d Kumul軍團" }		
+		12 = { "第%d Kumul軍團" }		
+		13 = { "第%d Kumul軍團" }		
+		14 = { "第%d Kumul軍團" }		
+		15 = { "第%d Kumul軍團" }		
+		16 = { "第%d Kumul軍團" }		
+		17 = { "第%d Kumul軍團" }		
+		18 = { "第%d Kumul軍團" }		
+		19 = { "第%d Kumul軍團" }		
+		20 = { "第%d Kumul軍團" }		
 	}
 }
 
@@ -252,22 +252,22 @@ KUM_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Kumul Jingbei"
+	fallback_name = "第%d Kumul警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		101 = { "1 Hami Jingbei" }		# All fictional names for local militias
-		111 = { "1 Altay Jingbei" }		
-		102 = { "2 Hami Jingbei" }
-		103 = { "3 Hami Jingbei" }
-		112 = { "2 Altay Jingbei" }
-		113 = { "3 Altay Jingbei" }
-		104 = { "4 Hami Jingbei" }
-		105 = { "5 Hami Jingbei" }
-		114 = { "4 Altay Jingbei" }
-		115 = { "5 Altay Jingbei" }
+		101 = { "1 Hami警備" }		# All fictional names for local militias
+		111 = { "1 Altay警備" }		
+		102 = { "2 Hami警備" }
+		103 = { "3 Hami警備" }
+		112 = { "2 Altay警備" }
+		113 = { "3 Altay警備" }
+		104 = { "4 Hami警備" }
+		105 = { "5 Hami警備" }
+		114 = { "4 Altay警備" }
+		115 = { "5 Altay警備" }
 		131 = { "Kumul Baoan Ke" }		
 		132 = { "1 Hami Baoan Ke" }		
 		133 = { "1 Ruoqiang Baoan Ke" }		
@@ -275,16 +275,16 @@ KUM_GAR_01 =
 		135 = { "3 Ruoqiang Baoan Ke" }		
 		136 = { "2 Hami Baoan Ke" }		
 		137 = { "3 Hami Baoan Ke" }		
-		1 = { "%d Kumul Jingbei" }		
-		2 = { "%d Kumul Jingbei" }		
-		3 = { "%d Kumul Jingbei" }		
-		4 = { "%d Kumul Jingbei" }		
-		5 = { "%d Kumul Jingbei" }		
-		6 = { "%d Kumul Jingbei" }		
-		7 = { "%d Kumul Jingbei" }		
-		8 = { "%d Kumul Jingbei" }		
-		9 = { "%d Kumul Jingbei" }		
-		10 = { "%d Kumul Jingbei" }		
+		1 = { "第%d Kumul警備" }		
+		2 = { "第%d Kumul警備" }		
+		3 = { "第%d Kumul警備" }		
+		4 = { "第%d Kumul警備" }		
+		5 = { "第%d Kumul警備" }		
+		6 = { "第%d Kumul警備" }		
+		7 = { "第%d Kumul警備" }		
+		8 = { "第%d Kumul警備" }		
+		9 = { "第%d Kumul警備" }		
+		10 = { "第%d Kumul警備" }		
 	}
 }
 

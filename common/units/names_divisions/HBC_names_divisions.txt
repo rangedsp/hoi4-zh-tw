@@ -43,32 +43,32 @@ HBC_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "%d Hebei Juntuán"
+	fallback_name = "第%d Hebei軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Hebei Juntuán" }			# fictional warlord corps
-		2 = { "%d Hebei Juntuán" }			
-		3 = { "%d Hebei Juntuán" }			
-		4 = { "%d Hebei Juntuán" }			
-		5 = { "%d Hebei Juntuán" }			
-		6 = { "%d Hebei Juntuán" }			
-		7 = { "%d Hebei Juntuán" }			
-		8 = { "%d Hebei Juntuán" }			
-		9 = { "%d Hebei Juntuán" }			
-		10 = { "%d Hebei Juntuán" }		
-		11 = { "%d Hebei Juntuán" }		
-		12 = { "%d Hebei Juntuán" }		
-		13 = { "%d Hebei Juntuán" }		
-		14 = { "%d Hebei Juntuán" }		
-		15 = { "%d Hebei Juntuán" }		
-		16 = { "%d Hebei Juntuán" }		
-		17 = { "%d Hebei Juntuán" }		
-		18 = { "%d Hebei Juntuán" }		
-		19 = { "%d Hebei Juntuán" }		
-		20 = { "%d Hebei Juntuán" }		
+		1 = { "第%d Hebei軍團" }			# fictional warlord corps
+		2 = { "第%d Hebei軍團" }			
+		3 = { "第%d Hebei軍團" }			
+		4 = { "第%d Hebei軍團" }			
+		5 = { "第%d Hebei軍團" }			
+		6 = { "第%d Hebei軍團" }			
+		7 = { "第%d Hebei軍團" }			
+		8 = { "第%d Hebei軍團" }			
+		9 = { "第%d Hebei軍團" }			
+		10 = { "第%d Hebei軍團" }		
+		11 = { "第%d Hebei軍團" }		
+		12 = { "第%d Hebei軍團" }		
+		13 = { "第%d Hebei軍團" }		
+		14 = { "第%d Hebei軍團" }		
+		15 = { "第%d Hebei軍團" }		
+		16 = { "第%d Hebei軍團" }		
+		17 = { "第%d Hebei軍團" }		
+		18 = { "第%d Hebei軍團" }		
+		19 = { "第%d Hebei軍團" }		
+		20 = { "第%d Hebei軍團" }		
 	}
 }
 
@@ -85,27 +85,27 @@ HBC_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Hebei Qibing Jun"
+	fallback_name = "第%d Hebei騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Hebei Qibing Jun" }			# All fictional warlord cavalry corps
-		2 = { "%d Hebei Qibing Jun" }
-		3 = { "%d Hebei Qibing Jun" }
-		4 = { "%d Hebei Qibing Jun" }
-		6 = { "%d Hebei Qibing Jun" }
-		5 = { "%d Hebei Qibing Jun" }
-		7 = { "%d Hebei Qibing Jun" }
-		8 = { "%d Hebei Qibing Jun" }
-		9 = { "%d Hebei Qibing Jun" }
-		10 = { "%d Hebei Qibing Jun" }
-		11 = { "%d Hebei Qibing Jun" }
-		12 = { "%d Hebei Qibing Jun" }
-		13 = { "%d Hebei Qibing Jun" }
-		14 = { "%d Hebei Qibing Jun" }
-		15 = { "%d Hebei Qibing Jun" }
+		1 = { "第%d Hebei騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第%d Hebei騎兵軍" }
+		3 = { "第%d Hebei騎兵軍" }
+		4 = { "第%d Hebei騎兵軍" }
+		6 = { "第%d Hebei騎兵軍" }
+		5 = { "第%d Hebei騎兵軍" }
+		7 = { "第%d Hebei騎兵軍" }
+		8 = { "第%d Hebei騎兵軍" }
+		9 = { "第%d Hebei騎兵軍" }
+		10 = { "第%d Hebei騎兵軍" }
+		11 = { "第%d Hebei騎兵軍" }
+		12 = { "第%d Hebei騎兵軍" }
+		13 = { "第%d Hebei騎兵軍" }
+		14 = { "第%d Hebei騎兵軍" }
+		15 = { "第%d Hebei騎兵軍" }
 	}
 }
 
@@ -122,32 +122,32 @@ HBC_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "%d Hebei Juntuán"
+	fallback_name = "第%d Hebei軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Hebei Juntuán" }			# fictional warlord corps
-		2 = { "%d Hebei Juntuán" }			
-		3 = { "%d Hebei Juntuán" }			
-		4 = { "%d Hebei Juntuán" }			
-		5 = { "%d Hebei Juntuán" }			
-		6 = { "%d Hebei Juntuán" }			
-		7 = { "%d Hebei Juntuán" }			
-		8 = { "%d Hebei Juntuán" }			
-		9 = { "%d Hebei Juntuán" }			
-		10 = { "%d Hebei Juntuán" }		
-		11 = { "%d Hebei Juntuán" }		
-		12 = { "%d Hebei Juntuán" }		
-		13 = { "%d Hebei Juntuán" }		
-		14 = { "%d Hebei Juntuán" }		
-		15 = { "%d Hebei Juntuán" }		
-		16 = { "%d Hebei Juntuán" }		
-		17 = { "%d Hebei Juntuán" }		
-		18 = { "%d Hebei Juntuán" }		
-		19 = { "%d Hebei Juntuán" }		
-		20 = { "%d Hebei Juntuán" }		
+		1 = { "第%d Hebei軍團" }			# fictional warlord corps
+		2 = { "第%d Hebei軍團" }			
+		3 = { "第%d Hebei軍團" }			
+		4 = { "第%d Hebei軍團" }			
+		5 = { "第%d Hebei軍團" }			
+		6 = { "第%d Hebei軍團" }			
+		7 = { "第%d Hebei軍團" }			
+		8 = { "第%d Hebei軍團" }			
+		9 = { "第%d Hebei軍團" }			
+		10 = { "第%d Hebei軍團" }		
+		11 = { "第%d Hebei軍團" }		
+		12 = { "第%d Hebei軍團" }		
+		13 = { "第%d Hebei軍團" }		
+		14 = { "第%d Hebei軍團" }		
+		15 = { "第%d Hebei軍團" }		
+		16 = { "第%d Hebei軍團" }		
+		17 = { "第%d Hebei軍團" }		
+		18 = { "第%d Hebei軍團" }		
+		19 = { "第%d Hebei軍團" }		
+		20 = { "第%d Hebei軍團" }		
 	}
 }
 
@@ -164,32 +164,32 @@ HBC_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "%d Hebei Juntuán"
+	fallback_name = "第%d Hebei軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Hebei Juntuán" }			# fictional warlord corps
-		2 = { "%d Hebei Juntuán" }			
-		3 = { "%d Hebei Juntuán" }			
-		4 = { "%d Hebei Juntuán" }			
-		5 = { "%d Hebei Juntuán" }			
-		6 = { "%d Hebei Juntuán" }			
-		7 = { "%d Hebei Juntuán" }			
-		8 = { "%d Hebei Juntuán" }			
-		9 = { "%d Hebei Juntuán" }			
-		10 = { "%d Hebei Juntuán" }		
-		11 = { "%d Hebei Juntuán" }		
-		12 = { "%d Hebei Juntuán" }		
-		13 = { "%d Hebei Juntuán" }		
-		14 = { "%d Hebei Juntuán" }		
-		15 = { "%d Hebei Juntuán" }		
-		16 = { "%d Hebei Juntuán" }		
-		17 = { "%d Hebei Juntuán" }		
-		18 = { "%d Hebei Juntuán" }		
-		19 = { "%d Hebei Juntuán" }		
-		20 = { "%d Hebei Juntuán" }		
+		1 = { "第%d Hebei軍團" }			# fictional warlord corps
+		2 = { "第%d Hebei軍團" }			
+		3 = { "第%d Hebei軍團" }			
+		4 = { "第%d Hebei軍團" }			
+		5 = { "第%d Hebei軍團" }			
+		6 = { "第%d Hebei軍團" }			
+		7 = { "第%d Hebei軍團" }			
+		8 = { "第%d Hebei軍團" }			
+		9 = { "第%d Hebei軍團" }			
+		10 = { "第%d Hebei軍團" }		
+		11 = { "第%d Hebei軍團" }		
+		12 = { "第%d Hebei軍團" }		
+		13 = { "第%d Hebei軍團" }		
+		14 = { "第%d Hebei軍團" }		
+		15 = { "第%d Hebei軍團" }		
+		16 = { "第%d Hebei軍團" }		
+		17 = { "第%d Hebei軍團" }		
+		18 = { "第%d Hebei軍團" }		
+		19 = { "第%d Hebei軍團" }		
+		20 = { "第%d Hebei軍團" }		
 	}
 }
 
@@ -210,32 +210,32 @@ HBC_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "%d Hebei Juntuán"
+	fallback_name = "第%d Hebei軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Hebei Juntuán" }			# fictional warlord corps
-		2 = { "%d Hebei Juntuán" }			
-		3 = { "%d Hebei Juntuán" }			
-		4 = { "%d Hebei Juntuán" }			
-		5 = { "%d Hebei Juntuán" }			
-		6 = { "%d Hebei Juntuán" }			
-		7 = { "%d Hebei Juntuán" }			
-		8 = { "%d Hebei Juntuán" }			
-		9 = { "%d Hebei Juntuán" }			
-		10 = { "%d Hebei Juntuán" }		
-		11 = { "%d Hebei Juntuán" }		
-		12 = { "%d Hebei Juntuán" }		
-		13 = { "%d Hebei Juntuán" }		
-		14 = { "%d Hebei Juntuán" }		
-		15 = { "%d Hebei Juntuán" }		
-		16 = { "%d Hebei Juntuán" }		
-		17 = { "%d Hebei Juntuán" }		
-		18 = { "%d Hebei Juntuán" }		
-		19 = { "%d Hebei Juntuán" }		
-		20 = { "%d Hebei Juntuán" }		
+		1 = { "第%d Hebei軍團" }			# fictional warlord corps
+		2 = { "第%d Hebei軍團" }			
+		3 = { "第%d Hebei軍團" }			
+		4 = { "第%d Hebei軍團" }			
+		5 = { "第%d Hebei軍團" }			
+		6 = { "第%d Hebei軍團" }			
+		7 = { "第%d Hebei軍團" }			
+		8 = { "第%d Hebei軍團" }			
+		9 = { "第%d Hebei軍團" }			
+		10 = { "第%d Hebei軍團" }		
+		11 = { "第%d Hebei軍團" }		
+		12 = { "第%d Hebei軍團" }		
+		13 = { "第%d Hebei軍團" }		
+		14 = { "第%d Hebei軍團" }		
+		15 = { "第%d Hebei軍團" }		
+		16 = { "第%d Hebei軍團" }		
+		17 = { "第%d Hebei軍團" }		
+		18 = { "第%d Hebei軍團" }		
+		19 = { "第%d Hebei軍團" }		
+		20 = { "第%d Hebei軍團" }		
 	}
 }
 
@@ -252,22 +252,22 @@ HBC_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Hebei Jingbei"
+	fallback_name = "第%d Hebei警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		101 = { "1 Chahar Jingbei" }		# All fictional names for local militias
-		111 = { "1 Beiping Jingbei" }		
-		102 = { "2 Chahar Jingbei" }
-		103 = { "3 Chahar Jingbei" }
-		112 = { "2 Beiping Jingbei" }
-		113 = { "3 Beiping Jingbei" }
-		104 = { "4 Chahar Jingbei" }
-		105 = { "5 Chahar Jingbei" }
-		114 = { "4 Beiping Jingbei" }
-		115 = { "5 Beiping Jingbei" }
+		101 = { "1 Chahar警備" }		# All fictional names for local militias
+		111 = { "1 Beiping警備" }		
+		102 = { "2 Chahar警備" }
+		103 = { "3 Chahar警備" }
+		112 = { "2 Beiping警備" }
+		113 = { "3 Beiping警備" }
+		104 = { "4 Chahar警備" }
+		105 = { "5 Chahar警備" }
+		114 = { "4 Beiping警備" }
+		115 = { "5 Beiping警備" }
 		131 = { "Hebei Baoan Ke" }		
 		132 = { "1 Chahar Baoan Ke" }		
 		133 = { "1 Tianjin Baoan Ke" }		
@@ -275,16 +275,16 @@ HBC_GAR_01 =
 		135 = { "3 Tianjin Baoan Ke" }		
 		136 = { "2 Chahar Baoan Ke" }		
 		137 = { "3 Chahar Baoan Ke" }		
-		1 = { "%d Hebei Jingbei" }		
-		2 = { "%d Hebei Jingbei" }		
-		3 = { "%d Hebei Jingbei" }		
-		4 = { "%d Hebei Jingbei" }		
-		5 = { "%d Hebei Jingbei" }		
-		6 = { "%d Hebei Jingbei" }		
-		7 = { "%d Hebei Jingbei" }		
-		8 = { "%d Hebei Jingbei" }		
-		9 = { "%d Hebei Jingbei" }		
-		10 = { "%d Hebei Jingbei" }		
+		1 = { "第%d Hebei警備" }		
+		2 = { "第%d Hebei警備" }		
+		3 = { "第%d Hebei警備" }		
+		4 = { "第%d Hebei警備" }		
+		5 = { "第%d Hebei警備" }		
+		6 = { "第%d Hebei警備" }		
+		7 = { "第%d Hebei警備" }		
+		8 = { "第%d Hebei警備" }		
+		9 = { "第%d Hebei警備" }		
+		10 = { "第%d Hebei警備" }		
 	}
 }
 

@@ -43,32 +43,32 @@ SIC_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { SIC_INF_01 }
 
-	fallback_name = "%d Sichuan Juntuán"
+	fallback_name = "第%d Sichuan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Sichuan Juntuán" }			# fictional warlord corps
-		2 = { "%d Sichuan Juntuán" }			
-		3 = { "%d Sichuan Juntuán" }			
-		4 = { "%d Sichuan Juntuán" }			
-		5 = { "%d Sichuan Juntuán" }			
-		6 = { "%d Sichuan Juntuán" }			
-		7 = { "%d Sichuan Juntuán" }			
-		8 = { "%d Sichuan Juntuán" }			
-		9 = { "%d Sichuan Juntuán" }			
-		10 = { "%d Sichuan Juntuán" }		
-		11 = { "%d Sichuan Juntuán" }		
-		12 = { "%d Sichuan Juntuán" }		
-		13 = { "%d Sichuan Juntuán" }		
-		14 = { "%d Sichuan Juntuán" }		
-		15 = { "%d Sichuan Juntuán" }		
-		16 = { "%d Sichuan Juntuán" }		
-		17 = { "%d Sichuan Juntuán" }		
-		18 = { "%d Sichuan Juntuán" }		
-		19 = { "%d Sichuan Juntuán" }		
-		20 = { "%d Sichuan Juntuán" }		
+		1 = { "第%d Sichuan軍團" }			# fictional warlord corps
+		2 = { "第%d Sichuan軍團" }			
+		3 = { "第%d Sichuan軍團" }			
+		4 = { "第%d Sichuan軍團" }			
+		5 = { "第%d Sichuan軍團" }			
+		6 = { "第%d Sichuan軍團" }			
+		7 = { "第%d Sichuan軍團" }			
+		8 = { "第%d Sichuan軍團" }			
+		9 = { "第%d Sichuan軍團" }			
+		10 = { "第%d Sichuan軍團" }		
+		11 = { "第%d Sichuan軍團" }		
+		12 = { "第%d Sichuan軍團" }		
+		13 = { "第%d Sichuan軍團" }		
+		14 = { "第%d Sichuan軍團" }		
+		15 = { "第%d Sichuan軍團" }		
+		16 = { "第%d Sichuan軍團" }		
+		17 = { "第%d Sichuan軍團" }		
+		18 = { "第%d Sichuan軍團" }		
+		19 = { "第%d Sichuan軍團" }		
+		20 = { "第%d Sichuan軍團" }		
 	}
 }
 
@@ -85,27 +85,27 @@ SIC_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Sichuan Qibing Jun"
+	fallback_name = "第%d Sichuan騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Sichuan Qibing Jun" }			# All fictional warlord cavalry corps
-		2 = { "%d Sichuan Qibing Jun" }
-		3 = { "%d Sichuan Qibing Jun" }
-		4 = { "%d Sichuan Qibing Jun" }
-		6 = { "%d Sichuan Qibing Jun" }
-		5 = { "%d Sichuan Qibing Jun" }
-		7 = { "%d Sichuan Qibing Jun" }
-		8 = { "%d Sichuan Qibing Jun" }
-		9 = { "%d Sichuan Qibing Jun" }
-		10 = { "%d Sichuan Qibing Jun" }
-		11 = { "%d Sichuan Qibing Jun" }
-		12 = { "%d Sichuan Qibing Jun" }
-		13 = { "%d Sichuan Qibing Jun" }
-		14 = { "%d Sichuan Qibing Jun" }
-		15 = { "%d Sichuan Qibing Jun" }
+		1 = { "第%d Sichuan騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第%d Sichuan騎兵軍" }
+		3 = { "第%d Sichuan騎兵軍" }
+		4 = { "第%d Sichuan騎兵軍" }
+		6 = { "第%d Sichuan騎兵軍" }
+		5 = { "第%d Sichuan騎兵軍" }
+		7 = { "第%d Sichuan騎兵軍" }
+		8 = { "第%d Sichuan騎兵軍" }
+		9 = { "第%d Sichuan騎兵軍" }
+		10 = { "第%d Sichuan騎兵軍" }
+		11 = { "第%d Sichuan騎兵軍" }
+		12 = { "第%d Sichuan騎兵軍" }
+		13 = { "第%d Sichuan騎兵軍" }
+		14 = { "第%d Sichuan騎兵軍" }
+		15 = { "第%d Sichuan騎兵軍" }
 	}
 }
 
@@ -122,32 +122,32 @@ SIC_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { SIC_INF_01 }
 
-	fallback_name = "%d Sichuan Juntuán"
+	fallback_name = "第%d Sichuan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Sichuan Juntuán" }			# fictional warlord corps
-		2 = { "%d Sichuan Juntuán" }			
-		3 = { "%d Sichuan Juntuán" }			
-		4 = { "%d Sichuan Juntuán" }			
-		5 = { "%d Sichuan Juntuán" }			
-		6 = { "%d Sichuan Juntuán" }			
-		7 = { "%d Sichuan Juntuán" }			
-		8 = { "%d Sichuan Juntuán" }			
-		9 = { "%d Sichuan Juntuán" }			
-		10 = { "%d Sichuan Juntuán" }		
-		11 = { "%d Sichuan Juntuán" }		
-		12 = { "%d Sichuan Juntuán" }		
-		13 = { "%d Sichuan Juntuán" }		
-		14 = { "%d Sichuan Juntuán" }		
-		15 = { "%d Sichuan Juntuán" }		
-		16 = { "%d Sichuan Juntuán" }		
-		17 = { "%d Sichuan Juntuán" }		
-		18 = { "%d Sichuan Juntuán" }		
-		19 = { "%d Sichuan Juntuán" }		
-		20 = { "%d Sichuan Juntuán" }		
+		1 = { "第%d Sichuan軍團" }			# fictional warlord corps
+		2 = { "第%d Sichuan軍團" }			
+		3 = { "第%d Sichuan軍團" }			
+		4 = { "第%d Sichuan軍團" }			
+		5 = { "第%d Sichuan軍團" }			
+		6 = { "第%d Sichuan軍團" }			
+		7 = { "第%d Sichuan軍團" }			
+		8 = { "第%d Sichuan軍團" }			
+		9 = { "第%d Sichuan軍團" }			
+		10 = { "第%d Sichuan軍團" }		
+		11 = { "第%d Sichuan軍團" }		
+		12 = { "第%d Sichuan軍團" }		
+		13 = { "第%d Sichuan軍團" }		
+		14 = { "第%d Sichuan軍團" }		
+		15 = { "第%d Sichuan軍團" }		
+		16 = { "第%d Sichuan軍團" }		
+		17 = { "第%d Sichuan軍團" }		
+		18 = { "第%d Sichuan軍團" }		
+		19 = { "第%d Sichuan軍團" }		
+		20 = { "第%d Sichuan軍團" }		
 	}
 }
 
@@ -164,32 +164,32 @@ SIC_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { SIC_INF_01 }
 
-	fallback_name = "%d Sichuan Juntuán"
+	fallback_name = "第%d Sichuan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Sichuan Juntuán" }			# fictional warlord corps
-		2 = { "%d Sichuan Juntuán" }			
-		3 = { "%d Sichuan Juntuán" }			
-		4 = { "%d Sichuan Juntuán" }			
-		5 = { "%d Sichuan Juntuán" }			
-		6 = { "%d Sichuan Juntuán" }			
-		7 = { "%d Sichuan Juntuán" }			
-		8 = { "%d Sichuan Juntuán" }			
-		9 = { "%d Sichuan Juntuán" }			
-		10 = { "%d Sichuan Juntuán" }		
-		11 = { "%d Sichuan Juntuán" }		
-		12 = { "%d Sichuan Juntuán" }		
-		13 = { "%d Sichuan Juntuán" }		
-		14 = { "%d Sichuan Juntuán" }		
-		15 = { "%d Sichuan Juntuán" }		
-		16 = { "%d Sichuan Juntuán" }		
-		17 = { "%d Sichuan Juntuán" }		
-		18 = { "%d Sichuan Juntuán" }		
-		19 = { "%d Sichuan Juntuán" }		
-		20 = { "%d Sichuan Juntuán" }		
+		1 = { "第%d Sichuan軍團" }			# fictional warlord corps
+		2 = { "第%d Sichuan軍團" }			
+		3 = { "第%d Sichuan軍團" }			
+		4 = { "第%d Sichuan軍團" }			
+		5 = { "第%d Sichuan軍團" }			
+		6 = { "第%d Sichuan軍團" }			
+		7 = { "第%d Sichuan軍團" }			
+		8 = { "第%d Sichuan軍團" }			
+		9 = { "第%d Sichuan軍團" }			
+		10 = { "第%d Sichuan軍團" }		
+		11 = { "第%d Sichuan軍團" }		
+		12 = { "第%d Sichuan軍團" }		
+		13 = { "第%d Sichuan軍團" }		
+		14 = { "第%d Sichuan軍團" }		
+		15 = { "第%d Sichuan軍團" }		
+		16 = { "第%d Sichuan軍團" }		
+		17 = { "第%d Sichuan軍團" }		
+		18 = { "第%d Sichuan軍團" }		
+		19 = { "第%d Sichuan軍團" }		
+		20 = { "第%d Sichuan軍團" }		
 	}
 }
 
@@ -210,32 +210,32 @@ SIC_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { SIC_INF_01 }
 
-	fallback_name = "%d Sichuan Juntuán"
+	fallback_name = "第%d Sichuan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Sichuan Juntuán" }			# fictional warlord corps
-		2 = { "%d Sichuan Juntuán" }			
-		3 = { "%d Sichuan Juntuán" }			
-		4 = { "%d Sichuan Juntuán" }			
-		5 = { "%d Sichuan Juntuán" }			
-		6 = { "%d Sichuan Juntuán" }			
-		7 = { "%d Sichuan Juntuán" }			
-		8 = { "%d Sichuan Juntuán" }			
-		9 = { "%d Sichuan Juntuán" }			
-		10 = { "%d Sichuan Juntuán" }		
-		11 = { "%d Sichuan Juntuán" }		
-		12 = { "%d Sichuan Juntuán" }		
-		13 = { "%d Sichuan Juntuán" }		
-		14 = { "%d Sichuan Juntuán" }		
-		15 = { "%d Sichuan Juntuán" }		
-		16 = { "%d Sichuan Juntuán" }		
-		17 = { "%d Sichuan Juntuán" }		
-		18 = { "%d Sichuan Juntuán" }		
-		19 = { "%d Sichuan Juntuán" }		
-		20 = { "%d Sichuan Juntuán" }		
+		1 = { "第%d Sichuan軍團" }			# fictional warlord corps
+		2 = { "第%d Sichuan軍團" }			
+		3 = { "第%d Sichuan軍團" }			
+		4 = { "第%d Sichuan軍團" }			
+		5 = { "第%d Sichuan軍團" }			
+		6 = { "第%d Sichuan軍團" }			
+		7 = { "第%d Sichuan軍團" }			
+		8 = { "第%d Sichuan軍團" }			
+		9 = { "第%d Sichuan軍團" }			
+		10 = { "第%d Sichuan軍團" }		
+		11 = { "第%d Sichuan軍團" }		
+		12 = { "第%d Sichuan軍團" }		
+		13 = { "第%d Sichuan軍團" }		
+		14 = { "第%d Sichuan軍團" }		
+		15 = { "第%d Sichuan軍團" }		
+		16 = { "第%d Sichuan軍團" }		
+		17 = { "第%d Sichuan軍團" }		
+		18 = { "第%d Sichuan軍團" }		
+		19 = { "第%d Sichuan軍團" }		
+		20 = { "第%d Sichuan軍團" }		
 	}
 }
 
@@ -252,22 +252,22 @@ SIC_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Sichuan Jingbei"
+	fallback_name = "第%d Sichuan警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		101 = { "1 Ya an Jingbei" }		# All fictional names for local militias
-		111 = { "1 Chengdu Jingbei" }		
-		102 = { "2 Chongqing Jingbei" }
-		103 = { "3 Guanghan Jingbei" }
-		112 = { "2 Yibin Jingbei" }
-		113 = { "3 Wanxian Jingbei" }
-		104 = { "4 Kangding Jingbei" }
-		105 = { "5 Ba an Jingbei" }
-		114 = { "4 Chamdo Jingbei" }
-		115 = { "5 Minsien Jingbei" }
+		101 = { "1 Ya an警備" }		# All fictional names for local militias
+		111 = { "1 Chengdu警備" }		
+		102 = { "2 Chongqing警備" }
+		103 = { "3 Guanghan警備" }
+		112 = { "2 Yibin警備" }
+		113 = { "3 Wanxian警備" }
+		104 = { "4 Kangding警備" }
+		105 = { "5 Ba an警備" }
+		114 = { "4 Chamdo警備" }
+		115 = { "5 Minsien警備" }
 		131 = { "Sichuan Baoan Ke" }		
 		132 = { "1 Labrang Baoan Ke" }		
 		133 = { "1 Liangshan Baoan Ke" }		
@@ -275,16 +275,16 @@ SIC_GAR_01 =
 		135 = { "3 Zunyi Baoan Ke" }		
 		136 = { "2 Chongqing Baoan Ke" }		
 		137 = { "3 Chongqing Baoan Ke" }		
-		1 = { "%d Sichuan Jingbei" }		
-		2 = { "%d Sichuan Jingbei" }		
-		3 = { "%d Sichuan Jingbei" }		
-		4 = { "%d Sichuan Jingbei" }		
-		5 = { "%d Sichuan Jingbei" }		
-		6 = { "%d Sichuan Jingbei" }		
-		7 = { "%d Sichuan Jingbei" }		
-		8 = { "%d Sichuan Jingbei" }		
-		9 = { "%d Sichuan Jingbei" }		
-		10 = { "%d Sichuan Jingbei" }		
+		1 = { "第%d Sichuan警備" }		
+		2 = { "第%d Sichuan警備" }		
+		3 = { "第%d Sichuan警備" }		
+		4 = { "第%d Sichuan警備" }		
+		5 = { "第%d Sichuan警備" }		
+		6 = { "第%d Sichuan警備" }		
+		7 = { "第%d Sichuan警備" }		
+		8 = { "第%d Sichuan警備" }		
+		9 = { "第%d Sichuan警備" }		
+		10 = { "第%d Sichuan警備" }		
 	}
 }
 

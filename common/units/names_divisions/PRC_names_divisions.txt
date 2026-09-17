@@ -43,48 +43,48 @@ PRC_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { PRC_INF_01 }
 
-	fallback_name = "Xin %d Juntuán"
+	fallback_name = "新編第%d軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Lie/115 Bubing師" }			# PRC continuously reinforced its three "divisions" with additional troops (columns)
-		21 = { "1 Lie/120 Bubing師" }
-		31 = { "1 Lie/129 Bubing師" }
-		2 = { "%d Lie/115 Bubing師" }			
-		22 = { "2 Lie/120 Bubing師" }
-		32 = { "2 Lie/129 Bubing師" }
-		3 = { "%d Lie/115 Bubing師" }			
-		23 = { "3 Lie/120 Bubing師" }
-		33 = { "3 Lie/129 Bubing師" }
-		4 = { "%d Lie/115 Bubing師" }			
-		24 = { "4 Lie/120 Bubing師" }
-		34 = { "4 Lie/129 Bubing師" }
-		5 = { "%d Lie/115 Bubing師" }			
-		25 = { "5 Lie/120 Bubing師" }
-		35 = { "5 Lie/129 Bubing師" }
-		41 = { "1 Lie/Xin 4 Juntuán" }
-		42 = { "2 Lie/Xin 4 Juntuán" }
-		43 = { "3 Lie/Xin 4 Juntuán" }
-		6 = { "%d Lie/115 Bubing師" }			
-		26 = { "6 Lie/120 Bubing師" }
-		36 = { "6 Lie/129 Bubing師" }
-		44 = { "4 Lie/Xin 4 Juntuán" }
-		45 = { "5 Lie/Xin 4 Juntuán" }
-		7 = { "%d Lie/115 Bubing師" }			
-		27 = { "7 Lie/120 Bubing師" }
-		37 = { "7 Lie/129 Bubing師" }
-		46 = { "6 Lie/Xin 4 Juntuán" }
-		47 = { "7 Lie/Xin 4 Juntuán" }
-		8 = { "%d Lie/115 Bubing師" }			
-		28 = { "8 Lie/120 Bubing師" }
-		38 = { "8 Lie/129 Bubing師" }
-		48 = { "8 Lie/Xin 4 Juntuán" }
-		9 = { "%d Lie/115 Bubing師" }			
-		29 = { "9 Lie/120 Bubing師" }
-		39 = { "9 Lie/129 Bubing師" }
-		49 = { "9 Lie/Xin 4 Juntuán" }
+		1 = { "第%d 列/115步兵師" }			# PRC continuously reinforced its three "divisions" with additional troops (columns)
+		21 = { "1 列/120步兵師" }
+		31 = { "1 列/129步兵師" }
+		2 = { "第%d 列/115步兵師" }			
+		22 = { "2 列/120步兵師" }
+		32 = { "2 列/129步兵師" }
+		3 = { "第%d 列/115步兵師" }			
+		23 = { "3 列/120步兵師" }
+		33 = { "3 列/129步兵師" }
+		4 = { "第%d 列/115步兵師" }			
+		24 = { "4 列/120步兵師" }
+		34 = { "4 列/129步兵師" }
+		5 = { "第%d 列/115步兵師" }			
+		25 = { "5 列/120步兵師" }
+		35 = { "5 列/129步兵師" }
+		41 = { "1 列/新4軍團" }
+		42 = { "2 列/新4軍團" }
+		43 = { "3 列/新4軍團" }
+		6 = { "第%d 列/115步兵師" }			
+		26 = { "6 列/120步兵師" }
+		36 = { "6 列/129步兵師" }
+		44 = { "4 列/新4軍團" }
+		45 = { "5 列/新4軍團" }
+		7 = { "第%d 列/115步兵師" }			
+		27 = { "7 列/120步兵師" }
+		37 = { "7 列/129步兵師" }
+		46 = { "6 列/新4軍團" }
+		47 = { "7 列/新4軍團" }
+		8 = { "第%d 列/115步兵師" }			
+		28 = { "8 列/120步兵師" }
+		38 = { "8 列/129步兵師" }
+		48 = { "8 列/新4軍團" }
+		9 = { "第%d 列/115步兵師" }			
+		29 = { "9 列/120步兵師" }
+		39 = { "9 列/129步兵師" }
+		49 = { "9 列/新4軍團" }
 	}
 }
 
@@ -101,36 +101,36 @@ PRC_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Luxian Qibing Jun"
+	fallback_name = "第%d路綫騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Luxian Qibing Jun" }			# All fictional "Route Cavalry Corps"
-		2 = { "%d Luxian Qibing Jun" }
-		3 = { "%d Luxian Qibing Jun" }
-		4 = { "%d Luxian Qibing Jun" }
-		6 = { "%d Luxian Qibing Jun" }
-		5 = { "%d Luxian Qibing Jun" }
-		7 = { "%d Luxian Qibing Jun" }
-		8 = { "%d Luxian Qibing Jun" }
-		9 = { "%d Luxian Qibing Jun" }
-		10 = { "%d Luxian Qibing Jun" }
-		104 = { "Xin 4 Luxian Qibing Jun" }
-		108 = { "Xin 8 Luxian Qibing Jun" }
-		106 = { "Xin 6 Luxian Qibing Jun" }
-		11 = { "%d Luxian Qibing Jun" }
-		12 = { "%d Luxian Qibing Jun" }
-		13 = { "%d Luxian Qibing Jun" }
-		14 = { "%d Luxian Qibing Jun" }
-		15 = { "%d Luxian Qibing Jun" }
-		16 = { "%d Luxian Qibing Jun" }
-		101 = { "Xin 1 Luxian Qibing Jun" }
-		102 = { "Xin 2 Luxian Qibing Jun" }
-		103 = { "Xin 3 Luxian Qibing Jun" }
-		105 = { "Xin 5 Luxian Qibing Jun" }
-		107 = { "Xin 7 Luxian Qibing Jun" }
+		1 = { "第%d路綫騎兵軍" }			# All fictional "Route Cavalry Corps"
+		2 = { "第%d路綫騎兵軍" }
+		3 = { "第%d路綫騎兵軍" }
+		4 = { "第%d路綫騎兵軍" }
+		6 = { "第%d路綫騎兵軍" }
+		5 = { "第%d路綫騎兵軍" }
+		7 = { "第%d路綫騎兵軍" }
+		8 = { "第%d路綫騎兵軍" }
+		9 = { "第%d路綫騎兵軍" }
+		10 = { "第%d路綫騎兵軍" }
+		104 = { "新編第四路綫騎兵軍" }
+		108 = { "新編第8路綫騎兵軍" }
+		106 = { "新編第6路綫騎兵軍" }
+		11 = { "第%d路綫騎兵軍" }
+		12 = { "第%d路綫騎兵軍" }
+		13 = { "第%d路綫騎兵軍" }
+		14 = { "第%d路綫騎兵軍" }
+		15 = { "第%d路綫騎兵軍" }
+		16 = { "第%d路綫騎兵軍" }
+		101 = { "新編第一路綫騎兵軍" }
+		102 = { "新編第二路綫騎兵軍" }
+		103 = { "新編第三路綫騎兵軍" }
+		105 = { "新編第五路綫騎兵軍" }
+		107 = { "新編第7路綫騎兵軍" }
 	}
 }
 
@@ -147,48 +147,48 @@ PRC_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { PRC_INF_01 }
 
-	fallback_name = "Xin %d Juntuán"
+	fallback_name = "新編第%d軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Lie/115 Bubing師" }			# PRC continuously reinforced its three "divisions" with additional troops (columns)
-		21 = { "1 Lie/120 Bubing師" }
-		31 = { "1 Lie/129 Bubing師" }
-		2 = { "%d Lie/115 Bubing師" }			
-		22 = { "2 Lie/120 Bubing師" }
-		32 = { "2 Lie/129 Bubing師" }
-		3 = { "%d Lie/115 Bubing師" }			
-		23 = { "3 Lie/120 Bubing師" }
-		33 = { "3 Lie/129 Bubing師" }
-		4 = { "%d Lie/115 Bubing師" }			
-		24 = { "4 Lie/120 Bubing師" }
-		34 = { "4 Lie/129 Bubing師" }
-		5 = { "%d Lie/115 Bubing師" }			
-		25 = { "5 Lie/120 Bubing師" }
-		35 = { "5 Lie/129 Bubing師" }
-		41 = { "1 Lie/Xin 4 Juntuán" }
-		42 = { "2 Lie/Xin 4 Juntuán" }
-		43 = { "3 Lie/Xin 4 Juntuán" }
-		6 = { "%d Lie/115 Bubing師" }			
-		26 = { "6 Lie/120 Bubing師" }
-		36 = { "6 Lie/129 Bubing師" }
-		44 = { "4 Lie/Xin 4 Juntuán" }
-		45 = { "5 Lie/Xin 4 Juntuán" }
-		7 = { "%d Lie/115 Bubing師" }			
-		27 = { "7 Lie/120 Bubing師" }
-		37 = { "7 Lie/129 Bubing師" }
-		46 = { "6 Lie/Xin 4 Juntuán" }
-		47 = { "7 Lie/Xin 4 Juntuán" }
-		8 = { "%d Lie/115 Bubing師" }			
-		28 = { "8 Lie/120 Bubing師" }
-		38 = { "8 Lie/129 Bubing師" }
-		48 = { "8 Lie/Xin 4 Juntuán" }
-		9 = { "%d Lie/115 Bubing師" }			
-		29 = { "9 Lie/120 Bubing師" }
-		39 = { "9 Lie/129 Bubing師" }
-		49 = { "9 Lie/Xin 4 Juntuán" }
+		1 = { "第%d 列/115步兵師" }			# PRC continuously reinforced its three "divisions" with additional troops (columns)
+		21 = { "1 列/120步兵師" }
+		31 = { "1 列/129步兵師" }
+		2 = { "第%d 列/115步兵師" }			
+		22 = { "2 列/120步兵師" }
+		32 = { "2 列/129步兵師" }
+		3 = { "第%d 列/115步兵師" }			
+		23 = { "3 列/120步兵師" }
+		33 = { "3 列/129步兵師" }
+		4 = { "第%d 列/115步兵師" }			
+		24 = { "4 列/120步兵師" }
+		34 = { "4 列/129步兵師" }
+		5 = { "第%d 列/115步兵師" }			
+		25 = { "5 列/120步兵師" }
+		35 = { "5 列/129步兵師" }
+		41 = { "1 列/新4軍團" }
+		42 = { "2 列/新4軍團" }
+		43 = { "3 列/新4軍團" }
+		6 = { "第%d 列/115步兵師" }			
+		26 = { "6 列/120步兵師" }
+		36 = { "6 列/129步兵師" }
+		44 = { "4 列/新4軍團" }
+		45 = { "5 列/新4軍團" }
+		7 = { "第%d 列/115步兵師" }			
+		27 = { "7 列/120步兵師" }
+		37 = { "7 列/129步兵師" }
+		46 = { "6 列/新4軍團" }
+		47 = { "7 列/新4軍團" }
+		8 = { "第%d 列/115步兵師" }			
+		28 = { "8 列/120步兵師" }
+		38 = { "8 列/129步兵師" }
+		48 = { "8 列/新4軍團" }
+		9 = { "第%d 列/115步兵師" }			
+		29 = { "9 列/120步兵師" }
+		39 = { "9 列/129步兵師" }
+		49 = { "9 列/新4軍團" }
 	}
 }
 
@@ -205,48 +205,48 @@ PRC_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { PRC_INF_01 }
 
-	fallback_name = "Xin %d Juntuán"
+	fallback_name = "新編第%d軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Lie/115 Bubing師" }			# PRC continuously reinforced its three "divisions" with additional troops (columns)
-		21 = { "1 Lie/120 Bubing師" }
-		31 = { "1 Lie/129 Bubing師" }
-		2 = { "%d Lie/115 Bubing師" }			
-		22 = { "2 Lie/120 Bubing師" }
-		32 = { "2 Lie/129 Bubing師" }
-		3 = { "%d Lie/115 Bubing師" }			
-		23 = { "3 Lie/120 Bubing師" }
-		33 = { "3 Lie/129 Bubing師" }
-		4 = { "%d Lie/115 Bubing師" }			
-		24 = { "4 Lie/120 Bubing師" }
-		34 = { "4 Lie/129 Bubing師" }
-		5 = { "%d Lie/115 Bubing師" }			
-		25 = { "5 Lie/120 Bubing師" }
-		35 = { "5 Lie/129 Bubing師" }
-		41 = { "1 Lie/Xin 4 Juntuán" }
-		42 = { "2 Lie/Xin 4 Juntuán" }
-		43 = { "3 Lie/Xin 4 Juntuán" }
-		6 = { "%d Lie/115 Bubing師" }			
-		26 = { "6 Lie/120 Bubing師" }
-		36 = { "6 Lie/129 Bubing師" }
-		44 = { "4 Lie/Xin 4 Juntuán" }
-		45 = { "5 Lie/Xin 4 Juntuán" }
-		7 = { "%d Lie/115 Bubing師" }			
-		27 = { "7 Lie/120 Bubing師" }
-		37 = { "7 Lie/129 Bubing師" }
-		46 = { "6 Lie/Xin 4 Juntuán" }
-		47 = { "7 Lie/Xin 4 Juntuán" }
-		8 = { "%d Lie/115 Bubing師" }			
-		28 = { "8 Lie/120 Bubing師" }
-		38 = { "8 Lie/129 Bubing師" }
-		48 = { "8 Lie/Xin 4 Juntuán" }
-		9 = { "%d Lie/115 Bubing師" }			
-		29 = { "9 Lie/120 Bubing師" }
-		39 = { "9 Lie/129 Bubing師" }
-		49 = { "9 Lie/Xin 4 Juntuán" }
+		1 = { "第%d 列/115步兵師" }			# PRC continuously reinforced its three "divisions" with additional troops (columns)
+		21 = { "1 列/120步兵師" }
+		31 = { "1 列/129步兵師" }
+		2 = { "第%d 列/115步兵師" }			
+		22 = { "2 列/120步兵師" }
+		32 = { "2 列/129步兵師" }
+		3 = { "第%d 列/115步兵師" }			
+		23 = { "3 列/120步兵師" }
+		33 = { "3 列/129步兵師" }
+		4 = { "第%d 列/115步兵師" }			
+		24 = { "4 列/120步兵師" }
+		34 = { "4 列/129步兵師" }
+		5 = { "第%d 列/115步兵師" }			
+		25 = { "5 列/120步兵師" }
+		35 = { "5 列/129步兵師" }
+		41 = { "1 列/新4軍團" }
+		42 = { "2 列/新4軍團" }
+		43 = { "3 列/新4軍團" }
+		6 = { "第%d 列/115步兵師" }			
+		26 = { "6 列/120步兵師" }
+		36 = { "6 列/129步兵師" }
+		44 = { "4 列/新4軍團" }
+		45 = { "5 列/新4軍團" }
+		7 = { "第%d 列/115步兵師" }			
+		27 = { "7 列/120步兵師" }
+		37 = { "7 列/129步兵師" }
+		46 = { "6 列/新4軍團" }
+		47 = { "7 列/新4軍團" }
+		8 = { "第%d 列/115步兵師" }			
+		28 = { "8 列/120步兵師" }
+		38 = { "8 列/129步兵師" }
+		48 = { "8 列/新4軍團" }
+		9 = { "第%d 列/115步兵師" }			
+		29 = { "9 列/120步兵師" }
+		39 = { "9 列/129步兵師" }
+		49 = { "9 列/新4軍團" }
 	}
 }
 
@@ -267,48 +267,48 @@ PRC_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { PRC_INF_01 }
 
-	fallback_name = "Xin %d Juntuán"
+	fallback_name = "新編第%d軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Lie/115 Bubing師" }			# PRC continuously reinforced its three (then four) "divisions" with additional troops (columns)
-		21 = { "1 Lie/120 Bubing師" }
-		31 = { "1 Lie/129 Bubing師" }
-		2 = { "%d Lie/115 Bubing師" }			
-		22 = { "2 Lie/120 Bubing師" }
-		32 = { "2 Lie/129 Bubing師" }
-		3 = { "%d Lie/115 Bubing師" }			
-		23 = { "3 Lie/120 Bubing師" }
-		33 = { "3 Lie/129 Bubing師" }
-		4 = { "%d Lie/115 Bubing師" }			
-		24 = { "4 Lie/120 Bubing師" }
-		34 = { "4 Lie/129 Bubing師" }
-		5 = { "%d Lie/115 Bubing師" }			
-		25 = { "5 Lie/120 Bubing師" }
-		35 = { "5 Lie/129 Bubing師" }
-		41 = { "1 Lie/Xin 4 Juntuán" }
-		42 = { "2 Lie/Xin 4 Juntuán" }
-		43 = { "3 Lie/Xin 4 Juntuán" }
-		6 = { "%d Lie/115 Bubing師" }			
-		26 = { "6 Lie/120 Bubing師" }
-		36 = { "6 Lie/129 Bubing師" }
-		44 = { "4 Lie/Xin 4 Juntuán" }
-		45 = { "5 Lie/Xin 4 Juntuán" }
-		7 = { "%d Lie/115 Bubing師" }			
-		27 = { "7 Lie/120 Bubing師" }
-		37 = { "7 Lie/129 Bubing師" }
-		46 = { "6 Lie/Xin 4 Juntuán" }
-		47 = { "7 Lie/Xin 4 Juntuán" }
-		8 = { "%d Lie/115 Bubing師" }			
-		28 = { "8 Lie/120 Bubing師" }
-		38 = { "8 Lie/129 Bubing師" }
-		48 = { "8 Lie/Xin 4 Juntuán" }
-		9 = { "%d Lie/115 Bubing師" }			
-		29 = { "9 Lie/120 Bubing師" }
-		39 = { "9 Lie/129 Bubing師" }
-		49 = { "9 Lie/Xin 4 Juntuán" }
+		1 = { "第%d 列/115步兵師" }			# PRC continuously reinforced its three (then four) "divisions" with additional troops (columns)
+		21 = { "1 列/120步兵師" }
+		31 = { "1 列/129步兵師" }
+		2 = { "第%d 列/115步兵師" }			
+		22 = { "2 列/120步兵師" }
+		32 = { "2 列/129步兵師" }
+		3 = { "第%d 列/115步兵師" }			
+		23 = { "3 列/120步兵師" }
+		33 = { "3 列/129步兵師" }
+		4 = { "第%d 列/115步兵師" }			
+		24 = { "4 列/120步兵師" }
+		34 = { "4 列/129步兵師" }
+		5 = { "第%d 列/115步兵師" }			
+		25 = { "5 列/120步兵師" }
+		35 = { "5 列/129步兵師" }
+		41 = { "1 列/新4軍團" }
+		42 = { "2 列/新4軍團" }
+		43 = { "3 列/新4軍團" }
+		6 = { "第%d 列/115步兵師" }			
+		26 = { "6 列/120步兵師" }
+		36 = { "6 列/129步兵師" }
+		44 = { "4 列/新4軍團" }
+		45 = { "5 列/新4軍團" }
+		7 = { "第%d 列/115步兵師" }			
+		27 = { "7 列/120步兵師" }
+		37 = { "7 列/129步兵師" }
+		46 = { "6 列/新4軍團" }
+		47 = { "7 列/新4軍團" }
+		8 = { "第%d 列/115步兵師" }			
+		28 = { "8 列/120步兵師" }
+		38 = { "8 列/129步兵師" }
+		48 = { "8 列/新4軍團" }
+		9 = { "第%d 列/115步兵師" }			
+		29 = { "9 列/120步兵師" }
+		39 = { "9 列/129步兵師" }
+		49 = { "9 列/新4軍團" }
 	}
 }
 
@@ -325,37 +325,37 @@ PRC_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Shensi Juntuán"
+	fallback_name = "第%d Shensi軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Shensi Juntuán" }		# All fictional names for local militias
-		2 = { "%d Shensi Juntuán" }		
-		3 = { "%d Shensi Juntuán" }		
-		4 = { "%d Shensi Juntuán" }		
-		5 = { "%d Shensi Juntuán" }		
-		101 = { "1 Yan'an Jingbei" }		
-		102 = { "2 Yan'an Jingbei" }
-		103 = { "3 Yan'an Jingbei" }
-		104 = { "4 Yan'an Jingbei" }
-		105 = { "5 Yan'an Jingbei" }
-		6 = { "%d Shensi Juntuán" }		
-		7 = { "%d Shensi Juntuán" }		
-		8 = { "%d Shensi Juntuán" }		
-		9 = { "%d Shensi Juntuán" }		
-		10 = { "%d Shensi Juntuán" }		
-		11 = { "%d Shensi Juntuán" }		
-		12 = { "%d Shensi Juntuán" }		
-		106 = { "6 Yan'an Jingbei" }
-		107 = { "7 Yan'an Jingbei" }
-		108 = { "8 Yan'an Jingbei" }
-		109 = { "9 Yan'an Jingbei" }
-		110 = { "10 Yan'an Jingbei" }
-		13 = { "%d Shensi Juntuán" }		
-		14 = { "%d Shensi Juntuán" }		
-		15 = { "%d Shensi Juntuán" }		
+		1 = { "第%d Shensi軍團" }		# All fictional names for local militias
+		2 = { "第%d Shensi軍團" }		
+		3 = { "第%d Shensi軍團" }		
+		4 = { "第%d Shensi軍團" }		
+		5 = { "第%d Shensi軍團" }		
+		101 = { "1 Yan'an警備" }		
+		102 = { "2 Yan'an警備" }
+		103 = { "3 Yan'an警備" }
+		104 = { "4 Yan'an警備" }
+		105 = { "5 Yan'an警備" }
+		6 = { "第%d Shensi軍團" }		
+		7 = { "第%d Shensi軍團" }		
+		8 = { "第%d Shensi軍團" }		
+		9 = { "第%d Shensi軍團" }		
+		10 = { "第%d Shensi軍團" }		
+		11 = { "第%d Shensi軍團" }		
+		12 = { "第%d Shensi軍團" }		
+		106 = { "6 Yan'an警備" }
+		107 = { "7 Yan'an警備" }
+		108 = { "8 Yan'an警備" }
+		109 = { "9 Yan'an警備" }
+		110 = { "10 Yan'an警備" }
+		13 = { "第%d Shensi軍團" }		
+		14 = { "第%d Shensi軍團" }		
+		15 = { "第%d Shensi軍團" }		
 	}
 }
 
@@ -373,37 +373,37 @@ PRC_MIL_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Shensi Juntuán"
+	fallback_name = "第%d Shensi軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Shensi Juntuán" }		# All fictional names for local militias
-		2 = { "%d Shensi Juntuán" }		
-		3 = { "%d Shensi Juntuán" }		
-		4 = { "%d Shensi Juntuán" }		
-		5 = { "%d Shensi Juntuán" }		
-		101 = { "1 Yan'an Jingbei" }		
-		102 = { "2 Yan'an Jingbei" }
-		103 = { "3 Yan'an Jingbei" }
-		104 = { "4 Yan'an Jingbei" }
-		105 = { "5 Yan'an Jingbei" }
-		6 = { "%d Shensi Juntuán" }		
-		7 = { "%d Shensi Juntuán" }		
-		8 = { "%d Shensi Juntuán" }		
-		9 = { "%d Shensi Juntuán" }		
-		10 = { "%d Shensi Juntuán" }		
-		11 = { "%d Shensi Juntuán" }		
-		12 = { "%d Shensi Juntuán" }		
-		106 = { "6 Yan'an Jingbei" }
-		107 = { "7 Yan'an Jingbei" }
-		108 = { "8 Yan'an Jingbei" }
-		109 = { "9 Yan'an Jingbei" }
-		110 = { "10 Yan'an Jingbei" }
-		13 = { "%d Shensi Juntuán" }		
-		14 = { "%d Shensi Juntuán" }		
-		15 = { "%d Shensi Juntuán" }		
+		1 = { "第%d Shensi軍團" }		# All fictional names for local militias
+		2 = { "第%d Shensi軍團" }		
+		3 = { "第%d Shensi軍團" }		
+		4 = { "第%d Shensi軍團" }		
+		5 = { "第%d Shensi軍團" }		
+		101 = { "1 Yan'an警備" }		
+		102 = { "2 Yan'an警備" }
+		103 = { "3 Yan'an警備" }
+		104 = { "4 Yan'an警備" }
+		105 = { "5 Yan'an警備" }
+		6 = { "第%d Shensi軍團" }		
+		7 = { "第%d Shensi軍團" }		
+		8 = { "第%d Shensi軍團" }		
+		9 = { "第%d Shensi軍團" }		
+		10 = { "第%d Shensi軍團" }		
+		11 = { "第%d Shensi軍團" }		
+		12 = { "第%d Shensi軍團" }		
+		106 = { "6 Yan'an警備" }
+		107 = { "7 Yan'an警備" }
+		108 = { "8 Yan'an警備" }
+		109 = { "9 Yan'an警備" }
+		110 = { "10 Yan'an警備" }
+		13 = { "第%d Shensi軍團" }		
+		14 = { "第%d Shensi軍團" }		
+		15 = { "第%d Shensi軍團" }		
 	}
 }
 
@@ -420,6 +420,6 @@ PRC_MIL_02 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Mínbīng"
+	fallback_name = "第%d Mínbīng"
 }
 

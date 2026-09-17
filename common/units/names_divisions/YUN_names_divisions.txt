@@ -43,32 +43,32 @@ YUN_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "%d Yunnan Juntuán"
+	fallback_name = "第%d Yunnan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Yunnan Juntuán" }		# fictional warlord corps
-		2 = { "%d Yunnan Juntuán" }
-		3 = { "%d Yunnan Juntuán" }
-		4 = { "%d Yunnan Juntuán" }
-		5 = { "%d Yunnan Juntuán" }
-		6 = { "%d Yunnan Juntuán" }
-		7 = { "%d Yunnan Juntuán" }
-		8 = { "%d Yunnan Juntuán" }
-		9 = { "%d Yunnan Juntuán" }
-		10 = { "%d Yunnan Juntuán" }
-		11 = { "%d Yunnan Juntuán" }
-		12 = { "%d Yunnan Juntuán" }
-		13 = { "%d Yunnan Juntuán" }
-		14 = { "%d Yunnan Juntuán" }
-		15 = { "%d Yunnan Juntuán" }
-		16 = { "%d Yunnan Juntuán" }
-		17 = { "%d Yunnan Juntuán" }
-		18 = { "%d Yunnan Juntuán" }
-		19 = { "%d Yunnan Juntuán" }
-		20 = { "%d Yunnan Juntuán" }
+		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
+		2 = { "第%d Yunnan軍團" }
+		3 = { "第%d Yunnan軍團" }
+		4 = { "第%d Yunnan軍團" }
+		5 = { "第%d Yunnan軍團" }
+		6 = { "第%d Yunnan軍團" }
+		7 = { "第%d Yunnan軍團" }
+		8 = { "第%d Yunnan軍團" }
+		9 = { "第%d Yunnan軍團" }
+		10 = { "第%d Yunnan軍團" }
+		11 = { "第%d Yunnan軍團" }
+		12 = { "第%d Yunnan軍團" }
+		13 = { "第%d Yunnan軍團" }
+		14 = { "第%d Yunnan軍團" }
+		15 = { "第%d Yunnan軍團" }
+		16 = { "第%d Yunnan軍團" }
+		17 = { "第%d Yunnan軍團" }
+		18 = { "第%d Yunnan軍團" }
+		19 = { "第%d Yunnan軍團" }
+		20 = { "第%d Yunnan軍團" }
 	}
 }
 
@@ -85,27 +85,27 @@ YUN_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Yunnan Qibing Jun"
+	fallback_name = "第%d Yunnan騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Yunnan Qibing Jun" }			# All fictional warlord cavalry corps
-		2 = { "%d Yunnan Qibing Jun" }
-		3 = { "%d Yunnan Qibing Jun" }
-		4 = { "%d Yunnan Qibing Jun" }
-		6 = { "%d Yunnan Qibing Jun" }
-		5 = { "%d Yunnan Qibing Jun" }
-		7 = { "%d Yunnan Qibing Jun" }
-		8 = { "%d Yunnan Qibing Jun" }
-		9 = { "%d Yunnan Qibing Jun" }
-		10 = { "%d Yunnan Qibing Jun" }
-		11 = { "%d Yunnan Qibing Jun" }
-		12 = { "%d Yunnan Qibing Jun" }
-		13 = { "%d Yunnan Qibing Jun" }
-		14 = { "%d Yunnan Qibing Jun" }
-		15 = { "%d Yunnan Qibing Jun" }
+		1 = { "第%d Yunnan騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第%d Yunnan騎兵軍" }
+		3 = { "第%d Yunnan騎兵軍" }
+		4 = { "第%d Yunnan騎兵軍" }
+		6 = { "第%d Yunnan騎兵軍" }
+		5 = { "第%d Yunnan騎兵軍" }
+		7 = { "第%d Yunnan騎兵軍" }
+		8 = { "第%d Yunnan騎兵軍" }
+		9 = { "第%d Yunnan騎兵軍" }
+		10 = { "第%d Yunnan騎兵軍" }
+		11 = { "第%d Yunnan騎兵軍" }
+		12 = { "第%d Yunnan騎兵軍" }
+		13 = { "第%d Yunnan騎兵軍" }
+		14 = { "第%d Yunnan騎兵軍" }
+		15 = { "第%d Yunnan騎兵軍" }
 	}
 }
 
@@ -122,32 +122,32 @@ YUN_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "%d Yunnan Juntuán"
+	fallback_name = "第%d Yunnan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Yunnan Juntuán" }		# fictional warlord corps
-		2 = { "%d Yunnan Juntuán" }
-		3 = { "%d Yunnan Juntuán" }
-		4 = { "%d Yunnan Juntuán" }
-		5 = { "%d Yunnan Juntuán" }
-		6 = { "%d Yunnan Juntuán" }
-		7 = { "%d Yunnan Juntuán" }
-		8 = { "%d Yunnan Juntuán" }
-		9 = { "%d Yunnan Juntuán" }
-		10 = { "%d Yunnan Juntuán" }
-		11 = { "%d Yunnan Juntuán" }
-		12 = { "%d Yunnan Juntuán" }
-		13 = { "%d Yunnan Juntuán" }
-		14 = { "%d Yunnan Juntuán" }
-		15 = { "%d Yunnan Juntuán" }
-		16 = { "%d Yunnan Juntuán" }
-		17 = { "%d Yunnan Juntuán" }
-		18 = { "%d Yunnan Juntuán" }
-		19 = { "%d Yunnan Juntuán" }
-		20 = { "%d Yunnan Juntuán" }
+		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
+		2 = { "第%d Yunnan軍團" }
+		3 = { "第%d Yunnan軍團" }
+		4 = { "第%d Yunnan軍團" }
+		5 = { "第%d Yunnan軍團" }
+		6 = { "第%d Yunnan軍團" }
+		7 = { "第%d Yunnan軍團" }
+		8 = { "第%d Yunnan軍團" }
+		9 = { "第%d Yunnan軍團" }
+		10 = { "第%d Yunnan軍團" }
+		11 = { "第%d Yunnan軍團" }
+		12 = { "第%d Yunnan軍團" }
+		13 = { "第%d Yunnan軍團" }
+		14 = { "第%d Yunnan軍團" }
+		15 = { "第%d Yunnan軍團" }
+		16 = { "第%d Yunnan軍團" }
+		17 = { "第%d Yunnan軍團" }
+		18 = { "第%d Yunnan軍團" }
+		19 = { "第%d Yunnan軍團" }
+		20 = { "第%d Yunnan軍團" }
 	}
 }
 
@@ -164,32 +164,32 @@ YUN_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "%d Yunnan Juntuán"
+	fallback_name = "第%d Yunnan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Yunnan Juntuán" }		# fictional warlord corps
-		2 = { "%d Yunnan Juntuán" }
-		3 = { "%d Yunnan Juntuán" }
-		4 = { "%d Yunnan Juntuán" }
-		5 = { "%d Yunnan Juntuán" }
-		6 = { "%d Yunnan Juntuán" }
-		7 = { "%d Yunnan Juntuán" }
-		8 = { "%d Yunnan Juntuán" }
-		9 = { "%d Yunnan Juntuán" }
-		10 = { "%d Yunnan Juntuán" }
-		11 = { "%d Yunnan Juntuán" }
-		12 = { "%d Yunnan Juntuán" }
-		13 = { "%d Yunnan Juntuán" }
-		14 = { "%d Yunnan Juntuán" }
-		15 = { "%d Yunnan Juntuán" }
-		16 = { "%d Yunnan Juntuán" }
-		17 = { "%d Yunnan Juntuán" }
-		18 = { "%d Yunnan Juntuán" }
-		19 = { "%d Yunnan Juntuán" }
-		20 = { "%d Yunnan Juntuán" }
+		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
+		2 = { "第%d Yunnan軍團" }
+		3 = { "第%d Yunnan軍團" }
+		4 = { "第%d Yunnan軍團" }
+		5 = { "第%d Yunnan軍團" }
+		6 = { "第%d Yunnan軍團" }
+		7 = { "第%d Yunnan軍團" }
+		8 = { "第%d Yunnan軍團" }
+		9 = { "第%d Yunnan軍團" }
+		10 = { "第%d Yunnan軍團" }
+		11 = { "第%d Yunnan軍團" }
+		12 = { "第%d Yunnan軍團" }
+		13 = { "第%d Yunnan軍團" }
+		14 = { "第%d Yunnan軍團" }
+		15 = { "第%d Yunnan軍團" }
+		16 = { "第%d Yunnan軍團" }
+		17 = { "第%d Yunnan軍團" }
+		18 = { "第%d Yunnan軍團" }
+		19 = { "第%d Yunnan軍團" }
+		20 = { "第%d Yunnan軍團" }
 	}
 }
 
@@ -210,32 +210,32 @@ YUN_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "%d Yunnan Juntuán"
+	fallback_name = "第%d Yunnan軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Yunnan Juntuán" }		# fictional warlord corps
-		2 = { "%d Yunnan Juntuán" }
-		3 = { "%d Yunnan Juntuán" }
-		4 = { "%d Yunnan Juntuán" }
-		5 = { "%d Yunnan Juntuán" }
-		6 = { "%d Yunnan Juntuán" }
-		7 = { "%d Yunnan Juntuán" }
-		8 = { "%d Yunnan Juntuán" }
-		9 = { "%d Yunnan Juntuán" }
-		10 = { "%d Yunnan Juntuán" }
-		11 = { "%d Yunnan Juntuán" }
-		12 = { "%d Yunnan Juntuán" }
-		13 = { "%d Yunnan Juntuán" }
-		14 = { "%d Yunnan Juntuán" }
-		15 = { "%d Yunnan Juntuán" }
-		16 = { "%d Yunnan Juntuán" }
-		17 = { "%d Yunnan Juntuán" }
-		18 = { "%d Yunnan Juntuán" }
-		19 = { "%d Yunnan Juntuán" }
-		20 = { "%d Yunnan Juntuán" }
+		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
+		2 = { "第%d Yunnan軍團" }
+		3 = { "第%d Yunnan軍團" }
+		4 = { "第%d Yunnan軍團" }
+		5 = { "第%d Yunnan軍團" }
+		6 = { "第%d Yunnan軍團" }
+		7 = { "第%d Yunnan軍團" }
+		8 = { "第%d Yunnan軍團" }
+		9 = { "第%d Yunnan軍團" }
+		10 = { "第%d Yunnan軍團" }
+		11 = { "第%d Yunnan軍團" }
+		12 = { "第%d Yunnan軍團" }
+		13 = { "第%d Yunnan軍團" }
+		14 = { "第%d Yunnan軍團" }
+		15 = { "第%d Yunnan軍團" }
+		16 = { "第%d Yunnan軍團" }
+		17 = { "第%d Yunnan軍團" }
+		18 = { "第%d Yunnan軍團" }
+		19 = { "第%d Yunnan軍團" }
+		20 = { "第%d Yunnan軍團" }
 	}
 }
 
@@ -252,7 +252,7 @@ YUN_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Yunnan Jingbei"
+	fallback_name = "第%d Yunnan警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
@@ -261,30 +261,30 @@ YUN_GAR_01 =
 		132 = { "1 Yunnan Baoan Ke" }		# All fictional names for local militias
 		133 = { "1 Kunming Baoan Ke" }		
 		131 = { "Dali Baoan Ke" }		
-		101 = { "1 Yunnan Jingbei" }		
-		111 = { "1 Kunming Jingbei" }		
-		102 = { "2 Yunnan Jingbei" }
-		103 = { "3 Yunnan Jingbei" }
-		112 = { "2 Kunming Jingbei" }
-		113 = { "3 Kunming Jingbei" }
-		104 = { "4 Yunnan Jingbei" }
-		105 = { "5 Yunnan Jingbei" }
-		114 = { "4 Kunming Jingbei" }
-		115 = { "5 Kunming Jingbei" }
+		101 = { "1 Yunnan警備" }		
+		111 = { "1 Kunming警備" }		
+		102 = { "2 Yunnan警備" }
+		103 = { "3 Yunnan警備" }
+		112 = { "2 Kunming警備" }
+		113 = { "3 Kunming警備" }
+		104 = { "4 Yunnan警備" }
+		105 = { "5 Yunnan警備" }
+		114 = { "4 Kunming警備" }
+		115 = { "5 Kunming警備" }
 		134 = { "2 Kunming Baoan Ke" }		
 		135 = { "3 Kunming Baoan Ke" }		
 		136 = { "2 Yunnan Baoan Ke" }		
 		137 = { "3 Yunnan Baoan Ke" }		
-		1 = { "%d Yunnan Jingbei" }		
-		2 = { "%d Yunnan Jingbei" }		
-		3 = { "%d Yunnan Jingbei" }		
-		4 = { "%d Yunnan Jingbei" }		
-		5 = { "%d Yunnan Jingbei" }		
-		6 = { "%d Yunnan Jingbei" }		
-		7 = { "%d Yunnan Jingbei" }		
-		8 = { "%d Yunnan Jingbei" }		
-		9 = { "%d Yunnan Jingbei" }		
-		10 = { "%d Yunnan Jingbei" }		
+		1 = { "第%d Yunnan警備" }		
+		2 = { "第%d Yunnan警備" }		
+		3 = { "第%d Yunnan警備" }		
+		4 = { "第%d Yunnan警備" }		
+		5 = { "第%d Yunnan警備" }		
+		6 = { "第%d Yunnan警備" }		
+		7 = { "第%d Yunnan警備" }		
+		8 = { "第%d Yunnan警備" }		
+		9 = { "第%d Yunnan警備" }		
+		10 = { "第%d Yunnan警備" }		
 	}
 }
 

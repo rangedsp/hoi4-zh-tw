@@ -43,46 +43,46 @@ KHM_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "%d 馬軍團"
+	fallback_name = "第%d 馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		80 = { "%d Juntuán" }				# Historical NRA Corps names for Ma divisions
-		81 = { "%d Juntuán" }				
-		82 = { "%d Juntuán" }				
-		102 = { "Xin 2 Juntuán" }				
-		83 = { "%d Juntuán" }				# fictional assignments of NRA division names
-		85 = { "%d Juntuán" }				
-		101 = { "Xin 1 Juntuán" }				
-		103 = { "Xin 3 Juntuán" }				
-		104 = { "Xin 4 Juntuán" }				
-		113 = { "3 Juntuán Linshi" }				
-		111 = { "1 Juntuán Linshi" }				
-		112 = { "2 Juntuán Linshi" }				
-		114 = { "4 Juntuán Linshi" }				
-		115 = { "5 Juntuán Linshi" }				
-		1 = { "%d 馬軍團" }				# fictional warlord corps
-		2 = { "%d 馬軍團" }
-		3 = { "%d 馬軍團" }
-		4 = { "%d 馬軍團" }
-		5 = { "%d 馬軍團" }
-		6 = { "%d 馬軍團" }
-		7 = { "%d 馬軍團" }
-		8 = { "%d 馬軍團" }
-		9 = { "%d 馬軍團" }
-		10 = { "%d 馬軍團" }
-		11 = { "%d 馬軍團" }
-		12 = { "%d 馬軍團" }
-		13 = { "%d 馬軍團" }
-		14 = { "%d 馬軍團" }
-		15 = { "%d 馬軍團" }
-		16 = { "%d 馬軍團" }
-		17 = { "%d 馬軍團" }
-		18 = { "%d 馬軍團" }
-		19 = { "%d 馬軍團" }
-		20 = { "%d 馬軍團" }
+		80 = { "第%d軍團" }				# Historical NRA Corps names for Ma divisions
+		81 = { "第%d軍團" }				
+		82 = { "第%d軍團" }				
+		102 = { "新編第二軍團" }				
+		83 = { "第%d軍團" }				# fictional assignments of NRA division names
+		85 = { "第%d軍團" }				
+		101 = { "新編第一軍團" }				
+		103 = { "新編第三軍團" }				
+		104 = { "新編第四軍團" }				
+		113 = { "暫編第三軍" }				
+		111 = { "暫編第一軍" }				
+		112 = { "暫編第二軍" }				
+		114 = { "暫編第四軍" }				
+		115 = { "暫編第五軍" }				
+		1 = { "第%d 馬軍團" }				# fictional warlord corps
+		2 = { "第%d 馬軍團" }
+		3 = { "第%d 馬軍團" }
+		4 = { "第%d 馬軍團" }
+		5 = { "第%d 馬軍團" }
+		6 = { "第%d 馬軍團" }
+		7 = { "第%d 馬軍團" }
+		8 = { "第%d 馬軍團" }
+		9 = { "第%d 馬軍團" }
+		10 = { "第%d 馬軍團" }
+		11 = { "第%d 馬軍團" }
+		12 = { "第%d 馬軍團" }
+		13 = { "第%d 馬軍團" }
+		14 = { "第%d 馬軍團" }
+		15 = { "第%d 馬軍團" }
+		16 = { "第%d 馬軍團" }
+		17 = { "第%d 馬軍團" }
+		18 = { "第%d 馬軍團" }
+		19 = { "第%d 馬軍團" }
+		20 = { "第%d 馬軍團" }
 	}
 }
 
@@ -99,27 +99,27 @@ KHM_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Ma Qibing Jun"
+	fallback_name = "第%d Ma騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Ma Qibing Jun" }			# All fictional warlord cavalry corps
-		2 = { "%d Ma Qibing Jun" }
-		3 = { "%d Ma Qibing Jun" }
-		4 = { "%d Ma Qibing Jun" }
-		6 = { "%d Ma Qibing Jun" }
-		5 = { "%d Ma Qibing Jun" }
-		7 = { "%d Ma Qibing Jun" }
-		8 = { "%d Ma Qibing Jun" }
-		9 = { "%d Ma Qibing Jun" }
-		10 = { "%d Ma Qibing Jun" }
-		11 = { "%d Ma Qibing Jun" }
-		12 = { "%d Ma Qibing Jun" }
-		13 = { "%d Ma Qibing Jun" }
-		14 = { "%d Ma Qibing Jun" }
-		15 = { "%d Ma Qibing Jun" }
+		1 = { "第%d Ma騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第%d Ma騎兵軍" }
+		3 = { "第%d Ma騎兵軍" }
+		4 = { "第%d Ma騎兵軍" }
+		6 = { "第%d Ma騎兵軍" }
+		5 = { "第%d Ma騎兵軍" }
+		7 = { "第%d Ma騎兵軍" }
+		8 = { "第%d Ma騎兵軍" }
+		9 = { "第%d Ma騎兵軍" }
+		10 = { "第%d Ma騎兵軍" }
+		11 = { "第%d Ma騎兵軍" }
+		12 = { "第%d Ma騎兵軍" }
+		13 = { "第%d Ma騎兵軍" }
+		14 = { "第%d Ma騎兵軍" }
+		15 = { "第%d Ma騎兵軍" }
 	}
 }
 
@@ -136,46 +136,46 @@ KHM_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "%d 馬軍團"
+	fallback_name = "第%d 馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		80 = { "%d Juntuán" }				# Historical NRA Corps names for Ma divisions
-		81 = { "%d Juntuán" }				
-		82 = { "%d Juntuán" }				
-		102 = { "Xin 2 Juntuán" }				
-		83 = { "%d Juntuán" }				# fictional assignments of NRA division names
-		85 = { "%d Juntuán" }				
-		101 = { "Xin 1 Juntuán" }				
-		103 = { "Xin 3 Juntuán" }				
-		104 = { "Xin 4 Juntuán" }				
-		113 = { "3 Juntuán Linshi" }				
-		111 = { "1 Juntuán Linshi" }				
-		112 = { "2 Juntuán Linshi" }				
-		114 = { "4 Juntuán Linshi" }				
-		115 = { "5 Juntuán Linshi" }				
-		1 = { "%d 馬軍團" }				# fictional warlord corps
-		2 = { "%d 馬軍團" }
-		3 = { "%d 馬軍團" }
-		4 = { "%d 馬軍團" }
-		5 = { "%d 馬軍團" }
-		6 = { "%d 馬軍團" }
-		7 = { "%d 馬軍團" }
-		8 = { "%d 馬軍團" }
-		9 = { "%d 馬軍團" }
-		10 = { "%d 馬軍團" }
-		11 = { "%d 馬軍團" }
-		12 = { "%d 馬軍團" }
-		13 = { "%d 馬軍團" }
-		14 = { "%d 馬軍團" }
-		15 = { "%d 馬軍團" }
-		16 = { "%d 馬軍團" }
-		17 = { "%d 馬軍團" }
-		18 = { "%d 馬軍團" }
-		19 = { "%d 馬軍團" }
-		20 = { "%d 馬軍團" }
+		80 = { "第%d軍團" }				# Historical NRA Corps names for Ma divisions
+		81 = { "第%d軍團" }				
+		82 = { "第%d軍團" }				
+		102 = { "新編第二軍團" }				
+		83 = { "第%d軍團" }				# fictional assignments of NRA division names
+		85 = { "第%d軍團" }				
+		101 = { "新編第一軍團" }				
+		103 = { "新編第三軍團" }				
+		104 = { "新編第四軍團" }				
+		113 = { "暫編第三軍" }				
+		111 = { "暫編第一軍" }				
+		112 = { "暫編第二軍" }				
+		114 = { "暫編第四軍" }				
+		115 = { "暫編第五軍" }				
+		1 = { "第%d 馬軍團" }				# fictional warlord corps
+		2 = { "第%d 馬軍團" }
+		3 = { "第%d 馬軍團" }
+		4 = { "第%d 馬軍團" }
+		5 = { "第%d 馬軍團" }
+		6 = { "第%d 馬軍團" }
+		7 = { "第%d 馬軍團" }
+		8 = { "第%d 馬軍團" }
+		9 = { "第%d 馬軍團" }
+		10 = { "第%d 馬軍團" }
+		11 = { "第%d 馬軍團" }
+		12 = { "第%d 馬軍團" }
+		13 = { "第%d 馬軍團" }
+		14 = { "第%d 馬軍團" }
+		15 = { "第%d 馬軍團" }
+		16 = { "第%d 馬軍團" }
+		17 = { "第%d 馬軍團" }
+		18 = { "第%d 馬軍團" }
+		19 = { "第%d 馬軍團" }
+		20 = { "第%d 馬軍團" }
 	}
 }
 
@@ -192,46 +192,46 @@ KHM_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "%d 馬軍團"
+	fallback_name = "第%d 馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		80 = { "%d Juntuán" }				# Historical NRA Corps names for Ma divisions
-		81 = { "%d Juntuán" }				
-		82 = { "%d Juntuán" }				
-		102 = { "Xin 2 Juntuán" }				
-		83 = { "%d Juntuán" }				# fictional assignments of NRA division names
-		85 = { "%d Juntuán" }				
-		101 = { "Xin 1 Juntuán" }				
-		103 = { "Xin 3 Juntuán" }				
-		104 = { "Xin 4 Juntuán" }				
-		113 = { "3 Juntuán Linshi" }				
-		111 = { "1 Juntuán Linshi" }				
-		112 = { "2 Juntuán Linshi" }				
-		114 = { "4 Juntuán Linshi" }				
-		115 = { "5 Juntuán Linshi" }				
-		1 = { "%d 馬軍團" }				# fictional warlord corps
-		2 = { "%d 馬軍團" }
-		3 = { "%d 馬軍團" }
-		4 = { "%d 馬軍團" }
-		5 = { "%d 馬軍團" }
-		6 = { "%d 馬軍團" }
-		7 = { "%d 馬軍團" }
-		8 = { "%d 馬軍團" }
-		9 = { "%d 馬軍團" }
-		10 = { "%d 馬軍團" }
-		11 = { "%d 馬軍團" }
-		12 = { "%d 馬軍團" }
-		13 = { "%d 馬軍團" }
-		14 = { "%d 馬軍團" }
-		15 = { "%d 馬軍團" }
-		16 = { "%d 馬軍團" }
-		17 = { "%d 馬軍團" }
-		18 = { "%d 馬軍團" }
-		19 = { "%d 馬軍團" }
-		20 = { "%d 馬軍團" }
+		80 = { "第%d軍團" }				# Historical NRA Corps names for Ma divisions
+		81 = { "第%d軍團" }				
+		82 = { "第%d軍團" }				
+		102 = { "新編第二軍團" }				
+		83 = { "第%d軍團" }				# fictional assignments of NRA division names
+		85 = { "第%d軍團" }				
+		101 = { "新編第一軍團" }				
+		103 = { "新編第三軍團" }				
+		104 = { "新編第四軍團" }				
+		113 = { "暫編第三軍" }				
+		111 = { "暫編第一軍" }				
+		112 = { "暫編第二軍" }				
+		114 = { "暫編第四軍" }				
+		115 = { "暫編第五軍" }				
+		1 = { "第%d 馬軍團" }				# fictional warlord corps
+		2 = { "第%d 馬軍團" }
+		3 = { "第%d 馬軍團" }
+		4 = { "第%d 馬軍團" }
+		5 = { "第%d 馬軍團" }
+		6 = { "第%d 馬軍團" }
+		7 = { "第%d 馬軍團" }
+		8 = { "第%d 馬軍團" }
+		9 = { "第%d 馬軍團" }
+		10 = { "第%d 馬軍團" }
+		11 = { "第%d 馬軍團" }
+		12 = { "第%d 馬軍團" }
+		13 = { "第%d 馬軍團" }
+		14 = { "第%d 馬軍團" }
+		15 = { "第%d 馬軍團" }
+		16 = { "第%d 馬軍團" }
+		17 = { "第%d 馬軍團" }
+		18 = { "第%d 馬軍團" }
+		19 = { "第%d 馬軍團" }
+		20 = { "第%d 馬軍團" }
 	}
 }
 
@@ -252,46 +252,46 @@ KHM_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { KHM_INF_01 }
 
-	fallback_name = "%d 馬軍團"
+	fallback_name = "第%d 馬軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		80 = { "%d Juntuán" }				# Historical NRA Corps names for Ma divisions
-		81 = { "%d Juntuán" }				
-		82 = { "%d Juntuán" }				
-		102 = { "Xin 2 Juntuán" }				
-		83 = { "%d Juntuán" }				# fictional assignments of NRA division names
-		85 = { "%d Juntuán" }				
-		101 = { "Xin 1 Juntuán" }				
-		103 = { "Xin 3 Juntuán" }				
-		104 = { "Xin 4 Juntuán" }				
-		113 = { "3 Juntuán Linshi" }				
-		111 = { "1 Juntuán Linshi" }				
-		112 = { "2 Juntuán Linshi" }				
-		114 = { "4 Juntuán Linshi" }				
-		115 = { "5 Juntuán Linshi" }				
-		1 = { "%d 馬軍團" }				# fictional warlord corps
-		2 = { "%d 馬軍團" }
-		3 = { "%d 馬軍團" }
-		4 = { "%d 馬軍團" }
-		5 = { "%d 馬軍團" }
-		6 = { "%d 馬軍團" }
-		7 = { "%d 馬軍團" }
-		8 = { "%d 馬軍團" }
-		9 = { "%d 馬軍團" }
-		10 = { "%d 馬軍團" }
-		11 = { "%d 馬軍團" }
-		12 = { "%d 馬軍團" }
-		13 = { "%d 馬軍團" }
-		14 = { "%d 馬軍團" }
-		15 = { "%d 馬軍團" }
-		16 = { "%d 馬軍團" }
-		17 = { "%d 馬軍團" }
-		18 = { "%d 馬軍團" }
-		19 = { "%d 馬軍團" }
-		20 = { "%d 馬軍團" }
+		80 = { "第%d軍團" }				# Historical NRA Corps names for Ma divisions
+		81 = { "第%d軍團" }				
+		82 = { "第%d軍團" }				
+		102 = { "新編第二軍團" }				
+		83 = { "第%d軍團" }				# fictional assignments of NRA division names
+		85 = { "第%d軍團" }				
+		101 = { "新編第一軍團" }				
+		103 = { "新編第三軍團" }				
+		104 = { "新編第四軍團" }				
+		113 = { "暫編第三軍" }				
+		111 = { "暫編第一軍" }				
+		112 = { "暫編第二軍" }				
+		114 = { "暫編第四軍" }				
+		115 = { "暫編第五軍" }				
+		1 = { "第%d 馬軍團" }				# fictional warlord corps
+		2 = { "第%d 馬軍團" }
+		3 = { "第%d 馬軍團" }
+		4 = { "第%d 馬軍團" }
+		5 = { "第%d 馬軍團" }
+		6 = { "第%d 馬軍團" }
+		7 = { "第%d 馬軍團" }
+		8 = { "第%d 馬軍團" }
+		9 = { "第%d 馬軍團" }
+		10 = { "第%d 馬軍團" }
+		11 = { "第%d 馬軍團" }
+		12 = { "第%d 馬軍團" }
+		13 = { "第%d 馬軍團" }
+		14 = { "第%d 馬軍團" }
+		15 = { "第%d 馬軍團" }
+		16 = { "第%d 馬軍團" }
+		17 = { "第%d 馬軍團" }
+		18 = { "第%d 馬軍團" }
+		19 = { "第%d 馬軍團" }
+		20 = { "第%d 馬軍團" }
 	}
 }
 
@@ -308,25 +308,25 @@ KHM_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Ma Jingbei"
+	fallback_name = "第%d Ma警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		101 = { "1 Golmud Jingbei" }		# All fictional names for local militias
-		111 = { "1 Ningxia Jingbei" }		
-		121 = { "1 Qinghai Jingbei" }
-		102 = { "2 Golmud Jingbei" }
-		103 = { "3 Golmud Jingbei" }
-		112 = { "2 Ningxia Jingbei" }
-		113 = { "3 Ningxia Jingbei" }
-		122 = { "2 Qinghai Jingbei" }
-		104 = { "4 Golmud Jingbei" }
-		105 = { "5 Golmud Jingbei" }
-		123 = { "3 Qinghai Jingbei" }
-		114 = { "1 Qinghai Jingbei" }
-		115 = { "2 Qinghai Jingbei" }
+		101 = { "1 Golmud警備" }		# All fictional names for local militias
+		111 = { "1 Ningxia警備" }		
+		121 = { "1 Qinghai警備" }
+		102 = { "2 Golmud警備" }
+		103 = { "3 Golmud警備" }
+		112 = { "2 Ningxia警備" }
+		113 = { "3 Ningxia警備" }
+		122 = { "2 Qinghai警備" }
+		104 = { "4 Golmud警備" }
+		105 = { "5 Golmud警備" }
+		123 = { "3 Qinghai警備" }
+		114 = { "1 Qinghai警備" }
+		115 = { "2 Qinghai警備" }
 		131 = { "Ningxia Baoan Ke" }		
 		132 = { "1 Tianshui Baoan Ke" }		
 		133 = { "1 Golmud Baoan Ke" }		
@@ -337,16 +337,16 @@ KHM_GAR_01 =
 		138 = { "Qinghai Baoan Ke" }		
 		139 = { "1 Gansu Baoan Ke" }		
 		140 = { "2 Gansu Baoan Ke" }		
-		1 = { "%d Ma Jingbei" }		
-		2 = { "%d Ma Jingbei" }		
-		3 = { "%d Ma Jingbei" }		
-		4 = { "%d Ma Jingbei" }		
-		5 = { "%d Ma Jingbei" }		
-		6 = { "%d Ma Jingbei" }		
-		7 = { "%d Ma Jingbei" }		
-		8 = { "%d Ma Jingbei" }		
-		9 = { "%d Ma Jingbei" }		
-		10 = { "%d Ma Jingbei" }		
+		1 = { "第%d Ma警備" }		
+		2 = { "第%d Ma警備" }		
+		3 = { "第%d Ma警備" }		
+		4 = { "第%d Ma警備" }		
+		5 = { "第%d Ma警備" }		
+		6 = { "第%d Ma警備" }		
+		7 = { "第%d Ma警備" }		
+		8 = { "第%d Ma警備" }		
+		9 = { "第%d Ma警備" }		
+		10 = { "第%d Ma警備" }		
 	}
 }
 
