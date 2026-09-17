@@ -5,7 +5,7 @@
 
 	type = codename
 
-	fallback_name = "特工 %d"
+	fallback_name = "特工%d"
 
 	unique = {
 		"周"
