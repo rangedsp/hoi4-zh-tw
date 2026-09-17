@@ -116,16 +116,16 @@ PRC_CAV_01 =
 		7 = { "%d路綫騎兵軍" }
 		8 = { "%d路綫騎兵軍" }
 		9 = { "%d路綫騎兵軍" }
-		10 = { "十路綫騎兵軍" }
+		10 = { "10路綫騎兵軍" }
 		104 = { "新編4路綫騎兵軍" }
 		108 = { "新編8路綫騎兵軍" }
 		106 = { "新編6路綫騎兵軍" }
-		11 = { "十1路綫騎兵軍" }
-		12 = { "十2路綫騎兵軍" }
-		13 = { "十3路綫騎兵軍" }
-		14 = { "十4路綫騎兵軍" }
-		15 = { "十5路綫騎兵軍" }
-		16 = { "十6路綫騎兵軍" }
+		11 = { "11路綫騎兵軍" }
+		12 = { "12路綫騎兵軍" }
+		13 = { "13路綫騎兵軍" }
+		14 = { "14路綫騎兵軍" }
+		15 = { "15路綫騎兵軍" }
+		16 = { "16路綫騎兵軍" }
 		101 = { "新編1路綫騎兵軍" }
 		102 = { "新編2路綫騎兵軍" }
 		103 = { "新編3路綫騎兵軍" }
@@ -325,37 +325,37 @@ PRC_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Shensi軍團"
+	fallback_name = "%d山西軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Shensi軍團" }		# All fictional names for local militias
-		2 = { "%d Shensi軍團" }		
-		3 = { "%d Shensi軍團" }		
-		4 = { "%d Shensi軍團" }		
-		5 = { "%d Shensi軍團" }		
+		1 = { "%d山西軍團" }		# All fictional names for local militias
+		2 = { "%d山西軍團" }		
+		3 = { "%d山西軍團" }		
+		4 = { "%d山西軍團" }		
+		5 = { "%d山西軍團" }		
 		101 = { "1延安警備" }		
 		102 = { "2延安警備" }
 		103 = { "3延安警備" }
 		104 = { "4延安警備" }
 		105 = { "5延安警備" }
-		6 = { "%d Shensi軍團" }		
-		7 = { "%d Shensi軍團" }		
-		8 = { "%d Shensi軍團" }		
-		9 = { "%d Shensi軍團" }		
-		10 = { "十 Shensi軍團" }		
-		11 = { "十1 Shensi軍團" }		
-		12 = { "十2 Shensi軍團" }		
+		6 = { "%d山西軍團" }		
+		7 = { "%d山西軍團" }		
+		8 = { "%d山西軍團" }		
+		9 = { "%d山西軍團" }		
+		10 = { "10山西軍團" }		
+		11 = { "11山西軍團" }		
+		12 = { "12山西軍團" }		
 		106 = { "6延安警備" }
 		107 = { "7延安警備" }
 		108 = { "8延安警備" }
 		109 = { "9延安警備" }
 		110 = { "10延安警備" }
-		13 = { "十3 Shensi軍團" }		
-		14 = { "十4 Shensi軍團" }		
-		15 = { "十5 Shensi軍團" }		
+		13 = { "13山西軍團" }		
+		14 = { "14山西軍團" }		
+		15 = { "15山西軍團" }		
 	}
 }
 
@@ -373,37 +373,37 @@ PRC_MIL_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Shensi軍團"
+	fallback_name = "%d山西軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d Shensi軍團" }		# All fictional names for local militias
-		2 = { "%d Shensi軍團" }		
-		3 = { "%d Shensi軍團" }		
-		4 = { "%d Shensi軍團" }		
-		5 = { "%d Shensi軍團" }		
+		1 = { "%d山西軍團" }		# All fictional names for local militias
+		2 = { "%d山西軍團" }		
+		3 = { "%d山西軍團" }		
+		4 = { "%d山西軍團" }		
+		5 = { "%d山西軍團" }		
 		101 = { "1延安警備" }		
 		102 = { "2延安警備" }
 		103 = { "3延安警備" }
 		104 = { "4延安警備" }
 		105 = { "5延安警備" }
-		6 = { "%d Shensi軍團" }		
-		7 = { "%d Shensi軍團" }		
-		8 = { "%d Shensi軍團" }		
-		9 = { "%d Shensi軍團" }		
-		10 = { "十 Shensi軍團" }		
-		11 = { "十1 Shensi軍團" }		
-		12 = { "十2 Shensi軍團" }		
+		6 = { "%d山西軍團" }		
+		7 = { "%d山西軍團" }		
+		8 = { "%d山西軍團" }		
+		9 = { "%d山西軍團" }		
+		10 = { "10山西軍團" }		
+		11 = { "11山西軍團" }		
+		12 = { "12山西軍團" }		
 		106 = { "6延安警備" }
 		107 = { "7延安警備" }
 		108 = { "8延安警備" }
 		109 = { "9延安警備" }
 		110 = { "10延安警備" }
-		13 = { "十3 Shensi軍團" }		
-		14 = { "十4 Shensi軍團" }		
-		15 = { "十5 Shensi軍團" }		
+		13 = { "13山西軍團" }		
+		14 = { "14山西軍團" }		
+		15 = { "15山西軍團" }		
 	}
 }
 
@@ -420,6 +420,6 @@ PRC_MIL_02 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "%d Mínbīng"
+	fallback_name = "%d民兵"
 }
 

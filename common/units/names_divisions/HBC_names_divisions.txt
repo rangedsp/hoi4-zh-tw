@@ -43,32 +43,32 @@ HBC_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "第%d Hebei軍團"
+	fallback_name = "第%d河北軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Hebei軍團" }			# fictional warlord corps
-		2 = { "第%d Hebei軍團" }			
-		3 = { "第%d Hebei軍團" }			
-		4 = { "第%d Hebei軍團" }			
-		5 = { "第%d Hebei軍團" }			
-		6 = { "第%d Hebei軍團" }			
-		7 = { "第%d Hebei軍團" }			
-		8 = { "第%d Hebei軍團" }			
-		9 = { "第%d Hebei軍團" }			
-		10 = { "第十 Hebei軍團" }		
-		11 = { "第十1 Hebei軍團" }		
-		12 = { "第十2 Hebei軍團" }		
-		13 = { "第十3 Hebei軍團" }		
-		14 = { "第十4 Hebei軍團" }		
-		15 = { "第十5 Hebei軍團" }		
-		16 = { "第十6 Hebei軍團" }		
-		17 = { "第十7 Hebei軍團" }		
-		18 = { "第十8 Hebei軍團" }		
-		19 = { "第十9 Hebei軍團" }		
-		20 = { "第2十 Hebei軍團" }		
+		1 = { "第一河北軍團" }			# fictional warlord corps
+		2 = { "第二河北軍團" }			
+		3 = { "第三河北軍團" }			
+		4 = { "第四河北軍團" }			
+		5 = { "第五河北軍團" }			
+		6 = { "第六河北軍團" }			
+		7 = { "第七河北軍團" }			
+		8 = { "第八河北軍團" }			
+		9 = { "第九河北軍團" }			
+		10 = { "第十河北軍團" }		
+		11 = { "第十一河北軍團" }		
+		12 = { "第十二河北軍團" }		
+		13 = { "第十三河北軍團" }		
+		14 = { "第十四河北軍團" }		
+		15 = { "第十五河北軍團" }		
+		16 = { "第十六河北軍團" }		
+		17 = { "第十七河北軍團" }		
+		18 = { "第十八河北軍團" }		
+		19 = { "第十九河北軍團" }		
+		20 = { "第二十河北軍團" }		
 	}
 }
 
@@ -85,27 +85,27 @@ HBC_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Hebei騎兵軍"
+	fallback_name = "第%d河北騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Hebei騎兵軍" }			# All fictional warlord cavalry corps
-		2 = { "第%d Hebei騎兵軍" }
-		3 = { "第%d Hebei騎兵軍" }
-		4 = { "第%d Hebei騎兵軍" }
-		6 = { "第%d Hebei騎兵軍" }
-		5 = { "第%d Hebei騎兵軍" }
-		7 = { "第%d Hebei騎兵軍" }
-		8 = { "第%d Hebei騎兵軍" }
-		9 = { "第%d Hebei騎兵軍" }
-		10 = { "第十 Hebei騎兵軍" }
-		11 = { "第十1 Hebei騎兵軍" }
-		12 = { "第十2 Hebei騎兵軍" }
-		13 = { "第十3 Hebei騎兵軍" }
-		14 = { "第十4 Hebei騎兵軍" }
-		15 = { "第十5 Hebei騎兵軍" }
+		1 = { "第一河北騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第二河北騎兵軍" }
+		3 = { "第三河北騎兵軍" }
+		4 = { "第四河北騎兵軍" }
+		6 = { "第六河北騎兵軍" }
+		5 = { "第五河北騎兵軍" }
+		7 = { "第七河北騎兵軍" }
+		8 = { "第八河北騎兵軍" }
+		9 = { "第九河北騎兵軍" }
+		10 = { "第十河北騎兵軍" }
+		11 = { "第十一河北騎兵軍" }
+		12 = { "第十二河北騎兵軍" }
+		13 = { "第十三河北騎兵軍" }
+		14 = { "第十四河北騎兵軍" }
+		15 = { "第十五河北騎兵軍" }
 	}
 }
 
@@ -122,32 +122,32 @@ HBC_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "第%d Hebei軍團"
+	fallback_name = "第%d河北軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Hebei軍團" }			# fictional warlord corps
-		2 = { "第%d Hebei軍團" }			
-		3 = { "第%d Hebei軍團" }			
-		4 = { "第%d Hebei軍團" }			
-		5 = { "第%d Hebei軍團" }			
-		6 = { "第%d Hebei軍團" }			
-		7 = { "第%d Hebei軍團" }			
-		8 = { "第%d Hebei軍團" }			
-		9 = { "第%d Hebei軍團" }			
-		10 = { "第十 Hebei軍團" }		
-		11 = { "第十1 Hebei軍團" }		
-		12 = { "第十2 Hebei軍團" }		
-		13 = { "第十3 Hebei軍團" }		
-		14 = { "第十4 Hebei軍團" }		
-		15 = { "第十5 Hebei軍團" }		
-		16 = { "第十6 Hebei軍團" }		
-		17 = { "第十7 Hebei軍團" }		
-		18 = { "第十8 Hebei軍團" }		
-		19 = { "第十9 Hebei軍團" }		
-		20 = { "第2十 Hebei軍團" }		
+		1 = { "第一河北軍團" }			# fictional warlord corps
+		2 = { "第二河北軍團" }			
+		3 = { "第三河北軍團" }			
+		4 = { "第四河北軍團" }			
+		5 = { "第五河北軍團" }			
+		6 = { "第六河北軍團" }			
+		7 = { "第七河北軍團" }			
+		8 = { "第八河北軍團" }			
+		9 = { "第九河北軍團" }			
+		10 = { "第十河北軍團" }		
+		11 = { "第十一河北軍團" }		
+		12 = { "第十二河北軍團" }		
+		13 = { "第十三河北軍團" }		
+		14 = { "第十四河北軍團" }		
+		15 = { "第十五河北軍團" }		
+		16 = { "第十六河北軍團" }		
+		17 = { "第十七河北軍團" }		
+		18 = { "第十八河北軍團" }		
+		19 = { "第十九河北軍團" }		
+		20 = { "第二十河北軍團" }		
 	}
 }
 
@@ -164,32 +164,32 @@ HBC_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "第%d Hebei軍團"
+	fallback_name = "第%d河北軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Hebei軍團" }			# fictional warlord corps
-		2 = { "第%d Hebei軍團" }			
-		3 = { "第%d Hebei軍團" }			
-		4 = { "第%d Hebei軍團" }			
-		5 = { "第%d Hebei軍團" }			
-		6 = { "第%d Hebei軍團" }			
-		7 = { "第%d Hebei軍團" }			
-		8 = { "第%d Hebei軍團" }			
-		9 = { "第%d Hebei軍團" }			
-		10 = { "第十 Hebei軍團" }		
-		11 = { "第十1 Hebei軍團" }		
-		12 = { "第十2 Hebei軍團" }		
-		13 = { "第十3 Hebei軍團" }		
-		14 = { "第十4 Hebei軍團" }		
-		15 = { "第十5 Hebei軍團" }		
-		16 = { "第十6 Hebei軍團" }		
-		17 = { "第十7 Hebei軍團" }		
-		18 = { "第十8 Hebei軍團" }		
-		19 = { "第十9 Hebei軍團" }		
-		20 = { "第2十 Hebei軍團" }		
+		1 = { "第一河北軍團" }			# fictional warlord corps
+		2 = { "第二河北軍團" }			
+		3 = { "第三河北軍團" }			
+		4 = { "第四河北軍團" }			
+		5 = { "第五河北軍團" }			
+		6 = { "第六河北軍團" }			
+		7 = { "第七河北軍團" }			
+		8 = { "第八河北軍團" }			
+		9 = { "第九河北軍團" }			
+		10 = { "第十河北軍團" }		
+		11 = { "第十一河北軍團" }		
+		12 = { "第十二河北軍團" }		
+		13 = { "第十三河北軍團" }		
+		14 = { "第十四河北軍團" }		
+		15 = { "第十五河北軍團" }		
+		16 = { "第十六河北軍團" }		
+		17 = { "第十七河北軍團" }		
+		18 = { "第十八河北軍團" }		
+		19 = { "第十九河北軍團" }		
+		20 = { "第二十河北軍團" }		
 	}
 }
 
@@ -210,32 +210,32 @@ HBC_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { HBC_INF_01 }
 
-	fallback_name = "第%d Hebei軍團"
+	fallback_name = "第%d河北軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Hebei軍團" }			# fictional warlord corps
-		2 = { "第%d Hebei軍團" }			
-		3 = { "第%d Hebei軍團" }			
-		4 = { "第%d Hebei軍團" }			
-		5 = { "第%d Hebei軍團" }			
-		6 = { "第%d Hebei軍團" }			
-		7 = { "第%d Hebei軍團" }			
-		8 = { "第%d Hebei軍團" }			
-		9 = { "第%d Hebei軍團" }			
-		10 = { "第十 Hebei軍團" }		
-		11 = { "第十1 Hebei軍團" }		
-		12 = { "第十2 Hebei軍團" }		
-		13 = { "第十3 Hebei軍團" }		
-		14 = { "第十4 Hebei軍團" }		
-		15 = { "第十5 Hebei軍團" }		
-		16 = { "第十6 Hebei軍團" }		
-		17 = { "第十7 Hebei軍團" }		
-		18 = { "第十8 Hebei軍團" }		
-		19 = { "第十9 Hebei軍團" }		
-		20 = { "第2十 Hebei軍團" }		
+		1 = { "第一河北軍團" }			# fictional warlord corps
+		2 = { "第二河北軍團" }			
+		3 = { "第三河北軍團" }			
+		4 = { "第四河北軍團" }			
+		5 = { "第五河北軍團" }			
+		6 = { "第六河北軍團" }			
+		7 = { "第七河北軍團" }			
+		8 = { "第八河北軍團" }			
+		9 = { "第九河北軍團" }			
+		10 = { "第十河北軍團" }		
+		11 = { "第十一河北軍團" }		
+		12 = { "第十二河北軍團" }		
+		13 = { "第十三河北軍團" }		
+		14 = { "第十四河北軍團" }		
+		15 = { "第十五河北軍團" }		
+		16 = { "第十六河北軍團" }		
+		17 = { "第十七河北軍團" }		
+		18 = { "第十八河北軍團" }		
+		19 = { "第十九河北軍團" }		
+		20 = { "第二十河北軍團" }		
 	}
 }
 
@@ -252,39 +252,39 @@ HBC_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Hebei警備"
+	fallback_name = "第%d河北警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		101 = { "1察哈爾警備" }		# All fictional names for local militias
-		111 = { "1 Beiping警備" }		
-		102 = { "2察哈爾警備" }
-		103 = { "3察哈爾警備" }
-		112 = { "2 Beiping警備" }
-		113 = { "3 Beiping警備" }
-		104 = { "4察哈爾警備" }
-		105 = { "5察哈爾警備" }
-		114 = { "4 Beiping警備" }
-		115 = { "5 Beiping警備" }
-		131 = { "Hebei保安科" }		
-		132 = { "1察哈爾保安科" }		
-		133 = { "1 Tianjin保安科" }		
-		134 = { "2 Tianjin保安科" }		
-		135 = { "3 Tianjin保安科" }		
-		136 = { "2察哈爾保安科" }		
-		137 = { "3察哈爾保安科" }		
-		1 = { "第%d Hebei警備" }		
-		2 = { "第%d Hebei警備" }		
-		3 = { "第%d Hebei警備" }		
-		4 = { "第%d Hebei警備" }		
-		5 = { "第%d Hebei警備" }		
-		6 = { "第%d Hebei警備" }		
-		7 = { "第%d Hebei警備" }		
-		8 = { "第%d Hebei警備" }		
-		9 = { "第%d Hebei警備" }		
-		10 = { "第十 Hebei警備" }		
+		101 = { "第一察哈爾警備" }		# All fictional names for local militias
+		111 = { "第一北平警備" }		
+		102 = { "第二察哈爾警備" }
+		103 = { "第三察哈爾警備" }
+		112 = { "第二北平警備" }
+		113 = { "第三北平警備" }
+		104 = { "第四察哈爾警備" }
+		105 = { "第五察哈爾警備" }
+		114 = { "第四北平警備" }
+		115 = { "第五北平警備" }
+		131 = { "河北保安科" }		
+		132 = { "第一察哈爾保安科" }		
+		133 = { "第一天津保安科" }		
+		134 = { "第二天津保安科" }		
+		135 = { "第三天津保安科" }		
+		136 = { "第二察哈爾保安科" }		
+		137 = { "第三察哈爾保安科" }		
+		1 = { "第一河北警備" }		
+		2 = { "第二河北警備" }		
+		3 = { "第三河北警備" }		
+		4 = { "第四河北警備" }		
+		5 = { "第五河北警備" }		
+		6 = { "第六河北警備" }		
+		7 = { "第七河北警備" }		
+		8 = { "第八河北警備" }		
+		9 = { "第九河北警備" }		
+		10 = { "第十河北警備" }		
 	}
 }
 

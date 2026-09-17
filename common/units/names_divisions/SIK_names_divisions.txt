@@ -43,32 +43,32 @@ SIK_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { SIK_INF_01 }
 
-	fallback_name = "第%d Xin'jiang軍團"
+	fallback_name = "第%d新疆軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Xin'jiang軍團" }		# fictional warlord corps
-		2 = { "第%d Xin'jiang軍團" }
-		3 = { "第%d Xin'jiang軍團" }
-		4 = { "第%d Xin'jiang軍團" }
-		5 = { "第%d Xin'jiang軍團" }
-		6 = { "第%d Xin'jiang軍團" }
-		7 = { "第%d Xin'jiang軍團" }
-		8 = { "第%d Xin'jiang軍團" }
-		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第十 Xin'jiang軍團" }
-		11 = { "第十1 Xin'jiang軍團" }
-		12 = { "第十2 Xin'jiang軍團" }
-		13 = { "第十3 Xin'jiang軍團" }
-		14 = { "第十4 Xin'jiang軍團" }
-		15 = { "第十5 Xin'jiang軍團" }
-		16 = { "第十6 Xin'jiang軍團" }
-		17 = { "第十7 Xin'jiang軍團" }
-		18 = { "第十8 Xin'jiang軍團" }
-		19 = { "第十9 Xin'jiang軍團" }
-		20 = { "第2十 Xin'jiang軍團" }
+		1 = { "第一新疆軍團" }		# fictional warlord corps
+		2 = { "第二新疆軍團" }
+		3 = { "第三新疆軍團" }
+		4 = { "第四新疆軍團" }
+		5 = { "第五新疆軍團" }
+		6 = { "第六新疆軍團" }
+		7 = { "第七新疆軍團" }
+		8 = { "第八新疆軍團" }
+		9 = { "第九新疆軍團" }
+		10 = { "第十新疆軍團" }
+		11 = { "第十一新疆軍團" }
+		12 = { "第十二新疆軍團" }
+		13 = { "第十三新疆軍團" }
+		14 = { "第十四新疆軍團" }
+		15 = { "第十五新疆軍團" }
+		16 = { "第十六新疆軍團" }
+		17 = { "第十七新疆軍團" }
+		18 = { "第十八新疆軍團" }
+		19 = { "第十九新疆軍團" }
+		20 = { "第二十新疆軍團" }
 	}
 }
 
@@ -85,27 +85,27 @@ SIK_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Xin'jiang騎兵軍"
+	fallback_name = "第%d新疆騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Xin'jiang騎兵軍" }			# All fictional warlord cavalry corps
-		2 = { "第%d Xin'jiang騎兵軍" }
-		3 = { "第%d Xin'jiang騎兵軍" }
-		4 = { "第%d Xin'jiang騎兵軍" }
-		6 = { "第%d Xin'jiang騎兵軍" }
-		5 = { "第%d Xin'jiang騎兵軍" }
-		7 = { "第%d Xin'jiang騎兵軍" }
-		8 = { "第%d Xin'jiang騎兵軍" }
-		9 = { "第%d Xin'jiang騎兵軍" }
-		10 = { "第十 Xin'jiang騎兵軍" }
-		11 = { "第十1 Xin'jiang騎兵軍" }
-		12 = { "第十2 Xin'jiang騎兵軍" }
-		13 = { "第十3 Xin'jiang騎兵軍" }
-		14 = { "第十4 Xin'jiang騎兵軍" }
-		15 = { "第十5 Xin'jiang騎兵軍" }
+		1 = { "第一新疆騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第二新疆騎兵軍" }
+		3 = { "第三新疆騎兵軍" }
+		4 = { "第四新疆騎兵軍" }
+		6 = { "第六新疆騎兵軍" }
+		5 = { "第五新疆騎兵軍" }
+		7 = { "第七新疆騎兵軍" }
+		8 = { "第八新疆騎兵軍" }
+		9 = { "第九新疆騎兵軍" }
+		10 = { "第十新疆騎兵軍" }
+		11 = { "第十一新疆騎兵軍" }
+		12 = { "第十二新疆騎兵軍" }
+		13 = { "第十三新疆騎兵軍" }
+		14 = { "第十四新疆騎兵軍" }
+		15 = { "第十五新疆騎兵軍" }
 	}
 }
 
@@ -122,32 +122,32 @@ SIK_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { SIK_INF_01 }
 
-	fallback_name = "第%d Xin'jiang軍團"
+	fallback_name = "第%d新疆軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Xin'jiang軍團" }		# fictional warlord corps
-		2 = { "第%d Xin'jiang軍團" }
-		3 = { "第%d Xin'jiang軍團" }
-		4 = { "第%d Xin'jiang軍團" }
-		5 = { "第%d Xin'jiang軍團" }
-		6 = { "第%d Xin'jiang軍團" }
-		7 = { "第%d Xin'jiang軍團" }
-		8 = { "第%d Xin'jiang軍團" }
-		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第十 Xin'jiang軍團" }
-		11 = { "第十1 Xin'jiang軍團" }
-		12 = { "第十2 Xin'jiang軍團" }
-		13 = { "第十3 Xin'jiang軍團" }
-		14 = { "第十4 Xin'jiang軍團" }
-		15 = { "第十5 Xin'jiang軍團" }
-		16 = { "第十6 Xin'jiang軍團" }
-		17 = { "第十7 Xin'jiang軍團" }
-		18 = { "第十8 Xin'jiang軍團" }
-		19 = { "第十9 Xin'jiang軍團" }
-		20 = { "第2十 Xin'jiang軍團" }
+		1 = { "第一新疆軍團" }		# fictional warlord corps
+		2 = { "第二新疆軍團" }
+		3 = { "第三新疆軍團" }
+		4 = { "第四新疆軍團" }
+		5 = { "第五新疆軍團" }
+		6 = { "第六新疆軍團" }
+		7 = { "第七新疆軍團" }
+		8 = { "第八新疆軍團" }
+		9 = { "第九新疆軍團" }
+		10 = { "第十新疆軍團" }
+		11 = { "第十一新疆軍團" }
+		12 = { "第十二新疆軍團" }
+		13 = { "第十三新疆軍團" }
+		14 = { "第十四新疆軍團" }
+		15 = { "第十五新疆軍團" }
+		16 = { "第十六新疆軍團" }
+		17 = { "第十七新疆軍團" }
+		18 = { "第十八新疆軍團" }
+		19 = { "第十九新疆軍團" }
+		20 = { "第二十新疆軍團" }
 	}
 }
 
@@ -164,32 +164,32 @@ SIK_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { SIK_INF_01 }
 
-	fallback_name = "第%d Xin'jiang軍團"
+	fallback_name = "第%d新疆軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Xin'jiang軍團" }		# fictional warlord corps
-		2 = { "第%d Xin'jiang軍團" }
-		3 = { "第%d Xin'jiang軍團" }
-		4 = { "第%d Xin'jiang軍團" }
-		5 = { "第%d Xin'jiang軍團" }
-		6 = { "第%d Xin'jiang軍團" }
-		7 = { "第%d Xin'jiang軍團" }
-		8 = { "第%d Xin'jiang軍團" }
-		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第十 Xin'jiang軍團" }
-		11 = { "第十1 Xin'jiang軍團" }
-		12 = { "第十2 Xin'jiang軍團" }
-		13 = { "第十3 Xin'jiang軍團" }
-		14 = { "第十4 Xin'jiang軍團" }
-		15 = { "第十5 Xin'jiang軍團" }
-		16 = { "第十6 Xin'jiang軍團" }
-		17 = { "第十7 Xin'jiang軍團" }
-		18 = { "第十8 Xin'jiang軍團" }
-		19 = { "第十9 Xin'jiang軍團" }
-		20 = { "第2十 Xin'jiang軍團" }
+		1 = { "第一新疆軍團" }		# fictional warlord corps
+		2 = { "第二新疆軍團" }
+		3 = { "第三新疆軍團" }
+		4 = { "第四新疆軍團" }
+		5 = { "第五新疆軍團" }
+		6 = { "第六新疆軍團" }
+		7 = { "第七新疆軍團" }
+		8 = { "第八新疆軍團" }
+		9 = { "第九新疆軍團" }
+		10 = { "第十新疆軍團" }
+		11 = { "第十一新疆軍團" }
+		12 = { "第十二新疆軍團" }
+		13 = { "第十三新疆軍團" }
+		14 = { "第十四新疆軍團" }
+		15 = { "第十五新疆軍團" }
+		16 = { "第十六新疆軍團" }
+		17 = { "第十七新疆軍團" }
+		18 = { "第十八新疆軍團" }
+		19 = { "第十九新疆軍團" }
+		20 = { "第二十新疆軍團" }
 	}
 }
 
@@ -210,32 +210,32 @@ SIK_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { SIK_INF_01 }
 
-	fallback_name = "第%d Xin'jiang軍團"
+	fallback_name = "第%d新疆軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Xin'jiang軍團" }		# fictional warlord corps
-		2 = { "第%d Xin'jiang軍團" }
-		3 = { "第%d Xin'jiang軍團" }
-		4 = { "第%d Xin'jiang軍團" }
-		5 = { "第%d Xin'jiang軍團" }
-		6 = { "第%d Xin'jiang軍團" }
-		7 = { "第%d Xin'jiang軍團" }
-		8 = { "第%d Xin'jiang軍團" }
-		9 = { "第%d Xin'jiang軍團" }
-		10 = { "第十 Xin'jiang軍團" }
-		11 = { "第十1 Xin'jiang軍團" }
-		12 = { "第十2 Xin'jiang軍團" }
-		13 = { "第十3 Xin'jiang軍團" }
-		14 = { "第十4 Xin'jiang軍團" }
-		15 = { "第十5 Xin'jiang軍團" }
-		16 = { "第十6 Xin'jiang軍團" }
-		17 = { "第十7 Xin'jiang軍團" }
-		18 = { "第十8 Xin'jiang軍團" }
-		19 = { "第十9 Xin'jiang軍團" }
-		20 = { "第2十 Xin'jiang軍團" }
+		1 = { "第一新疆軍團" }		# fictional warlord corps
+		2 = { "第二新疆軍團" }
+		3 = { "第三新疆軍團" }
+		4 = { "第四新疆軍團" }
+		5 = { "第五新疆軍團" }
+		6 = { "第六新疆軍團" }
+		7 = { "第七新疆軍團" }
+		8 = { "第八新疆軍團" }
+		9 = { "第九新疆軍團" }
+		10 = { "第十新疆軍團" }
+		11 = { "第十一新疆軍團" }
+		12 = { "第十二新疆軍團" }
+		13 = { "第十三新疆軍團" }
+		14 = { "第十四新疆軍團" }
+		15 = { "第十五新疆軍團" }
+		16 = { "第十六新疆軍團" }
+		17 = { "第十七新疆軍團" }
+		18 = { "第十八新疆軍團" }
+		19 = { "第十九新疆軍團" }
+		20 = { "第二十新疆軍團" }
 	}
 }
 
@@ -252,40 +252,40 @@ SIK_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Xin'jiang警備"
+	fallback_name = "第%d新疆警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		101 = { "1 Urumqi警備" }			# All fictional names for local militias
-		111 = { "1 Talamakan警備" }		
-		121 = { "1 Yarkand警備" }
-		102 = { "2 Urumqi警備" }
-		103 = { "3 Urumqi警備" }
-		112 = { "2 Talamakan警備" }
-		113 = { "3 Talamakan警備" }
-		122 = { "2 Yarkand警備" }
-		104 = { "4 Urumqi警備" }
-		105 = { "5 Urumqi警備" }
-		123 = { "3 Yarkand警備" }
-		124 = { "4 Yarkand警備" }
-		114 = { "4 Talamakan警備" }
-		115 = { "5 Talamakan警備" }
-		125 = { "5 Yarkand警備" }
-		131 = { "1 Urumqi保安科" }		
-		132 = { "2 Urumqi保安科" }		
-		133 = { "3 Urumqi保安科" }		
-		1 = { "第%d Xin'jiang警備" }		
-		2 = { "第%d Xin'jiang警備" }		
-		3 = { "第%d Xin'jiang警備" }		
-		4 = { "第%d Xin'jiang警備" }		
-		5 = { "第%d Xin'jiang警備" }		
-		6 = { "第%d Xin'jiang警備" }		
-		7 = { "第%d Xin'jiang警備" }		
-		8 = { "第%d Xin'jiang警備" }		
-		9 = { "第%d Xin'jiang警備" }		
-		10 = { "第十 Xin'jiang警備" }		
+		101 = { "第一烏魯木齊警備" }			# All fictional names for local militias
+		111 = { "第一塔克拉瑪干警備" }		
+		121 = { "第一莎車警備" }
+		102 = { "第二烏魯木齊警備" }
+		103 = { "第三烏魯木齊警備" }
+		112 = { "第二塔克拉瑪干警備" }
+		113 = { "第三塔克拉瑪干警備" }
+		122 = { "第二莎車警備" }
+		104 = { "第四烏魯木齊警備" }
+		105 = { "第五烏魯木齊警備" }
+		123 = { "第三莎車警備" }
+		124 = { "第四莎車警備" }
+		114 = { "第四塔克拉瑪干警備" }
+		115 = { "第五塔克拉瑪干警備" }
+		125 = { "第五莎車警備" }
+		131 = { "第一烏魯木齊保安科" }		
+		132 = { "第二烏魯木齊保安科" }		
+		133 = { "第三烏魯木齊保安科" }		
+		1 = { "第一新疆警備" }		
+		2 = { "第二新疆警備" }		
+		3 = { "第三新疆警備" }		
+		4 = { "第四新疆警備" }		
+		5 = { "第五新疆警備" }		
+		6 = { "第六新疆警備" }		
+		7 = { "第七新疆警備" }		
+		8 = { "第八新疆警備" }		
+		9 = { "第九新疆警備" }		
+		10 = { "第十新疆警備" }		
 	}
 }
 

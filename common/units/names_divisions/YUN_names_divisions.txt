@@ -43,32 +43,32 @@ YUN_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "第%d Yunnan軍團"
+	fallback_name = "第%d雲南軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
-		2 = { "第%d Yunnan軍團" }
-		3 = { "第%d Yunnan軍團" }
-		4 = { "第%d Yunnan軍團" }
-		5 = { "第%d Yunnan軍團" }
-		6 = { "第%d Yunnan軍團" }
-		7 = { "第%d Yunnan軍團" }
-		8 = { "第%d Yunnan軍團" }
-		9 = { "第%d Yunnan軍團" }
-		10 = { "第十 Yunnan軍團" }
-		11 = { "第十1 Yunnan軍團" }
-		12 = { "第十2 Yunnan軍團" }
-		13 = { "第十3 Yunnan軍團" }
-		14 = { "第十4 Yunnan軍團" }
-		15 = { "第十5 Yunnan軍團" }
-		16 = { "第十6 Yunnan軍團" }
-		17 = { "第十7 Yunnan軍團" }
-		18 = { "第十8 Yunnan軍團" }
-		19 = { "第十9 Yunnan軍團" }
-		20 = { "第2十 Yunnan軍團" }
+		1 = { "第一雲南軍團" }		# fictional warlord corps
+		2 = { "第二雲南軍團" }
+		3 = { "第三雲南軍團" }
+		4 = { "第四雲南軍團" }
+		5 = { "第五雲南軍團" }
+		6 = { "第六雲南軍團" }
+		7 = { "第七雲南軍團" }
+		8 = { "第八雲南軍團" }
+		9 = { "第九雲南軍團" }
+		10 = { "第十雲南軍團" }
+		11 = { "第十一雲南軍團" }
+		12 = { "第十二雲南軍團" }
+		13 = { "第十三雲南軍團" }
+		14 = { "第十四雲南軍團" }
+		15 = { "第十五雲南軍團" }
+		16 = { "第十六雲南軍團" }
+		17 = { "第十七雲南軍團" }
+		18 = { "第十八雲南軍團" }
+		19 = { "第十九雲南軍團" }
+		20 = { "第二十雲南軍團" }
 	}
 }
 
@@ -85,27 +85,27 @@ YUN_CAV_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Yunnan騎兵軍"
+	fallback_name = "第%d雲南騎兵軍"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Yunnan騎兵軍" }			# All fictional warlord cavalry corps
-		2 = { "第%d Yunnan騎兵軍" }
-		3 = { "第%d Yunnan騎兵軍" }
-		4 = { "第%d Yunnan騎兵軍" }
-		6 = { "第%d Yunnan騎兵軍" }
-		5 = { "第%d Yunnan騎兵軍" }
-		7 = { "第%d Yunnan騎兵軍" }
-		8 = { "第%d Yunnan騎兵軍" }
-		9 = { "第%d Yunnan騎兵軍" }
-		10 = { "第十 Yunnan騎兵軍" }
-		11 = { "第十1 Yunnan騎兵軍" }
-		12 = { "第十2 Yunnan騎兵軍" }
-		13 = { "第十3 Yunnan騎兵軍" }
-		14 = { "第十4 Yunnan騎兵軍" }
-		15 = { "第十5 Yunnan騎兵軍" }
+		1 = { "第一雲南騎兵軍" }			# All fictional warlord cavalry corps
+		2 = { "第二雲南騎兵軍" }
+		3 = { "第三雲南騎兵軍" }
+		4 = { "第四雲南騎兵軍" }
+		6 = { "第六雲南騎兵軍" }
+		5 = { "第五雲南騎兵軍" }
+		7 = { "第七雲南騎兵軍" }
+		8 = { "第八雲南騎兵軍" }
+		9 = { "第九雲南騎兵軍" }
+		10 = { "第十雲南騎兵軍" }
+		11 = { "第十一雲南騎兵軍" }
+		12 = { "第十二雲南騎兵軍" }
+		13 = { "第十三雲南騎兵軍" }
+		14 = { "第十四雲南騎兵軍" }
+		15 = { "第十五雲南騎兵軍" }
 	}
 }
 
@@ -122,32 +122,32 @@ YUN_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "第%d Yunnan軍團"
+	fallback_name = "第%d雲南軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
-		2 = { "第%d Yunnan軍團" }
-		3 = { "第%d Yunnan軍團" }
-		4 = { "第%d Yunnan軍團" }
-		5 = { "第%d Yunnan軍團" }
-		6 = { "第%d Yunnan軍團" }
-		7 = { "第%d Yunnan軍團" }
-		8 = { "第%d Yunnan軍團" }
-		9 = { "第%d Yunnan軍團" }
-		10 = { "第十 Yunnan軍團" }
-		11 = { "第十1 Yunnan軍團" }
-		12 = { "第十2 Yunnan軍團" }
-		13 = { "第十3 Yunnan軍團" }
-		14 = { "第十4 Yunnan軍團" }
-		15 = { "第十5 Yunnan軍團" }
-		16 = { "第十6 Yunnan軍團" }
-		17 = { "第十7 Yunnan軍團" }
-		18 = { "第十8 Yunnan軍團" }
-		19 = { "第十9 Yunnan軍團" }
-		20 = { "第2十 Yunnan軍團" }
+		1 = { "第一雲南軍團" }		# fictional warlord corps
+		2 = { "第二雲南軍團" }
+		3 = { "第三雲南軍團" }
+		4 = { "第四雲南軍團" }
+		5 = { "第五雲南軍團" }
+		6 = { "第六雲南軍團" }
+		7 = { "第七雲南軍團" }
+		8 = { "第八雲南軍團" }
+		9 = { "第九雲南軍團" }
+		10 = { "第十雲南軍團" }
+		11 = { "第十一雲南軍團" }
+		12 = { "第十二雲南軍團" }
+		13 = { "第十三雲南軍團" }
+		14 = { "第十四雲南軍團" }
+		15 = { "第十五雲南軍團" }
+		16 = { "第十六雲南軍團" }
+		17 = { "第十七雲南軍團" }
+		18 = { "第十八雲南軍團" }
+		19 = { "第十九雲南軍團" }
+		20 = { "第二十雲南軍團" }
 	}
 }
 
@@ -164,32 +164,32 @@ YUN_MEC_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "第%d Yunnan軍團"
+	fallback_name = "第%d雲南軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
-		2 = { "第%d Yunnan軍團" }
-		3 = { "第%d Yunnan軍團" }
-		4 = { "第%d Yunnan軍團" }
-		5 = { "第%d Yunnan軍團" }
-		6 = { "第%d Yunnan軍團" }
-		7 = { "第%d Yunnan軍團" }
-		8 = { "第%d Yunnan軍團" }
-		9 = { "第%d Yunnan軍團" }
-		10 = { "第十 Yunnan軍團" }
-		11 = { "第十1 Yunnan軍團" }
-		12 = { "第十2 Yunnan軍團" }
-		13 = { "第十3 Yunnan軍團" }
-		14 = { "第十4 Yunnan軍團" }
-		15 = { "第十5 Yunnan軍團" }
-		16 = { "第十6 Yunnan軍團" }
-		17 = { "第十7 Yunnan軍團" }
-		18 = { "第十8 Yunnan軍團" }
-		19 = { "第十9 Yunnan軍團" }
-		20 = { "第2十 Yunnan軍團" }
+		1 = { "第一雲南軍團" }		# fictional warlord corps
+		2 = { "第二雲南軍團" }
+		3 = { "第三雲南軍團" }
+		4 = { "第四雲南軍團" }
+		5 = { "第五雲南軍團" }
+		6 = { "第六雲南軍團" }
+		7 = { "第七雲南軍團" }
+		8 = { "第八雲南軍團" }
+		9 = { "第九雲南軍團" }
+		10 = { "第十雲南軍團" }
+		11 = { "第十一雲南軍團" }
+		12 = { "第十二雲南軍團" }
+		13 = { "第十三雲南軍團" }
+		14 = { "第十四雲南軍團" }
+		15 = { "第十五雲南軍團" }
+		16 = { "第十六雲南軍團" }
+		17 = { "第十七雲南軍團" }
+		18 = { "第十八雲南軍團" }
+		19 = { "第十九雲南軍團" }
+		20 = { "第二十雲南軍團" }
 	}
 }
 
@@ -210,32 +210,32 @@ YUN_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { YUN_INF_01 }
 
-	fallback_name = "第%d Yunnan軍團"
+	fallback_name = "第%d雲南軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "第%d Yunnan軍團" }		# fictional warlord corps
-		2 = { "第%d Yunnan軍團" }
-		3 = { "第%d Yunnan軍團" }
-		4 = { "第%d Yunnan軍團" }
-		5 = { "第%d Yunnan軍團" }
-		6 = { "第%d Yunnan軍團" }
-		7 = { "第%d Yunnan軍團" }
-		8 = { "第%d Yunnan軍團" }
-		9 = { "第%d Yunnan軍團" }
-		10 = { "第十 Yunnan軍團" }
-		11 = { "第十1 Yunnan軍團" }
-		12 = { "第十2 Yunnan軍團" }
-		13 = { "第十3 Yunnan軍團" }
-		14 = { "第十4 Yunnan軍團" }
-		15 = { "第十5 Yunnan軍團" }
-		16 = { "第十6 Yunnan軍團" }
-		17 = { "第十7 Yunnan軍團" }
-		18 = { "第十8 Yunnan軍團" }
-		19 = { "第十9 Yunnan軍團" }
-		20 = { "第2十 Yunnan軍團" }
+		1 = { "第一雲南軍團" }		# fictional warlord corps
+		2 = { "第二雲南軍團" }
+		3 = { "第三雲南軍團" }
+		4 = { "第四雲南軍團" }
+		5 = { "第五雲南軍團" }
+		6 = { "第六雲南軍團" }
+		7 = { "第七雲南軍團" }
+		8 = { "第八雲南軍團" }
+		9 = { "第九雲南軍團" }
+		10 = { "第十雲南軍團" }
+		11 = { "第十一雲南軍團" }
+		12 = { "第十二雲南軍團" }
+		13 = { "第十三雲南軍團" }
+		14 = { "第十四雲南軍團" }
+		15 = { "第十五雲南軍團" }
+		16 = { "第十六雲南軍團" }
+		17 = { "第十七雲南軍團" }
+		18 = { "第十八雲南軍團" }
+		19 = { "第十九雲南軍團" }
+		20 = { "第二十雲南軍團" }
 	}
 }
 
@@ -252,39 +252,39 @@ YUN_GAR_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d Yunnan警備"
+	fallback_name = "第%d雲南警備"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		132 = { "1 Yunnan保安科" }		# All fictional names for local militias
-		133 = { "1 Kunming保安科" }		
-		131 = { "Dali保安科" }		
-		101 = { "1 Yunnan警備" }		
-		111 = { "1 Kunming警備" }		
-		102 = { "2 Yunnan警備" }
-		103 = { "3 Yunnan警備" }
-		112 = { "2 Kunming警備" }
-		113 = { "3 Kunming警備" }
-		104 = { "4 Yunnan警備" }
-		105 = { "5 Yunnan警備" }
-		114 = { "4 Kunming警備" }
-		115 = { "5 Kunming警備" }
-		134 = { "2 Kunming保安科" }		
-		135 = { "3 Kunming保安科" }		
-		136 = { "2 Yunnan保安科" }		
-		137 = { "3 Yunnan保安科" }		
-		1 = { "第%d Yunnan警備" }		
-		2 = { "第%d Yunnan警備" }		
-		3 = { "第%d Yunnan警備" }		
-		4 = { "第%d Yunnan警備" }		
-		5 = { "第%d Yunnan警備" }		
-		6 = { "第%d Yunnan警備" }		
-		7 = { "第%d Yunnan警備" }		
-		8 = { "第%d Yunnan警備" }		
-		9 = { "第%d Yunnan警備" }		
-		10 = { "第十 Yunnan警備" }		
+		132 = { "第一雲南保安科" }		# All fictional names for local militias
+		133 = { "第一昆明保安科" }		
+		131 = { "大理保安科" }		
+		101 = { "第一雲南警備" }		
+		111 = { "第一昆明警備" }		
+		102 = { "第二雲南警備" }
+		103 = { "第三雲南警備" }
+		112 = { "第二昆明警備" }
+		113 = { "第三昆明警備" }
+		104 = { "第四雲南警備" }
+		105 = { "第五雲南警備" }
+		114 = { "第四昆明警備" }
+		115 = { "第五昆明警備" }
+		134 = { "第二昆明保安科" }		
+		135 = { "第三昆明保安科" }		
+		136 = { "第二雲南保安科" }		
+		137 = { "第三雲南保安科" }		
+		1 = { "第一雲南警備" }		
+		2 = { "第二雲南警備" }		
+		3 = { "第三雲南警備" }		
+		4 = { "第四雲南警備" }		
+		5 = { "第五雲南警備" }		
+		6 = { "第六雲南警備" }		
+		7 = { "第七雲南警備" }		
+		8 = { "第八雲南警備" }		
+		9 = { "第九雲南警備" }		
+		10 = { "第十雲南警備" }		
 	}
 }
 
