@@ -1,0 +1,64 @@
+﻿division_template = {
+	name = "二進制軍團"			# Binary Infantry Corps
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+
+units = {
+
+	division = {
+		name = "1 Su jun Zhiyuanjun"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "2 Su jun Zhiyuanjun"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "3 Su jun Zhiyuanjun"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "4 Su jun Zhiyuanjun"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "5 Su jun Zhiyuanjun"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "6 Su jun Zhiyuanjun"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "7 Su jun Zhiyuanjun"
+		location = 12880
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "8 Su jun Zhiyuanjun"
+		location = 12880
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "9 Su jun Zhiyuanjun"
+		location = 12880
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "10 Su jun Zhiyuanjun"
+		location = 12880
+		division_template = "二進制軍團"
+	}
+}

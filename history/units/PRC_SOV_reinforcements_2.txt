@@ -1,0 +1,114 @@
+﻿division_template = {
+	name = "二進制軍團"			# Binary Infantry Corps
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+
+units = {
+
+	division = {
+		name = "1 人民軍隊"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "2 人民軍隊"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "3 人民軍隊"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "4 人民軍隊"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "5 人民軍隊"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "6 人民軍隊"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "7 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "8 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "9 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "10 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "11 人民軍隊"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "12 人民軍隊"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "13 人民軍隊"
+		location = 10629
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "14 人民軍隊"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "15 人民軍隊"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "16 人民軍隊"
+		location = 12609
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "17 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "18 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "19 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+	division = {
+		name = "20 人民軍隊"
+		location = 12331
+		division_template = "二進制軍團"
+	}
+}

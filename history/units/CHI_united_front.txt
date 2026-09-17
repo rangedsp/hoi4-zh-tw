@@ -1,0 +1,71 @@
+﻿division_template = {
+	name = "軍團"				# Binary infantry corps (Chinese divisions were brigade-sized units)
+	division_names_group = CHI_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+
+units = {
+
+	division = { # "90 軍團"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 90
+		}
+		location = 11913
+		division_template = "軍團"
+	}
+	division = { # "91 軍團"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 91
+		}
+		location = 11913
+		division_template = "軍團"
+	}
+	division = { # "92 軍團"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 92
+		}
+		location = 11913
+		division_template = "軍團"
+	}
+	division = { # "96 軍團"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 96
+		}
+		location = 11913
+		division_template = "軍團"
+	}
+	division = { # "98 軍團"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 98
+		}
+		location = 11913
+		division_template = "軍團"
+	}
+	division = { # "99 軍團"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 99
+		}
+		location = 11913
+		division_template = "軍團"
+	}
+	division = { # "100 軍團"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 100
+		}
+		location = 11913
+		division_template = "軍團"
+	}
+}
