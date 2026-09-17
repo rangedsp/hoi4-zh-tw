@@ -1101,60 +1101,60 @@ CHL = {
 CHI = {
 	submarine = {
 		prefix = ""
-		generic = { "Qianting" }
+		generic = { "潛艇" }
 		unique = {
-			"Chingpo" "Longtuan" "Jiangang" "Dongan" "Yuzhang" "Zhangfeng" "Fubo" "Feihong" "Dadong" "Zejiang" 
+			"衝破" "龍團" "江安" "東岸" "玉戰" "斬風" "復泊" "飛鴻" "大東" "浙江" 
 		}
 	}
 	destroyer = {
 		prefix = ""
-		generic = { "Quzujian" }
+		generic = { "驅逐艦" }
 		unique = {
-			"Dadong" "Zejiang" "Chingpo" "Longtuan" "Jiangang" "Dongan" "Yuzhang" "Zhangfeng" "Fubo" "Feihong" 
+			"大東" "浙江" "衝破" "龍團" "江安" "東岸" "玉戰" "斬風" "復泊" "飛鴻" 
 		}
 	}
 	light_cruiser = {
 		prefix = ""
-		generic = { "Qingxing Xunyangjian" }
+		generic = { "輕型巡洋艦" }
 		unique = {
-			"Hairong" "Zhaohe" "Haiqi" "Yingrui" "Ninghai" "Pinghai" "Zhongeng" "Haizhao" "Haizhen"	"Feihong" "Nanshen" "Paonin" "Yingjing" "Tuanji"  
+			"海龍" "昭和" "海氣" "英瑞" "寧海" "平海" "中跟" "海昭" "海正" "飛鴻" "南神" "炮寧" "引進" "團集"  
 
 		}
 	}
 	heavy_cruiser = {
 		prefix = ""
-		generic = { "Zhong Xunyangjian" }
+		generic = { "中巡洋艦" }
 		unique = {
-			"Zhongeng" "Haizhao" "Haizhen"	"Feihong" "Nanshen" "Paonin" "Yingjing" "Tuanji" "Hairong" "Zhaohe" "Haiqi" "Yingrui" "Ninghai" "Pinghai" 
+			"中跟" "海昭" "海正" "飛鴻" "南神" "炮寧" "引進" "團集" "海龍" "昭和" "海氣" "英瑞" "寧海" "平海" 
 		}
 	}
 	battle_cruiser = {
 		prefix = ""
-		generic = { "Zhan lie Xunyangjian" }
+		generic = { "戰列巡洋艦" }
 		unique = {
-			"Nanshen" "Paonin" "Yingjing" "Tuanji" "Hairong" "Zhaohe" "Haiqi" "Yingrui" "Ninghai" "Pinghai" "Zhongeng" "Haizhao" "Haizhen"	"Feihong" 
+			"南神" "炮寧" "引進" "團集" "海龍" "昭和" "海氣" "英瑞" "寧海" "平海" "中跟" "海昭" "海正"	"飛鴻" 
 		}
 	}
 	battleship = {
 		prefix = ""
-		generic = { "Zhanjian" }
+		generic = { "戰艦" }
 		unique = {
-			"Nanshen" "Paonin" "Yingjing" "Tuanji" "Hairong" "Zhaohe" "Haiqi" "Yingrui" "Ninghai" "Pinghai" "Zhongeng" "Haizhao" "Haizhen"	"Feihong" 
+			"南神" "炮寧" "引進" "團集" "海龍" "昭和" "海氣" "英瑞" "寧海" "平海" "中跟" "海昭" "海正"	"飛鴻" 
 		}
 	}
 	carrier = {
 		prefix = ""
-		generic = { "Hangmu" }
+		generic = { "航母" }
 		unique = {
-			"Nanshen" "Paonin" "Yingjing" "Tuanji" "Hairong" "Zhaohe" "Haiqi" "Yingrui" "Ninghai" "Pinghai" "Zhongeng" "Haizhao" "Haizhen"	"Feihong" 
+			"南神" "炮寧" "引進" "團集" "海龍" "昭和" "海氣" "英瑞" "寧海" "平海" "中跟" "海昭" "海正" "飛鴻" 
 		}
 	}
-	air_wing_names_template = AIR_WING_NAME_CHI_FALLBACK
+	air_wing_names_template = AIR_WING_NAME_FALLBACK
 
 	#Air wings can only be named through archetype
 	small_plane_airframe = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1162,7 +1162,7 @@ CHI = {
 
 	jet_fighter_equipment = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1170,7 +1170,7 @@ CHI = {
 
 	medium_plane_fighter_airframe = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1178,7 +1178,7 @@ CHI = {
 
 	small_plane_cas_airframe = {
 		prefix = ""
-		generic = { "Jinjuli Kongyuan大隊" }
+		generic = { "近距離空援大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1186,7 +1186,7 @@ CHI = {
 
 	cv_small_plane_airframe = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1194,14 +1194,14 @@ CHI = {
 
 	cv_small_plane_cas_airframe = {
 		prefix = ""
-		generic = { "Jinjuli Kongyuan大隊" }
+		generic = { "近距離空援大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
 	}
 	cv_small_plane_naval_bomber_airframe = {
 		prefix = ""
-		generic = { "Haijun Hongzhaji大隊" }
+		generic = { "海軍轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1209,7 +1209,7 @@ CHI = {
 
 	medium_plane_airframe = {
 		prefix = ""
-		generic = { "Zhanshu Hongzhaji大隊" "Huweiji大隊" }
+		generic = { "戰術轟炸機大隊" "護衛機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1217,7 +1217,7 @@ CHI = {
 
 	jet_tac_bomber_equipment = {
 		prefix = ""
-		generic = { "Zhanshu Hongzhaji大隊" "Huweiji大隊" }
+		generic = { "戰術轟炸機大隊" "護衛機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1225,7 +1225,7 @@ CHI = {
 
 	small_plane_naval_bomber_airframe = {
 		prefix = ""
-		generic = { "Haijun Hongzhaji大隊" }
+		generic = { "海軍轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1233,7 +1233,7 @@ CHI = {
 
 	large_plane_airframe = {
 		prefix = ""
-		generic = { "Zhanlue Hongzhaji大隊" }
+		generic = { "戰略轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1241,7 +1241,7 @@ CHI = {
 
 	jet_strat_bomber_equipment = {
 		prefix = ""
-		generic = { "Zhanlue Hongzhaji大隊" }
+		generic = { "戰略轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -1249,7 +1249,7 @@ CHI = {
 
 	transport_plane_equipment = {
 		prefix = ""
-		generic = { "Kongyunji大隊" }
+		generic = { "空運機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3602,12 +3602,12 @@ PRU = {
 }
 
 PRC = {
-	air_wing_names_template = AIR_WING_NAME_CHI_FALLBACK
+	air_wing_names_template = AIR_WING_NAME_FALLBACK
 
 	#Air wings can only be named through archetype
 	small_plane_airframe = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3615,7 +3615,7 @@ PRC = {
 
 	jet_fighter_equipment = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3623,7 +3623,7 @@ PRC = {
 
 	medium_plane_fighter_airframe = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3631,7 +3631,7 @@ PRC = {
 
 	small_plane_cas_airframe = {
 		prefix = ""
-		generic = { "Jinjuli Kongyuan大隊" }
+		generic = { "近距離空援大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3639,7 +3639,7 @@ PRC = {
 
 	cv_small_plane_airframe = {
 		prefix = ""
-		generic = { "Zhandouji大隊" "Jianjiji大隊" }
+		generic = { "戰鬥機大隊" "殲擊機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3647,14 +3647,14 @@ PRC = {
 
 	cv_small_plane_cas_airframe = {
 		prefix = ""
-		generic = { "Jinjuli Kongyuan大隊" }
+		generic = { "近距離空援大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
 	}
 	cv_small_plane_naval_bomber_airframe = {
 		prefix = ""
-		generic = { "Haijun Hongzhaji大隊" }
+		generic = { "海軍轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3662,7 +3662,7 @@ PRC = {
 
 	medium_plane_airframe = {
 		prefix = ""
-		generic = { "Zhanshu Hongzhaji大隊" "Huweiji大隊" }
+		generic = { "戰術轟炸機大隊" "護衛機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3670,7 +3670,7 @@ PRC = {
 
 	jet_tac_bomber_equipment = {
 		prefix = ""
-		generic = { "Zhanshu Hongzhaji大隊" "Huweiji大隊" }
+		generic = { "戰術轟炸機大隊" "護衛機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3678,7 +3678,7 @@ PRC = {
 
 	small_plane_naval_bomber_airframe = {
 		prefix = ""
-		generic = { "Haijun Hongzhaji大隊" }
+		generic = { "海軍轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3686,7 +3686,7 @@ PRC = {
 
 	large_plane_airframe = {
 		prefix = ""
-		generic = { "Zhanlue Hongzhaji大隊" }
+		generic = { "戰略轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3694,7 +3694,7 @@ PRC = {
 
 	jet_strat_bomber_equipment = {
 		prefix = ""
-		generic = { "Zhanlue Hongzhaji大隊" }
+		generic = { "戰略轟炸機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
@@ -3702,7 +3702,7 @@ PRC = {
 
 	transport_plane_equipment = {
 		prefix = ""
-		generic = { "Kongyunji大隊" }
+		generic = { "空運機大隊" }
 		generic_pattern = AIR_WING_NAME_CHI_GENERIC
 		unique = {
 		}	
