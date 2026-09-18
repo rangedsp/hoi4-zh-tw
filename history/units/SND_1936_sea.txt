@@ -27,49 +27,49 @@ division_template = {
 units = {
 	### Provincial Forces ###
 	division = {
-		name = "Jinan Jingbei" 
+		name = "濟南警備" 
 		location = 1069 
 		division_template = "三角軍"		
 		start_equipment_factor = 0.1
 
 	}
 	division = {
-		name = "Jinan Jingbei" 
+		name = "濟南警備" 
 		location = 1069 
 		division_template = "三角軍"		
 		start_equipment_factor = 0.1
 
 	}
 	division = {
-		name = "Yantai Jingbei" 
+		name = "煙台警備" 
 		location = 1104 
 		division_template = "三角軍"		
 		start_equipment_factor = 0.1
 
 	}
 	division = {
-		name = "Yantai Jingbei" 
+		name = "煙台警備" 
 		location = 1104 
 		division_template = "三角軍"		
 		start_equipment_factor = 0.1
 
 	}
 	division = {
-		name = "Linyi Jingbei" 
+		name = "臨沂警備" 
 		location = 4181 
 		division_template = "三角軍"		
 		start_equipment_factor = 0.1
 
 	}
 	division = {
-		name = "Weihaiwei Jingbei" 
+		name = "威海衛警備" 
 		location = 4205 
 		division_template = "三角軍"		
 		start_equipment_factor = 0.1
 
 	}
 	division = {
-		name = "Jinan Jingbei" 
+		name = "濟南警備" 
 		location = 1069 
 		division_template = "三角軍"		
 		start_equipment_factor = 0.1
@@ -78,7 +78,7 @@ units = {
 	
 	
 	division = {
-		name = "1. Shandong 騎兵軍" 
+		name = "1. 山東騎兵軍" 
 		location = 1069 
 		division_template = "騎兵軍"		
 		start_equipment_factor = 0.1

@@ -2,24 +2,24 @@
 
 	##### ROCN #####
 	fleet = {
-		name = "Di 1 Jiandui"
+		name = "第一艦隊"
 		naval_base = 7014 #Shanghai
 		task_force = {
-			name = "Di 1 Jiandui"
+			name = "第一艦隊"
 			location = 7014 #Shanghai
-			ship = { name = "Ninghai" definition = light_cruiser equipment = { ship_hull_cruiser_1 = {amount = 1 owner = CHI version_name = "Ninghai Class" } } }
+			ship = { name = "寧海" definition = light_cruiser equipment = { ship_hull_cruiser_1 = {amount = 1 owner = CHI version_name = "寧海級“ } } }
 			
 			
-			ship = { name = "Hairong" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Haichen" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Haichou" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
+			ship = { name = "海容" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "海容級“ } } } # TOD_JNS - Fix name
+			ship = { name = "海琛" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "海容級“ } } } # TOD_JNS - Fix name
+			ship = { name = "海籌" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "海容級“ } } } # TOD_JNS - Fix name
 			
-			ship = { name = "Zhaohe" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Chao Ho Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Yingrui" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Chao Ho Class" } } } # TOD_JNS - Fix name
+			ship = { name = "肇和" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "肇和級“ } } } # TOD_JNS - Fix name
+			ship = { name = "應瑞" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "肇和級“ } } } # TOD_JNS - Fix name
 			
-			ship = { name = "Yu Chang" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI version_name = "Chiang Feng Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Chien kang" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI  version_name = "Chiang Feng Class"} } } # TOD_JNS - Fix name
-			ship = { name = "Tung An" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI  version_name = "Chiang Feng Class"} } } # TOD_JNS - Fix name
+			ship = { name = "豫章" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI version_name = "長風級“ } } } # TOD_JNS - Fix name
+			ship = { name = "建康" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI  version_name = "長風級“} } } # TOD_JNS - Fix name
+			ship = { name = "同安" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI  version_name = "長風級“} } } # TOD_JNS - Fix name
 		}
 	}
 }
@@ -28,13 +28,13 @@
 instant_effect = {
 #Under Construction in Shanghai
 	# Light Cruiser 
-	add_equipment_production = { 		# "Pinghai"
+	add_equipment_production = { 		# "平海"
 		equipment = {
 			type = ship_hull_cruiser_1
 			creator = "CHI" 
-			version_name = "Ninghai Class"
+			version_name = "寧海級“
 		}
-		name = "Pinghai" 
+		name = "平海" 
 		requested_factories = 1
 		progress = 0.56
 		amount = 1

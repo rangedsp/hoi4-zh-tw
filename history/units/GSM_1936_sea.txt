@@ -46,21 +46,21 @@ division_template = {
 units = {
 
 	division = {
-		name = "Wuwei Jingbei" 
+		name = "武威警備" 
 		location = 5100 
 		division_template = "新編軍團"		
 		start_equipment_factor = 0.2
 
 	}
 	division = {
-		name = "Wuwei Jingbei" 
+		name = "武威警備" 
 		location = 5100 
 		division_template = "軍團"		
 		start_equipment_factor = 0.2
 
 	}
 	division = {
-		name = "Jiuquan Jingbei" 
+		name = "酒泉警備" 
 		location = 7971 
 		division_template = "軍團"		
 		start_equipment_factor = 0.2

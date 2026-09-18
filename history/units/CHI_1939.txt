@@ -330,7 +330,7 @@ units = {
 
 	}
 	division = {
-		name = "Dongbei Xianqian Zu"
+		name = "東北先前組"
 		location = 10446
 		division_template = "軍團"		# Manchurian Advance Group (militia-quality guerrila group)
 		start_equipment_factor = 0.5
@@ -781,7 +781,7 @@ units = {
 	}
 
 	##### Seventh War Area (CO: Chen Yi) #####
-	### Fujian Defense Force (CO: ) ###
+	###福建 Defense Force (CO: ) ###
 	division = { # "80 步兵師"
 		division_name = {
 			is_name_ordered = yes
@@ -794,7 +794,7 @@ units = {
 
 	}
 	division = {
-		name = "Fujian Jingbei"
+		name = "福建警備"
 		location = 1166
 		division_template = "三角軍"	# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.3
@@ -1248,21 +1248,21 @@ units = {
 	### TROOPS FROM ANNEXED WARLORDS
 	### Yunnan ###
 	division = {
-		name = "Kunming Jingbei"
+		name = "昆明警備"
 		location = 12789
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.3
 
 	}
 	division = {
-		name = "Yunnan Baoan Ke"
+		name = "雲南保安科"
 		location = 10346
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.3
 
 	}
 	division = {
-		name = "Dali Baoan Ke"
+		name = "大理保安科"
 		location = 10346
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.3
@@ -1270,7 +1270,7 @@ units = {
 	}
 	### Guangxi ###
 	division = {
-		name = "Guilin Jingbei"
+		name = "桂林警備"
 		location = 10404
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.3

@@ -25,7 +25,7 @@ division_template = {
 
 units = {
 	division = {
-		name = "Guilin Jingbei"
+		name = "桂林警備"
 		location = 10404
 		division_template = "二進制軍團"		# Provincial militia unit (poor equipment and training)
 	}

@@ -254,21 +254,21 @@ units = {
 
 	}
 	division = {
-		name = "1 Fujian Jingbei"
+		name = "1福建警備"
 		location = 9974
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.8
 		start_experience_factor = 0.1
 	}
 	division = {
-		name = "2 Fujian Jingbei"
+		name = "2福建警備"
 		location = 4169
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.8
 		start_experience_factor = 0.1
 	}
 	division = {
-		name = "3 Fujian Jingbei"
+		name = "3福建警備"
 		location = 4196
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.8
@@ -276,14 +276,14 @@ units = {
 	}
 	## Shanghai Defense Force ##
 	division = {
-		name = "Shanghai Jingbei"
+		name = "上海警備"
 		location = 7014
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.8
 		start_experience_factor = 0.1
 	}
 	division = {
-		name = "Lu zhan Shi"
+		name = "陸戰師"
 		location = 7014
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.8
@@ -313,7 +313,7 @@ units = {
 
 	}
 	division = {
-		name = "8 陸兵師"
+		name = "8陸兵師"
 		location = 4925
 		division_template = "軍團"
 		start_equipment_factor = 0.8
@@ -476,7 +476,7 @@ units = {
 
 	##### Yangtze War Area (CO: ) #####
 	division = {
-		name = "Wuhan Jingbei"
+		name = "武漢警備"
 		location = 4619
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.8
@@ -528,28 +528,28 @@ units = {
 
 	}
 	division = {
-		name = "1 Nanking Jingbei"
+		name = "1南京警備"
 		location = 11913
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.6
 		start_experience_factor = 0.1
 	}
 	division = {
-		name = "2 Nanking Jingbei"
+		name = "2南京警備"
 		location = 11913
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.6
 		start_experience_factor = 0.1
 	}
 	division = {
-		name = "3 Nanking Jingbei"
+		name = "3南京警備"
 		location = 11913
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.6
 		start_experience_factor = 0.1
 	}
 	division = {
-		name = "4 Nanking Jingbei"
+		name = "4南京警備"
 		location = 11913
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.6
@@ -569,7 +569,7 @@ units = {
 
 	}
 	division = {
-		name = "Qingdao Jingbei"
+		name = "青島警備"
 		location = 10000
 		division_template = "軍團"		# Garrison unit (poor equipment and training)
 		start_equipment_factor = 0.8

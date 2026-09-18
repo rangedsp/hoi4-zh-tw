@@ -2,18 +2,18 @@
 
 	##### ROCN #####
 	fleet = {
-		name = "Di 1 Jiandui"
+		name = "第一艦隊"
 		naval_base = 7014 #Shanghai
 		task_force = {
-			name = "Di 1 Jiandui"
+			name = "第一艦隊"
 			location = 7014 #Shanghai
-			ship = { name = "Yingrui" definition = heavy_cruiser equipment = { heavy_cruiser_1 = {amount = 1 owner = CHI } } } 
-			ship = { name = "Ninghai" definition = light_cruiser equipment = { light_cruiser_1 = {amount = 1 owner = CHI } } }
-			ship = { name = "Hairong" definition = light_cruiser equipment = { light_cruiser_1 = {amount = 1 owner = CHI } } } 
-			ship = { name = "Zhaohe" definition = heavy_cruiser equipment = { heavy_cruiser_1 = {amount = 1 owner = CHI } } } 
-			ship = { name = "Haiqi" definition = light_cruiser equipment = { light_cruiser_1 = {amount = 1 owner = CHI } } } 
-			ship = { name = "Dadong" definition = destroyer equipment = { destroyer_1 = {amount = 1 owner = CHI } } } 
-			ship = { name = "Zejiang" definition = destroyer equipment = { destroyer_1 = {amount = 1 owner = CHI } } } 
+			ship = { name = "應瑞" definition = heavy_cruiser equipment = { heavy_cruiser_1 = {amount = 1 owner = CHI } } } 
+			ship = { name = "寧海" definition = light_cruiser equipment = { light_cruiser_1 = {amount = 1 owner = CHI } } }
+			ship = { name = "海容" definition = light_cruiser equipment = { light_cruiser_1 = {amount = 1 owner = CHI } } } 
+			ship = { name = "肇和" definition = heavy_cruiser equipment = { heavy_cruiser_1 = {amount = 1 owner = CHI } } } 
+			ship = { name = "海圻" definition = light_cruiser equipment = { light_cruiser_1 = {amount = 1 owner = CHI } } } 
+			ship = { name = "大東" definition = destroyer equipment = { destroyer_1 = {amount = 1 owner = CHI } } } 
+			ship = { name = "斯江" definition = destroyer equipment = { destroyer_1 = {amount = 1 owner = CHI } } } 
 		}
 	}
 }
@@ -22,7 +22,7 @@
 instant_effect = {
 #Under Construction in Shanghai
 	# Light Cruiser 
-	add_equipment_production = { 		# "Pinghai"
+	add_equipment_production = { 		# "平海"
 		equipment = {
 			type = light_cruiser_1
 			creator = "CHI" 

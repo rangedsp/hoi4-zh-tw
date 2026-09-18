@@ -32,7 +32,7 @@
 #                                      the current game version.
 CHI_INF_01 = 
 {
-	name = "Infantry Unit"
+	name = "步兵單位"
 
 	for_countries = { CHI }
 
@@ -205,7 +205,7 @@ CHI_INF_01 =
 
 CHI_CAV_01 = 
 {
-	name = "Cavalry Unit"
+	name = "騎兵單位"
 
 	for_countries = { CHI }
 
@@ -241,7 +241,7 @@ CHI_CAV_01 =
 
 CHI_MOT_01 = 
 {
-	name = "Motorized Unit"
+	name = "機動化單位"
 
 	for_countries = { CHI }
 
@@ -306,7 +306,7 @@ CHI_MOT_01 =
 
 CHI_MEC_01 = 
 {
-	name = "Mechanized Unit"
+	name = "機械化單位"
 
 	for_countries = { CHI }
 
@@ -371,7 +371,7 @@ CHI_MEC_01 =
 
 CHI_ARM_01 = 
 {
-	name = "Armored Unit"
+	name = "裝甲單位"
 
 	for_countries = { CHI PRC SHX GXC YUN XSM SIK KHM NXM KUM GSM GDC SIC XIC HBC SND }
 
@@ -408,7 +408,7 @@ CHI_ARM_01 =
 
 CHI_PAR_01 = 
 {
-	name = "Paratrooper Unit"
+	name = "傘兵單位"
 
 	for_countries = { CHI PRC SHX GXC YUN XSM SIK KHM NXM KUM GSM GDC SIC XIC HBC SND }
 
@@ -440,7 +440,7 @@ CHI_PAR_01 =
 
 CHI_MAR_01 = 
 {
-	name = "Marine Unit"
+	name = "海軍陸戰單位"
 
 	for_countries = { CHI PRC SHX GXC YUN XSM SIK KHM NXM KUM GSM GDC SIC XIC HBC SND }
 
@@ -472,7 +472,7 @@ CHI_MAR_01 =
 
 CHI_MNT_01 = 
 {
-	name = "Mountain Unit"
+	name = "山地步兵單位"
 
 	for_countries = { CHI }
 
@@ -483,7 +483,7 @@ CHI_MNT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { CHI_INF_01 }
 
-	fallback_name = "第%d軍團"
+	fallback_name = "第%d山地步兵軍團"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
@@ -630,7 +630,7 @@ CHI_MNT_01 =
 
 CHI_GAR_01 = 
 {
-	name = "Garrison Unit"
+	name = "保安單位"
 
 	for_countries = { CHI }
 

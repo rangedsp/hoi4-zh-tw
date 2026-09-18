@@ -45,7 +45,7 @@ division_template = {
 
 units = {
 	division = { 
-		name = "Yushu Jingbei"
+		name = "玉樹警備"
 		location = 8018 
 		division_template = "軍團"
 		start_experience_factor = 0.1
@@ -53,7 +53,7 @@ units = {
 
 	}
 	division = { 
-		name = "Dulan Jingbei"
+		name = "都蘭警備"
 		location = 10750 
 		division_template = "軍團"
 		start_experience_factor = 0.1
@@ -61,7 +61,7 @@ units = {
 
 	}
 	division = { 
-		name = "Labrang Jingbei"
+		name = "拉卜楞警備"
 		location = 11448 
 		division_template = "軍團"
 		start_experience_factor = 0.1
@@ -69,7 +69,7 @@ units = {
 
 	}
 	division = {
-		name = "Xining Jingbei" 
+		name = "西寧警備" 
 		location = 12732 
 		division_template = "軍團"		
 		start_equipment_factor = 0.3

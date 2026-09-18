@@ -1,5 +1,5 @@
 ﻿division_template = {
-	name = "Huncheng Lu" 		# Manchurian Army Mixed Brigade: 1 infantry regiment, 1 cavalry regiment, 1 artillery squadron
+	name = "混成旅" 		# Manchurian Army Mixed Brigade: 1 infantry regiment, 1 cavalry regiment, 1 artillery squadron
 	division_names_group = MAN_INF_01
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -26,7 +26,7 @@ division_template = {
 }
 
 division_template = {
-	name = "Qu Jun"			# "District Army" (garrison)
+	name = "區軍"			# "District Army" (garrison)
 	division_names_group = MAN_GAR_01
 									# Militia-level training and equipment
 	regiments = {
@@ -41,7 +41,7 @@ division_template = {
 }
 
 division_template = {
-	name = "Qibing Shi"	# Cavalry Division
+	name = "騎兵師"	# Cavalry Division
 	division_names_group = MAN_CAV_02
 
 	regiments = {
@@ -57,7 +57,7 @@ division_template = {
 units = {
 
 	division = {
-		name = "Jing'an Jun" # Mixed Japanese-Manchurian force
+		name = "靖安軍" # Mixed Japanese-Manchurian force
 		location = 4572
 		division_template = "Huncheng Lu"
 		force_equipment_variants = { infantry_equipment_0 = { owner = JAP } }
@@ -66,109 +66,109 @@ units = {
 	}
 
 	division = {
-		name = "Jinwei Bubing Tuan"
+		name = "警衛步兵團"
 		location = 4572
 		division_template = "Huncheng Lu"
 		force_equipment_variants = { infantry_equipment_0 = { owner = JAP } }
 		start_equipment_factor = 0.1	
 	}
 	
-	division = { # "1 Qu Jun"
+	division = { # "1區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 1
 		}
 		location = 800
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
-	division = { # "2 Qu Jun"
+	division = { # "2區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 2
 		}
 		location = 11771
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
-	division = { # "3 Qu Jun"
+	division = { # "3區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 3944
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
 	division = {
-		name = "4 Qu Jun"
+		name = "4區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 4
 		}
 		location = 4809
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
-	division = { # "5 Qu Jun"
+	division = { # "5區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 5
 		}
 		location = 3877
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
-	division = { # "1 Qibing Shi"
+	division = { # "1 騎兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 1
 		}
 		location = 800
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
-	division = { # "2 Qibing Shi"
+	division = { # "2 騎兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 2
 		}
 		location = 11771
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
-	division = { # "3 Qibing Shi"
+	division = { # "3 騎兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 3944
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
 
-	division = { # "4 Qibing Shi"
+	division = { # "4 騎兵師"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 4
 		}
 		location = 4809
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}

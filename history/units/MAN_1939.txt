@@ -9,7 +9,7 @@
 	}
 }
 division_template = {
-	name = "Qu Jun"					# "District Army" (garrison)
+	name = "區軍"					# "District Army" (garrison)
 	division_names_group = MAN_GAR_01
 									# Militia-level training and equipment
 	regiments = {
@@ -23,7 +23,7 @@ division_template = {
 	priority = 0
 }
 division_template = {
-	name = "Qibing Shi"			# Cavalry Division
+	name = "騎兵師"			# Cavalry Division
 	division_names_group = MAN_CAV_01
 
 	regiments = {
@@ -36,53 +36,53 @@ division_template = {
 
 ##### OOB #####
 units = {
-	division = { # "1 Qu Jun"
+	division = { # "1區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 1
 		}
 		location = 800
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "2 Qu Jun"
+	division = { # "2區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 2
 		}
 		location = 11771
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "3 Qu Jun"
+	division = { # "3區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 3
 		}
 		location = 3944
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "4 Qu Jun"
+	division = { # "4區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 4
 		}
 		location = 4809
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
-	division = { # "5 Qu Jun"
+	division = { # "5區軍"
 		division_name = {
 			is_name_ordered = yes
 			name_order = 5
 		}
 		location = 3877
-		division_template = "Qu Jun"
+		division_template = "區軍"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
@@ -92,7 +92,7 @@ units = {
 			name_order = 1
 		}
 		location = 800
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
@@ -102,7 +102,7 @@ units = {
 			name_order = 2
 		}
 		location = 11771
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
@@ -112,7 +112,7 @@ units = {
 			name_order = 3
 		}
 		location = 3944
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}
@@ -122,7 +122,7 @@ units = {
 			name_order = 4
 		}
 		location = 4809
-		division_template = "Qibing Shi"
+		division_template = "騎兵師"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.9
 	}

@@ -15,14 +15,14 @@
 units = {
 	### Provincial Forces ###
 	division = {
-		name = "Suiyuan Jingbei"
+		name = "綏遠警備"
 		location = 4174
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.2
 
 	}
 	division = {
-		name = "Chahar Jingbei"
+		name = "察哈爾警備"
 		location = 7158 
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.2

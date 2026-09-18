@@ -81,21 +81,21 @@ units = {
 
 	}
 	division = {
-		name = "Guangzhou Jingbei"
+		name = "廣州警備"
 		location = 1047
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "Hainan Jingbei"
+		name = "海南警備"
 		location = 994
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "Guilin Jingbei"
+		name = "桂林警備"
 		location = 10404
 		division_template = "軍團"		# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.5

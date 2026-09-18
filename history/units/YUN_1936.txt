@@ -13,21 +13,21 @@
 
 units = {
 	division = {
-		name = "Kunming Jingbei"
+		name = "昆明警備"
 		location = 12789
 		division_template = "軍團"			# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "Yunnan Baoan Ke"
+		name = "雲南保安科"
 		location = 10346
 		division_template = "軍團"			# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "Dali Baoan Ke"
+		name = "大理保安科"
 		location = 10346
 		division_template = "軍團"			# Provincial militia unit (poor equipment and training)
 		start_equipment_factor = 0.5
