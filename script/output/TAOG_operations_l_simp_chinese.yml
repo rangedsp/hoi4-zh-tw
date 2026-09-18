@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ operation_rescue_general: "營救被俘指揮官"
+ operation_rescue_general_desc: "§L我們的一位指揮官被敵軍俘虜了。我們必須加以營救。§!"
+ free_general_free_in_transit: "運輸途中解救"
+ free_general_free_in_transit_desc: "我們的特工已經確定敵方即將轉移我們的被俘將領，並計劃在途中伏擊攔截。"
+ free_general_assault_holding_area: "突襲關押地點"
+ free_general_assault_holding_area_desc: "我們的特工發現了被俘指揮官的被關押地點。他們將策劃一次大膽的突襲，以解救被俘將領。"
+ free_general_disguise_and_extract: "偽裝與逃亡"
+ free_general_disguise_and_extract_desc: "我們的特工將使用專業手段為被俘指揮官偽裝，使其騙過關押者，逃往友方領土。"

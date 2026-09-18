@@ -1,0 +1,16 @@
+﻿l_simp_chinese:
+ ## CZECHOSLOVAKIA ARMY READINESS ##
+ CZE_bop_army_readiness: "戰備狀態"
+ CZE_bop_army_readiness_of_power_category: "捷克軍隊團結一致，隨時準備應對前方的挑戰。然而，國內政局和國際事件可能會削弱軍隊對能否真正保衛國家的信心。"
+ CZE_bop_army_readiness_of_power_category_desc: "捷克軍隊團結一致，隨時準備應對前方的挑戰。然而，國內政局和國際事件可能會削弱軍隊對能否真正保衛國家的信心。"
+ CZE_bop_army_readiness_left_side: "無準備的軍隊"
+ CZE_bop_army_low_confidence: "無準備的軍隊"
+ CZE_bop_army_very_low_confidence: "毫無準備的軍隊"
+ CZE_bop_army_readiness_right_side: "做好準備的軍隊"
+ CZE_bop_army_high_confidence: "做好準備的軍隊"
+ CZE_bop_army_very_high_confidence: "準備充分的軍隊"
+ CZE_bop_army_readiness_middle: "中等軍隊準備度"
+ # CZECHOSLOVAKIA ARMY READINESS MODIFIERS #
+ CZE_bop_modifier_czech_sovereignty_is_threatened: "鄰國威脅"
+ # CZECHOSLOVAKIA ARMY READINESS TOOLTIPS #
+ CZE_bop_has_started_tt: "§Y$CZE_bop_army_readiness$§!權力平衡已在§Y[ROOT.GetName]§!啟動。"

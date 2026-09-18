@@ -1,0 +1,25 @@
+﻿# === [LocEditor:OrphanedFile] File contains only orphaned keys ===
+l_simp_chinese:
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ HOW_TO_PLAY: "遊戲教學"
+ DISABLE_ALERTS: "關閉視頻播放的提示"
+ MORE_VIDEOS: "更多視頻"
+ VIDEO_TUTORIALS: "視頻教學"
+ ALERT_LEFTCLICK_SHOW_VIDEO: "§G左鍵單擊獲取\n有關此問題的視頻§!"
+ VIDEO_DO_NOT_SHOW_AGAIN: "不再顯示"
+ VIDEO_WATCHED_ICON: "已觀看"
+ VIDEO_TITLE_SELECT_CREATE_ARMY: "選擇並創建部隊"
+ VIDEO_TITLE_TRAIN_DEPLOY_DIVISIONS: "訓練和部署陸軍師"
+ VIDEO_TITLE_ASSIGN_OFFENSIVE_LINE: "指定進攻線"
+ VIDEO_TITLE_INCREASE_MANPOWER: "增加人力"
+ VIDEO_TITLE_ASSIGN_FLEET_TASK: "指定艦隊任務"
+ VIDEO_TITLE_CREATE_AIR_WING: "創建空軍聯隊"
+ VIDEO_TITLE_ASSIGN_AIR_ARMY: "將空軍聯隊指派到陸軍"
+ VIDEO_TITLE_ASSING_AIR_REGION: "將空軍聯隊指派到地區"
+ VIDEO_TITLE_MILITARY_FACTORIES: "新增生產線"
+ VIDEO_TITLE_CIVILIAN_FACTORIES: "基礎設施和建設"
+ VIDEO_TITLE_DOCKYARDS: "造船"
+ VIDEO_TITLE_TRADE: "貿易和資源"
+ VIDEO_TITLE_DECLARE_WAR: "宣戰"
+ VIDEO_PLAYER_ERROR: "發生了一個錯誤。\n請確保Steam客戶端正在運行，然後重新啟動遊戲"
