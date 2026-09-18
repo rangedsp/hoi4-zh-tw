@@ -115,5 +115,3 @@
  INS_BLITZKRIEG_DESC: "三年前，蘇塔爾喬和他的支持者向海牙請願，希望能在十年內獲得自治權。去年11月，皇家敕令傳來。請願遭到否決。\n\n這次拒絕反而做到了多年的鼓動所做不到的事。5月，8個最大的民族主義組織擱置分歧，組成聯盟，一致要求建立印尼議會。殖民政府做出的回應一如既往，但日本繼續在中國向南推進，而東印度與海牙的距離無比遙遠。"
  COUNTRY_SELECTION_CHARACTER_DESC_NAME: "$NAME|Y$"
  COUNTRY_SELECTION_CHARACTER_DESC: "$NAME|Y$$DESC|$\n$TRAITS_DESC|$"
-
-

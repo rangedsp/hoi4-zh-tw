@@ -235,5 +235,3 @@
  alert_lack_of_power_delayed_nav: "所有£nav_dockyard_texticon 海軍船塢£navprod_cost 減少$VALUE|H$，船塢產出修正降低$PERCENTAGE|.0R%$"
  alert_faction_can_select_goal_instant: "§H你可以選擇新陣營目標§!"
  alert_faction_can_select_goal_delayed_header: "如果我們不作選擇，其他陣營成員可能會自行添加一個目標"
-
-

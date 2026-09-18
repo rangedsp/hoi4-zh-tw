@@ -145,6 +145,8 @@
  integrate_papua: "整合巴布亞"
  integrate_the_northern_malays: "整合北馬來亞"
  integrate_the_philippines: "整合菲律賓"
+ integrate_singapore: "整合新加坡"
+ integrate_penang: "整合檳城"
  form_rattanakosin_kingdom: "鞏固拉達那哥欣王朝遺產"
  form_hre: "復興神聖羅馬帝國"
  form_scandinavia_category: "重建卡爾瑪同盟"
@@ -181,6 +183,9 @@
  form_majapahit_empire_category_desc: "在遙遠的歷史長河中，一個強盛的帝國曾主宰印度尼西亞群島，掌控著這片海域的商貿命脈。如今，我們成功將國土疆域擴展至與那個古老帝國比肩的規模，並以此為基石構建新的民族國家，這無疑將成為這片區域重現統一輝煌的重要象徵。"
  form_rattanakosin_kingdom_category: "鞏固拉達那哥欣王朝遺產"
  form_rattanakosin_kingdom_category_desc: "近年來，我們已與建國初期的傳統民族認同漸行漸遠。但現在，隨著我們重回黃金時代的疆域，或許是時候更加緊密地契合本國的歷史了。"
+ form_pan_tai_empire: "建立泛泰帝國"
+ form_pan_tai_empire_category: "建立泛泰帝國"
+ form_pan_tai_empire_category_desc: "大泰帝國已將我國疆域恢復至輝煌時期，但泰族分佈之廣遠超於此。從撣邦山地到雲南的傣族、廣西的壯族，乃至遙遠的阿薩姆阿洪人，我們的同胞仍四分五裂。如今這些祖先故土已飄揚我國旗幟，讓我們宣告建立一個統合所有泰族的單一帝國。"
  form_hre_category: "復興神聖羅馬帝國"
  form_hre_category_desc: "[GetWhoIsFormingHre]"
  GER_is_forming_hre: "我們的女皇陛下的輝煌無與倫比，我們國家的疆界也同樣無邊無際。這些疆界已擴展至涵蓋了舊神聖羅馬帝國的範圍，而站在我們道路上的國家也不再有資格反對我們的政策。女皇陛下已經下令，我們應把握住當下的機會，讓我國成為神聖羅馬帝國的精神繼承者。鷹擊天翱，主宰萬物！"
@@ -1034,5 +1039,3 @@
  burma_road_expansion_tt: "已完成§Y滇緬公路§!或§Y滇緬公路§!國策，或與已完成國家處於同一陣營或是其附屬國。" #NOTE: these are names of uk_burma_focus and CHI_burma_road
  develop_transdanubia_aluminium_deposits: "開發外多瑙鋁礦"
  develop_derna_oilfield: "開採德爾納油田"
-
-

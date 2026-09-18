@@ -421,6 +421,7 @@
  MODIFIER_NAVY_MAX_RANGE_FACTOR: "海軍最大航程係數"
  MODIFIER_NAVY_MAX_RANGE_FACTOR_DESC: "增加我們自最近有通行權的海軍基地執行行動的最大範圍。"
  navy_max_range_factor_tt: "$MODIFIER_NAVY_MAX_RANGE_FACTOR$：$RIGHT|+=%1$"
+ naval_speed_factor_tt: " $MODIFIER_NAVAL_SPEED_FACTOR$：$RIGHT|+=%1$"
  air_range_factor_factor_tt: " $MODIFIER_AIR_RANGE_FACTOR$：$RIGHT|+=%1$"
  MODIFIER_OPINION_GAIN_MONTHLY: "改善關係獲得的評價"
  MODIFIER_OPINION_GAIN_MONTHLY_FACTOR: "改善關係獲得的評價"
@@ -613,6 +614,7 @@
  air_interception_detect_factor_tt: " $MODIFIER_AIR_INTERCEPTION_DETECT_FACTOR$：$RIGHT|+=%1$"
  MODIFIER_AIR_SUPERIORITY_DETECT_FACTOR: "戰鬥機探測"
  MODIFIER_AIR_SUPERIORITY_DETECT_FACTOR_DESC: "執行奪取制空權任務時探測到敵機的幾率。"
+ air_superiority_detect_factor_tt: "$MODIFIER_AIR_SUPERIORITY_DETECT_FACTOR$：$RIGHT|+=%1$"
  MODIFIER_STRAT_BOMBING_VISIBILITY: "戰略轟炸可見度"
  MODIFIER_STRAT_BOMBING_VISIBILITY_DESC: "執行戰略轟炸任務時被敵方發現的概率。"
  MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR: "步兵師攻擊"
@@ -2583,5 +2585,3 @@
  cannot_retreat_while_attacking_tt: " $MODIFIER_CANNOT_RETREAT_WHILE_ATTACKING$：$RIGHT|+0$\"local_resource_gain_efficiency_per_infrastructure_tt: \" $MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE$: $RIGHT|+=%1$"
  MODIFIER_AIR_CLOSE_AIR_SUPPORT_ORG_DAMAGE_FACTOR: "近距支援機組織度傷害係數"
  air_close_air_support_org_damage_factor_tt: " $MODIFIER_AIR_CLOSE_AIR_SUPPORT_ORG_DAMAGE_FACTOR$：$RIGHT|+=%1$"
-
-

@@ -83,5 +83,3 @@
  TOPBAR_COAL_CURRENTLY_USED: "來自當前消費的§Y$COUNT$§!£energy_consumption_texticon 煤炭"
  TOPBAR_MAXIMUM_ENERGY_GENERATED: "£energy_texticon 最大能源產出：$ENERGY_GENERATED|H1$"
  TOPBAR_TOTAL_COAL: "來自當前可用的§Y$COUNT$§!£energy_consumption_texticon 煤炭"
-
-

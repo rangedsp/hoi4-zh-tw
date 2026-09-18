@@ -1,4 +1,7 @@
 ﻿l_simp_chinese:
+ #INS_rump_java: "Java"
+ #INS_rump_java_DEF: "Java"
+ #INS_rump_java_ADJ: "Javanese"
  INS_HOL: "荷屬東印度"
  INS_HOL_DEF: "荷屬東印度"
  INS_HOL_autonomy_dominion: "印度尼西亞自治領"
@@ -3076,6 +3079,9 @@
  INS_maphilindo_fascism: "馬來帝國"
  INS_maphilindo_fascism_DEF: "馬來帝國"
  INS_maphilindo_fascism_ADJ: "馬來"
+ INS_union_of_provinces: "印度尼西亞省份聯盟"
+ INS_union_of_provinces_DEF: "印度尼西亞省份聯盟"
+ INS_union_of_provinces_ADJ: "印度尼西亞"
  PHI_asean_tag: "東南亞國家聯盟"
  PHI_asean_tag_DEF: "東南亞國家聯盟"
  PHI_asean_tag_ADJ: "東南亞"
@@ -3230,5 +3236,7 @@
  AST_percy_fascism: "$AST$"
  AST_percy_fascism_DEF: "$AST_DEF$"
  AST_percy_fascism_ADJ: "$AST_ADJ$"
-
-
+ AST_independent: "$AST$"
+ AST_independent_DEF: "$AST_DEF$"
+ AST_monarchy_neutrality: "澳大利亞王國"
+ AST_monarchy_neutrality_DEF: "澳大利亞王國"

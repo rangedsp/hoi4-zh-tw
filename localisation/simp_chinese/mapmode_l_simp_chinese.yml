@@ -67,5 +67,3 @@
  MAPMODE_TOOLTIP_MANPOWER: "£population_texticon 人口$MP|*Y$"
  MAPMODE_DEBUG_NAVAL_ACCESSIBILITY: "按住§GALT§!顯示潛艇通行範圍\n按住§GSHIFT§!顯示水面艦船通行範圍"
  STRATEGIC_LOCATION_MAPICON: "§H戰略地點§!"
-
-

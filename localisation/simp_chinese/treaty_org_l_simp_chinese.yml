@@ -39,5 +39,3 @@
  treaty_org.5.d: "由於擔心陷入東方與西方進一步的衝突之中，[FROM.GetNameDef]宣佈了立刻脫離[ROOT.GetFactionName]的意向。站在他們的立場上，誰能指責他們呢？"
  treaty_org.5.t: "[FROM.GetName]選擇中立"
  treaty_org.5.a: "理解"
-
-

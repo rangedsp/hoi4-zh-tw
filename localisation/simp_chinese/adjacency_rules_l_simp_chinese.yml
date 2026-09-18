@@ -40,5 +40,3 @@
  suez_blocked_tt_NOT: "[GetSuezBlockText]"
  blocked_as_part_of_sanctions_tt: "§R由於國際聯盟的制裁，[ROOT.GetName]無法使用蘇伊士運河。§!"
  SUEZ_SANCTIONS_FLAG: "蘇伊士運河已被封鎖"
-
-

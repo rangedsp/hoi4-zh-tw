@@ -3410,5 +3410,3 @@
  #This loc string is used for when Germany pressures Sweden to give up resource rights:
  AAT_germany.10.desc: "由於[FROM.GetNameDef]及其走狗最近佔領了[144.GetName]，[GER.GetLeader]要求我們與他們進行更多的資源交易，為他們的戰爭機器提供燃料。這項交易並非完全單方面的，而且拒絕它可能會使我們被拖入戰爭中……"
  wtt_xian_incident_warning_8: "§R[CHI.GetNameDef]可能會因此選擇開戰！§!"
-
-

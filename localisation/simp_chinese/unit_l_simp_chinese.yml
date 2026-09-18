@@ -416,6 +416,8 @@
  hq_infantry_desc: "一個規模較小的步兵營，專門負責總部安保。"
  hq_motorized: "摩托化總部警衛"
  hq_motorized_desc: "乘坐機動車輛的步兵，使總部能夠更快移動。"
+ hq_armored_car: "裝甲車總部警衛"
+ hq_armored_car_desc: "裝甲車護衛總部，兼具機動性、防護力與卓越的偵察能力。"
  hq_paratrooper: "空降兵總部警衛"
  hq_paratrooper_desc: "允許總部直接加入空降行動，並提供更多安全性。"
  hq_light_armor: "輕型裝甲總部警衛"
@@ -789,5 +791,3 @@
  land_cruiser_desc: "一臺裝備了戰列艦級別武器和最重裝甲的龐大戰爭機器，但極為緩慢且消耗大量資源。"
  strat_bomber_intercontinental: "洲際轟炸機"
  AIR_WING_EXPERIENCE_VALUE_MODIFIER: "-經驗：$VALUE|%-=2$"
-
-

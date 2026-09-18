@@ -186,5 +186,3 @@
  MILITARY_INDUSTRIAL_ORG_HINT_SCREEN: "提示：軍工機構"
  MILITARY_INDUSTRIAL_ORG_HINT_SCREEN_TEXT: "你可以在生產、研發或設計裝備時分配$INDUSTRIAL_ORG_TOOLTIP_HEADER$。這些組織可改進其正在研發或設計的裝備。分配至生產線時則有助於生產速度、效率和資源需求。\n\n每完成一項任務，$INDUSTRIAL_ORG_TOOLTIP_HEADER$就會獲得可用於解鎖特質的經費。這些特質會改進$INDUSTRIAL_ORG_TOOLTIP_HEADER$對裝備或生產的加成。\n\n將$INDUSTRIAL_ORG_TOOLTIP_HEADER$分配至研究項目需要每天花費£pol_power §Y政治點數§!。"
  BUTTON_WIKI_MILITARY_INDUSTRIAL_ORG: "在HOI4維基上閱讀關於§H軍工機構§!的條目！"
-
-

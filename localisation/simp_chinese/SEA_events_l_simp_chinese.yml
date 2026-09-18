@@ -703,6 +703,18 @@
  SEA_japan_popup_events.50.desc: "隨著大政翼贊會的成立，顯而易見的是，特高課長官安倍源基及文官系統的各領導人已明確表示對[ROOT.GetLeader]的舉措深感不滿。如今，他們要求其下野，由親納粹政客中野正剛接任。我們是否應接受這一施壓？"
  SEA_japan_popup_events.50.a: "很好，如果這就是他們想要的首相……"
  SEA_japan_popup_events.50.b: "我們不會遵從他們的要求！"
+ SEA_japan_popup_events.51.t: "中途島戰役"
+ SEA_japan_popup_events.51.desc: "由於海軍參謀部希望把太平洋防禦圈延伸到更偏遠的環礁，我們的艦隊最近被派往西天皇海山鏈巡邏，途中遭遇了一支美國艦隊。戰鬥打得頗為激烈，但最終我們擊退了敵軍，對其海軍和士氣都造成了重大打擊。為此，我指揮官們獲得了相應的晉升。"
+ SEA_japan_popup_events.51.a: "天皇陛下萬歲！"
+ SEA_japan_popup_events.52.t: "中途島戰役"
+ SEA_japan_popup_events.52.desc: "自從日本人開始試圖將其太平洋防禦圈擴張至更偏遠的環礁，他們的艦隊已再次游弋至珍珠港附近。然而，敵人不知道的是，我們的密碼破譯人員已經確定了他們計劃進攻中途島的地點和時間，使我們得以設下伏擊。太平洋艦隊司令在日本人到達之前就已派遣弗蘭克·傑克·弗萊徹率一支大部隊前往中途島區域，得益於這份周密的準備，我們給他們的部隊造成了沉重打擊，他們不會很快恢復過來。"
+ SEA_japan_popup_events.52.a: "讓他們見識我們的厲害"
+ SEA_japan_popup_events.53.t: "中途島災難"
+ SEA_japan_popup_events.53.desc: "由於海軍參謀想要把太平洋防禦圈擴展到更遠的環礁，我們的艦隊最近被派出去攻佔中途島環礁。然而，我指揮官們不知道的是，美國密碼破譯人員已經確定了我們計劃進攻中途島的地點和時間，從而得以設下伏擊。這場戰鬥造成了災難性的損失，媒體正在對公眾審查任何有關損失的信息，以維持士氣。"
+ SEA_japan_popup_events.53.a: "恥辱的表現"
+ SEA_japan_popup_events.54.t: "中途島慘敗"
+ SEA_japan_popup_events.54.desc: "自從日本人開始試圖將其太平洋防禦圈擴張至更偏遠的環礁，他們的艦隊已再次游弋至珍珠港附近。然而，敵人不知道的是，我們的密碼破譯人員已經確定了他們計劃進攻中途島的地點和時間，使我們得以設下伏擊。太平洋艦隊司令在日本人到達之前就已派遣弗蘭克·傑克·弗萊徹率一支大部隊前往中途島區域。然而，儘管我們盡了最大努力，我們的艦隊仍然不是他們的對手，幾個小時內，戰鬥的走向就已經確定。這或許就是敵人迫使我們太平洋艦隊屈服的轉折點。"
+ SEA_japan_popup_events.54.a: "一場前所未有的災難！"
  ### BORDER INCIDENT EVENTS ###
  # Event for MON
  SEA_border_incidents_events.1.t: "我軍前往塔烏蘭"
@@ -2229,5 +2241,3 @@
  tsr_manchukuo_border_war.6.desc: "雖然北京落入[MAN.GetAdjective]軍隊手中，但他們向河北省推進的行動被挫敗了。"
  tsr_manchukuo_border_war.6.a: "好吧。"
  tsr_manchukuo_border_war.6.b: "河北屹立不倒！"
-
-

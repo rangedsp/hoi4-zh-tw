@@ -79,5 +79,3 @@
  THEATRE_GROUP_UNASSIGNED: "未分配"
  CAN_ONLY_HAVE_ONE_INVASION_PER_PORT: "§R只能對任意選定港口下達一個單獨的入侵命令。§!"
  MAX_UNITS_ON_THIS_ORDER: "分配師數量上限：$VALUE|Y$"
-
-

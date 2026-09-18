@@ -145,5 +145,3 @@
  SHARED_BUILDINGS_BACKGROUND_TOOLTIP: "可以在地區級別建造的建築物，這些建築共享地區級建築位。"
  PROVINCE_BUILDINGS_BACKGROUND_TOOLTIP: "可以單獨在省份級別建造的建築物，每種建築類型都有自己的等級上限。"
  FACILITY_BUILDINGS_BACKGROUND_TOOLTIP: "省份建築，每個地區最多隻能建造一個。"
-
-

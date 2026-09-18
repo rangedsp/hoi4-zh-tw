@@ -345,5 +345,3 @@
  nuclear_espionage_desc: "我國的核武器計劃落後於其他國家。我們應該計劃一項滲透外國核武器計劃的行動，以獲取重要的藍圖和數據。"
  nuclear_espionage_outcome_tt: "我們將在[FROM.GetAdjective]的核研究計劃中安插一個特工，試圖盜取技術文件以用於我國的核計劃。"
  SWI_boost_resistance_buff: "\n§Y加強抵抗組織§!行動變得更加有效。"
-
-

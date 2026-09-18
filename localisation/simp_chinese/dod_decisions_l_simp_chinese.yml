@@ -60,5 +60,3 @@
  ROM_change_sides_to_axis_desc: "隨著我國政府的更迭，我國在戰時的結盟政策亦發生了變化。加入軸心國後，我們在這場全球衝突中目前的“戰友們”將驚愕地看到羅馬尼亞的槍口轉向新的目標。"
  ROM_present_ultimatum: "遞交最後通牒"
  ROM_country_and_all_subjects_trigger: "[Country.GetName]及其所有附屬國"
-
-

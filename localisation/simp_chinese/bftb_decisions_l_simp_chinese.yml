@@ -1012,5 +1012,3 @@
  BUL_balkan_confederation_ai_tt: "§Y[FROM.GetNameWithFlag]§!將更傾向於接受我方外交議案。"
  BUL_balkan_confederation_balkan_summit_cooldown_tt: "[GetDecisionCooldownTooltip]§Y365日§!。\n"
  BUL_balkan_confederation_cooldown_tt: "[GetDecisionCooldownTooltip]§Y365日§!。\n"
-
-

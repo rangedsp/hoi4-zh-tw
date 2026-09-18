@@ -285,5 +285,3 @@
  OFFICER_CORP_COUP_NEGATIVE_PROGRESS: "導致政變衰退的因素：$VAL|0+%$"
  ARMY_MOTORIZATION_PRIORITY: "§H補給摩托化優先度§!\n如果超出補給範圍，會優先為這支軍隊對應的補給中心提供庫存卡車增加其摩托化水平，以保證此軍隊的補給需求。\n§G點擊§!在優先級中循環切換。"
  OFFICER_CORP_SPECIAL_FORCES_DOCTRINE: "特種部隊"
-
-

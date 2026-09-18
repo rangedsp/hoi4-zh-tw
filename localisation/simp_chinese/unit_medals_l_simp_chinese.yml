@@ -143,9 +143,11 @@
  COMMANDER_ROSTER_DIVISION_BUTTON: "戰地軍官"
  COMMANDER_ROSTER_DIVISION_TOOLTIP: "§H戰地軍官§!"
  COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED: "戰地軍官管理你手下的作戰部隊。他們可以被晉升為陸軍將領。"
+ COMMANDER_ROSTER_DIVISION_TOOLTIP_HAS_CITATIONS: "$COUNT|H$個師已經獲得表彰。"
  COMMANDER_ROSTER_SHIP_BUTTON: "艦長"
  COMMANDER_ROSTER_SHIP_TOOLTIP: "§H艦長§!"
  COMMANDER_ROSTER_SHIP_TOOLTIP_DELAYED: "艦長管理你手下的戰艦。他們可以被晉升為海軍將領。"
+ COMMANDER_ROSTER_SHIP_TOOLTIP_HAS_CITATIONS: "$COUNT|H$艘艦船已經獲得表彰。"
  DIVISION_COMMANDER_EXPERIENCE_SORT: "經驗"
  PROMOTED_FROM_TOOLTIP_DESC: "在帶領$DATA$度過了一段成功的戰地生涯後，$NAME$被晉升為將軍。"
  PROMOTED_FROM_SHIP_TOOLTIP_DESC: "在帶領$DATA$的水手度過了一段成功的服役經歷後，$NAME$被晉升為海軍將官。"
@@ -357,5 +359,3 @@
  military_order_of_the_white_lion: "白獅軍事勳章"
  bravery_before_the_enemy: "英勇勳章"
  CZE_war_cross: "戰爭十字勳章"
-
-

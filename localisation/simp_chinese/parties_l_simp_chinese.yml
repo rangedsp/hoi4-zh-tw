@@ -340,6 +340,8 @@
  AST_neutrality_party_long: "澳大利亞鄉村黨"
  AST_colonial_administration: "殖民政府"
  AST_colonial_administration_long: "殖民政府"
+ AST_house_of_hore-ruthven: "霍爾-魯思文家族"
+ AST_house_of_hore-ruthven_long: "霍爾-魯思文家族"
  AST_democratic_party: "澳大利亞聯合黨"
  AST_democratic_party_long: "澳大利亞聯合黨"
  AST_labor_party: "澳大利亞工黨"
@@ -1674,5 +1676,3 @@
  CZE_neutrality_party_placeholder: "捷克國家社會黨"
  CZE_neutrality_party_national_unity: "國家統一黨"
  CZE_democratic_party_second_republic: "國家勞工黨"
-
-

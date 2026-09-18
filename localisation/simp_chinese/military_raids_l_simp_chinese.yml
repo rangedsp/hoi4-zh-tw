@@ -450,6 +450,8 @@
  raid_type_INS_militia_port_raid_desc: "我方將派遣民兵偽裝成漁民，乘坐小型船隻行動，力求不被當局發現。登陸後，他們將嘗試建立游擊隊據點；若時機成熟，便會同當地游擊隊協同奪取該海軍基地。此次行動風險極高，一旦民兵暴露行蹤，行動必將失敗。\n\n§Y效果：§!\n§R所分配的師將被消耗§!\n§Y成功：§!\n       §W成為該地區的所有者與控制者。§!\n       提升戰局態勢等級§R1§!級。\n§Y部分成功：§!\n       §W民兵活動等級提升§Y1級§!，提高後續行動的成功概率。§!\n§Y失敗：§!\n       §W沒有效果。§!"
  SIA_pacific_island_raid: "襲擊太平洋島嶼"
  SIA_pacific_island_raid_desc: "我們將襲擊太平洋島嶼，試圖嚴重破壞島上的海軍建築、船隻和陸軍。"
+ raid_type_SIA_pacific_island_raid: "$SIA_pacific_island_raid$"
+ raid_type_SIA_pacific_island_raid_desc: "$SIA_pacific_island_raid_desc$\n\n§Y效果：§!\n§Y大成功/成功/部分成功：§!\n       §W破壞§Y海軍基地§!和§Y海上設施§!§Y3§!/§Y2§!/§Y1§!級\n       破壞地區內的敵方§Y陸軍和船艦§!§Y75%§!/§Y50%§!/§Y25%§!§!\n§Y失敗：§!\n       §R分配的師被消滅§!"
+ raid_type_SIA_indochina_port_raid: "襲擊印度支那港口"
+ raid_type_SIA_indochina_port_raid_desc: "我們的轟炸機將襲擊印度支那的敵方海軍基地，炸燬其碼頭並擊沉所有停泊的炮艇。我們每炸燬一個港口，敵方艦隊在灣區就少一個基地。"
  raid_tooltip_trigger_title: "$TITLE|H$："
-
-

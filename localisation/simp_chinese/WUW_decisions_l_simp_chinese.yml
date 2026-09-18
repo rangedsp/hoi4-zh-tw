@@ -773,5 +773,3 @@
  decision_cost_20_convoy_10_NavXP: "£GFX_topbar_convoys §Y20§!£navy_experience §Y10§!"
  decision_cost_20_convoy_10_NavXP_blocked: "£GFX_topbar_convoys §R20§!£navy_experience §R10§!"
  decision_cost_20_convoy_10_NavXP_tooltip: "執行此決議需要花費§Y20§!£GFX_topbar_convoys 和§Y10§!£navy_experience"
-
-

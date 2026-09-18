@@ -234,7 +234,7 @@
  CZE_current_skoda_priority_dynamic_local_planes_focus: "$CZE_current_skoda_priority_dynamic_local_start$§Y飛機重心§!"
  CZE_current_skoda_priority_dynamic_local_naval_focus: "$CZE_current_skoda_priority_dynamic_local_start$§Y海軍重心§!"
  CZE_current_skoda_priority_dynamic_local_no_core: "$CZE_current_skoda_priority_dynamic_local_start$§Y未知§!"
- CZE_current_skoda_priority_current_optimization_tier_tt: "當前優化等級：§Y$CZE_skoda_optimization_tier_var_text$§!" #$CZE_skoda_optimization_tier_var_text$ is in the 'mun_decisions_l_simp_chinese' file
+ CZE_current_skoda_priority_current_optimization_tier_tt: "當前優化等級：§Y$CZE_skoda_optimization_tier_var_text$§!" #$CZE_skoda_optimization_tier_var_text$ is in the 'mun_decisions_l_english' file
  CZE_skoda_fast_optimization_tt_dynamic_local: "[CZE_skoda_fast_optimization_tt_dynamic_local]"
  CZE_skoda_fast_optimization_tt_on_dynamic: "當前 §Y斯柯達聚焦§!£GFX_prod_eff_cap 優化等級會隨時間增加，直到最大等級：§G+100.0%§! \n\n"
  CZE_skoda_fast_optimization_tt_off_dynamic: "\n"
@@ -252,5 +252,3 @@
  CZE_skoda_tanks_focus_optimization_idea: "斯柯達優先事項：坦克重心"
  CZE_skoda_planes_focus_optimization_idea: "斯柯達優先事項：飛機重心"
  CZE_skoda_naval_focus_optimization_idea: "斯柯達優先事項：海軍重心"
-
-

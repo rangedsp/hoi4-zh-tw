@@ -623,6 +623,8 @@
  TRIGGER_IS_NOT_LEADING_ARMY: "未在指揮集團軍"
  TRIGGER_IS_LEADING_ARMY_IN_PROVINCE: "在$NAME|H$指揮軍隊"
  TRIGGER_IS_NOT_LEADING_ARMY_IN_PROVINCE: "未在$NAME|H$指揮軍隊"
+ TRIGGER_IS_DEPLOYED: "被指派"
+ TRIGGER_IS_NOT_DEPLOYED: "未被指派"
  TRIGGER_IS_LEADING_ARMY_GROUP: "正在指揮集團軍群"
  TRIGGER_IS_NOT_LEADING_ARMY_GROUP: "未在指揮集團軍群"
  TRIGGER_CAN_BE_CAPTURED: "可以被俘虜"
@@ -644,6 +646,8 @@
  TRIGGER_LESS_THAN_TEMPERATURE: "溫度低於$NUM|H0$"
  TRIGGER_FIGHTING_ON_TERRAIN: "在此地形作戰：$TYPE|H$"
  TRIGGER_FIGHTING_NOT_ON_TERRAIN: "未在此地形作戰：$TYPE|H$"
+ TRIGGER_FIGHTING_IN_STRATEGIC_REGION: "在戰略區域作戰：$REGION|H$"
+ TRIGGER_NOT_FIGHTING_IN_STRATEGIC_REGION: "未在戰略區域作戰：$REGION|H$"
  TRIGGER_IS_CAPITAL: "是首都地區"
  TRIGGER_IS_NOT_CAPITAL: "不是首都地區"
  TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE: "部署隊列中的人力"
@@ -1025,5 +1029,3 @@
  can_unlock_second_track_special_forces_doctrine_yes: "特種部隊§H分支專業化§!條件滿足"
  can_unlock_second_track_special_forces_doctrine_no: "需要額外特種部隊§H分支專業化§!"
  volunteer_target_is_triggered_uprising_tt: "§Y[ROOT.GetNameWithFlag]§!僅可向由本國引發的起義派遣志願軍。"
-
-

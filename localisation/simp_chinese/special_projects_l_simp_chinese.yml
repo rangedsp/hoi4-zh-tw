@@ -1251,5 +1251,3 @@
  sp_land_reward_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology_desc: "[Character.GetName]在推進技術方面取得了重要突破，顯著提高了[SpecialProject.GetName]發射的速度和威力。這一進步為該武器在戰場上的有效性開闢了新的可能性，並加速了項目的進展。"
  sp_land_reward_option_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology_desc: "[Character.GetName]在推進技術方面取得了重要突破，顯著提高了[SpecialProject.GetName]發射的速度和威力。這一進步為該武器在戰場上的有效性開闢了新的可能性，並加速了項目的進展。"
  sp_naval_generic_failure_nuclear_accident: "得到控制的核事故"
-
-

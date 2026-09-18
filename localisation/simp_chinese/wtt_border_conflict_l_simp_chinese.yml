@@ -50,5 +50,3 @@
  wtt_border_conflict_escalate_to_war.1.t: "[From.GetNameDefCap]備戰動員"
  wtt_border_conflict_escalate_to_war.1.desc: "偵察兵報告稱，[From.GetAdjective]的軍隊目前正在其[their_state.GetName]地區集結，意欲採取大規模軍事行動進犯我[our_state.GetName]疆界。根據[From.GetLeader]調配的物資判斷，其意圖似在擴大局勢，這已不再是一場侷限於爭議邊境的邊界衝突了。\n\n全面戰爭已迫在眉睫。"
  wtt_border_conflict_escalate_to_war.1.a: "做好狹路相逢的準備！"
-
-

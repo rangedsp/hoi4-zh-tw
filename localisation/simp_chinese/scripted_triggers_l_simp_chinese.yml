@@ -9,5 +9,3 @@
  is_alpine_TT: "是阿爾卑斯地區"
  state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt: "由§Y[ROOT.GetFlag][ROOT.GetNameDef]§!，任意§Y[ROOT.GetAdjective]附屬國§!或§Y陣營成員§!完全控制"
  state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt_NOT: "沒有：$state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt$"
-
-

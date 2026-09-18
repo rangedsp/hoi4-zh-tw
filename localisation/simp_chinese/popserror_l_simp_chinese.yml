@@ -17,5 +17,3 @@
  #These can happen sometimes, when connection failed or some other error occurred
  POPS_NO_MESSAGE: "發生了預料之外的錯誤"
  POPS_UNEXPECTED_ERROR: "發生了一個預料之外的錯誤。"
-
-

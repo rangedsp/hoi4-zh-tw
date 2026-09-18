@@ -103,5 +103,3 @@
  NAVY_SUPPLY_USAGE_DESC_BASE: "基礎值：$VAL|H$"
  NAVY_SUPPLY_USAGE_DESC_SUPPLY_HUB_REDUCTION: "海軍補給中心：$VAL|%-$"
  CONVOY_ESCORT_POSITIONING_BONUS: "§Y以£GFX_naval_dominance_texticon£制海權護航運輸船隊：§!$VALUE|1%+=$"
-
-
