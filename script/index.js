@@ -1,10 +1,12 @@
 import fs from "fs/promises";
 import path from "path";
 import * as OpenCC from "opencc-js";
+import { stringify, parseDocument, Document } from "yaml";
 
 // Define your folder paths
 const INPUT_DIR = "./input";
 const OUTPUT_DIR = "../localisation/simp_chinese";
+const errorFile = "./errors.txt";
 
 // Initialize the converter (Simplified Chinese to Traditional Chinese - Taiwan standard)
 const convertToTraditional = OpenCC.ConverterFactory(
@@ -27,6 +29,28 @@ async function convertFolder() {
 
   console.log(`Found ${files.length} files. Starting conversion...`);
 
+  const illegalYaml = [
+   ": ",
+   "#",
+   "\t",
+   "-",
+   "&",
+   "*",
+   "?",
+   "!",
+   "{",
+   "}",
+   "[",
+   "]",
+   ",",
+   "|",
+   ">",
+   "\\",
+   "'",
+   '"',
+  ];
+  const errors = [];
+
   // 3. Process each file
   const conversionPromises = files.map(async (filename) => {
    const inputPath = path.join(INPUT_DIR, filename);
@@ -39,16 +63,49 @@ async function convertFolder() {
    // Read file content as string
    const rawContent = await fs.readFile(inputPath, "utf-8");
 
-   // Convert content
-   const convertedContent = convertToTraditional(rawContent);
+   const document = parseDocument(rawContent);
+   const data = document.toJS();
+   const simp = data.l_simp_chinese;
+
+   if (!simp || Object.keys(data).length > 1) {
+    console.error("l_simp_chinese doesn't exist!");
+    errors.push(data);
+    return;
+   }
+
+   const outputObj = {};
+
+   for (const label of Object.keys(simp)) {
+    // if (illegalYaml.some((s) => value.includes(s))) {
+    //  console.error("has weird characters");
+    //  console.log(filename);
+    //  console.log(label);
+    //  console.log(value);
+    // }
+    outputObj[label] = convertToTraditional(simp[label]);
+   }
+
+   const outputDoc = new Document({ l_simp_chinese: outputObj });
 
    // Write content to the output folder
-   await fs.writeFile(outputPath, convertedContent, "utf-8");
+   await fs.writeFile(
+    outputPath,
+    outputDoc.toString({
+     defaultKeyType: "PLAIN",
+     defaultStringType: "QUOTE_DOUBLE",
+     doubleQuotedAsJSON: true,
+     indent: 1,
+     lineWidth: 0,
+    }),
+    "utf-8",
+   );
    console.log(`✅ Converted: ${filename}`);
   });
 
   // Wait for all conversions to complete simultaneously
   await Promise.all(conversionPromises);
+
+  await fs.writeFile(errorFile, JSON.stringify(errors), "utf-8");
   console.log('\n🎉 All files successfully converted and saved to "./output"!');
  } catch (error) {
   console.error("An error occurred during processing:", error.message);

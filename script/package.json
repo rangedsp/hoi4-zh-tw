@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "opencc-js": "^1.4.2"
+    "opencc-js": "^1.4.2",
+    "yaml": "^2.9.1"
   }
 }
