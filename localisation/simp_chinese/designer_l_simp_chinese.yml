@@ -255,9 +255,6 @@
  EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST_FOR_MISSIONS: "§R執行以下任務時，重量超過推力：§!"
  EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON: "添加主要武器以確定定位"
  EQUIPMENT_DESIGNER_DYNAMIC_VERSION_CHECKBOX_BUTTON_DESC: "§H顯示動態版本號§!\n激活後，將在名稱旁邊顯示動態版本號。"
- #Specialized names can be provided by appending the archetype/hull token. These will take priority if available. E.g.
- #ship_designer_screen_ship_hull_cruiser: "Light Cruiser"
- #ship_designer_capital_ship_ship_hull_cruiser: "Heavy Cruiser"
  ship_designer_submarine: "$EQUIPMENT_SUBMARINE$"
  ship_designer_capital_ship: "$EQUIPMENT_CAPITAL_SHIP$"
  ship_designer_screen: "$EQUIPMENT_SCREEN$"
@@ -288,7 +285,6 @@
  tank_designer_flame_role_disallowed: "添加一個對應模塊使該設計可以成為§H噴火坦克§!定位。"
  tank_designer_land_cruiser_chassis: "陸地巡洋艦"
  tank_designer_land_cruiser_chassis_role_disallowed: "需要§Y$land_cruiser_chassis$§!。"
- #Obsolete - There is no NSB support for these
  tank_designer_armored_recovery_vehicle: "裝甲搶救車（支援連）"
  tank_designer_armored_recovery_vehicle_role_disallowed: "添加一個對應模塊使該設計可以成為§H裝甲搶救車§!定位。"
  tank_designer_clearance_vehicle: "清障車輛（支援連）"
@@ -307,8 +303,6 @@
  plane_designer_scout_plane: "偵察機"
  plane_designer_maritime_patrol_plane: "海軍巡邏轟炸機"
  plane_designer_heavy_fighter: "重型戰鬥機"
- #name list themes
- #name list themes -- updated to include country-specific and other new list names
  NAME_THEME_RIVERS: "河流"
  NAME_THEME_FISH: "魚類"
  NAME_THEME_ANIMALS: "動物"
@@ -470,20 +464,11 @@
  heavy_cruiser_2_class_aa_upgrade: "1936型重巡洋艦-防空改"
  heavy_cruiser_3_class: "1940型重巡洋艦"
  heavy_cruiser_4_class: "1944型重巡洋艦"
- ###Historical Template Names
  type_ii_class: "II型"
  type_vii_class: "VII型"
  type_viic_class: "VII-C型"
  type_xxi_class: "XXI型"
  type_viid_class: "VII-D型"
- #######  #     #   #####
- ###    #  #     #
- ## #   #  #
- #####    #  #  #  #  ####
- ##   # #  #     #
- ##    ##  #     #
- #######  #     #   #####
- #ships
  abcd_class: "A/B/C/D級"
  abcd_1940_class: "1940型A/B/C/D級"
  efgh_class: "E/F/G/H級"
@@ -525,7 +510,6 @@
  t_Class: "T級"
  v_class: "V級"
  amphion_class: "安菲翁級"
- #planes
  HurricaneMkIIC: "颶風MkIIC"
  spitfireMkVb: "噴火MkVb"
  spitfireMkIXC: "噴火MkIXc"

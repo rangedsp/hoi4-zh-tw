@@ -1144,7 +1144,6 @@
  camicie_nere_security_militias: "$ITA_camicie_nere$"
  blackshirt_assault_battalion_tech: "$blackshirt_assault_battalion$"
  mountain_warfare_militias_tech: "$ITA_grande_rivolta_rurale$"
- #Non-MTG naval techs that require loc (they may be granted via effects)
  basic_heavy_cruiser: "基礎重巡洋艦（重巡洋艦 II型）"
  basic_ship_hull_carrier: "1936航空母艦船體"
  early_carrier: "早期航空母艦（航空母艦 I型）"
@@ -1247,22 +1246,22 @@
  naval_armor: "海軍裝甲"
  naval_artillery: "海軍火炮"
  mio_cat_tech_all_armor_and_modules: "所有裝甲科技"
- mio_cat_tech_light_armor_and_modules: "輕型裝甲科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_medium_armor_and_modules: "中型裝甲科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_heavy_armor_and_modules: "重型裝甲科技" #Cannot talk about modules because of DLC lock tack
+ mio_cat_tech_light_armor_and_modules: "輕型裝甲科技"
+ mio_cat_tech_medium_armor_and_modules: "中型裝甲科技"
+ mio_cat_tech_heavy_armor_and_modules: "重型裝甲科技"
  mio_cat_all_artillery_equipment: "所有火炮科技"
- mio_cat_all_light_fighter_and_modules: "所有戰鬥機科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_cas_and_modules: "所有近距支援機科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_naval_bomber_and_modules: "所有海軍轟炸機科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_light_aircraft_and_modules: "所有輕型飛機科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_medium_aircraft_and_modules: "所有中型飛機科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_heavy_aircraft_and_modules: "所有重型飛機科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_capital_ship_and_modules: "所有主力艦科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_screen_ship_and_modules: "所有屏衛艦科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_submarine_and_modules: "所有潛艇科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_carrier_and_modules: "所有航空母艦科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_cruiser_and_modules: "所有輕巡洋艦科技" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_destroyer_and_modules: "所有驅逐艦科技" #Cannot talk about modules because of DLC lock tack
+ mio_cat_all_light_fighter_and_modules: "所有戰鬥機科技"
+ mio_cat_all_cas_and_modules: "所有近距支援機科技"
+ mio_cat_all_naval_bomber_and_modules: "所有海軍轟炸機科技"
+ mio_cat_all_light_aircraft_and_modules: "所有輕型飛機科技"
+ mio_cat_all_medium_aircraft_and_modules: "所有中型飛機科技"
+ mio_cat_all_heavy_aircraft_and_modules: "所有重型飛機科技"
+ mio_cat_tech_all_capital_ship_and_modules: "所有主力艦科技"
+ mio_cat_tech_all_screen_ship_and_modules: "所有屏衛艦科技"
+ mio_cat_tech_all_submarine_and_modules: "所有潛艇科技"
+ mio_cat_tech_all_carrier_and_modules: "所有航空母艦科技"
+ mio_cat_tech_all_cruiser_and_modules: "所有輕巡洋艦科技"
+ mio_cat_tech_all_destroyer_and_modules: "所有驅逐艦科技"
  mio_cat_tech_all_motorized_mechanized: "所有摩托化和機械化科技"
  militia_tech: "民兵"
  TOA_jungle_pioneers_support_tech: "叢林先鋒"

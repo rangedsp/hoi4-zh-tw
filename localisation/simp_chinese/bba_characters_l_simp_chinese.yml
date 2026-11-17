@@ -1,10 +1,4 @@
 ﻿l_simp_chinese:
- #ETHIOPIA
- #ETH_haile_selassie: "Haile Selassie"
- #ETH_fitawrari_yeebio_woldai: "Fitawrari Yeebio Woldai"
- #ETH_seyoum_mengesha: "Seyoum Mengesha"
- #ETH_amare_makonnen: "Amare Makonnen"
- #ETH_haile_mariam: "Haile Mariam"
  ETH_imprisoned_flag: " 被關押"
  ETH_haile_selassie_gugsa: "海爾·塞拉西·古格薩"
  ETH_hailu_tekle_haymanot: "海盧·特克勒·海馬諾特"
@@ -38,13 +32,11 @@
  ETH_prov_mil_admin: "軍管委員會"
  ETH_beyene_merid: "貝耶內·梅里德"
  ETH_amha_selassie: "阿姆哈·塞拉西"
- #Non Ethiopian characters that appear in Ethiopian content
  IA_emma_goldman: "埃瑪·戈德曼"
  IA_sakutaro_iwasa: "巖佐作太郎"
  IA_sanshiro_ishikawa: "石川三四郎"
  RIF_abd_el_krim: "阿卜杜·克里姆"
  has_anarchist_government_tt: "是安那其主義政府執政"
- #ITALY
  ITA_benito_mussolini_roman_emperor: "奧古斯都·墨索里尼"
  ITA_vittorio_emanuele_iii_roman_emperor: "奧古斯都·維托里奧·埃馬努埃萊"
  ITA_italo_balbo_roman_emperor: "奧古斯都·巴爾博"
@@ -121,7 +113,6 @@
  AOI_guglielmo_nasi: "古列爾莫·納西"
  AOI_ruggero_santini: "魯傑羅·聖蒂尼"
  AOI_vincenzo_de_feo: "溫琴佐·德·費奧"
- #### SWITZERLAND ###
  SWI_albert_meyer: "阿爾貝特·邁耶"
  SWI_herman_obrecht: "赫爾曼·奧布雷希特"
  SWI_karl_kobelt: "卡爾·科貝爾特"

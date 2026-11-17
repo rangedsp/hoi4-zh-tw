@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
- #### Ethiopia
- #Balance of Power
  ETH_recall_balco_safo_decision: "召回退休的$ETH_balcho_safo$"
  ETH_recall_balco_safo_decision_desc: "在皇帝想進一步改變和掌控[ROOT.GetName]的偉大藍圖中，$ETH_balcho_safo$可能是一個頗具實力的反對派。然而，他仍是一個在默克萊和阿杜瓦的勝利中表現英勇的英雄，更是個深受士兵愛戴的指揮官。所以為了[ROOT.GetName]，再一次邀請他回來指揮軍隊不僅能使我們增加一位富有作戰經驗的指揮官，更能使越來越多的士兵簇擁到我們偉大的旗幟之下。"
  balcho_safo_recalled_tt: "獲得一個§Y$irregular_infantry$§!單位。"
@@ -13,7 +11,6 @@
  ETH_bop_increase_communist_influence: "增加對共產主義者的支持"
  ETH_bop_increase_anarchist_influence_desc: "我們必須確保安那其派擁有足夠的影響力，以防止中央政府再次侵犯人民的權利。我們應該發起一場宣傳運動，來增強人民對我們事業的支持。"
  ETH_bop_increase_communist_influence_desc: "我們必須確保共產主義者在政府決策中有足夠的話語權。我們應該發起一場宣傳運動，以在這個國家分崩離析前，增強人民對我們事業的支持。"
- #Decisions Menu
  ETH_placeholder_political_category: "PLACEHOLDER - TO BE REMOVED"
  ETH_placeholder_political_category_desc: "PLACEHOLDER - TO BE REMOVED\n- Decentralization / Centralization: [GetPlaceholderBopText]"
  war_escalation_text: "£generic_war_escalation_text_icon 戰局態勢等級：§Y[?ETH.ETH_war_escalation_level]§!"
@@ -313,7 +310,6 @@
  ETH_integrate_economies: "整合[FROM.GetNameDef]"
  ETH_investments_in_progress_flag: "投資已在進行中"
  ETH_core_east_african_states: "整合[FROM.GetName]"
- ############### African Union ################
  african_union_category: "非洲統一組織"
  african_union_category_desc: "我們需要建立一個能將整個非洲大陸的人才和資源彙集在一起的機構，並向著政治統一前進。非洲人民只有齊心合作，才有希望避免被再次奴役的命運。"
  promote_org_of_african_unity: "在[FROM.GetName]宣揚非洲統一組織"
@@ -331,9 +327,6 @@
  threaten_member_state: "恫嚇[FROM.GetAdjective]領導層"
  threaten_member_state_desc: "我們有必要向[FROM.GetNameDef]的領導班子發出聲明，如果他們不願意真正加入非洲統一組織，那他們的人身安全可能就不一定有保障了……"
  threaten_member_state_tt: "\n該決議生效時，在§G60天§!內，被恫嚇國家的領導層更有可能接受加入組織的提議。"
- ############################
- ########## ITALY ###########
- ############################
  ITA_withdraw_from_ethiopia: "從埃塞俄比亞撤軍"
  ITA_withdraw_from_ethiopia_desc: "對埃塞俄比亞的戰爭根本就是錯誤的，是時候一錘定音了。"
  ITA_transfer_lost_states_tt: "如果§Y[ETH.GetName]§!完全控制§Y[550.GetName]§!、§Y[559.GetName]§!及§Y[844.GetName]§!，那麼上述地區將被割讓給該國。同樣，如果[ROOT.GetNameDef]已經佔領§Y[908.GetName]§!，那麼該地區也會一併被割讓。"
@@ -564,10 +557,6 @@
  decision_cost_pp_15_NavXP_10: "£pol_power §Y15§!£navy_experience §Y10§!"
  decision_cost_pp_15_NavXP_10_blocked: "£pol_power §R15§!£navy_experience §R10§!"
  decision_cost_pp_15_NavXP_10_tooltip: "需要§Y15§!£pol_power 和§Y10§!£navy_experience 以執行此決議"
- ############################
- ####### SWITZERLAND ########
- ############################
- ##### ABSOLUTE NEUTRALITY ##########
  SWI_military_readiness_decisions_category: "瑞士公民民兵"
  SWI_military_readiness_decisions_category_desc: "法西斯風暴之眼中的瑞士人民，必須準備好捍衛他們民主的生活方式。\n\n\n軍事準備：[?SWI.SWI_military_readiness]/[?SWI.SWI_max_mil_readiness]£GFX_SWI_military_readiness_text_icon"
  SWI_absolute_neutrality_decisions_category: "絕對中立"
@@ -649,7 +638,6 @@
  SWI_concessions_to_communists_active: "我們已經向瑞士共產主義者做出讓步"
  SWI_concessions_to_monarchists_active: "我們已經向瑞士君主派做出讓步"
  SWI_vacant_confederation_president_position: "空缺的聯邦主席職位"
- ######## COUNCIL SYSTEM ###########
  SWI_federal_council_decisions_category: "聯邦委員會"
  SWI_federal_council_decisions_category_desc: "[SWI_get_correct_council_category_description]"
  SWI_federal_council_decisions_category_desc_dem: "瑞士聯邦委員會自1848年以來一直是瑞士民主的堅定巔峰。[SWI_get_temp_explanation_of_council_system]\n\n§Y瑞士聯邦主席：§!\n[SWI_GetPresidentName]\n\n§Y主要委員：§!\n[SWI_GetCouncilor1name]\n[SWI_GetCouncilor2name]\n[SWI_GetCouncilor3name]"
@@ -726,7 +714,6 @@
  SWI_buy_ships_from_country_generic: "購買他國舊艦艇"
  SWI_basic_council_TT: "\n\n三個被分配的§Y政治顧問§!將成為§Y主要委員§!，每年，其中之一可被選為§Y聯邦主席§!，解鎖一個特殊的決議。§R政治顧問職位永遠不該有空缺，否則國家會受到懲罰。§!"
  SWI_research_slot_tooltip: "被選為§Y聯邦主席§!時，將解鎖可增加一個額外§G科研槽§!的§Y$SWI_expand_arms_industry$§!決議"
- ##########  Balance of Power - Council/Cantons   ###############
  SWI_push_for_centralization: "推進集權"
  SWI_strengthen_military_high_command: "加強軍事最高指揮部"
  SWI_dismiss_council: "解散委員會"
@@ -738,7 +725,6 @@
  SWI_council_diplomatic_effort: "委員會外交舉措"
  SWI_increasing_cost_of_council_diplomatic_effort: "§Y$SWI_council_diplomatic_effort$§!決議的花費增加§R+$RIGHT|0$§!點"
  SWI_president_matches_country_politics_TT: "§Y聯邦主席§!與國家政體相匹配"
- ######## Military Readiness #########
  SWI_activate_militia: "部署公民民兵"
  SWI_deactivate_militia: "召回民兵"
  SWI_militia_active: "公民民兵已部署"
@@ -783,15 +769,11 @@
  SWI_decision_substract_total_MR: "將花費我們§R所有§!的£GFX_SWI_military_readiness_text_icon §Y軍事準備度§!"
  SWI_decision_subtract_small_MR_min: "激活公民民兵所需的§Y最低£GFX_SWI_military_readiness_text_icon 軍事準備度§!降低§G-[?ROOT.SWI_mr_low_amount]§!點"
  SWI_decision_subtract_medium_MR_min: "激活公民民兵所需的§Y最低£GFX_SWI_military_readiness_text_icon 軍事準備度§!降低§G-[?ROOT.SWI_mr_medium_amount]§!點"
- ##################             OTHER            ###################
  SWI_invite_to_entente: "邀請加入中立協約"
  SWI_case_north_decision: "北方預案"
  SWI_case_west_decision: "西方預案"
  SWI_show_of_defensive_force: "展現防衛力量"
  SWI_fake_country_word: "他國"
- ############################
- ####### EAST AFRICA ########
- ############################
  form_east_africa_category: "東非聯邦"
  form_east_africa_category_desc: "儘管文化上存在差異，但我們與東非的許多其他國家和人民共享著共同的命運。現在是時候團結一致，共同應對外部威脅了。"
  form_east_africa: "成立東非"

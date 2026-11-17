@@ -1,9 +1,6 @@
 ﻿l_simp_chinese:
  the_following_will_happen_TT: "§Y將會發生：§!\n"
  unlocks_spirit_of_the_academy_TT: "將作為陸軍精神可用：\n"
- ##############
- ### NORWAY ###
- ##############
  NOR_fascist_attacker_loc: "[?NOR.NOR_cw_fascist_attacker.GetNameDef]"
  NOR_local_dangerous_fascist: "[?NOR.platonic_local_dangerous_fascist.GetNameDef]"
  NOR_generic_fascist_ally: "我們的法西斯盟友"
@@ -85,7 +82,6 @@
  NOR_active_prep_flag_name_monarchist: "在當地遊行示威"
  NOR_active_prep_flag_name_generic: "在當地發動組織"
  NOR_convert_militias_to_regulars_TT: "會將所有§Y民兵§!陸軍師轉變為§Y正規步兵§!"
- ### Communist ####
  NOR_communist_prep_intro: "\n§Y共產主義革命§!開始時，該地區將："
  NOR_communist_prep_join_comm_side: "§G加入共產主義一側§!"
  NOR_communist_prep_2_irregulars: "§G組織起2個非正規陸軍師§!"
@@ -108,11 +104,9 @@
  NOR_exiled_pp_TT: "在流亡後獲得§G+$RIGHT|0$§! £pol_power "
  NOR_exiled_legitimacy_TT: "在流亡後獲得§G+$RIGHT|0$§!正統性"
  NOR_exiled_manpower_TT: "在流亡後獲得§G+$RIGHT|0$§!人力"
- #### Monarchist
  NOR_needed_support_TT: "[NOR.GetName]的§Y君主制支持度§!至少為§Y[?temp_preparedness]§!（當前：[?NOR_country_preparedness]）"
  NOR_mon_stabilizing_effects: "國家干預"
  NOR_modify_kingdom_of_norway_TT: "§Y$NOR_the_kingdom_of_norway$§!追加效果："
- #Varied Shared Nordic loc strings
  NORDIC_no_war_participation: "無足輕重的戰爭參與度"
  NORDIC_limited_war_participation: "有限的戰爭參與度"
  NORDIC_risky_war_contribution: "有風險的戰爭參與度"
@@ -133,9 +127,6 @@
  NORDIC_adjective_monarchist: "北歐"
  NORDIC_unlock_investment_decisions_TT: "解鎖§Y投資北歐國家§!和§Y要求北歐國家投資我國§!的決議，使貿易協議更有利於[ROOT.GetName]。"
  NORDIC_unlock_cooperation_decisions_TT: "解鎖決議：§Y群求北歐國家經濟合作§!，與北歐鄰國成立平等互利經濟協議。"
- #####################
- #### Joint Focus ####
- #####################
  NORDIC_is_democratic_tt: "符合建立民主制聯盟的條件"
  NORDIC_is_monarchist_tt: "符合建立君主制聯盟的條件"
  NORDIC_alliance_created_already_TT: "已經組建了任意聯盟。"
@@ -169,9 +160,8 @@
  NORDIC_unlocks_to_arms_against_tyranny_TT: "解鎖共享國策§Y$NORDIC_to_arms_against_tyranny$§!"
  NORDIC_is_joint_focus_member_TT: "屬於§Y[NORDIC_get_alliance_name]§!"
  NORDIC_will_autocomplete_once_valid: "§Y將在條件滿足時或者通過國策自動完成§!"
- ### DENMARK ###
- DEN_military_advisors_cost_big_tt: "  -所有軍事顧問花費：§G-15%§!" #Weird indentetion in order to show of the leader traits tt properly
- DEN_military_advisors_cost_small_tt: "  -所有軍事顧問花費：§G-10%§!" #Weird indentetion in order to show of the leader traits tt properly
+ DEN_military_advisors_cost_big_tt: "  -所有軍事顧問花費：§G-15%§!"
+ DEN_military_advisors_cost_small_tt: "  -所有軍事顧問花費：§G-10%§!"
  DEN_election_consequences_tt: "任意不低於§Y25%支持率§!的政黨可組建政府。"
  DEN_election_consequences_democratic_tt: "任意不低於§Y25%支持率§!的政黨可組建政府。§Y民主黨§!還能選擇不同§Y政黨領導人§!。"
  DEN_democratic_campaign_effects_tt: "這將允許我們提高§Y民主黨§!的支持率"
@@ -240,7 +230,6 @@
  DEN_remove_two_offmap_civ_tt: "移除§R2§!地圖外§Y民用工廠§!。"
  DEN_loses_one_offmap_civ_tt: "（[DEN.GetFlag][DEN.GetNameDefCap]）移除§R1§!地圖外§Y$industrial_complex$§!。"
  DEN_loses_two_offmap_civ_tt: "（[DEN.GetFlag][DEN.GetNameDefCap]）移除§R2§!地圖外§Y民用工廠§!。"
- #Modifiers
  DEN_modify_occupation_laws_dynamic_modifier: "§Y$DEN_occupation_laws_dynamic_modifier$§!追加效果："
  add_to_faction_tt: "加入陣營"
  form_north_sea_empire_norway_required_states_tt: "控制所有§Y挪威§!在大陸上的地區。"
@@ -249,7 +238,6 @@
  form_north_sea_empire_swedish_coring_states_tt: "獲得§Y$STATE_138$§!和§Y$STATE_915$§!的核心。"
  form_north_sea_empire_english_coring_states_tt: "獲得所有§Y英格蘭§!地區的核心。"
  form_nordic_nation_flag: "尚未執行成立§Y北海帝國§!、§Y北歐聯邦§!或§Y波羅的海自治領§!的決議"
- #SUBSIDIES
  subsidy_allied_nation_tt: "同盟國"
  subsidy_faction_leader_tt: "陣營領導者"
  subsidy_non_aggression_nation_tt: "互不侵犯條約簽署國"

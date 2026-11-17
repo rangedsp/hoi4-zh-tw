@@ -1,9 +1,7 @@
 ﻿l_simp_chinese:
- #News events
  bba_news.0.t: "國際聯盟的終結"
  bba_news.0.desc: "隨著[?global.LoN_attacker_country.GetNameDef]向[?global.LoN_defender_country.GetNameDef]宣戰，國際聯盟爭取和平的嘗試終告失敗。[?global.LoN_attacker_country.GetLeader]公然嘲笑國際聯盟的無能為力，並宣佈[?global.LoN_attacker_country.GetHerHis]的國家退出國際聯盟。隨著各國領導人也開始相繼質疑國聯維和的能力，國際聯盟的時代事實上已經結束了。\n儘管會議照常召開，但是再也不會有人指望其能夠做成什麼事情了。國聯會議的一切權威已經蕩然無存。"
  bba_news.0.a: "並不完全出乎意料"
- #Italo-Ethiopian War events
  BBA_italo_ethiopian_war_events.01.t: "結束聖誕節攻勢"
  BBA_italo_ethiopian_war_events.01.desc: "我軍在阿比西尼亞戰場上停滯不前，個別地區甚至遭到了反攻。這場“聖誕節攻勢”使得墨索里尼怒斥最高軍事指揮部的無能。領袖想要的是成果，現在，立刻，馬上。\n\n鑑於如今態勢，墨索里尼授權軍方採取一切可能的手段以擊敗阿比西尼亞，必須迅速結束戰爭——不惜一切代價。"
  BBA_italo_ethiopian_war_events.01.a: "採取一切必要手段"
@@ -169,7 +167,6 @@
  BBA_italo_ethiopian_war_events.510.t: "[ITA.GetNameDef]對埃塞俄比亞實行權力顛覆"
  BBA_italo_ethiopian_war_events.510.desc: "我們收到陸陸續續的報告表明意大利人在我們的大後方傳播不實言論，意在削弱我們的統治力和詆譭我們的正統性。這些惡毒的謊言可能會影響到我們的屬民，讓他們轉而投身[ITA.GetNameDef]一邊，王位的所有權更會遭到質疑。在他們造成進一步危害之前，恢復對埃塞俄比亞的絕對統治勢在必行。"
  BBA_italo_ethiopian_war_events.510.a: "他們會為謊言付出代價！"
- #Ethiopia - Balance of Power
  BBA_ethiopia_balance_of_power_events.01.t: "統治遭受挑戰"
  BBA_ethiopia_balance_of_power_events.01.desc_fascism: "[THIS.GetName]的分裂態勢愈加嚴峻，名義上的執政內閣缺乏強有力的支持，局部的動盪從而演變成了針對中央政府的大範圍叛亂。$haile_selassie_gugsa$的支持者也已經整裝待發，意在把他捧上[THIS.GetAdjective]的至高王座。"
  BBA_ethiopia_balance_of_power_events.01.desc_neutrality: "[THIS.GetName]的分裂態勢愈加嚴峻，名義上的執政內閣缺乏強有力的支持，局部的動盪從而演變成了針對中央政府的大範圍叛亂。"
@@ -187,14 +184,6 @@
  BBA_ethiopia_balance_of_power_events.10.b: "消滅他們。"
  ETH_breakup_tt: "§R從[ROOT.GetName]的殖民中獲得獨立§!"
  ETH_breakup_fight_tt: "§R從[ROOT.GetName]和[ROOT.GetName]的殖民中獲得獨立，並向他們宣戰。§!"
- #BBA_ethiopia_balance_of_power_events.20.t: "Education Reforms"
- #BBA_ethiopia_balance_of_power_events.20.desc: "As we begin to reform [ETH.GetNameDefCap], the issue of the education system has come to the forefront. Making sure the next generation are able to join the workforce is of course our priority. However, we have an opportunity to nudge that generation in a more acceptable moral direction."
- #BBA_ethiopia_balance_of_power_events.20.a: "Implementing [ETH.GetLeader]’s plans are their only concern."
- #BBA_ethiopia_balance_of_power_events.20.b: "Religion is the opiate of the masses."
- #BBA_ethiopia_balance_of_power_events.21.t: "[ETH.GetAdjective] Road Improvements"
- #BBA_ethiopia_balance_of_power_events.21.desc: "[ETH.GetNameDefCap]’s road network remains limited and hinders the economic development of the country. We now have the budget to implement improvements to the road network, but there is a split over whether we should prioritize expanding the existing network to the benefit of people in their local area, or create highways around the capital to concentrate economic development."
- #BBA_ethiopia_balance_of_power_events.21.a: "Prioritize local road expansion in the regions."
- #BBA_ethiopia_balance_of_power_events.21.b: "We need to concentrate economic development."
  BBA_ethiopia_balance_of_power_events.22.t: "軍官改革"
  BBA_ethiopia_balance_of_power_events.22.desc: "近期的實戰經歷透露出的是，我們多數的軍官對於現代戰爭根本一竅不通。造成這種情況的主要原因是，長久以來軍銜的高低往往和世襲的爵位和政治頭銜掛鉤，而不是個人能力。如今，在[ETH.GetNameDef]大刀闊斧的改革熱潮下，有必要對未來的軍級制度做出規劃。"
  BBA_ethiopia_balance_of_power_events.22.a: "這些流民不過是群無頭蒼蠅"
@@ -241,7 +230,6 @@
  BBA_ethiopia_balance_of_power_events.56.desc: "中央政府的一攬子計劃極大地改善了[ROOT.GetName]的管理機制；多片區域的高效整合促使了[?ROOT.ETH_bop_state.GetName]的經濟迅猛發展。現在這裡吸引了來自全國各地的國民，工業規模進一步擴大。"
  BBA_ethiopia_balance_of_power_events.56.a: "抓住機會、收緊權力"
  BBA_ethiopia_balance_of_power_events.56.b: "我們現在要做的是：為了該地區的繁榮加大投入。"
- #Imperial Ethiopia
  BBA_ethiopia_exile_events.01.t: "[FROM.GetLeader]準備好奪回[FROM.GetName]了"
  BBA_ethiopia_exile_events.01.desc: "[FROM.GetLeader]——[FROM.GetAdjective]的流亡領袖。早已蓄勢待發，意在發動一場大規模戰役來奪回[FROM.GetLeader.GetHerHis]的國家。民眾對於此舉更是無不拍手叫好，所以此時不做，更待何時。"
  BBA_ethiopia_exile_events.01.a: "[FROM.GetName]的事情就是我們的事情"
@@ -413,7 +401,6 @@
  BBA_ethiopia_exile_events.60.t: "坦克運抵"
  BBA_ethiopia_exile_events.60.desc: "從[?ETH.host_nation.GetAdjective]陸軍購買的坦克現已移交我國陸軍。儘管這些坦克是前些年被退役封存的老舊型號，但他們仍然運轉良好。如今正在被用於訓練車組，準備前往前線服役。 "
  BBA_ethiopia_exile_events.60.a: "什麼樣的坦克都好於沒有坦克"
- #Imperial Events, non-exile stuff
  BBA_ethiopia_imperial_events.1.t: "[FROM.GetName]希望購買吉布提"
  BBA_ethiopia_imperial_events.1.desc: "[FROM.GetLeader]想要購買[ROOT.GetAdjective]的[268.GetName]殖民地。此舉將使得[FROM.GetNameDef]通過吉布提港獲得出海口，已有一條連接此地和亞的斯亞貝巴的鐵路。他們準備為這一不起眼的殖民地支付一筆鉅款。"
  BBA_ethiopia_imperial_events.1.a: "我們可以好好利用這筆錢"
@@ -464,7 +451,6 @@
  BBA_ethiopia_imperial_events.21.desc: "我們的軍隊在和[ETH.GetAdjective]的敵軍作戰時勢如破竹,為我們在當地實行更好的統治提供了便利。但是，我們注意到這些新領土正在滋生抵抗運動。前任統治者$ETH_haile_selassie$對國聯說的那番話似乎讓許多我們新領土的平民陷入了狂熱。也許只要這位皇帝還活著，抵抗組織就會一直在我們的殖民政府眼皮底下蠢蠢欲動。"
  BBA_ethiopia_imperial_events.21.a: "不管怎樣，他們都會屈服我們的統治"
  ETH_imperial_event_21_tt: "所有控制的§Y[ETH.GetFlag][ETH.GetAdjective]§!地區：\n順從度：§R-10%§!"
- #Military and technology events
  BBA_ethiopia_military_and_tech_events.1.t: "[GetEthiopianMilitaryAcademyName]的第一批畢業生"
  BBA_ethiopia_military_and_tech_events.1_war.desc: "在[GetEthiopianMilitaryAcademyName]進修的第一批學生已經畢業了，他們在離開校園後會直接進入戰場。在進行戰爭的同時成功建造這所軍校，並完成一批學員的教育，真的是一項了不起的壯舉。\n這會是[ROOT.GetAdjective]軍隊嶄新時代的開始！"
  BBA_ethiopia_military_and_tech_events.1_peace.desc: "隨著戰爭的結束，我們現在有機會去完成軍事學院的建設了。第一批學員可以幫助我們國家贏得未來可能發生的戰爭，並確保我們可以最大化吸收利用與意大利人作戰時積累的經驗。"
@@ -474,7 +460,6 @@
  ETH_ecole_defense_tt: "§Y[GetEthiopianArmySpiritName]§!追加效果：\n$MODIFIERS_ARMY_DEFENCE_FACTOR$：§G+5%§!"
  BBA_ethiopia_military_and_tech_events.1.c: "這所軍校會確保我們永遠對戰爭有所準備。"
  ETH_ecole_learn_tt: "§Y[GetEthiopianArmySpiritName]§!追加效果：\n$MODIFIER_XP_GAIN_ARMY$：§G+5%§!"
- #Anti colonialism
  BBA_ethiopia_anti_colonialism_events.2.t: "[?global.african_supporting_country.GetNameDef]要求[?global.african_revolt_country.GetNameDef]的承認"
  BBA_ethiopia_anti_colonialism_events.2.desc: "[?global.african_supporting_country.GetLeader]，[?global.african_supporting_country.GetNameDef]的領導人要求與[?global.african_revolt_country.GetAdjective]叛軍立刻停戰。[?global.african_supporting_country.GetAdjective]的外交官鼓勵[ROOT.GetName]承認[?global.african_revolt_country.GetNameDef]的獨立。他們並未明確說明我們是否應當拒絕與[?global.african_supporting_country.GetNameDef]開戰，但他們顯然暗示這一可能。"
  BBA_ethiopia_anti_colonialism_events.2.a: "他們是對的，我們現在應該結束這場殖民地衝突"
@@ -492,7 +477,6 @@
  BBA_ethiopia_anti_colonialism_events.6.t: "[FROM.GetNameDef]的自由"
  BBA_ethiopia_anti_colonialism_events.6.desc: "在來自[ROOT.GetName]的強大外交壓力下，包括[ROOT.GetLeader]和[?global.african_colonial_country.GetLeader]的直接會談，[?global.african_colonial_country.GetAdjective]政府決定讓步，並承認[?global.african_revolt_country.GetAdjective]獨立。\n多虧了[ROOT.GetAdjective]的直接干預，[?global.african_revolt_country.GetAdjective]獨立戰爭終於結束了。[?global.african_revolt_country.GetNameDefCap]成為一個獨立自主的國家，而[ROOT.GetLeader]自然也會在[?global.african_revolt_country.GetNameDef]永遠成為英雄。"
  BBA_ethiopia_anti_colonialism_events.6.a: "又一個國家脫離了帝國主義的魔爪"
- #Industrial and Financial Events
  BBA_ethiopia_industrial_financial_events.2.t: "[FROM.GetNameDefCap]要求整合"
  BBA_ethiopia_industrial_financial_events.2.desc: "鑑於[FROM.GetName]已經掌控了[ROOT.GetName]的大部分工業來源，事實上兩國的經濟已經緊密的交織在了一起。[FROM.GetLeader]由此下令拆除兩國之間的邊境站。[FROM.Getname]更是完全接管了兩國所有外交政策的制定與實施，以此促進最強的保障、最深的合作以及最高的效率。當然，這也從根本上否定了[ROOT.GetAdjective]的主權獨立。\n[FROM.GetLeader]也擔保，這所有的一切都是為了兩國利益的最大化。"
  BBA_ethiopia_industrial_financial_events.2.a: "他們無權這麼做！"
@@ -507,7 +491,6 @@
  BBA_ethiopia_industrial_financial_events.5.t: "[FROM.GetLeader]同意了"
  BBA_ethiopia_industrial_financial_events.5.desc: "[FROM.GetLeader]簽署了一份文件，內容是關於[ROOT.GetName]和[FROM.GetName]的整合統一。兩國的外交部將會合二為一；經濟政策也會統一籌劃。司法系統的融合也更能促進協同合作。\n 從今以後，[FROM.GetNameDefCap]也成為了[ROOT.GetName]不可分割的一部分。"
  BBA_ethiopia_industrial_financial_events.5.a: "這是為了所有人的利益。"
- #Fascist Ethiopia
  BBA_ethiopia_fascist_events.01.t: "變革的契機"
  BBA_ethiopia_fascist_events.01.desc: "$ETH_haile_selassie$針對意大利人的態度始終帶有挑釁，而他信任的國際聯盟對此無動於衷。每個人心裡都清楚，[ROOT.GetName]將會萬劫不復。\n\n戰爭是變革的契機，變革更是戰爭的必然結果。當然，首先要做的是派遣一位外交大使和意大利人協商一份他們能夠接受的和約。"
  BBA_ethiopia_fascist_events.01.a: "$ETH_haile_selassie_gugsa$會是不二人選。"
@@ -639,7 +622,6 @@
  BBA_ethiopia_fascist_events.71.t: "[FROM.GetName]拒絕派遣軍官"
  BBA_ethiopia_fascist_events.71.desc: "[FROM.GetName]表示，由於目前他們的軍官們都有公務在身，因此無法向我們的總參謀部派遣軍官。不過，他們向我們運送了一批額外的步兵裝備以示支持。"
  BBA_ethiopia_fascist_events.71.a: "這總比什麼都沒有好。"
- #Communist Ethiopia
  BBA_ethiopia_communist_events.01.t: "[ETH.GetAdjective]共產主義者尋求援助"
  BBA_ethiopia_communist_events.01.desc: "[ETH.GetName]共產主義勢力的領導同志希望我們能向他們提供援助以打擊意大利法西斯勢力。目前，位於[ETH.Capital.GetCapitalVictoryPointName]的新政權並不穩定，如果我們向這些非洲同志提供幫助，那我們也許能獲得一個願意配合我們外交野心的盟友。不過，援助他們可能會使戰爭升級，而且肯定會惹惱[ITA.GetName]人。"
  BBA_ethiopia_communist_events.01.a: "我們會幫助這些困難中的共產主義同胞。"
@@ -810,32 +792,26 @@
  BBA_ethiopia_communist_events.41.t: "[ETH.GetNameDefCap]要求撤回顧問"
  BBA_ethiopia_communist_events.41.desc: "[ETH.GetNameDefCap]已經通知我們，所有我方軍事顧問必須立刻撤離。看來[ETH.GetLeader]打算領導國家走向獨立。如果我們不迅速行動，就有可能失去對[ETH.Capital.GetCapitalVictoryPointName]的掌控。"
  BBA_ethiopia_communist_events.41.a: "畢竟我們為他們付出了這麼多。"
- #SUD Peace
  BBA_ethiopia_communist_events.46.t: "[ETH.GetNameDefCap]提議和談"
  BBA_ethiopia_communist_events.46.desc: "[ETH.GetAdjective]的外交官向我們提出了一份和平草議。而條件是：我們必須放棄所有在戰爭中已被[ETH.GetNameDef]佔領的所有[SUD.GetAdjective]領土。外交官同時也表示會在這些地區組建一個新的[SUD.GetAdjective]政府，當然，政府的獨立性也會酌情而定。 "
  BBA_ethiopia_communist_events.46.a: "我們決不會放棄我們的領土。"
  BBA_ethiopia_communist_events.46.b: "我們別無選擇，只能同意"
- #DJI Peace
  BBA_ethiopia_communist_events.47.t: "[ETH.GetNameDefCap]提議和談"
  BBA_ethiopia_communist_events.47.desc: "[ETH.GetAdjective]的外交官向我們提出了一份和平草議。而條件是：我們必須放棄所有在戰爭中已被[ETH.GetNameDef]佔領的所有[DJI.GetAdjective]領土。外交官同時也表示會在這些地區組建一個新的[DJI.GetAdjective]政府，當然，政府的獨立性也會酌情而定。"
  BBA_ethiopia_communist_events.47.a: "我們決不會放棄我們的領土。"
  BBA_ethiopia_communist_events.47.b: "我們別無選擇，只能同意"
- #ERI Peace
  BBA_ethiopia_communist_events.48.t: "[ETH.GetNameDefCap]提議和談"
  BBA_ethiopia_communist_events.48.desc: "[ETH.GetAdjective]的外交官向我們提出了一份和平草議。而條件是：我們必須放棄所有在戰爭中已被[ETH.GetNameDef]佔領的所有[ERI.GetAdjective]領土。外交官同時也表示會在這些地區組建一個新的[ERI.GetAdjective]政府，當然，政府的獨立性也會酌情而定。"
  BBA_ethiopia_communist_events.48.a: "我們決不會放棄我們的領土。"
  BBA_ethiopia_communist_events.48.b: "我們別無選擇，只能同意"
- #KEN Peace
  BBA_ethiopia_communist_events.49.t: "[ETH.GetNameDefCap]提議和談"
  BBA_ethiopia_communist_events.49.desc: "[ETH.GetAdjective]的外交官向我們提出了一份和平草議。而條件是：我們必須放棄所有在戰爭中已被[ETH.GetNameDef]佔領的所有[KEN.GetAdjective]領土。外交官同時也表示會在這些地區組建一個新的[KEN.GetAdjective]政府，當然，政府的獨立性也會酌情而定。 "
  BBA_ethiopia_communist_events.49.a: "我們決不會放棄我們的領土。"
  BBA_ethiopia_communist_events.49.b: "我們別無選擇，只能同意"
- #SOM Peace
  BBA_ethiopia_communist_events.50.t: "[ETH.GetNameDefCap]提議和談"
  BBA_ethiopia_communist_events.50.desc: "[ETH.GetAdjective]的外交官向我們提出了一份和平草議。而條件是：我們必須放棄所有在戰爭中已被[ETH.GetNameDef]佔領的所有[SOM.GetAdjective]領土。外交官同時也表示會在這些地區組建一個新的[SOM.GetAdjective]政府，當然，政府的獨立性也會酌情而定。 "
  BBA_ethiopia_communist_events.50.a: "我們決不會放棄我們的領土。"
  BBA_ethiopia_communist_events.50.b: "我們別無選擇，只能同意"
- #UGA Peace
  BBA_ethiopia_communist_events.51.t: "[ETH.GetNameDefCap]提議和談"
  BBA_ethiopia_communist_events.51.desc: "[ETH.GetAdjective]的外交官向我們提出了一份和平草議。而條件是：我們必須放棄所有在戰爭中已被[ETH.GetNameDef]佔領的所有[UGA.GetAdjective]領土。外交官同時也表示會在這些地區組建一個新的[UGA.GetAdjective]政府，當然，政府的獨立性也會酌情而定。 "
  BBA_ethiopia_communist_events.51.a: "我們決不會放棄我們的領土。"
@@ -954,7 +930,6 @@
  BBA_african_union_events.23.t: "對[FROM.GetNameDef]的威脅嘗試成功"
  BBA_african_union_events.23.desc: "[FROM.GetNameDef]的領導層盡最大努力來緩解我們對共同在非洲統一組織里有關政策一致性的憂慮。他們是如此懂事，甚至保證在以後做出任何魯莽決定都要先諮詢我們的大使。"
  BBA_african_union_events.23.a: "好極了。"
- ####### ITALY ######
  BBA_italy_second_italo_ethiopian_war.1.t: "[FROM.GetAdjective]議和"
  BBA_italy_second_italo_ethiopian_war.1.desc: "[FROM.GetName]被我們打跑了！我們強大的軍隊讓[FROM.GetAdjective]軍隊損失慘重，讓他們不得不跪倒求和。我國戰火長久不熄，和平自然是民心所向，但是這也是我們爭取更大勝利的好機會——更大的勝利將保證沒有任何一個愚蠢的歐洲國家膽敢再次試圖征服不可戰勝的埃塞俄比亞！"
  BBA_italy_second_italo_ethiopian_war.1.a: "那就議和吧！"
@@ -965,7 +940,6 @@
  BBA_italy_second_italo_ethiopian_war.3.t: "[FROM.GetName]拒絕[ROOT.GetAdjective]的和平提議"
  BBA_italy_second_italo_ethiopian_war.3.desc: "如果他們真的想要戰爭，我們也不怕！阿比西尼亞拒絕了我們慷慨的和平提議，決定繼續打下去。我們會讓這些不知好歹的混蛋好好見識意大利人的勇武是什麼樣子的！這只是一次小敗，我們會將他們殺回群山，然後把他們打個片甲不留。"
  BBA_italy_second_italo_ethiopian_war.3.a: "我們將逆轉戰局！"
- #1st Missiolini localized at the beginning of the file along with Italo-Ethiopian War events
  BBA_italy_missiolinis.02_north.t: "北部戰線僵持不下"
  BBA_italy_missiolinis.02_north.desc: "我軍在阿比西尼亞北部的反擊並未取得預想之中的成功。領袖深信全世界不僅把他視為笑柄，還在嘲笑戰爭的僵局。領袖開始考慮是否需要親自接管北部戰線，以確保部隊調度有方。"
  BBA_italy_missiolinis.02_north.a: "我們將會凱旋——或早或晚。"
@@ -1756,8 +1730,6 @@
  bba_news.201.a: "為未來的和平作出的不幸犧牲"
  bba_news.201.b: "同盟國不值得信任"
  bba_news.201.c: "我們再也不會向歐洲的法西斯侵略者露出弱點"
- ###ITALYS NEWS EVENTS####
- #PURGE THE PARTY
  bba_news.100.t: "[GetPurgeEventTitles]"
  bba_news.100.a: "[GetPurgeEventOptions]"
  bba_news.100.t_some_purged: "清洗國家法西斯黨"
@@ -1769,7 +1741,6 @@
  bba_news.100.t_none_purged: "沒有清洗的“清洗”"
  bba_news.100.desc_none_purged: "近日有傳言稱，國家法西斯黨內發生了一場清洗，所有忠於墨索里尼的成員都被逐出了黨外。但實際上黨內似乎並沒有發生清洗，取而代之的是一場大赦。這也許會讓國家法西斯黨更加強大，但確實削弱了[ROOT.GetLeader]作為黨魁的地位。"
  bba_news.100.a_none_purged: "大慈大悲的[ROOT.GetLeader]做事真是有一套。"
- #FATE OF MUSSOLINI
  bba_news.101.t: "意大利前領袖貝尼托·墨索里尼被處決"
  bba_news.101.desc: "貝尼托·墨索里尼失勢後，因其昏庸無能和其不作為的叛國行為而一直遭到軟禁。拘禁中的墨索里尼靜待著他的結局——它終於找上門來了。今日清早，這位意大利前任領導者在一群政府代表們的見證下被槍決。他的遺體於同日被安葬，只有他最親近的幾位家屬出席了這場非公開的葬禮。"
  bba_news.101.a: "墨索里尼的生命就這樣結束了。"
@@ -1804,68 +1775,52 @@
  bba_italian_formables_news.1.desc: "意大利領導人[ITA.GetLeader]今天宣佈開始將意大利民族統一分子聲索的領土併入版圖。他宣稱這將加強意大利作為世界列強的地位，而且最終將所有意大利人團結在一面國旗之下。很多人會捫心自問，一個如此廣闊的國家是否真能團結統一？只有時間才知道意大利的命運如何。"
  bba_italian_formables_news.1.a: "我們是歐洲的新霸主了！"
  bba_italian_formables_news.1.b: "這樣的國家肯定會崩潰。"
- ##########################################################################
- ###############       Switzerland       ##################################
- ##########################################################################
- #Triggered by focus "Swiss Guiding Principles"
  BBA_switzerland.1.t: "[ROOT.GetAdjective]指導原則"
  BBA_switzerland.1.desc: "[ROOT.GetNameDefCap]和周邊國家的政治局勢都在急轉直下。各種自認為可以在未來的風暴中將瑞士帶向正確方向的指導原則都在出現，而要求我們按照這些原則中的一種行事的呼聲也越來越高。但問題是，該遵循哪個呢？\n\n我們無法預料我們鄰國未來的舉動，但我們必須現在就判斷清楚，哪條路能讓[ROOT.GetName]生存下去。"
  BBA_switzerland.1.a: "我們必須保護我國的民主和中立價值觀。"
  BBA_switzerland.1.b: "也許我們應該更加積極地捍衛我國民主。"
  BBA_switzerland.1.c: "在這種情況下中立是根本不可能維持的。"
- ### David Frankfurter Case ###
- #Assassination
  BBA_switzerland.2.t: "納粹代表在瑞士遭暗殺"
  BBA_switzerland.2.desc: "達維徳·法蘭克福特，一位居住在伯爾尼的克羅地亞猶太人，向格勞賓登州警方自首了。他承認自己暗殺了納粹黨瑞士支部的領導人威廉·古斯特洛夫。\n\n他將自己槍殺古斯特洛夫的動機歸結於兩點。一是納粹黨極端排猶的理念，二是古斯特洛夫本人在納粹理念在[SWI.GetName]的散播中所處的地位。\n\n此次案件非同尋常，很很可能會變為長期要關照的事務。我們處理案件的方式很有可能被[GER.GetNameDef]以及整個世界用於評估我們保持中立和法治的決心。"
  BBA_switzerland.2.a: "他將經歷公正的審判。"
  BBA_switzerland.2.b: "掩蓋事實，把他招為特工！"
  BBA_switzerland.2.c: "他招供了，所以應該立刻將其處以最高刑罰。"
- #Trial Approaches
  BBA_switzerland.3.t: "達維德·法蘭克福特的審判臨近"
  BBA_switzerland.3.desc: "今年二月，達維德·法蘭克福特在達沃斯暗殺了一名納粹黨代表，而如今他的審判即將開始。我們承諾會對他進行中立且公平的審判，但顯然我們還有其他選擇。\n\n我們可以將他秘密釋放並招募他為我們情報系統的一分子，或取消審訊直接對其宣判以安撫[?SWI.SWI_fascist_germany.GetNameDef]。\n\n但很顯然，不論我們怎麼做，想同時討好每方面的人純粹是天方夜譚。"
  BBA_switzerland.3.a: "審判會照常進行。"
  BBA_switzerland.3.b: "他將成為我們情報工作不可多得的財富。"
  BBA_switzerland.3.c: "仔細想想，他顯然是有罪的。"
- #Germany thanks Switzerland for swift action
  BBA_switzerland.4.t: "[?SWI.SWI_fascist_germany.GetLeader]對[SWI.GetName]的決定感到滿意"
  BBA_switzerland.4.desc: "[?SWI.SWI_fascist_germany.GetNameDef]領導人，[?SWI.SWI_fascist_germany.Getleader]對[SWI.GetNameDef]迅速處理謀殺威廉·古斯特洛夫的罪魁禍首表達了[?SWI.SWI_fascist_germany.Getleader.GetHerHis]的感謝，所以[SWI.GetName]今後在此類事件上的立場已經不言而喻。這種對人權和民主價值觀念的忽視必將改善[?SWI.SWI_fascist_germany.GetName]對我們的態度。\n\n儘管[?SWI.SWI_fascist_germany.Getleader.GetHerHis]給出了積極評價，但很明顯，納粹黨期待的結果是將兇手引渡到[?SWI.SWI_fascist_germany.GetNameDef]，即使目前[SWI.GetNameDef]不可能這樣做。"
  BBA_switzerland.4.a: "現在搞定了。"
- #Germany is notified Switzerland decides to continue with the trial.
  BBA_switzerland.5.t: "[SWI.GetName]決定繼續古斯特洛夫事件刺客的審判工作"
  BBA_switzerland.5.desc: "[SWI.GetName]當局宣佈，對在達沃斯謀殺納粹黨外國組織成員供認不諱的達維德·法蘭克福特，將像其他謀殺案一樣，根據格勞賓登州法律接受公平、公正的審判。\n\n考慮到古斯特洛夫是納粹黨的一名官員，以及我們對我們那毫無防備的鄰居的影響，我們可以派一名律師代表古斯特洛夫的遺孀，爭取我們想要的結果。這樣，我們可以確保對他的懲罰與他的罪行相符。\n\n更務實地說，這也可能迫使[SWI.GetNameDef]選邊站，最終打破他們一直喜歡吹噓的脆弱表面中立。"
  BBA_switzerland.5.a: "她值得從這場令人髮指的犯罪中討回公道！"
  BBA_switzerland.5.b: "沒必要干涉[SWI.GetAdjective]內部事務。"
- #Germany INSISTS on harsher trial
  BBA_switzerland.6.t: "[GER.GetAdjective]推動重判達維德·法蘭克福特"
  BBA_switzerland.6.desc: "毫無疑問，古斯特洛夫遺孀的法定代表人是[?SWI.SWI_fascist_germany.GetNameDef]派來的，他正試圖推動聯邦委員會向法院傾斜，對達維德·法蘭克福特作出嚴厲的判決。這是一個非同尋常的要求，毫無疑問，這是[?SWI.SWI_fascist_germany.GetNameDef]試圖向我們施加影響的一種嘗試。\n\n接受這一要求可能會對我們的國際聲譽產生影響，但如果我們決定拒絕他們，我們應該確保我們是否能夠承擔這樣做的後果。"
  BBA_switzerland.6.a: "這是法庭的事兒。"
  BBA_switzerland.6.b: "我們會考慮考慮。"
- #Frankfurter "dies" under mysterious circumstances
  BBA_switzerland.7.t: "法蘭克福特在獄中神秘被殺"
  BBA_switzerland.7.desc: "格勞賓登州當局報告說達維德·法蘭克福特在承認謀殺納粹黨領導人威廉·古斯特洛夫後被正式羈押，然而今天早上他被發現死在牢房裡。關於是自殺還是被同監獄的納粹支持者所殺尚不清楚，但是聯邦警察業已聲明將查明事件真相。\n\n目前我們沒有關於這件離奇事情的任何證據，並且[SWI.GetAdjective]政府不允許[?SWI.SWI_fascist_germany.GetAdjective]代表查驗屍體以及犯罪現場的行為也十分令人生疑。"
  BBA_switzerland.7.a: "啊，好吧。"
- #Frankfurter Trial
  BBA_switzerland.8.t: "審判達維德·法蘭克福特。"
  BBA_switzerland.8.desc: "整個[SWI.GetName]及其鄰國都在關注對達維德·法蘭克福特的審判。這次審判的結果不僅將揭示認罪者的命運，還將揭示整個[SWI.GetNameDef]的命運，以及它究竟願意在其制度和傳統中妥協到什麼程度。\n\n來自法院的所有跡象都指向公正的監禁判決，但委員會的影響可能會改變審判結果，甚至或許還有這個國家的本質。"
  BBA_switzerland.8.a: "讓法庭自己做決定。"
  BBA_switzerland.8.b: "他為民主事業做出了貢獻。他應該被赦免！"
  BBA_switzerland.8.c: "我們擔不起疏遠[?SWI.SWI_fascist_germany.GetNameDef]的風險。他將被處以最高刑罰。"
- #To SWI: Germany is angry
  BBA_switzerland.9.t: "[SWI.GetName]徹底惹惱了我們！"
  BBA_switzerland.9.desc_default: "達維德·法蘭克福特——他不僅刺殺了一位納粹黨成員，更是妄自尊大的承認了一切！我們希望[SWI.GetNameDefCap]能給出一個公正的裁決。然而，一向以中立和法治標榜自己的他們，居然赦免了這樣一位殺人犯。\n\n他們已然表明了自己的立場，一旦開戰，他們也必然會成為我們打擊的對象。[?SWI.SWI_fascist_germany.GetNameDef]的立場不容受辱。"
  BBA_switzerland.9.desc_alt: "我們在[SWI.GetName]的特工報告稱：一向以中立和法治標榜自己的[SWI.GetNameDef]，居然秘密釋放了達維德·法蘭克福特——也就是那位自稱刺殺了威廉·古斯特洛夫的人，並且幫其偽造了死亡證明；他們甚至還將他收入麾下，成為其情報組織的一員。\n\n這表明他們不值得被信任。一旦時機成熟，必須予以剪滅。[?SWI.SWI_fascist_germany.GetNameDef]的立場不允許受到如此明目張膽的挑釁。"
  BBA_switzerland.9.a: "他們會付出代價！"
- #To SWI: Germany is pleased
  BBA_switzerland.10.t: "[?SWI.SWI_fascist_germany.GetNameDefCap]對於[SWI.GetNameDef]的判決感到滿意"
  BBA_switzerland.10.desc: "[?SWI.SWI_fascist_germany.GetNameDef]方面的代表與古斯特洛夫的遺孀對[SWI.GetNameDef]方面針對弗蘭克福特所做出的嚴厲判決表示感謝，這無疑會使他們更加相信[SWI.GetNameDef]在此類問題上的立場。毫無疑問，這將改善[?SWI.SWI_fascist_germany.GetName]對[SWI.GetName]的態度。\n\n雖然[?SWI.SWI_fascist_germany.Getleader.GetHerHis]對此做出了正面評價，但很明顯，納粹黨的理想結局是將犯人引渡到[?SWI.SWI_fascist_germany.GetNameDef]。"
  BBA_switzerland.10.a: "也許這將保障我國的安全。"
- #Trial Verdict
  BBA_switzerland.11.t: "達維德·法蘭克福特被判入獄"
  BBA_switzerland.11.desc_SWI: "由於委員會決定將此案留給格勞賓登州當地的法律與法院，大衛·弗蘭克福特，將因他暗殺威廉·古斯特洛夫的罪行而被判處18年監禁。\n\n我們明白[?SWI.SWI_fascist_germany.GetNameDef]方面會希望判決的力度更具懲罰性，所以我們的外交官將會嘗試著安撫他們，但我們不能在這種時候極為冒險的偏袒任何一方。只有我們的中立才能夠在即將到來得風暴之中保護[SWI.GetAdjective]人民的安全。"
  BBA_switzerland.11.desc_GER: "[SWI.GetNameDefCap]竟然只對殺害古斯特洛夫的兇手判處了微不足道的18年有期徒刑！雖然這令人失望，但我們不能再施壓爭取更嚴厲的懲罰了，因為這可能會激起抵制奧運會的呼聲。\n\n現在，我們至少可以讓古斯特洛夫成為[?SWI.SWI_fascist_germany.GetNameDef]的殉道者，並利用這一謀殺血案進行宣傳。也許在未來的入侵中，我們可以抓獲法蘭克福特，然後伸張正義。"
  BBA_switzerland.11.a: "目前我們只能做到這樣了。"
- BBA_switzerland.11.b: "我們不會忘記的！" #THE GALLLLL!!!!
- #After the war
+ BBA_switzerland.11.b: "我們不會忘記的！"
  BBA_switzerland.12.t: "達維德·法蘭克福特請求赦免"
  BBA_switzerland.12.desc: "現在戰爭已經結束，$GER_fascism_DEF$已然覆滅，1936年殺害威廉·古斯特洛夫的兇手達維德·法蘭克福特在他的法律顧問喬治·布倫施維格的幫助下請求得到特赦。\n\n由於我們不再被法西斯政權所包圍，而且由於在整場戰爭中發現的納粹暴行，法蘭克福特的罪行被世人重新審視，所以對他寬大處理幾乎沒有風險，我們甚至可以禁止他再次前往[ROOT.GetName]，以防萬一。"
  BBA_switzerland.12.a: "他會被赦免。"
@@ -1876,13 +1831,11 @@
  SWI_frankfurter_trial_will_continue_TT: "§Y達維德·法蘭克福特§!將受到審判，相關事件將隨時間逐漸展開。"
  SWI_frankfurter_immediate_harsh_sentence_TT: "§Y達維德·法蘭克福特§!將不經審判被處以最嚴厲的刑罰。"
  SWI_frankfurter_german_expectations_TT: "§Y[GER.GetNameDefCap]§!希望對§Y達維德·法蘭克福特§!作出更嚴厲的判決"
- #### Other Events ####
  BBA_switzerland.14.t: "200人請願書"
  BBA_switzerland.14.desc: "聯邦委員會收到了一份由200名來自若干右翼團體的成員簽署的請願書，他們希望說服[ROOT.GetNameDef]在保持相對中立的同時建立與[SWI_get_fascist_neighbor]更為友好的關係。為達成這一目標，他們希望對任何針對[SWI_get_fascist_neighbor]的負面新聞進行嚴格的審查，以避免使該國感到憤怒。"
  BBA_switzerland.14.a: "我們應該忽視他們的請求，同時安撫他們。"
  BBA_switzerland.14.b: "他們也有幾分道理。"
  BBA_switzerland.14.c: "這些人是瑞士的敵人，逮捕他們！"
- #Espionage stuff
  BBA_switzerland.15.t: "[FROM.GetName]借給我們一個特工"
  BBA_switzerland.15.desc: "儘管他們是中立地位，[FROM.GetNameDef]秘密給我們提供了一個機會僱傭他們的一個特工來完成我們的特種任務。\n\n這對我們特別有益，因為[SWI.GetNonIdeologyName]的人口基本會說[GER.GetNonIdeologyName]，[FRA.GetNonIdeologyName]和[ITA.GetNonIdeologyName]的語言，因此他們對於滲透這些國家擁有先天優勢。"
  BBA_switzerland.15.a: "我們可以選用一個[GER.GetAdjective]特工。"
@@ -1901,7 +1854,6 @@
  BBA_switzerland.18.t: "[FROM.GetNameDefCap]拒絕了我們的提議！"
  BBA_switzerland.18.desc: "從我們位於[FROM.GetCapitalVictoryPointName]的聯絡人處傳來了壞消息，看起來[FROM.GetAdjective]政府拒絕了我們關於簽訂秘密條約的提議，使我們暴露在遭受鄰國入侵的風險之下。現在我們必須準備好自衛，或者尋求其他保持獨立和民主的途徑。"
  BBA_switzerland.18.a: "我們將獨自面對敵人。"
- ### Diplomatic Events ###
  BBA_switzerland.19.t: "[FROM.GetNameDefCap]邀請我們加入他們的協約"
  BBA_switzerland.19.desc: "歷史上，[FROM.GetName]一直嚴守中立，但似乎為了應對當前的世界形勢，他們決定打破這種中立，並要求其他中立國家同樣打破他們的中立。如果加入他們的陣營對於曾經的中立來說太過激進，我們至少可以保障彼此的獨立。"
  BBA_switzerland.19.a: "非常時刻需要非常手段。"
@@ -1926,12 +1878,10 @@
  BBA_switzerland.25.t: "[?SWI.SWI_angriest_country.GetNameDefCap]不再認為我國中立"
  BBA_switzerland.25.desc: "情況急轉直下，由於[?SWI.SWI_angriest_country.GetName]表達了對[ROOT.GetNameDef]的蔑視，該國宣佈將會在政治舞臺甚至戰場上和我們一決高下。"
  BBA_switzerland.25.a: "我們前路未卜！"
- ### [REDACTED] Events ###
  BBA_switzerland.97.t: "奧地利海軍老兵向我們拋出橄欖枝"
  BBA_switzerland.97.desc: "打著和家人環遊歐洲的幌子，一位前奧地利潛艇艇長跨過瑞奧邊界找到我們，表示願意效忠[ROOT.GetNameDef]，而條件是在我國獲得政治庇護。\n\n格奧爾格·馮·特拉普在奧匈帝國海軍中戰績出色，但自上次大戰結束之後，奧匈帝國解體，他也喪盡家財，不得不和自己的家人——一家子歌唱家和音樂家一同登臺演出。自從[GER.GetNameDef]吞併奧地利以來，德國政府就一直逼迫他為納粹服役，因此他選擇了逃亡。\n\n當然，他家人的音樂天賦和他的海軍經驗都很寶貴——尤其考慮到我們獲得了沿海領土，但無人知曉如何防守。"
  BBA_switzerland.97.a: "浪濤之下將有我們魚雷的轟鳴。"
  BBA_switzerland.97.b: "他和他的家人大可留在瑞士表演。"
- #### Election Stuff ###
  BBA_SWI_annual_election.1.t: "瑞士聯邦主席選舉"
  BBA_SWI_annual_election.1.desc: "每年，瑞士聯邦議會都會從聯邦委員會中選舉出一位聯邦主席。作為委員會集體領導的代表，[?ROOT.SWI_confederation_president.GetSheHe]將使用[?ROOT.SWI_confederation_president.GetSheHe]有限的權力打破議會中的所有僵局，將議會溫和地帶向安全與榮耀。\n\n[SWI_get_extra_election_paragraph]今年，聯邦議會應該選舉誰成為瑞士聯邦的代表呢？"
  BBA_SWI_annual_election.1.a: "選舉[SWI_GetCouncilor1name]。"
@@ -1943,7 +1893,6 @@
  BBA_SWI_annual_election.2.a: "選舉[SWI_GetCouncilor1name]。"
  BBA_SWI_annual_election.2.b: "選舉[SWI_GetCouncilor2name]。"
  BBA_SWI_annual_election.2.c: "選舉[SWI_GetCouncilor3name]。"
- ######## TRADE #######
  BBA_switzerland_trade.1.t: "[FROM.GetNameDefCap]尋求與[ROOT.GetName]建立貿易協定"
  BBA_switzerland_trade.1.desc: "儘管他們之前一直保持中立，但[FROM.GetNameDefCap]正在尋求與我們建立貿易協定。他們要麼是在尋求與我們結盟，要麼是比我們想得更加慌不擇路。\n\n不管如何，我們既能利用他們的工業能力和十字路口位置來獲益，也不用歷經入侵其磐石般國家的磨難。另一方面，這可能意味今後在來自[ROOT.GetNameDef]的入侵行動中將鞏固其陣地。"
  BBA_switzerland_trade.1.a: "他們的工業將為我們的戰爭機器提供燃料。"
@@ -2000,7 +1949,6 @@
  BBA_switzerland_trade.15.t: "[FROM.GetNameDefCap]拒絕投資"
  BBA_switzerland_trade.15.desc: "很不幸，我們得知[FROM.GetName]將不會投資[ROOT.GetAdjective]經濟。由於考慮到法西斯主義日漸臨近的危險，我們的處境比我們想像的更加孤立。"
  BBA_switzerland_trade.15.a: "這是個問題。"
- ####### FASCIST EVENTS ###########
  BBA_switzerland_fascist.1.t: "[FROM.GetNameDefCap]希望我們的保護"
  BBA_switzerland_fascist.1.desc: "[FROM.GetName]這個曾經是犯罪天堂的弱小國家，正希望作為一個傀儡依附於[ROOT.GetNameDef]。這可以被視為我們對弱者的接納，或者對[ROOT.GetRulingParty]的忠誠的一種宣告。\n\n他們強大的防禦能力和訓練有素的公民或許能夠為我們未來的計劃服務。"
  BBA_switzerland_fascist.1.a: "他們會與我們同行。"
@@ -2026,7 +1974,6 @@
  BBA_switzerland_fascist.7.t: "[FROM.GetNameDefCap]歡迎我們的加入"
  BBA_switzerland_fascist.7.desc: "在一場[ROOT.GetCapitalVictoryPointName]的集會上，[ROOT.GetLeader]宣佈了[FROM.GetName]已經承諾要與我們國家緊密合作，並保護[ROOT.GetName]免受任何敵人侵擾。\n\n來自[FROM.GetNameDef]的友好的長官和工作人員，作為我們的朋友，正在我們在此集會時不斷湧入我們的國家，來幫助我們發展軍事力量，並將其整合到他們的軍事力量當中。"
  BBA_switzerland_fascist.7.a: "大有裨益！"
- ##########  SWISS EXPANSION EVENTS #######
  BBA_swiss_expansion.1.t: "我們還沒有對[SWI_influenced_state]施加足夠影響"
  BBA_swiss_expansion.1.desc: "儘管我們的宣傳人員已經用盡全力，但民主的浪潮並未如我們預期的在[?SWI.SWI_influence_target_state.GetName]各州傳播開來，很不幸，我們並不認為加入我們的全民公投會取得成功。\n\n當然這並不意味著我們就應該放棄，我們已經種下了一顆在未來將會生長壯大的種子，下次我們將更有可能獲得成功。"
  BBA_swiss_expansion.1.a: "我們絕不會放棄我們的使命。"
@@ -2104,9 +2051,6 @@
  SWI_claiming_state_loc: "[?SWI_state_being_claimed.GetName]"
  SWI_claiming_no_state_loc: "我們其中一個地區"
  SWI_press_for_future_canton_TT: "解鎖決議：§Y向外國施壓以吞併受我國影響的州§!"
- ##########################################################################
- ############################# Formables ##################################
- ##########################################################################
  bba_africa_news.1.t: "東非聯邦的建立"
  bba_africa_news.1.desc: "在二十世紀二十年代，殖民總管利奧·阿梅里曾試圖建立一個由肯尼亞，烏干達和坦噶尼喀組成的白人統治的東非聯合國家。當時這個計劃遭到了反對最終未能成功。但是現如今，東非當地人民開始應用這一概念作為建立他們自己國家的基礎，這使得他們變得前所未有地強大。他們正式宣告，歐洲統治非洲的時代到此為止了！"
  bba_africa_news.1.a: "終於，我們統一了！"

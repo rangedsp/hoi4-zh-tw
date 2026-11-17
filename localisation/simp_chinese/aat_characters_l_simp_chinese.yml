@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
- #DENMARK
- ###Some advisor names are found in "ideas_l_english"
  DEN_thorvald_stauning: "托瓦爾·斯陶寧"
  DEN_freedom_council: "丹麥自由委員會"
  DEN_knud_bach: "克努特·巴赫"
@@ -38,7 +36,6 @@
  DEN_arnold_peter_moller: "阿諾爾·彼得·默勒"
  DEN_niels_bohr: "尼爾斯·博爾"
  DEN_emil_strobech: "埃米爾·斯特勒貝克"
- #FINLAND
  FIN_pehr_evind_svinhufvud: "佩爾·埃溫德·斯溫胡武德"
  FIN_juho_kusti_paasikivi: "尤霍·庫斯蒂·巴錫基維"
  FIN_vaino_tanner: "韋埃內·坦納"
@@ -100,7 +97,6 @@
  KAR_ukki_vainamoinen: "烏基·韋伊內默伊寧"
  KAR_jalmari_takkinen: "亞爾馬裡·塔基寧"
  FIN_prince_wolfgang_von_hesse: "沃爾夫岡·馮·黑森親王"
- #ICELAND
  ICE_hermann_jonasson: "赫爾曼·約納松"
  ICE_gisli_sigurbjornsson: "吉斯利·西於比約恩松"
  ICE_brynjolfur_bjarnason: "布林約爾維·比亞爾納松"
@@ -125,7 +121,6 @@
  ICE_agnar_eldberg_kofoed_hansen: "阿格納爾·埃爾德貝格·科弗德-漢森"
  ICE_bjorn_sveinsson_bjornsson: "比約恩·斯溫松·比約恩松"
  ICE_werner_gerlach: "維爾納·耶拉克"
- #NORWAY
  NOR_johan_nygaardsvold: "約翰·尼高斯沃爾"
  NOR_peder_anker_wedel_jarlsberg: "佩德·安克爾·韋德爾-亞爾斯貝格"
  NOR_martin_tranmael: "馬丁·特拉梅爾"
@@ -160,7 +155,6 @@
  NOR_eivind_heiberg: "埃溫·海貝格"
  NOR_christopher_hornsrud: "克里斯托弗·霍恩斯魯德"
  NOR_kirsten_hansteen: "希爾斯滕·漢斯廷"
- #SWEDEN
  SWE_gosta_bagge: "約斯塔·巴格"
  SWE_fallen_riksdag: "國會垮臺"
  SWE_rikard_persson: "裡卡德·佩爾松"
@@ -194,7 +188,6 @@
  SWE_nordic_defense_council_leader: "北歐防務理事會"
  SWE_raoul_wallenberg: "拉烏爾·瓦倫貝格"
  SWE_natanael_beskow: "納塔內爾·貝斯科夫"
- #SAMI
  SMI_democratic_council: "薩米人會議"
  SMI_communism_council: "薩米人民委員會"
  SMI_neutrality_council: "薩米族委員會"

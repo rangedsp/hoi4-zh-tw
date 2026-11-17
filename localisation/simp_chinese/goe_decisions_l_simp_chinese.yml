@@ -82,7 +82,6 @@
  AFG_sikh_recruitment_tt: "§Y組建2個經驗豐富的山地師§!\n"
  AFG_a_royal_successor_decision: "王室繼承人"
  AFG_a_royal_successor_decision_desc: "既然如今$AFG_mohammad_hashim_khan$的領導能力正受到國內外質疑，若我們想穩固統治這片土地，就必須決定由誰來接任首相一職。"
- #RAJ
  RAJ_GOE_partition_cat: "分治"
  RAJ_GOE_partition_cat_desc: "隨著印度分治，那些曾效忠王室的土邦現在必須在我們和我們的鄰國之間做出選擇。每位王公都會權衡各個繼承國給出的承諾和施加的壓力，時機一到，他們就會倒向對自己示好最多的一方。我們必須明智地動用自身影響力，現在爭取到的每一個土邦，日後都不必再動用武力去奪取。"
  RAJ_GOE_independence_movement: "獨立運動"
@@ -265,7 +264,6 @@
  RAJ_instigate_in_sia_desc: "我們將選擇[SIA.GetName]$RAJ_instigate_generic_desc$"
  RAJ_instigate_in_ins: "在[INS.GetName]進行煽動"
  RAJ_instigate_in_ins_desc: "我們將選擇[INS.GetName]$RAJ_instigate_generic_desc$"
- ### LOYALIST BRANCH
  RAJ_return_churchill: "送$ENG_winston_churchill$返回[ENG.GetNameDef]"
  RAJ_return_churchill_desc: "$ENG_winston_churchill$在這裡的使命已經完成，是時候讓他回國了。"
  RAJ_request_resource_rights_in_burma: "要求緬甸的資源開採權"
@@ -312,12 +310,10 @@
  RAJ_congress_pass_working_conditions_legislation: "通過工作環境法案"
  RAJ_congress_pass_working_conditions_legislation_desc: "為了滿足國會的要求，我們將通過新法案，改善建築工人的工作環境。"
  RAJ_congress_demand_working_conditions_legislation_mission: "國會要求工作環境法案"
- #tier_four_taxes_threshold
  tier_threshold_increase_0: "提高該稅級的民用工廠要求。\n§Y第一§!稅級：§Y[?var:tier_two_taxes_threshold]§!到§G[?var:tier_two_taxes_threshold_plus_4]§!§Y民用工廠§!"
  tier_threshold_increase_1: "§Y第二§!稅級：§Y[?var:tier_three_taxes_threshold]§!至§G[?var:tier_three_taxes_threshold_plus_4]§!§Y民用工廠§!"
  tier_threshold_increase_2: "§Y第三§!稅級：§Y[?var:tier_four_taxes_threshold]§!至§G[?var:tier_four_taxes_threshold_plus_4]§!§Y民用工廠§!"
  tier_threshold_increase_not_setup: "使單一稅級的民用工廠閾值提高§G4§!"
- #tier_three_taxes_threshold_2
  tier_two_threshold_tt: "提高§Y$tier_one_threshold$§!的閾值：§Y$RIGHT|+=.0$§!§Y民用工廠§!"
  tier_three_threshold_tt: "提高§Y$tier_two_threshold$§!的閾值：§Y$RIGHT|+=.0$§!§Y民用工廠§!"
  tier_four_threshold_tt: "提高§Y$tier_three_threshold$§!的閾值：§Y$RIGHT|+=.0$§!§Y民用工廠§!"
@@ -391,12 +387,6 @@
  GOE_form_country_pakistan_required_states_tt: "控制所有§Y巴基斯坦§!地區"
  GOE_form_country_india_coring_states_tt: "獲得所有§Y印度§!地區的核心"
  GOE_form_country_pakistan_coring_states_tt: "獲得所有§Y巴基斯坦§!地區的核心"
- ##############
- #### IRAN ####
- ##############
- ##############
- #### FLAGS ###
- ##############
  PER_sold_oil_flag: "出售[PER.GetAdjective]石油"
  PER_refused_oil_flag: "拒絕[PER.GetAdjective]石油"
  PER_offers_oil_flag: "提供[PER.GetAdjective]石油"
@@ -404,9 +394,6 @@
  PER_economy_proved: "證明經濟信譽"
  PER_military_fielded: "軍事動員"
  PER_state_coring_flag: "正在整合地區"
- ##############################
- #### INDUSTRIAL DECISIONS ####
- ##############################
  PER_profit_from_war_category: "戰爭財"
  PER_profit_from_war_category_desc: "隨著戰爭在世界各地爆發，我們獲得了出售大量石油儲備以改善經濟並消除外部威脅的絕佳機會。這將充分利用我們豐富的自然資源。"
  PER_sell_oil: "向[FROM.GetNameDef]出售[PER.GetAdjective]石油"
@@ -460,9 +447,6 @@
  PER_plant_resistance_cat: "$PER_plant_resistance_cells$"
  PER_plant_resistance_cat_desc: "如果想提升對敵發動先發制人打擊的成功率，就必須使與我方接壤的諸國自顧不暇——令其深陷親[PER.GetAdjective]抵抗組織與地下活動的泥潭之中，方為上策。"
  PER_organize_resistance: "$PER_promote_resistance_in_gulf_states$"
- ##############
- #### IRAQ ####
- ##############
  neo_assyrian_empire_category: "重建新亞述帝國"
  neo_assyrian_empire_category_desc: "新亞述帝國在其鼎盛時期統治了大部分中東地區。我們應該努力恢復國家的古代榮耀，重新徵服我們曾經的帝國疆域。"
  neo_assyrian_empire_decision: "復興我們古老的榮耀"

@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ### BRAZIL ###
  BRA_jose_linhares: "若澤·利尼亞雷斯"
  BRA_benedito_valadres: "貝內迪托·瓦拉達雷斯"
  BRA_alfred_agache: "阿爾弗雷德·阿加什"
@@ -25,7 +24,6 @@
  BRA_gustavo_barroso: "古斯塔沃·巴羅佐"
  BRA_miguel_reale: "米格爾·雷亞萊"
  BRA_oliveria_viana: "奧利韋拉·比亞納"
- ## Brazilian Generals ##
  BRA_augusto_fragoso: "奧古斯托·塔索·弗拉戈索"
  BRA_alvaro_de_castro: "阿爾瓦羅·菲烏薩·德·卡斯特羅"
  BRA_gois_monterio: "戈伊斯·蒙泰羅"
@@ -36,19 +34,15 @@
  BRA_eduardo_guedes: "愛德華多·格德斯"
  BRA_cristovao_de_castro: "克里斯托旺·德·卡斯特羅·巴塞洛斯"
  BRA_milton_de_freitas: "米爾頓·德·弗雷塔斯"
- ## Marshals
  BRA_candido_mariano: "坎迪多·龍東"
  BRA_olympio_falconiere_da_cunha: "奧林匹奧·法爾科涅雷·達·庫尼亞"
  BRA_floriano_de_lima_brayner: "弗洛里亞諾·德·利馬·布賴納"
- ## Admirals
  BRA_henrique_aristides_guilhem: "恩裡克·阿里斯蒂德斯·吉揚"
  BRA_silvio_de_noronha: "西爾維奧·德·諾羅尼亞"
  BRA_protogenes_guimaraes: "普羅托格內斯·佩雷拉·吉馬良斯"
  BRA_renato_de_almeida_guillobel: "雷納托·德·阿爾梅達·吉洛貝爾"
  BRA_alvaro_alberto_da_motta_e_silva: "阿爾瓦羅·阿爾貝托·達·莫塔-席爾瓦"
- ## Cangaco
  BRA_lampiao: "蘭皮昂"
- ### CHILE ###
  CHL_rosita_serrano: "羅西塔·塞拉諾"
  CHL_arturo_alessandri: "阿圖羅·亞歷山德里"
  CHL_jorge_gonzalez_von_marees: "豪爾赫·岡薩雷斯·馮·馬雷斯"
@@ -146,7 +140,6 @@
  CHL_osvaldo_lira_perez: "奧斯瓦爾多·利拉·佩雷斯"
  CHL_quintin_lame: "曼努埃爾·金廷·拉梅·昌特雷"
  CHL_carlos_huayquinir: "卡洛斯·瓦伊基尼爾"
- ### COUNCILS ###
  MIS_miskito_council: "米斯基托議會"
  MAY_maya_council: "瑪雅議會"
  SUR_guianan_indigenous_council: "圭亞那原住民委員會"
@@ -181,7 +174,6 @@
  PAR_eduardo_schaerer: "愛德華多·舍雷爾·阿拉貢"
  PAR_arturo_javier_gonzalez: "阿圖羅·哈維爾·岡薩雷斯·奧坎波"
  PAR_Eusebio_Ayala: "尤塞比奧·阿亞拉"
- #URG
  URG_adolfo_agorio: "阿道弗·阿戈里奧"
  URG_teodomiro_varela_de_andrade: "特奧多米羅·巴雷拉·德·安德拉德"
  URG_augustus_caesar_bado: "奧古斯圖斯·凱撒·巴多"

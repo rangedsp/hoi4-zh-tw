@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- #SOVIET UNION
  SOV_iosif_stalin: "約瑟夫·斯大林"
  SOV_konstantin_rodzayevsky: "康斯坦丁·羅扎耶夫斯基"
  SOV_aleksandr_kerensky: "亞歷山大·克倫斯基"
@@ -112,15 +111,11 @@
  SOV_tsar_vsevolod_ivanovich: "弗謝沃洛德一世"
  SOV_metropolitan_meletius: "麥勒提都主教"
  SOV_patriarch_meletius: "麥勒提牧首"
- #ARGENTINA
- #'Hilter' over 'Hitler' is intentional
  ARG_senor_hitler: "希勒特閣下"
- #AUSTRIA
  AUS_kurt_schuschnigg: "庫爾特·舒施尼格"
  AUS_karl_renner: "卡爾·倫納"
  AUS_alfred_klahr: "阿爾弗雷德·克拉爾"
  AUS_karl_eglseer: "卡爾·埃格爾澤"
- #BULGARIA
  BUL_boris_iii: "鮑里斯三世"
  BUL_boris_iii_desc: "鮑里斯三世沙皇"
  BUL_ferdinand_i: "斐迪南一世"
@@ -229,7 +224,6 @@
  BUL_nikola_totev_markov_desc: "尼古拉·托特夫·馬爾科夫"
  BUL_blagoi_ivanov_desc: "布拉戈伊·埃夫提莫夫·伊萬諾夫"
  BUL_nikola_nakov: "尼古拉·納科夫"
- #SPAIN
  SPR_enrique_lister: "恩裡克·利斯特爾"
  SPR_enrique_lister_desc: "恩裡克·利斯特爾·弗爾漢"
  SPR_valentin_gonzalez: "巴倫廷·岡薩雷斯"
@@ -247,7 +241,6 @@
  SPR_jose_millan_astray: "何塞·米連·阿斯特賴"
  SPR_miguel_buiza_fernandez_palacios: "米格爾·布伊薩·費爾南德斯-帕拉西奧斯"
  SPR_manuel_azana: "曼努埃爾·阿薩尼亞"
- #PORTUGAL
  POR_antonio_de_oliveira_salazar: "安東尼奧·德·奧利維拉·薩拉查"
  POR_bento_goncalves: "本托·貢薩爾維斯"
  POR_jose_vicente_de_freitas: "若澤·維森特·德·弗雷塔斯"
@@ -255,7 +248,6 @@
  POR_raul_augusto_esteves: "勞爾·奧古斯托·埃斯特韋斯"
  POR_jose_mendes_cabecadas: "若澤·門德斯·卡貝薩達斯"
  POR_raul_brandao: "勞爾·布蘭登"
- #NATIONALIST CHINA
  CHI_chiang_kaishek: "蔣介石"
  CHI_zhang_guotao: "張國燾"
  CHI_wang_jingwei: "汪精衛"
@@ -270,38 +262,31 @@
  CHI_wei_lihuang: "衛立煌"
  CHI_fu_zuoyi: "傅作義"
  CHI_zhang_xueliang: "張學良"
- #PEOPLE'S REPUBLIC OF CHINA
  PRC_mao_zedong: "毛澤東"
  PRC_peng_dehuai: "彭德懷"
  PRC_lin_biao: "林彪"
  PRC_kwong_hu: "孔護"
  PRC_luo_zhao: "羅昭"
  PRC_liang_ma: "梁馬"
- #SINKIANG
  SIK_sheng_shicai: "盛世才"
  SIK_chiang_yufen: "蔣有芬"
  SIK_kwong_jin: "孔進"
  SIK_luo_wei: "羅巍"
  SIK_liang_jiang: "梁江"
- #XIBEI SAN MA
  XSM_ma_bufang: "馬步芳"
  XSM_mao_sun: "毛隼"
  XSM_hsia_sun: "夏遜"
  XSM_hsia_jin: "夏進"
- #SHANXI
  SHX_wang_jingguo: "王靖國"
  SHX_luo_zhao: "羅釗"
  SHX_liao_ting: "廖丁"
- #GUANXI CLIQUE
  GXC_liu_peng: "劉鵬"
  GXC_zhang_lu: "張閭"
  GXC_li_ting: "李荊"
- #YUNNAN
  YUN_long_yun: "龍雲"
  YUN_mao_dong: "毛冬"
  YUN_cheng_peng: "程鵬"
  YUN_hsia_wu: "夏武"
- #MANCHUKUO
  MAN_aisin_gioro_puyi: "愛新覺羅·溥儀"
  MAN_zhang_haipeng: "張海鵬"
  MAN_zhang_jinghui: "張景惠"
@@ -313,7 +298,6 @@
  MAN_yu_zishan: "於芷山"
  MAN_jonjurjab: "正珠爾扎布"
  MAN_pujie: "溥傑"
- #USA
  USA_franklin_delano_roosevelt: "富蘭克林·德拉諾·羅斯福"
  USA_william_dudley_pelley: "威廉·達德利·佩裡"
  USA_earl_browder: "$earl_browder$"
@@ -371,7 +355,6 @@
  USA_harold_ickes: "$harold_ickes$"
  USA_charles_coughlin: "$charles_coughlin$"
  USA_william_donovan: "$usa_william_donovan$"
- #ITALY
  ITA_benito_mussolini: "貝尼托·墨索里尼"
  ITA_ferruccio_parri: "費盧西奧·帕裡"
  ITA_vittorio_emanuele_iii: "維托里奧·埃馬努埃萊三世"
@@ -407,7 +390,6 @@
  ITA_amadeo_bordiga: "$amadeo_bordiga$"
  ITA_ivanoe_bonomi: "$ivanoe_bonomi$"
  ITA_carlo_scorza: "$carlo_scorza$"
- #FRANCE
  FRA_pierre_laval: "皮埃爾·賴伐爾"
  FRA_edouard_daladier: "愛德華·達拉第"
  FRA_denis_guillaumat: "丹尼斯·吉約馬"
@@ -452,7 +434,6 @@
  FRA_rene_massigli: "$rene_massigli$"
  FRA_georges_bonnet: "$georges_bonnet$"
  FRA_charles_maurras: "$charles_maurras$"
- #UNITED KINGDOM
  ENG_stanley_baldwin: "斯坦利·鮑德溫"
  ENG_harry_pollitt: "$harry_pollitt$"
  ENG_neville_chamberlain: "內維爾·張伯倫"
@@ -513,7 +494,6 @@
  ENG_john_beckett: "$john_beckett$"
  ENG_stewart_menzies: "$eng_stewart_menzies$"
  ENG_alan_turing: "$eng_alan_turing$"
- #GERMANY
  GER_adolf_hitler: "阿道夫·希特勒"
  GER_konrad_adenauer: "康拉德·阿登納"
  GER_wilhelm_pieck: "威廉·皮克"
@@ -585,7 +565,6 @@
  GER_wilhelm_ii: "威廉二世"
  GER_victoria: "維多利亞"
  GER_august_von_mackensen: "奧古斯特·馮·馬肯森"
- #ROMANIA
  ROM_gheorghe_tatarescu: "格奧爾基·塔塔內斯庫"
  ROM_constantin_ion_parhon: "康斯坦丁·揚·巴洪"
  ROM_king_michael: "米哈伊一世"
@@ -593,7 +572,6 @@
  ROM_corneliu_codreanu: "科爾內留·科德雷亞努"
  ROM_petre_dumitrescu: "彼得·杜米特雷斯庫"
  ROM_ioan_mihail_racovita: "伊萬·米哈伊爾·拉科維塔"
- #TURKEY
  TUR_mustafa_kemal_ataturk: "穆斯塔法·凱末爾·阿塔圖爾克"
  TUR_mehmet_recep_peker: "穆罕默德·雷傑普·佩克爾"
  TUR_izzettin_chalishlar: "伊扎丁·恰勒什拉爾"
@@ -611,7 +589,6 @@
  TUR_durrushehvar_i: "杜露塞瓦爾一世"
  TUR_abdulmejid_ii: "阿卜杜勒-邁吉德二世"
  TUR_hazi_aslanov: "哈茲·阿斯蘭諾夫"
- #JAPAN
  JAP_emperor_hirohito: "$JAP_hirohito$"
  JAP_kyuichi_tokuda: "德田球一"
  JAP_tetsu_katayama: "片山哲"
@@ -677,7 +654,6 @@
  JAP_kijuro_shidehara: "$kijuro_shidehara$"
  JAP_kingoro_hashimoto: "$kingoro_hashimoto$"
  JAP_takuo_godo: "$takuo_godo$"
- #HUNGARY
  HUN_miklos_horthy: "霍爾蒂·米克洛什"
  HUN_otto_von_habsburg: "奧托·馮·哈布斯堡"
  HUN_matyas_rakosi: "拉科西·馬加什"
@@ -689,7 +665,6 @@
  HUN_lajos_veress: "韋賴什·拉約什"
  HUN_ferenc_feketehalmyczeydner: "費凱泰哈爾米-採伊德納·費倫茨"
  HUN_istvan_szechenyi: "塞切尼·伊什特萬"
- #POLAND
  POL_anna_andersson: "阿納斯塔西婭·羅曼諾夫"
  POL_karl_albrecht: "卡爾·阿爾布雷希特一世"
  POL_friedrich_christian: "弗里德里希·克里斯蒂安"
@@ -719,7 +694,6 @@
  POL_karol_korytowski: "卡羅爾·科裡托夫斯基"
  POL_boleslaw_bierut: "博萊斯瓦夫·比魯特"
  POL_edward_osobka_morawski: "愛德華·奧索布卡-莫拉維斯基"
- #Divisional Commanders
  POL_zygmunt_podhorski: "齊格蒙特·波德霍爾斯基"
  POL_adam_zakrzewski: "亞當·扎克熱夫斯基"
  POL_konstanty_drucki_lubecki: "康斯坦蒂·德魯茨基-盧貝茨基"
@@ -730,7 +704,6 @@
  POL_zygmunt_piasecki: "齊格蒙特·皮亞塞茨基"
  POL_konstanty_plisowski: "康斯坦蒂·普利索夫斯基"
  POL_jan_karcz: "揚·卡爾奇"
- #CZECHOSLOVAKIA
  CZE_edvard_benesh: "愛德華·貝奈斯"
  CZE_jaroslav_krejchi: "雅羅斯拉夫·克雷伊奇"
  CZE_vojtyech_luzha: "沃伊捷赫·盧扎"
@@ -738,13 +711,11 @@
  CZE_richard_tesarzhik: "裡哈德·特薩日克"
  CZE_sergej_vojcechovsky: "謝爾蓋·沃伊切霍夫斯基"
  CZE_frantishek_havlik: "弗朗齊歇克·哈夫利克"
- #ESTONIA
  EST_konstantin_pats: "康斯坦丁·佩茨"
  EST_artur_sirk: "阿蒂爾·西爾克"
  EST_jaan_anvelt: "亞安·安維爾特"
  EST_herbert_brede: "赫伯特·佈雷德"
  EST_otto_heinze: "奧托·海因茨"
- #LATVIA
  LAT_karlis_ulmanis: "卡爾利斯·烏爾馬尼斯"
  LAT_gustavs_celminsh: "古斯塔夫斯·採爾明什"
  LAT_alberts_kvesis: "阿爾貝茨·克維埃西斯"
@@ -754,7 +725,6 @@
  LAT_fricis_virsaitis: "弗裡奇斯·維爾薩特斯"
  LAT_andrejs_krustinsh: "安德烈斯·庫斯提斯"
  LAT_zhanis_bahs: "賈尼斯·巴赫"
- #LITHUANIA
  LIT_antanas_smetona: "安塔納斯·斯梅托納"
  LIT_wilhelm_karl: "明道加斯二世"
  LIT_karl_gero: "明道加斯三世"
@@ -764,7 +734,6 @@
  LIT_kazys_skuchas: "卡濟斯·斯庫查斯"
  LIT_stasys_pundzevichius: "斯塔西斯·龐德澤維丘斯"
  LIT_petras_schatz: "彼特拉斯·沙茨"
- #SWEDEN
  SWE_per_albin_hansson: "佩爾·阿爾賓·漢森"
  SWE_sven_olov_lindholm: "斯文·奧洛夫·林霍爾姆"
  SWE_sven_linderot: "斯文·林德羅特"
@@ -772,7 +741,6 @@
  SWE_folke_hogberg: "福爾克·赫格貝里"
  SWE_erik_af_edholm: "埃裡克·阿夫·埃德霍爾姆"
  SWE_claes_lindstrom: "克拉斯·林德斯特倫"
- #YUGOSLAVIA
  YUG_prince_paul: "保羅親王"
  YUG_paul_i: "保羅一世"
  YUG_milan_stojadinovic: "米蘭·斯托亞迪諾維奇"
@@ -782,7 +750,6 @@
  YUG_ivan_gosnjak: "伊萬·戈什尼亞克"
  YUG_josef_depre: "約瑟夫·德普爾"
  CRO_nikola_mandic: "尼古拉·曼蒂克"
- #GREECE
  GRE_konstantinos_demertzis: "康斯坦丁諾斯·德默齊斯"
  GRE_nikos_zachariadis: "尼科斯·扎哈里亞季斯"
  GRE_george_mercouris: "喬治·默庫里斯"
@@ -792,7 +759,6 @@
  GRE_theodoros_pangalos: "塞奧佐羅斯·潘加洛斯"
  GRE_dimitrios_psarros: "季米特里奧斯·普薩羅斯"
  GRE_panagiotis_demestichas: "帕納伊奧蒂斯·德米斯蒂奇"
- #CANADA
  CAN_mackenzie_king: "麥肯齊·金"
  CAN_adrien_arcand: "阿德里安·阿坎德"
  CAN_tim_buck: "蒂姆·巴克"
@@ -805,7 +771,6 @@
  CAN_ht_bailliegrohman: "H·T·貝利-格羅曼"
  CAN_james_d_prentice: "詹姆斯·D·普倫蒂斯"
  CAN_harry_dewolf: "哈里·德沃爾夫"
- #MEXICO
  MEX_salvador_abascal: "薩爾瓦多·阿瓦斯卡爾"
  MEX_adolfo_de_la_huerta: "阿道弗·德·拉韋爾塔"
  MEX_dionisio_encina: "迪奧尼西奧·恩西納"
@@ -821,21 +786,12 @@
  MEX_alberto_gorostieta_vega: "阿爾貝托·戈羅斯蒂塔·維加"
  MEX_dionisio_navarro_anguiano: "迪奧尼西奧·納瓦羅·安圭亞諾"
  MEX_luis_maria_martinez: "路易斯·馬里亞·馬丁內斯"
- #NETHERLANDS (HOL)
  HOL_hendrikus_colijn: "亨德里克斯·科萊恩"
  HOL_anton_mussert: "安東·米塞特"
  HOL_lou_de_visser: "路易·德·菲瑟"
  HOL_dirk_jan_de_geer: "迪爾克·揚·德·海爾"
  HOL_pieter_sjoerds_gerbrandy: "皮埃特·斯若爾德斯·海布蘭迪"
  HOL_johannes_theodorus_furstner: "約翰內斯·特奧多魯斯·菲爾斯特納"
- #DUTCH EAST INDIES
- #INS_sukarno: "Sukarno"
- #INS_a_t_van_starkenborgh_stachouwer: "A. T. van Starkenborgh Stachouwer"
- #INS_amir_sjarifuddin_harahap: "Amir Sjarifuddin Harahap"
- #INS_suharto: "Suharto"
- #INS_sutan_sjahrir: "Sutan Sjahrir"
- #moved to taog files
- #BRITISH RAJ
  RAJ_lord_linlithgow: "林利思戈侯爵"
  RAJ_p_krishna_pillai: "P·克里希納·皮萊"
  RAJ_b_p_sitaramayya: "B·P·斯塔拉瑪亞"
@@ -848,7 +804,6 @@
  RAJ_kodandera_madappa_cariappa: "科丹德拉·馬達帕·卡里亞帕"
  RAJ_kodandera_subayya_thimayya: "科丹德拉·蘇拜亞·蒂邁雅"
  RAJ_jayanto_nath_chaudhuri: "賈揚托·納特·喬杜裡"
- #AUSTRALIA
  AST_john_curtin: "約翰·柯廷"
  AST_eric_campbell: "埃裡克·坎貝爾"
  AST_richard_dixon: "理查德·迪克森"
@@ -863,14 +818,12 @@
  AST_harold_farncomb: "哈羅德·法恩科姆"
  AST_victor_crutchley: "維克托·克拉奇利"
  AST_iven_mackay: "艾文·麥凱"
- #SOUTH AFRICA
  SAF_j_b_m_hertzog: "J·B·M·赫爾佐格"
  SAF_moses_kotane: "摩西·考塔尼"
  SAF_pixley_ka_isaka_seme: "皮克斯利·卡·伊薩卡·塞姆"
  SAF_jan_smuts: "揚·史末資"
  SAF_george_edwin_brink: "喬治·埃德溫·布林克"
  SAF_guy_hallifax: "蓋伊·哈利法克斯"
- #NEW ZEALAND
  NZL_michael_joseph_savage: "邁克爾·約瑟夫·薩維奇"
  NZL_sidney_holland: "西德尼·霍蘭德"
  NZL_john_ormond: "約翰·奧蒙德"
@@ -881,7 +834,6 @@
  NZL_william_stevens: "威廉·史蒂文斯"
  NZL_edmund_rupert_drummond: "埃德蒙·魯珀特·德拉蒙德"
  NZL_peter_phipps: "彼得·菲普斯"
- #FINLAND
  FIN_risto_ryti: "里斯托·呂蒂"
  FIN_aimo_aaltonen: "艾莫·阿爾托寧"
  FIN_vilho_annala: "維爾霍·安納拉"
@@ -889,7 +841,6 @@
  FIN_carl_gustaf_emil_mannerheim: "卡爾·古斯塔夫·埃米爾·曼納海姆"
  FIN_erik_heinrichs: "埃裡克·海因裡克斯"
  FIN_vilho_petter_nenonen: "維爾霍·彼得·涅諾寧"
- #BRAZIL
  BRA_getulio_vargas: "熱圖利奧·瓦加斯"
  BRA_arlindo_veiga_dos_santos: "阿林多·韋加·多斯桑托斯"
  BRA_plinio_salgado: "普利尼奧·薩爾加多"
@@ -898,26 +849,22 @@
  BRA_eurico_gaspar_dutra: "歐里科·加斯帕爾·杜特拉"
  BRA_mascarenhas_de_morais: "馬斯卡雷尼亞斯·德·莫賴斯"
  BRA_augusto_rademaker: "奧古斯托·拉德馬克"
- #BELGIUM
  BEL_hubert_pierlot: "于貝爾·皮埃洛"
  BEL_joseph_jacquemotte: "約瑟夫·雅克莫特"
  BEL_mcl_keyaerts: "M·C·L·凱爾茨"
  BEL_georges_timmermans: "喬治·蒂默曼"
  BEL_gilles_wyvekens: "吉勒·魏文科斯"
- #PERSIA - IRAN
  PER_reza_shah_pahlavi: "禮薩·沙·巴列維"
  PER_soleyman_mirza_eskandari: "蘇萊曼·米爾扎·伊斯坎達裡"
  PER_hasan_arfa: "哈桑·阿爾法"
  PER_dalir_pesyan: "達利爾·佩斯揚"
  PER_sohrab_tahmasebi: "蘇赫拉布·塔赫馬斯比"
- #SWITZERLAND
  SWI_federal_council: "聯邦委員會"
  SWI_federal_assembly: "聯邦委員會"
  SWI_ernest_beuin: "埃內斯特·貝甘"
  SWI_max_leo_keller: "馬克斯·萊奧·凱勒"
  SWI_fritz_platten: "弗裡茨·普拉滕"
  SWI_henri_guisan: "亨利·吉桑"
- #ETHIOPIA
  ETH_haile_selassie: "海爾·塞拉西"
  ETH_fitawrari_yeebio_woldai: "菲雷利·依比奧·沃爾蓋"
  ETH_seyoum_mengesha: "塞尤姆·曼加沙"

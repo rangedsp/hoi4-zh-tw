@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- #Opinion modifiers
  LIT_anti_soviet_opinion: "反蘇外交"
  LIT_arrested_party_members: "逮捕黨員"
  LIT_appease_opinion: "綏靖政策"
@@ -16,7 +15,6 @@
  BALTIC_supported_fascism: "支持波羅的民族主義"
  accepted_catholics: "接納天主教徒"
  annex_liberia_opinion: "吞併利比里亞"
- #Estonia
  EST_era_of_silence: "緘默時代"
  EST_era_of_silence_desc: "從薩列馬到沃魯馬，當暴虐的極端民族主義組織“瓦普運動”席捲全國之際，國老當為愛沙尼亞開闢嶄新的時代。沒有選舉，沒有異議，也沒有反對者；這正是這個國家所必需的緘默時代。"
  EST_ismaaliit: "祖國聯盟"
@@ -123,7 +121,6 @@
  EST_unite_the_finnic_identity_desc: "隨著斯堪的納維亞半島上的所有芬族地區均處於我國的控制之下，我們可以團結芬蘭語群體，並建立一個愛沙尼亞人、芬蘭人、薩米人、涅涅茨人等諸芬蘭-烏戈爾民族都能稱之為家園的嶄新國度！"
  EST_break_the_silence: "打破緘默"
  EST_break_the_silence_desc: "康斯坦丁·帕斯保護愛沙尼亞免受法西斯主義和共產主義荼毒是假，實行獨裁統治是真。既然現在這兩種意識形態在愛沙尼亞國內已無足輕重，那麼他的獨裁統治就沒有理由再維持下去，自由選舉也必須得以恢復。"
- #Lithuania
  LIT_secure_a_loyal_cabinet: "重新召集議會"
  LIT_secure_a_loyal_cabinet_desc: "隨著政變成功以及安塔納斯·斯梅托納對政府的絕對控制，我們應該與忠於獨裁者的部長們重開議會，以此更有效地治理國家。"
  LIT_rastikis_military_reforms: "拉斯蒂吉斯的軍事改革"
@@ -287,7 +284,6 @@
  LIT_abolish_the_presidency_desc: "迄今為止，雖然斯梅托納仍然保持著對國家政權的控制，但隨著明道加斯三世支持率的提升，似乎廢除總統制政府並代之以國王的絕對統治才是明智之選。斯梅托納將被重新任命為首相，作為顧問為年輕的明道加斯三世效勞。"
  LIT_claim_prussia: "奪取東普魯士"
  LIT_claim_prussia_desc: "東普魯士居住著大量的立陶宛與波蘭少數族裔，這些同胞是時候該與[Root.GetNameDef]的同志團結在一起了。"
- #Shared Baltic
  BALTIC_rejoin_the_railways: "重連鐵路網"
  BALTIC_rejoin_the_railways_desc: "那些曾經染指過我們土地的俄國人和德國人認為，我國不過是片窮鄉僻壤，也就比荒地稍好一些。[ROOT.GetNonIdeologyName]將會從鐵路和基礎設施開始，迎來工業化的起步，直至完全發揮這片土地的潛力。"
  BALTIC_axis_investments: "尋求[GetBalticAxisInvesmentsAdj]投資"
@@ -431,7 +427,6 @@
  BALTIC_end_swedish_neutrality_desc: "瑞典驢所謂的中立不過是軟弱的自欺欺人，只是屈服於任何一時的強權，幾乎從不考慮國外下層階級的福祉問題。這樣一個意志薄弱的政府不配當我們的鄰國，必須建立一個挺直脊梁骨的新瑞典來保護其人民不受暴政侵害。"
  BALTIC_free_the_workers_of_poland: "解放波蘭工人"
  BALTIC_free_the_workers_of_poland_desc: "雖然波蘭人曾經統治過波羅的海，但他們現在正生活在水深火熱的[GER.GetNameDef]的殘暴政權之中。我們必須保衛我們南方的同志們並幫助他們團結地建立一個波蘭社會主義共和國！"
- #Baltic Entente
  LIT_baltic_economic_union: "波羅的海經濟聯盟"
  LIT_baltic_economic_union_desc: "自由與民主已經回到了我們的國家，且我們正在與鄰國建立更緊密的外交關係，以建立一個涵蓋波羅的海國家的經濟聯盟。儘管自己的經濟實力尚且弱小，但我們團結的力量將不容忽視。"
  LIT_baltic_defence_army: "波羅的海防衛軍"
@@ -468,7 +463,6 @@
  EST_baltic_stronger_together_desc: "波羅的海國家長期以來義結金蘭、肝膽相照，但我們一直被邊境和政治所分隔。我們為了捍衛獨立在外交上團結一心，我們也必須為了朋友而奮戰到底，並建設波羅的海聯合武裝部隊！"
  EST_baltic_unification: "實現波羅的國家統一"
  EST_baltic_unification_desc: "波羅的海國家長期以來義結金蘭、肝膽相照，但我們一直被邊境和政治所分隔。儘管我們有著強烈的獨立性，但為了生存而奮戰的信念將我們團結到一起。也許是時候讓波羅的海同盟轉變為一個統一的國家了。"
- #Latvia
  LAT_suspend_the_constitution: "終止拉脫維亞憲法"
  LAT_suspend_the_constitution_desc: "制訂於1922年的拉脫維亞憲法將我們的民主權利編入了法典。然而，隨著戰爭逐漸靠近，憲法很明顯已經無法發揮作用，如果我國想要渡過危機，就必須終止憲法。"
  LAT_appease_democrats: "安撫民主派"
@@ -570,7 +564,6 @@
  LAT_united_baltic_empire_desc: "儘管建立團結統一的波羅的海國家的想法似乎有些不切實際，但不可否認的是我們的兄弟會的影響力早已擴展到了國境之外。如今立陶宛和愛沙尼亞都已落入我們的掌控，只需將兩國的行政體系整合進來，我們稱霸波羅的海的雄心就將成為現實。"
  LAT_renew_the_constitution: "重啟拉脫維亞憲法"
  LAT_renew_the_constitution_desc: "誠然，卡爾利斯·烏爾馬尼斯建立起了一個強有力的拉脫維亞政府，使我國扛過了法西斯主義和共產主義的風暴，但現在的平民政府中已經全是農民黨的成員，我們已經沒理由不重啟公共選舉了。"
- #Scripted loc
  queen: "王后"
  king: "國王"
  president: "總統"
@@ -580,7 +573,6 @@
  refineries: "煉油廠"
  mills: "製造廠"
  farms: "農場"
- #Poland paid content
  POL_KPP_focus: "組建左派內閣"
  POL_KPP_focus_desc: "波蘭共產黨是一個準備在必要時採用暴力手段使波蘭走向社會主義的革命政黨。雖然一部分薩納齊亞的忠誠者如今已倒向了我們這邊，但我們還是不能放心地讓他們在黨內身居高位；我們得把他們撤下，換上我們的革命同志。"
  POL_LIT_union: "重建波蘭-立陶宛聯邦"
@@ -883,7 +875,6 @@
  clamp_down_on_danzig_tt: "$POL_clamp_down_on_danzig$：§R+30%§!"
  CHI_overlordship_over_indochina_tt: "我們獲得了針對他們的戰爭目標"
  transfer_state_tt: "我們收復了該地區"
- #Custom Tooltips
  POL_find_a_king_tt: "§Y在該國策完成後§!，波蘭王位的候選人將經由一系列§Y事件§!宣稱自己為[Root.GetFlag]§Y波蘭§!的§Y國王§!。\n選定一位候選人後，相應的國策就會§Y完成§!。"
  has_sanation_left_tt: "政府還未驅逐§Y薩納齊亞左派§!。"
  has_sanation_right_tt: "政府還未驅逐§Y薩納齊亞右派§!。"
@@ -925,7 +916,7 @@
  BALT_belarus_claims_tooltip: "當前§Y波羅的海宣稱§!是§Y[?BALTIC_claims]§!"
  SOV_belarus_claims_tooltip: "當前§Y蘇聯宣稱§!是§Y[?BALTIC_claims_printed]§!"
  elect_pavel_tt: "通過事件推舉了帕維爾成為國王"
- elect_anastasia_tt: "通過事件推舉了阿納斯塔西婭成為國王。" #Translators note, this is not a mistake, traditionally ruling monarchs are called "King"
+ elect_anastasia_tt: "通過事件推舉了阿納斯塔西婭成為國王。"
  elect_habsburg_tt: "通過事件推舉了卡爾·阿爾布雷希特成為國王。"
  gain_regain_core_tt: "§Y[Root.GetNameWithFlag]§!獲得了§Y收復核心地區§!的戰爭目標。"
  gain_take_claim_tt: "§Y[Root.GetNameWithFlag]§!獲得了§Y奪取地區§!的戰爭目標。"

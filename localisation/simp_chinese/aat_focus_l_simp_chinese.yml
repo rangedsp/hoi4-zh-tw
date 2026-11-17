@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
- #Opinion modifiers
- #FINLAND
  FIN_suomalainen_sosialismi: "芬蘭社會主義"
  FIN_suomalainen_sosialismi_desc: "曼納海姆與其同夥在內戰期間犯下的反革命破壞罪行，使卑劣的資本主義苦難得以遍佈我國社會。我們決不能坐視不管，必須找到一條解放工人階級的出路。"
  FIN_towards_a_red_government: "向紅色政府前進"
@@ -65,7 +63,6 @@
  FIN_united_under_the_north_star_desc: "我們的北歐朋友和同志受到帝國主義列強的擺佈，他們不關心我們地區的利益。但只要齊心協力，我們就可以通過建立一個聯盟來確保我們人民的和平，這個聯盟甚至可以威懾最強大的帝國。"
  FIN_preserve_sapmi: "保護薩普米"
  FIN_preserve_sapmi_desc: "薩米人長期遭受帝國主義的壓迫，無論是在我國境內還是境外。我們應該向這些人民作出補償，幫助他們擺脫在鄰國手中持續遭受的苦難。"
- #FIN_confederated_finno_russian_republics: "Confederated Finno-Russian Republics"
  FIN_confederated_finno_russian_republics_desc: "現在有無數不同的人受到我們的管轄。為了防止我國內部人民等級制度的發展，我們將把政府重組為共和國聯盟。這將使所有人在治理中擁有公平的發言權。"
  FIN_secure_the_baltic_sea: "控制波羅的海"
  FIN_secure_the_baltic_sea_desc: "雖然我們經常關注我們的陸地邊界以及如何最好地保衛它們，但我們不能讓我們的努力白費，因為我們忽視了我們海岸線的脆弱性。因此，我們必須投資於大規模的海岸防禦計劃，以確保這一側翼的安全。"
@@ -881,20 +878,6 @@
  SWE_universal_basic_income: "全民基本收入"
  SWE_universal_basic_income_desc: "每個男人和女人都應該至少能保證自己的存活，而且關心國民也是國家的義務。建立全民基本收入制度乃一舉兩得。"
  SWE_universal_basic_income_tt: "新徵服的地區初始獲得§G+25%§!順從度與§Y0%§!抵抗度"
- ###########################################################################################
- ###########################################################################################
- ###########################################################################################
- ##    ##  #######  ########  ##      ##    ###    ##    ##
- ###   ## ##     ## ##     ## ##  ##  ##   ## ##    ##  ##
- ####  ## ##     ## ##     ## ##  ##  ##  ##   ##    ####
- ## ## ## ##     ## ########  ##  ##  ## ##     ##    ##
- ##  #### ##     ## ##   ##   ##  ##  ## #########    ##
- ##   ### ##     ## ##    ##  ##  ##  ## ##     ##    ##
- ##    ##  #######  ##     ##  ###  ###  ##     ##    ##
- ###########################################################################################
- ###########################################################################################
- ###########################################################################################
- #Communist Path
  NOR_a_resurgent_labor_movement: "勞工運動復興"
  NOR_a_resurgent_labor_movement_desc: "[NOR.GetName]人民不再接受資本主義的矇蔽。他們終於看到了真相：他們一直在慢慢地淹沒在主人造成的貧困中。他們現在正抬起頭來，在他們的視野中看到了革命！"
  NOR_compromise_with_the_nkp: "與挪威共產黨妥協"
@@ -968,7 +951,6 @@
  NOR_expanded_conscription_drive_desc: "我們需要向戰場投入新的部隊，為我們的理念塑造歷史，直到鬥爭結束。每個有作戰能力的男人和女人都必須加入我們的軍隊，以免我們的家園被侵佔。"
  NOR_invite_soviet_designers: "邀請蘇聯設計商"
  NOR_invite_soviet_designers_desc: "我們的共產主義盟友擁有的技術知識比我們領先數十年，如果他們把專業知識提供給我們，我們就可以利用先進的武器和車輛超越我們的敵人，並避免不必要的犧牲。"
- #Allied
  NOR_vote_of_no_confidence: "不信任投票"
  NOR_vote_of_no_confidence_desc: "我們能相信尼高斯沃爾及其工黨有能力阻止布爾什維克和納粹嗎？他的這次裁軍，給人的感覺更像是希臘人打開了特洛伊城的大門，而不是一位準備保衛祖國不受共產主義侵襲的總理。我們不能任其將這個新生的國家拱手讓給[SOU.GetNameDef]。"
  NOR_liberal_conservative_alliance: "自由保守聯盟"
@@ -1001,7 +983,6 @@
  NOR_officers_academy_desc: "優良的軍官可以倍增戰鬥力的效率，鑑於我國人口規模小，這將對於我國能否在外國襲擊下倖存至關重要。"
  NOR_offensive_doctrines: "進攻學說"
  NOR_offensive_doctrines_desc: "我軍的舊學說是依照我軍只需以逸待勞，坐等敵軍精疲力盡的假想設計的。這是我們的前輩所預想的，而這也會在我們未來敵人的預料之中，這就是我們必須開始轉向進攻型學說的原因。"
- #Historical
  NOR_continue_nygaardsvold_government: "延續尼高斯沃爾政府"
  NOR_continue_nygaardsvold_government_desc: "迄今為止，約翰·尼高斯沃爾領導的工黨政府履職得當，受人信賴。因此，我們應該繼續集中力量，暫且忽略南方鄰國緊張的政治局勢，努力帶領挪威經濟走出眼下的經濟危機。"
  NOR_weathering_the_storm_to_come: "黑雲壓城"
@@ -1053,7 +1034,6 @@
  NOR_preparing_the_return_to_norway: "準備迴歸挪威"
  NOR_preparing_the_return_to_norway_desc: "萬事俱備。有了在敵軍戰線後方翻江倒海的抵抗力量、佔領區高官的合作、訓練有素的流亡部隊和盟友的軍事支援，是時候回擊敵人，奪回[NOR.GetNonIdeologyName]了！"
  NOR_quislings_coup_happened: "吉斯林已經發動政變"
- #Fascist
  NOR_the_stumbling_storting: "大議會將傾"
  NOR_the_stumbling_storting_desc: "漫漫長夜，我們終於捕捉到了政局動盪這條隧道盡頭的些許曙光，但光芒未必是好的——閃爍的微光所指引的乃是不斷升級的混亂。約翰·尼高斯沃爾已經盡到了最大的努力，但大議會的內訌將卻越來越深地將我們陷入混亂的泥潭。"
  NOR_lurk_in_the_shadows: "深影隨行"
@@ -1129,7 +1109,6 @@
  NOR_claims_on_scotland_desc: "在蘇格蘭成為聯合王國的一部分之前，它只是我們先祖的後院。我們要從那些無力掩蓋它維京根源的手中奪回，然後再次漫遊在北不列顛的海岸和群山中。"
  NOR_claims_on_ireland: "聲索愛爾蘭"
  NOR_claims_on_ireland_desc: "北歐先祖曾在此間定居，併名之為都伊柏林（Duibhlinn）。在這個看似不起眼的地方，許多維京人曾在這片蓋爾部落的土地上繁衍生息，對他們掠奪，與他們融合。若我等用外交或軍事手段予以奪還，當地肯定是不會介意的。"
- ## Monarchist Path
  NOR_the_chamberlains_overture: "皇家內侍之諫"
  NOR_the_chamberlains_overture_desc: "在此大議會崩壞之際，貴族價值觀的典範、雅爾斯貝格封郡的第二順位繼承人、我們謙遜的哈康七世國王的大法官佩德·安克爾·韋德爾-亞爾斯貝格男爵提出我們應該以古為鑑。換句話說，王室或應掌控政府上下。"
  NOR_send_the_storting_home: "遣散大議會"
@@ -1200,7 +1179,6 @@
  NOR_consolidate_kingdom_desc: "[GetConsolidateKingdomDesc]"
  NOR_consolidate_kingdom_desc_PAWJ: "既然我們的皇家內侍、我們敬愛的哈康七世的左膀右臂、仁慈的侯爵佩德·安克爾·韋德爾-亞爾斯貝格已經擴大了我們的領土，我們必須向內鞏固我們的成果，用一種粉飾過的、穩健的、帶點嚴厲的方式統治我們的臣民。"
  NOR_consolidate_kingdom_desc_alt: "既然我們天命所歸的女王瑪蒂爾德一世，盡職盡責地管理著我們王冠下的廣大土地，我們必須向內鞏固我們的成果，用戴著天鵝絨手套的穩健手段統治我們的臣民。"
- ## The Rest
  NOR_start_rearmament: "開始重整軍備"
  NOR_start_rearmament_desc: "也許完全解除武裝並不如我們期望的那樣一定能避免戰爭。我們最好開始為一場潛在的進犯做準備。"
  NOR_kickstart_military_industry: "催生軍事工業"
@@ -1314,19 +1292,6 @@
  NOR_emergency_conversions: "改裝商船"
  NOR_emergency_conversions_desc: "我們有一支龐大的商船隊，但由其獨自穿越危險海域將使之面臨巨大的風險。我們應該適當武裝部分船隻保護脆弱的航運。若有需要，我們也可以進一步改裝以用於更專業的任務。"
  NOR_emergency_conversions_tt: "解鎖§Y決議§!將§Y運輸船§!改裝為§Y驅逐艦§!"
- ###########################################################################################
- ###########################################################################################
- ###########################################################################################
- ##    ##  #######  ########  ########  ####  ######
- ###   ## ##     ## ##     ## ##     ##  ##  ##    ##
- ####  ## ##     ## ##     ## ##     ##  ##  ##
- ## ## ## ##     ## ########  ##     ##  ##  ##
- ##  #### ##     ## ##   ##   ##     ##  ##  ##
- ##   ### ##     ## ##    ##  ##     ##  ##  ##    ##
- ##    ##  #######  ##     ## ########  ####  ######
- ###########################################################################################
- ###########################################################################################
- ###########################################################################################
  NORDIC_reaching_out_to_our_neighbors: "合絡鄰邦"
  NORDIC_reaching_out_to_our_neighbors_desc: "TODO_NORDIC"
  NORDIC_to_arms_against_tyranny: "武裝反抗暴政"
@@ -1343,7 +1308,6 @@
  NORDIC_mutual_guarantees_desc: "TODO_NORDIC"
  NORDIC_strengthen_ties: "加深紐帶"
  NORDIC_strengthen_ties_desc: "TODO_NORDIC"
- ### JOINT FOCUS TREE ###
  NORDIC_form_joint_alliance: "成立[NORDIC_get_alliance_name]"
  NORDIC_form_joint_alliance_desc: "1864年未能團結一致，泛斯堪的納維亞夢想遭受嚴重挫折。[NORDIC_GetFormAllianceSecondParagraph]"
  NORDIC_form_joint_alliance_desc_dem: "然而，基於我們共同的民主價值觀組建一個新的聯盟可以成為世界各地民主國家的燈塔，同時仍然可以保衛自己並迅速戰勝自由的敵人。"
@@ -1795,8 +1759,6 @@
  ICE_we_shall_defend_our_island_desc: "我們的島嶼就是我們的家，沒有人比我們更瞭解它。通過使我軍專門從事山地作戰，我們可以從海岸撤軍，一旦敵人登陸並開始感到自信又得意，我們就可以立即消滅他們。"
  ICE_taking_the_fight_to_our_enemies: "引火焚敵"
  ICE_taking_the_fight_to_our_enemies_desc: "海洋包圍著我們，幾個世紀以來，大海塑造了我們的人民和我們的身份。通過利用我們從中獲得的知識，我們可以在敵人最不注意的地方與他們作戰。"
- #### DENMARK ####
- #Economical/Industrial Branch
  DEN_kanslergadeforliget: "延續《宰相大街協定》"
  DEN_kanslergadeforliget_desc: "由於失業率的飆升和農業部門的失敗，大蕭條仍然充斥於[ROOT.GetName]。我們需要跨越黨派的界限，就如何應對我們所處的危機達成共同協議。"
  DEN_devalue_the_krone: "貶值克朗"
@@ -1860,7 +1822,6 @@
  DEN_protect_the_faroe_islands_desc: "隨著世界緊張局勢的加劇，北海可能很快會發生一些激烈的衝突。法羅群島是我們控制格陵蘭及其眾多資源的重要紐帶。失去這個群島可能對我們造成毀滅性的影響，因此我們確保其防禦至關重要。"
  DEN_protect_bornholm: "保衛博恩霍爾姆"
  DEN_protect_bornholm_desc: "博恩霍爾姆位於[SWE.GetNameDef]的南部和[GER.GetNameDef]的北部，比與丹麥其他地區更接近這兩個國家。我們必須強化在波羅的海上這個戰略位置島嶼的建設，並確保我們對它的控制。"
- #Historical Branch
  DEN_declare_neutrality: "重申中立"
  DEN_declare_neutrality_desc: "在上次戰爭中，我們的不承諾政策為我們帶來了好處，使我們免於戰爭的荼毒。宣佈中立也許能再次拯救我們。"
  DEN_political_unity: "政治統一"
@@ -1892,7 +1853,6 @@
  DEN_increase_maritime_trade_desc: "未來在於廣闊的海洋和我們的商船艦隊，後者將我們的產品遠銷世界各地。雖然我們國家的人口和政治影響力可能很小，但我們可以成為一個偉大的貿易強國。"
  DEN_full_employment: "充分就業"
  DEN_full_employment_desc: "在不惜一切代價投資工業和農業方面之後，我們現在終於可以收穫好處。我們已經挺過了經濟危機和高失業率的歲月。國家正全力運轉，人力市場供不應求。繁榮就在前方。"
- #Shared Political Branch
  DEN_social_stability: "社會穩定"
  DEN_social_stability_desc: "為了避免已經對其他國家造成影響的社會動盪，我們必須採取預防措施！在對各行業和整個經濟模式進行全面改革之前，我們必須確立堅定而穩定的立場。"
  DEN_welcome_foreign_scientists: "歡迎外國科學家"
@@ -1914,7 +1874,6 @@
  DEN_five_year_plan_desc: "為了確保我們人民的未來，我們必須建立一個委員會，能夠為[DEN.GetNameDef]設計和實施一個大膽的新經濟模式。這個新的五年計劃將讓我們看到真正的騰飛和繁榮！"
  DEN_limited_social_mobilization: "有限社會動員"
  DEN_limited_social_mobilization_desc: "戰爭正在籠罩歐洲——但我們不能再次措手不及！我們必須進行必要的準備工作，以維護我們的主權，儘管這可能會很艱難。"
- #Rearmament Branch
  DEN_start_the_rearmament: "開始重整軍備"
  DEN_start_the_rearmament_desc: "[DEN.GetNameDef]已經忽視軍事，把自己的主權拱手交給鄰國掌控太久了。如今歐陸動盪不安，這樣做不會再管用了！我們必須再次加強我國軍事力量並確保自主掌控命運。"
  DEN_national_unity: "國民團結"
@@ -1945,7 +1904,6 @@
  DEN_joint_military_drills_desc: "由於自1864年以來一直處於中立，丹麥軍隊已經有些時間未見識真正的戰鬥了。如果能與我們的新盟友協商進行聯合軍事訓練，我們可以從他們那學到許多，而且雙方都能從對方獲取經驗。"
  DEN_nordic_security: "北歐安保"
  DEN_nordic_security_desc: "新的聯盟關係保證了我國獨立安穩，如今終於可以把注意力轉向北歐其他國家了。我們必須說服其加入我方陣營，以此相互照應；倘若他們不講道理，我們就有義務進行武裝保護，免得他們傷害到其自己。"
- #Monarchist Branch
  DEN_unify_the_right: "團結右翼"
  DEN_unify_the_right_desc: "[DEN.GetNameDefCap]政界那不負責任的做派已經持續太久了！惟有依靠丹麥民族的勇氣和毅力，我們這個國家才能繼續運轉。右翼政黨是時候團結起來，共同對抗左翼威脅了！"
  DEN_conservatives_support: "爭取保守派支持"
@@ -1992,7 +1950,6 @@
  DEN_train_mountain_infantry_desc: "斯堪的納維亞半島的西部和北部地區多山，丹麥本土沒有這種地形。我們必須在這些山區進行軍事演習，以提高我們的作戰能力，更好地保護我們的領土。"
  DEN_pan_scandinavianism: "泛斯堪的納維亞主義"
  DEN_pan_scandinavianism_desc: "斯堪的納維亞，乃至全北歐，千年來相濡以沫、榮辱與共。唯經各族人民深沉的血脈維繫，我等方能向統一之路邁出步伐。"
- #Fascist Branch
  DEN_march_on_the_capital: "向首都進軍"
  DEN_march_on_the_capital_desc: "終於到了我黨站起來並掌控[DEN.GetNameDef]未來的時候了。我們必須向[ROOT.capital.GetCapitalVictoryPointName]進軍，讓我們的聲音被聽到！這將是[DEN.GetAdjective]歷史上一個強大而安全的時代的開始！"
  DEN_seize_power: "攫取權力"
@@ -2019,14 +1976,12 @@
  DEN_total_war_desc: "我們目前在這場戰爭中的損失是不可接受的。然而，這還沒有結束。我們必須集結部隊，為全面克里格做好準備。如果我們能夠擊退敵人，並全力以赴，那麼我們就有機會抵禦這場動盪。團結人民並動員最後的產業，我們必須堅守陣地！"
  DEN_military_might: "復甦軍事力量"
  DEN_military_might_desc: "[DEN.GetNameDef]的軍事實力日益強大，但總有進步的空間。讓我們將資金集中用於陸軍和空軍，以改善他們的培訓和戰場效率。"
- #End Focuses
  DEN_avenging_1864: "雪恥1864"
  DEN_avenging_1864_desc: "1864年的恥辱性失敗給我們的國家帶來了半個多世紀的創傷。現在是時候了，讓我們一勞永逸地保衛我們的南部邊境，並確保沒有敵人能夠再次決定我們必須遵守的條款。"
  DEN_dominium_maris_baltici: "波羅的海主宰"
  DEN_dominium_maris_baltici_desc: "[ROOT.GetNameDefCap]曾經是波羅的海沿岸最強大的國家。我們曾與波羅的海國家、波蘭人、俄羅斯人，尤其是瑞典人作戰，爭奪海洋主導權。我們現在已做好準備，一勞永逸地將整個地區置於我們的控制之下。"
  DEN_establish_the_danelaw: "丹法區"
  DEN_establish_the_danelaw_desc: "曾有一時，我們的領土橫跨北海，英國人也服從於我們的法律。是時候重整旗鼓制霸海洋來保障我們人民的未來了。我們將復建丹法區並迫使所有其他國家重視我們！"
- #Occupation Branch
  DEN_collaboration_government: "合作政府"
  DEN_collaboration_government_desc: "簽署和平條約並與[?DEN.DEN_overlord_nation.GetNameDef]合作是使我們的人民免於破壞和毀滅的唯一途徑。通過建立一個與[?DEN.DEN_overlord_nation.GetAdjective]佔領軍密切配合的合作政府，我們將獲得比大多數處於類似情況的國家多得多的獨立和主權。"
  DEN_seek_independence: "尋求獨立"
@@ -2098,7 +2053,6 @@
  DEN_claim_sweden_desc: "瑞典曾經是我等勁敵，也曾在數個世紀內臣服在我等膝下。與丹麥相反的是，瑞典坐擁豐饒的自然資源，是為建設一支現代化強軍不可缺少之物。也許是時候再次將瑞典納入我們的版圖了，要讓瑞典的資源對我等敞開懷抱……"
  DEN_safeguard_the_eastern_front: "東線衛士"
  DEN_safeguard_the_eastern_front_desc: "歷史上，芬蘭於我等一直是可望而不可即。但隨著我國霸業復現於斯，我們完全有能力將芬蘭收入囊中。控制了芬蘭就意味著穩住了東線安全，並能進一步加強我等對波羅的海的掌控。"
- #Military Branch
  DEN_sign_forsvarsforliget: "簽訂國防協定"
  DEN_sign_forsvarsforliget_desc: "鑑於歐陸局勢愈發緊張，我們必須坦白我國嚴重缺乏國防能力的現實。簽訂一份新的國防協定，為陸軍、海軍和空軍提供更多資金，將加強我國軍事能力並保障國土完整。"
  DEN_stockpile_oil: "儲備燃油"
@@ -2174,8 +2128,6 @@
  DEN_bombefly_desc: "保證[DEN.GetNameDef]絕對安全的唯一方法，是有能力轟炸並摧毀敵方工業能力。"
  DEN_advanced_flight: "飛行進步"
  DEN_advanced_flight_desc: "我軍航空能力在近幾年內進步斐然，但未來仍有更多的壯心和改進在等著我們。若要主宰天空，我們就必須主導技術進步領域。"
- #MODIFIERS
- #Economic Crisis Modifiers
  DEN_modify_economic_crisis_dynamic_modifier: "§Y$DEN_economic_crisis_dynamic_modifier$§!追加效果："
  DEN_the_Kanslergadeforlig_modifier_tt: "$DEN_modify_economic_crisis_dynamic_modifier$\n$democratic_drift$：§G+0.05§!\n\n"
  DEN_devalue_the_krone_modifier_tt: "$DEN_modify_economic_crisis_dynamic_modifier$\n$MODIFIER_STABILITY_WEEKLY$§G+0.10%§!\n\n"
@@ -2183,28 +2135,22 @@
  DEN_agricultural_subsidies_modifier_tt: "$DEN_modify_economic_crisis_dynamic_modifier$\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$：§G+10.0%§!\n\n"
  DEN_schleswigian_farmers_modifier_tt: "$DEN_modify_economic_crisis_dynamic_modifier$\n$neutrality_drift$：§R-0.02%§!\n\n"
  DEN_secure_our_supply_lines_modifier_tt: "$DEN_modify_economic_crisis_dynamic_modifier$\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$：§G+10.0%§!\n$democratic_drift$：§G+0.05%§!\n\n"
- #Neglected Military Modifiers
  DEN_modify_neglected_military_dynamic_modifier: "§Y$DEN_neglected_military_dynamic_modifier$§!追加效果："
  DEN_new_forsvarsforlig_modifier_tt: "$DEN_modify_neglected_military_dynamic_modifier$\n$MODIFIER_MOBILIZATION_SPEED$：§G+10.00%§!\n$MODIFIER_SURRENDER_LIMIT$：§G+10.00%§!\n\n"
  DEN_stockpile_oil_modifier_neglected_military_tt: "$DEN_modify_neglected_military_dynamic_modifier$\n$MODIFIER_SURRENDER_LIMIT$：§G+10.00%§!\n\n"
  DEN_expand_vaernepligten_modifier_tt: "$DEN_modify_neglected_military_dynamic_modifier$\n$MODIFIER_MOBILIZATION_SPEED$：§G+10.00%§!\n\n"
  DEN_haeren_reorganization_modifier_neglected_military_tt: "$DEN_modify_neglected_military_dynamic_modifier$\n$MODIFIER_PLANNING_SPEED$：§G+10.0%§!\n\n"
- #Industrial Modifiers
  DEN_modify_industrial_capability_dynamic_modifier: "§Y$DEN_industrial_capability_dynamic_modifier$§!追加效果："
  DEN_trade_deal_consumer_goods_modifier_tt: "$DEN_modify_industrial_capability_dynamic_modifier$\n$MODIFIER_CONSUMER_GOODS_FACTOR$：§Y-15.0%§!\n\n"
  DEN_reorient_production_lines_output_modifier_tt: "$DEN_modify_industrial_capability_dynamic_modifier$\n$MODIFIER_CONSUMER_GOODS_FACTOR$：§Y+10.0%§!\n$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$：§G+10.00%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$：§G+5.00%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$：§G+5.00%§!\n$MODIFIER_EQUIPMENT_CONVERSION_SPEED$：§G+10%§!\n\n"
  DEN_refit_civilian_ships_industrial_modifier_tt: "$DEN_modify_industrial_capability_dynamic_modifier$\n$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$：§G+20%§!\n\n"
  DEN_appropriate_odense_staalskibsvaerft_modifier_tt: "$DEN_modify_industrial_capability_dynamic_modifier$\n$MODIFIER_REPAIR_SPEED_FACTOR$：§G+10%§!\n\n"
- #War Preparations Modifiers
  DEN_add_war_preparations_dynamic_modifier: "獲得§Y$DEN_war_preparations_dynamic_modifier$§!，其效果為"
  DEN_modify_war_preparations_dynamic_modifier: "§Y$DEN_war_preparations_dynamic_modifier$§!追加效果："
  DEN_stockpile_oil_add_modifier_war_preparations_tt: "$MODIFIER_FUEL_GAIN_FACTOR$：§G+10.00%§!\n$MODIFIER_MAX_FUEL_FACTOR$：§G+15.00%§!\n$modifier_production_speed_fuel_silo_factor$：§G+25.00%§!\n\n"
  DEN_stockpile_oil_modifier_war_preparations_tt: "$DEN_modify_war_preparations_dynamic_modifier$\n$MODIFIER_FUEL_GAIN_FACTOR$：§G+10.00%§!\n$MODIFIER_MAX_FUEL_FACTOR$：§G+15.00%§!\n$modifier_production_speed_fuel_silo_factor$：§G+25.00%§!\n\n"
- #Political Edicts Modifiers
  DEN_modify_political_edicts_dynamic_modifier: "§Y$DEN_political_edicts_dynamic_modifier$§!追加效果："
- #Resistance Modifier
  DEN_modify_danish_resistance_dynamic_modifier: "§Y$DEN_resistance_dynamic_modifier$§!追加效果："
- #Haeren Modifiers
  DEN_add_haeren_dynamic_modifier: "獲得§Y$DEN_haeren_dynamic_modifier$§!，其效果為"
  DEN_modify_haeren_dynamic_modifier: "§Y$DEN_haeren_dynamic_modifier$§!追加效果："
  DEN_hjemmevaernet_add_modifier_tt: "$DEN_add_haeren_dynamic_modifier$$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$：§G+5.0%§!\n\n"
@@ -2215,7 +2161,6 @@
  DEN_convert_automobile_production_modifier_tt: "$DEN_modify_haeren_dynamic_modifier$\n$MODIFIER_ARMY_SPEED_FACTOR$：§G+5.00%§!\n$MODIFIER_ORG_LOSS_WHEN_MOVING$：§G-5.0%§!\n\n"
  DEN_generalkommandoen_modifier_tt: "$DEN_modify_haeren_dynamic_modifier$\n$MODIFIER_ARMY_ORG_FACTOR$：§G+5.0%§!\n$MODIFIER_ORG_LOSS_WHEN_MOVING$：§G-5.0%§!\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$：§G+5.0%§!\n\n"
  DEN_establish_domestic_tank_manufacturing_modifier_tt: "$DEN_modify_haeren_dynamic_modifier$\n$MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR$：§G+5.0%§!\n\n"
- #Sovaernet Modifiers
  DEN_add_sovaernet_dynamic_modifier: "獲得§Y$DEN_sovaernet_dynamic_modifier$§!，其效果為"
  DEN_modify_sovaernet_dynamic_modifier: "§Y$DEN_sovaernet_dynamic_modifier$§!追加效果："
  DEN_modernize_the_navy_add_modifier_tt: "$DEN_add_sovaernet_dynamic_modifier$$MODIFIER_NAVAL_DETECTION$：§G+10%§!\n$MODIFIER_NAVAL_ACCIDENTS_CHANCE$§G-10.00%§!\n\n"
@@ -2228,7 +2173,6 @@
  DEN_baltic_sea_domination_modifier_tt: "$DEN_modify_sovaernet_dynamic_modifier$\n$MODIFIER_NAVY_ORG_FACTOR$：§G+5.0%§!\n$MODIFIER_NAVAL_MORALE_FACTOR$：§G+5.0%§!\n$MODIFIER_NAVY_SCREEN_ATTACK_FACTOR$：§G+5.00%§!\n$MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR$：§G+5.00%§!\n$MODIFIER_SCREENING_EFFICIENCY$：§G+10.0%§!\n\n"
  DEN_north_sea_ambitions_add_modifier_tt: "$DEN_add_sovaernet_dynamic_modifier$$MODIFIER_NAVY_ORG_FACTOR$：§G+5.0%§!\n$MODIFIER_NAVAL_MORALE_FACTOR$：§G+5.0%§!\n$MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$§G+5.00%§!\n$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$§G+5.00%§!\n$MODIFIER_POSITIONING$§G+5.00%§!\n\n"
  DEN_north_sea_ambitions_modifier_tt: "$DEN_modify_sovaernet_dynamic_modifier$\n$MODIFIER_NAVY_ORG_FACTOR$：§G+5.0%§!\n$MODIFIER_NAVAL_MORALE_FACTOR$：§G+5.0%§!\n$MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$§G+5.00%§!\n$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$§G+5.00%§!\n$MODIFIER_POSITIONING$§G+10.0%§!\n\n"
- #Flyvevåbnet
  DEN_add_flyvevabnet_dynamic_modifier: "獲得§Y$DEN_flyvevabnet_dynamic_modifier$§!，其效果為"
  DEN_modify_flyvevabnet_dynamic_modifier: "§Y$DEN_flyvevabnet_dynamic_modifier$§!追加效果："
  DEN_flyvertaktisk_kommando_modifier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$：\n$MODIFIER_AIR_ACCIDENTS_FACTOR$§G-5.0%§!\n$MODIFIER_AIR_NIGHT_PENALTY$：§G-5.00%§!\n$MODIFIER_AIR_WEATHER_PENALTY$：§G-5.00%§!\n\n"
@@ -2244,6 +2188,5 @@
  DEN_bombefly_modifier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$：\n$MODIFIER_AIR_BOMBING_TARGETTING$：§G+5.0%§!\n$MODIFIER_STRATEGIC_BOMBER_BOMBING$：§G+5.0%§!\n$MODIFIER_AIR_AGILITY_FACTOR$：§G+5%§!\n\n"
  DEN_bombefly_add_modifier_tt: "$DEN_add_flyvevabnet_dynamic_modifier$$MODIFIER_AIR_BOMBING_TARGETTING$：§G+5.0%§!\n$MODIFIER_STRATEGIC_BOMBER_BOMBING$：§G+5.0%§!\n$MODIFIER_AIR_AGILITY_FACTOR$：§G+5%§!\n\n"
  DEN_advanced_flight_modifier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$：\n$MODIFIER_AIR_MISSION_EFFICIENCY$：§G+5.0%§!\n$MODIFIER_AIR_NIGHT_PENALTY$：§G-5.00%§!\n$MODIFIER_AIR_WEATHER_PENALTY$：§G-5.00%§!\n\n"
- #CONTINUOUS FOCUSES
  DEN_undermine_overlord_continuous_focus: "削弱宗主國影響力"
  DEN_undermine_overlord_continuous_focus_desc: "為了確保丹麥主權，我們必須儘可能反抗和削弱我們的宗主。"

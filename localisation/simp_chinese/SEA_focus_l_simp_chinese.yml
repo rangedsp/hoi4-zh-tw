@@ -1,8 +1,4 @@
 ﻿l_simp_chinese:
- ###################
- ###### JAPAN ######
- ###################
- # IMPERIAL INFLUENCE #
  JAP_imperial_influence_title_text: "[GetImperialInfluenceTypeName]"
  JAP_imperial_influence_title_text_monarchist: "帝國影響"
  JAP_imperial_influence_title_text_communist: "全國影響"
@@ -14,7 +10,7 @@
  JAP_sessho_title_text: "攝政"
  JAP_chairman_title_text: "主席"
  JAP_imperial_influence_ruler_gender_he_she: "[GetImperialInfluenceGenderHeShe]"
- JAP_female_leader_text: "她" # These pronouns are intentionally lowercase
+ JAP_female_leader_text: "她"
  JAP_male_leader_text: "他"
  JAP_imperial_influence_ruler_gender_his_hers: "[GetImperialInfluenceGenderHisHers]"
  JAP_female_leader_2_text: "她"
@@ -67,7 +63,7 @@
  JAP_ensure_temporary_peace_with_china: "確保對華暫時和平"
  JAP_ensure_temporary_peace_with_china_desc: "若我們要將注意力集中在[SOV.GetNameDef]，就必須確保奸詐的[CHI.GetAdjective]不在我們腹背受敵之時從背後捅刀。同時，我們還需約束關東軍，避免其擅自挑起我們無法承受的戰爭。"
  trautmann_agreement_opm: "特勞特曼協定"
- JAP_a_mongol_volunteer_army: "改革蒙古獨立軍" # Could also be A Mongol Volunteer Army
+ JAP_a_mongol_volunteer_army: "改革蒙古獨立軍"
  JAP_a_mongol_volunteer_army_desc: "滿洲國軍中已有由蒙古人和匪徒組成的蒙古獨立軍，並由[ROOT.GetAdjective]顧問領導。我們應建立一支完全由我方控制的部隊，目標是將其派往[MON.GetNameDef]，從敵人手中解放他們的故土。"
  JAP_a_mongol_volunteer_army_tt: "如果§Y[MAN.GetName]§!或§Y[MEN.GetName]§!是我們的盟友，他們也會獲得該精神"
  JAP_a_mongol_volunteer_army_1_tt: "解鎖決議以§Y破壞蒙古穩定§!，目標是使其倒向我們一方並對現政府發動政變"
@@ -106,7 +102,7 @@
  JAP_isolate_oceania_desc: "軍部認為登陸並佔領[AST.GetNameDef]與[NZL.GetNameDef]並不現實。相反，我們應占據其周邊防守薄弱的島嶼，使其與盟友斷絕聯繫，逐漸削弱他們的戰鬥意志。"
  JAP_battle_for_australia: "澳大利亞戰役"
  JAP_battle_for_australia_desc: "既然[AST.GetNameDef]已被孤立，是時候爭奪該大陸的制空權了。若能控制其空域，也許佔領大洋洲不再是遙不可及之事。"
- JAP_operation_take_australia: "AN行動" # Australia-New Zealand
+ JAP_operation_take_australia: "AN行動"
  JAP_operation_take_australia_desc: "終於到了這一天。高司令部已批准代號為“AN”的澳大利亞登陸作戰。我們將擊潰敵人，掌控亞洲的下腹部！"
  JAP_sea_exploit_southern_resource_area: "開發南方資源區"
  JAP_sea_exploit_southern_resource_area_desc: "既然我們已將南方納入掌控，必須大幅度開發東南亞和東印度群島的豐富資源，以支持我們的戰爭機器。"
@@ -126,7 +122,7 @@
  JAP_occupy_east_timor: "佔領東帝汶"
  JAP_occupy_east_timor_desc: "儘管東帝汶目前尚未正式參戰，但為了亞洲的未來，也必須將其納入我們的羽翼之下。我們的部隊已在島上整裝待發，準備迅速展開行動，希望能不動聲色地達成目的。"
  JAP_occupy_east_timor_tt: "§R這可能會導致與[721.GetName]所有者的戰爭！§!"
- JAP_revisit_the_thirteen_demands: "重提二十一條" # Could also be the 13 demands (the revised list)
+ JAP_revisit_the_thirteen_demands: "重提二十一條"
  JAP_revisit_the_thirteen_demands_desc: "在世界大戰期間，我國政府曾向中華民國提出一系列要求，以掌控其鐵路等關鍵資源。雖然初步列入的要求包括在財政、警務和內政方面擁有決定性發言權，但最終僅有十三項得以簽署。現在，是時候重新審視這些主張，並確立我們作為東亞主宰者的地位了。"
  JAP_invest_in_senbu: "投資“宣撫”組織"
  JAP_invest_in_senbu_desc: "我們的“宣撫”組織，通常以學校、醫療隊和食物分發中心的形式出現，是一種心理戰工具，旨在安撫被佔領地區的民眾。這一策略在滿洲已被證實行之有效，也許我們應將其推廣至整個中國。"
@@ -352,7 +348,7 @@
  JAP_a_truly_righteous_army_desc: "[ROOT.GetAdjective]帝國陸軍不僅為征服或榮耀而戰，更為天皇、國家、理想與人民而戰。每位士兵必須明白其職責所為，關乎天皇與人民，為陛下犧牲一切都在所不惜。"
  JAP_supremacy_of_the_kempeitai: "憲兵隊至上"
  JAP_supremacy_of_the_kempeitai_desc: "我們的“法務兵”將接替更忠於舊政權的特高課的職能。憲兵隊將接管國家警察系統，提升我們在鎮壓叛亂、反間諜及清除異見方面的能力。"
- JAP_sonnou_joui: "尊王攘夷！" # Sonnō Jōi!
+ JAP_sonnou_joui: "尊王攘夷！"
  JAP_sonnou_joui_desc: "我們再次踐行了幕末時期強大天皇的理想，對抗外國帝國主義。正如當初驅逐德川幕府，我們也將驅逐所有反對偉大天皇統治之人。尊皇攘夷！是時候重拾天命了。"
  JAP_sonnou_joui_tt: "當通過§Y寶槍已出鞘§!獲取戰爭目標後，若我們成功佔領該目標國首都且§R該精神仍激活§!時，將重新激活該精神。"
  JAP_subdue_the_kwantung_army: "鎮壓關東軍"
@@ -410,10 +406,10 @@
  JAP_the_jeweled_spear_has_struck: "寶槍已出鞘"
  JAP_the_jeweled_spear_has_struck_desc: "天之御柱曾被創世神伊邪那岐與伊邪那美用以從海中升起陸地。正如他們曾用此柱開拓新土，我等亦將如此。現在是見證天之御柱再次揮舞之時。"
  JAP_the_jeweled_spear_has_struck_tt: "解鎖決議，可對§Y亞洲§!國家宣稱領土，並獲得對其所屬者的§Y戰爭目標§!。每次只能選擇一個目標國，並需先佔領已宣稱的所有地區，方可繼續宣稱更多。"
- JAP_hakko_ichiu: "八紘一宇" # Hakkō Ichiu
+ JAP_hakko_ichiu: "八紘一宇"
  JAP_hakko_ichiu_desc: "世界當歸於一統！我等有神聖權利統治天下，正如《日本書紀》所載。神武天皇登基時宣告：“兼六合以開都，掩八紘而為宇。”時機已到，正是實現這一宏願的時刻！"
  JAP_hakko_ichiu_tt: "解鎖整合§Y亞洲§!地區的決議，條件是這些地區已被我們§Y擁有§!，或§Y控制並提出領土主張§!"
- JAP_embodying_empress_jinguu: "化身神功皇后" # Embodying Empress Jingū
+ JAP_embodying_empress_jinguu: "化身神功皇后"
  JAP_embodying_empress_jinguu_desc: "正如良子皇后的丈夫遇害，昔日的神功皇后也曾遭遇同樣的厄運。她由此發起復仇征伐，隨後將目光投向應許之地。歷經三年征戰她凱旋歸來。我們應當延續這一傳奇，將其貫徹到底。"
  JAP_to_reach_princess_kaguya: "致敬輝夜姬"
  JAP_to_reach_princess_kaguya_desc: "竹取物語中，月宮公主輝夜姬嬰兒時被發現於一株發光竹中。故事末尾，她揭示自己的天界身份並返回月宮。既然現在技術已經允許，我們應竭力再度與她相會。"
@@ -463,7 +459,7 @@
  JAP_ship_management_committee_desc: "隨著《戰時航運管制令》的通過，我們可以成立專責機構管理航運產業，配合國家戰略，充分釋放戰時航運潛能。"
  JAP_convoy_production_cost_tt: "[JAPGetConvoyProductionCostBonusText]"
  JAP_ship_management_committee_tt: "§Y$convoy_1$§!：\n   £production_cost 生產花費：§G-15.00%§!"
- JAP_danganressha: "子彈列車計劃" # Danganressha
+ JAP_danganressha: "子彈列車計劃"
  JAP_danganressha_desc: "鐵道省批准了“子彈列車”計劃（彈丸列車計劃），在現有標準軌道旁增設寬軌，用於高速貨運列車。鐵路先驅島安次郎及其子承諾協助開發該系統。"
  JAP_ministry_of_colonial_affairs: "拓殖省"
  JAP_ministry_of_colonial_affairs_desc: "最初設立為北海道開拓使的拓殖省如今職責已大幅擴展。我們應賦予其更大權限，以妥善管理南洋、朝鮮、樺太、關東與臺灣。願這些土地永遠被稱作日本領土！"
@@ -612,7 +608,7 @@
  JAP_establish_the_mine_warfare_force_desc: "我們注意到，西方國家利用水雷控制海域。我們應當效仿，但同時也需要建立一支專責部隊，負責水雷監控與掃雷。"
  JAP_akizuki_class_destroyers: "秋月級驅逐艦"
  JAP_akizuki_class_destroyers_desc: "我們需要具備強大防空能力的多用途艦艇，配屬航母編隊和戰鬥艦隊。我們的工程師已著手改進夕雲級驅逐艦，並開始設計一種名為秋月級的新艦艇。"
- JAP_form_the_kido_butai: "組建機動部隊" # Form the Kidō Butai
+ JAP_form_the_kido_butai: "組建機動部隊"
  JAP_form_the_kido_butai_desc: "為在最大程度上發揮攻擊戰力，我們將實現世界上最大規模的航母集中作戰運用。通過踐行發展這種模式下的協同進攻理論，敵軍將斷無機會對抗我們壓倒性的海軍航空兵力量。"
  JAP_form_the_kido_butai_tt: "針對§Y[USA.GetNameWithFlag]§!的§Y襲擊§!珍珠港行動成功率將提高"
  JAP_nationalize_suzuka_naval_arsenal: "國有化鈴鹿海軍工廠"
@@ -648,7 +644,7 @@
  JAP_expand_the_metropolitan_police_desc: "我們確信，民用警察部隊是一支隨時可投入戰鬥且堅定站在我們這一邊的隊伍。他們不受軍方控制，曾協助我們打倒皇道派，如今亦可協助我們恢復秩序。"
  JAP_expand_the_metropolitan_police_tt: "§G2§!名§Y將軍§!將效忠我方"
  JAP_expand_the_metropolitan_police_2_tt: "§Y內戰§!爆發時民主主義政府將額外獲得§G8§!個§Y警察師§!"
- JAP_secretly_rebuild_the_party: "秘密重建日本共產黨" # Can also be Secretly Rebuild the Party
+ JAP_secretly_rebuild_the_party: "秘密重建日本共產黨"
  JAP_secretly_rebuild_the_party_desc: "1925年《治安維持法》簽署後，許多群體失去了發聲權與政治代表性。其中一支便是共產黨人——他們的組織被取締，在舊政權下遭受嚴重鎮壓。我們必須尋求使其運動合法化，以爭取他們成為我們反軍部鬥爭的支持者。"
  JAP_secretly_rebuild_the_party_tt: "解鎖§Y滲透反對派控制地區§!的決議，確保其§Y內戰§!爆發時加入§Y共產主義者§!"
  JAP_anti_militarist_speeches_in_the_diet: "在國會發表反對軍國主義的演說"
@@ -876,7 +872,7 @@
  JAP_organize_a_general_election_desc: "內亂終結，現在是時候著手重建並回歸我們的民主傳統了。自明治以來，我們首次舉行無軍方和腐敗干預的選舉，讓人民決定自己的未來！"
  JAP_draft_the_showa_constitution: "[JAP_draft_the_showa_constitution_key]"
  JAP_draft_the_showa_constitution_desc: "[JAP_draft_the_showa_constitution_desc_key]"
- JAP_draft_the_showa_constitution_key_emperor_eian: "起草永安憲法" # Eian (永安)
+ JAP_draft_the_showa_constitution_key_emperor_eian: "起草永安憲法"
  JAP_draft_the_showa_constitution_key_emperor_showa: "起草昭和憲法"
  JAP_draft_the_showa_constitution_desc_key_emperor_eian: "我們認可並尊重我國皇室的歷史地位，然而，威權主義在我們致力於建設的新日本中沒有立足之地。因此，我們將保留新天皇作為象徵性領袖，但其權力將如同許多西方立憲君主國那樣，受到憲法的嚴格規制。"
  JAP_draft_the_showa_constitution_desc_key_emperor_showa: "我們認可並尊重我國皇室的歷史地位，然而，我們致力於建設的新日本絕不容許威權主義存在。因此，我們將維持天皇陛下作為名譽統治者的地位，但其權力將如同許多西方立憲君主國那樣，受到憲法的嚴格規制。"
@@ -1009,16 +1005,11 @@
  JAP_the_surrender_broadcast: "玉音放送"
  JAP_the_surrender_broadcast_desc: "朕深鑑世界之大勢與帝國之現狀，欲以非常之措置收拾時局。戰局未必好轉，世界大勢亦不我利，是朕所以使帝國政府應於共同宣言也。"
  JAP_the_surrender_broadcast_tt: "如果我們和平投降，就更有可能保住日本列島的控制權"
- ################################
- ## PEOPLE'S REPUBLIC OF CHINA ##
- ################################
- #Shortcuts
  PRC_military_shortcut: "軍事"
  PRC_economy_shortcut: "經濟"
  PRC_unwilling_diarchy_shortcut: "政治：勉強合作的兩架馬車"
  PRC_bolshevik_shortcut: "政治：二十八個半布爾什維克"
  PRC_mao_shortcut: "政治：毛澤東"
- #TOOLTIPS
  PRC_winning_border_war_result_tt: "§Y贏得§!§Y邊境衝突§!："
  PRC_losing_border_war_result_tt: "即使§Y輸掉§!§Y邊境衝突§!，我們仍將獲得："
  PRC_has_been_infiltrated_tt: "已被成功§Y滲透§!"
@@ -1030,7 +1021,6 @@
  PRC_neighboring_SOV_tt: "§Y[ROOT.GetName]§!必須與§Y[SOV.GetName]§!有直接接壤，或是途徑§Y陣營成員§!的間接接壤。"
  PRC_request_territory_tt: "請求將當前控制者§Y未擁有§!或擁有者是§Y[ROOT.GetRulingIdeology]§!政體的§Y我方核心地區交還§!。\n當前效果："
  PRC_said_no_to_cuf: "拒絕第二次國共合作"
- #HISTORICAL
  PRC_put_an_end_to_the_sufan: "停止肅反"
  PRC_put_an_end_to_the_sufan_desc: "我們抵達[622.GetName]時，當地政治局中央委員會領導人劉志丹以及其他地方領導層正在遭受一場肅反運動的迫害。應該派$PRC_bo_gu$制止這場鬧劇。"
  PRC_usurp_control_over_yanan: "奪取延安控制權"
@@ -1147,7 +1137,6 @@
  PRC_prepare_for_the_inevitable_desc: "[JAP.GetNameDef]乃至我們傳統盟友[SOV.GetNameDef]的擴張主義威脅迫在眉睫。我們必須擱置意識形態分歧，準備建立統一戰線以應對外部威脅。"
  PRC_ask_for_soviet_lend_lease: "請求蘇聯租借援助"
  PRC_ask_for_soviet_lend_lease_desc: "$PRC_secure_lend_lease_from_soviet_desc$"
- #28 BOLSHEVIKS ALT-HISTORY
  PRC_reclaim_the_grasp_of_power: "重奪權力"
  PRC_reclaim_the_grasp_of_power_desc: "長征期間因毛澤東的軍事領導權而轉移至其手中的權力，終於開始迴歸至黨的前任領導班子。隨著長征結束，$PRC_wang_ming$或$PRC_bo_gu$已為再次承擔領導職責做好準備。"
  PRC_playing_both_sides: "兩手準備"
@@ -1179,7 +1168,6 @@
  PRC_supreme_infiltration_desc: "憑藉此前的滲透經驗，我們如今可將這些經驗運用於拓展此類行動，爭取越來越多同胞加入我方陣營。"
  PRC_scholarly_revolution: "知識分子革命"
  PRC_scholarly_revolution_desc: "我們的領導人出自知識分子階層，我們必須通過他們的視角塑造[ROOT.GetAdjective]的未來。"
- #COMMON END-FOCUSES
  PRC_towards_one_china: "邁向一箇中國"
  PRC_towards_one_china_desc: "軍閥割據嚴重損害中國的穩定，不可留之，必須建立中央集權的領導體制。"
  PRC_towards_one_china_bypass_tt: "§Y每個中國勢力§!：必須滿足以下之一：\n  不存在\n  與§Y[ROOT.GetNameWithFlag]§!交戰\n  是§Y[ROOT.GetNameWithFlag]§!附屬國\n  與§Y[ROOT.GetNameWithFlag]§!處於同一陣營\n  §Y[ROOT.GetName]§!：對其擁有§Y戰爭目標§!"
@@ -1213,7 +1201,6 @@
  PRC_the_party_builds_the_nation_desc: "如今我們已控制中國的大片地區，是時候發動一場全國性運動，利用好我們的人口與新興工業了。"
  PRC_the_chinese_century: "中國世紀"
  PRC_the_chinese_century_desc: "經濟的騰飛與足以塑造世界的政治影響力相結合——中國長久以來的夢想如今已成為現實。中國開始崛起，這是我們的世紀。"
- #UNWILLING DIARCHY ALT-HISTORY
  PRC_the_unwilling_diarchy_focus: "勉強合作的兩架馬車"
  PRC_the_unwilling_diarchy_focus_desc: "非常時期需要非常手段——我們必須更換黨的現有機構，以確保新的領導層能夠迅速對人民的敵人採取行動。\n\n毛澤東和張國燾必須擱置分歧，攜手合作。"
  PRC_the_unwilling_diarchy_focus_tt: "你將無法組建或加入§Y第二次統一戰線§!"
@@ -1305,7 +1292,6 @@
  PRC_a_new_central_committee_desc: "是時候改變了。$PRC_zhang_guotao$將下令對中央委員會進行全面審查並從頭組建。"
  PRC_a_new_central_committee_tt_1: "為期§Y180天§!："
  PRC_a_new_central_committee_tt_2: "然後："
- #COMMON BRANCHES
  PRC_expedite_land_revolution: "加速土地革命"
  PRC_expedite_land_revolution_desc: "從地主到農民的土地再分配打破了農村的封建結構。農村群眾現在堅定不移地支持革命"
  PRC_halt_land_revolution: "叫停土地革命"
@@ -1507,7 +1493,7 @@
  PRC_join_comintern: "加入共產國際"
  PRC_join_comintern_desc: "在共產黨領導下，國家的權力越來越集中，現在我們可以申請作為一個可靠的盟友加入共產國際。"
  PRC_rebuild_28_bolshevik_tt: "所有§Y二十八個半布爾什維克§!成員：\n提高其特質的效果"
- PRC_rebuild_28_bolshevik_effect_tt: "失去§Y$PRC_28_bolshevik_trait$§!並獲得§Y$PRC_28_bolshevik_trait_improved$§!。\n§Y效果變化：§!\n每日政治點數獲取：§G+0.12§!\n穩定度：§G+5.00%§!\n相同意識形態每月評價：§G+5.00%§!" ## Make sure match values in trait file TODO_ML, change to variables
+ PRC_rebuild_28_bolshevik_effect_tt: "失去§Y$PRC_28_bolshevik_trait$§!並獲得§Y$PRC_28_bolshevik_trait_improved$§!。\n§Y效果變化：§!\n每日政治點數獲取：§G+0.12§!\n穩定度：§G+5.00%§!\n相同意識形態每月評價：§G+5.00%§!"
  PRC_agricultural_reform_boom: "農業自由"
  PRC_agricultural_reform_boom_desc: "我們必須為農民提供安全保障，讓他們能夠安心生產國家所需的糧食作物。"
  PRC_he_long_second_army: "賀龍與紅二軍團"
@@ -1520,16 +1506,16 @@
  PRC_conventional_warfare_completed_tt: "完成§Y$PRC_conventional_warfare$§!後："
  PRC_indirect_fire_completed_tt: "完成§Y$PRC_indirect_fire$§!後："
  PRC_appeal_for_foreign_aid_bt7_tt: "[ROOT.GetNameDefCap]將獲得§YBT-7輕型坦克§!"
- PRC_appeal_for_foreign_aid_bt7_all_tanks_tt: "獲得§Y350§!輛[SOV.GetAdjective]§YBT-7輕型坦克§!" ##TODO_ML - make sure values are correct
- PRC_appeal_for_foreign_aid__bt7_some_tanks_tt: "獲得§Y100§!輛[SOV.GetAdjective]§YBT-7輕型坦克§!" ##TODO_ML - make sure values are correct
- PRC_appeal_for_foreign_aid__bt7_medium_amount_tt: "獲得§Y150§!輛[SOV.GetAdjective]§YBT-7輕型坦克§!" ##TODO_ML - make sure values are correct
+ PRC_appeal_for_foreign_aid_bt7_all_tanks_tt: "獲得§Y350§!輛[SOV.GetAdjective]§YBT-7輕型坦克§!"
+ PRC_appeal_for_foreign_aid__bt7_some_tanks_tt: "獲得§Y100§!輛[SOV.GetAdjective]§YBT-7輕型坦克§!"
+ PRC_appeal_for_foreign_aid__bt7_medium_amount_tt: "獲得§Y150§!輛[SOV.GetAdjective]§YBT-7輕型坦克§!"
  PRC_appeal_for_foreign_aid_tt: "[ROOT.GetNameDefCap]會獲得§YT34中型坦克§!"
- PRC_appeal_for_foreign_aid_all_tanks_tt: "獲得§Y250§!輛[SOV.GetAdjective]§YT34中型坦克§!" ##TODO_ML - make sure values are correct
- PRC_appeal_for_foreign_aid__some_tanks_tt: "獲得§Y50§!輛[SOV.GetAdjective]§YT34中型坦克§!" ##TODO_ML - make sure values are correct
- PRC_appeal_for_foreign_aid__medium_amount_tt: "獲得§Y150§!輛[SOV.GetAdjective]§YT34中型坦克§!" ##TODO_ML - make sure values are correct
+ PRC_appeal_for_foreign_aid_all_tanks_tt: "獲得§Y250§!輛[SOV.GetAdjective]§YT34中型坦克§!"
+ PRC_appeal_for_foreign_aid__some_tanks_tt: "獲得§Y50§!輛[SOV.GetAdjective]§YT34中型坦克§!"
+ PRC_appeal_for_foreign_aid__medium_amount_tt: "獲得§Y150§!輛[SOV.GetAdjective]§YT34中型坦克§!"
  PRC_appeal_for_foreign_aid_unlock_decision_tt: "解鎖向§Y[SOV.GetNameDefCap]§!索要§Y裝甲載具§!的§Y決議§!"
- PRC_rural_region_development_tt: "最多§Y三§!個鄉村地區將獲得§G25%§!本地補給與§G15%§!本地人力。\n當前效果：" ##TODO_ML - make sure values are correct Slightly hacky but ok, fast is good - save as variables otherwise
- PRC_rural_region_development_two_tt: "最多§Y兩§!個鄉村地區將獲得§G25%§!本地補給與§G15%§!本地人力。\n當前效果：" ##TODO_ML - make sure values are correct Slightly hacky but ok, fast is good - save as variables otherwise
+ PRC_rural_region_development_tt: "最多§Y三§!個鄉村地區將獲得§G25%§!本地補給與§G15%§!本地人力。\n當前效果："
+ PRC_rural_region_development_two_tt: "最多§Y兩§!個鄉村地區將獲得§G25%§!本地補給與§G15%§!本地人力。\n當前效果："
  PRC_initialize_five_year_plan_tt: "§R未能在既定期限內完成工業目標將導致經濟效率受到嚴重懲罰，作為對中央計劃能力失去信心的體現。§!\n\n§Y達成目標所需工廠總數：\n[GetFiveYearPlanGoalCivFactoriesText]座民用工廠\n[GetFiveYearPlanGoalMilFactoriesText]座軍用工廠§!"
  PRC_initialize_shorter_market_plans_tt: "§R未能在既定期限內完成工業目標將導致經濟效率受到嚴重懲罰，作為對中央計劃能力失去信心的體現。§!\n\n§Y達成目標所需工廠總數：\n[GetShorterMarketPlansGoalCivFactoriesText]座民用工廠\n[GetShorterMarketPlansGoalMilFactoriesText]座軍用工廠§!"
  PRC_naval_infrastructure_effort_tt: "當滿足條件時，此國策將給予§Y海軍基地§!、§Y海岸要塞§!和1座§Y海軍指揮部§!（若尚未建造）"
@@ -1539,14 +1525,9 @@
  PRC_he_long_has_arrived: "賀龍已抵達陝西"
  PRC_pavel_mif_alive: "帕維爾·米夫仍在世"
  PRC_zhang_guatao_arrived: "§Y$PRC_zhang_guotao$§!已抵達陝西"
- PRC_mediating_secretary_remove_fake_idea_tt: "移除§Y$PRC_mediating_general_secretary_idea$§!，其效果為：\n每日政治點數獲取：§R-0.05§!\n穩定度：§G+10.00%§!" #Make sure values are correct, TODO_ML
+ PRC_mediating_secretary_remove_fake_idea_tt: "移除§Y$PRC_mediating_general_secretary_idea$§!，其效果為：\n每日政治點數獲取：§R-0.05§!\n穩定度：§G+10.00%§!"
  PRC_infiltration_only_level_2_bolshevik_tt: "可用決議最高§Y2級§!。完成§Y$PRC_supreme_infiltration$§!國策解鎖§Y3級§!。"
  PRC_infiltration_only_level_2_guomao_tt: "可用決議最高§Y2級§!。完成§Y$PRC_secure_the_lands$§!國策解鎖§Y3級§!。"
- #  #  ##  ### ###  ##  #  #  ##  #   ###  ## ###      ##  #  # ### #  #  ##
- ## # #  #  #   #  #  # ## # #  # #    #  #    #      #  # #  #  #  ## # #  #
- # ## ####  #   #  #  # # ## #### #    #   #   #      #    ####  #  # ## ####
- #  # #  #  #   #  #  # #  # #  # #    #    #  #      #  # #  #  #  #  # #  #
- #  # #  #  #  ###  ##  #  # #  # ### ### ##   #       ##  #  # ### #  # #  #
  CHI_democratic_shortcut: "政治：\n民盟"
  CHI_neutral_shortcut: "政治：\n國民黨"
  CHI_fascist_shortcut: "政治：\n藍衣社"
@@ -1554,7 +1535,6 @@
  CHI_army_shortcut: "陸軍"
  CHI_air_shortcut: "空軍"
  CHI_navy_shortcut: "海軍"
- # Democratic Path
  CHI_end_military_primacy: "結束軍事主導"
  CHI_end_military_primacy_desc: "軍隊已完成其使命，但其對權力的控制必須被打破。若[ROOT.GetName]要成為依法治國而非將領統治的國家，必須恢復文官權威。"
  CHI_accelerate_the_tutelage: "加速訓政"
@@ -1649,7 +1629,6 @@
  CHI_championing_the_cause_of_liberty_desc: "我們已經將自由的光芒帶到亞洲，成為所有重視自由與民族自決者的燈塔。"
  CHI_utilize_the_albazinian_contact: "利用與阿爾巴津人的聯繫"
  CHI_utilize_the_albazinian_contact_desc: "中華正教會現任首席輔祭西麥翁·杜潤臣主教是一位阿爾巴津人，曾遊歷中國各地，並且與許多白俄舊部保持緊密聯繫。也許他能說服俄羅斯人為我國提供援助？"
- # Wang Jingwei
  CHI_prepare_for_a_change_in_leadership: "迎接領導層更替"
  CHI_prepare_for_a_change_in_leadership_desc: "我們已在現任政府下度過十年，而[JAP.GetNameDef]的陰影仍籠罩著[CHI.GetAdjective]。是時候讓其他人掌權了。"
  CHI_prepare_for_a_change_in_leadership_tt: "§R[CHI_chiang_kaishek.GetName]在西安事變中會被替換為[CHI_wang_jingwei.GetName]§!"
@@ -1722,7 +1701,6 @@
  CHI_bring_the_revolution_further_tt_2: "我們的陣營宣言也會包括§Y$Australia$§!\n解鎖在§Y$Australia$§!建立傀儡政府的決議"
  CHI_end_the_humiliation: "終結國恥"
  CHI_end_the_humiliation_desc: "我們終於再次屹立為世界大國，正如數百年前那樣。受人仰慕，影響深遠，實力雄厚，我們已凌駕於其他國家之上，把壓迫者永遠趕進歷史的塵埃，不再蒙羞！"
- # Chiang Kai-shek
  CHI_dang_guo: "黨國"
  CHI_dang_guo_desc: "黨的目標一直是將民主帶到我們的國家，但在當前這種不確定的時期，國民黨必須高效運作。因此，我們必須暫時將黨置於國家之上。"
  CHI_denounce_feudalism: "譴責封建主義"
@@ -1848,7 +1826,7 @@
  CHI_victory_over_the_invaders_desc: "外國侵略者被擊敗，我們光榮的國民革命軍取得勝利。這場戰爭——更重要的是我們可敬的領袖[root.GetLeader]——已將分散的省份與人民凝聚成青天白日旗下的統一國家！"
  CHI_remove_guerilla_decisions_tt: "§R移除§!§Y$PRC_guerilla_warfare_sea_cat$§!決議"
  CHI_petition_territorial_restoration: "恢復領土的請願"
- CHI_request_territory_trigger_tt: "任何控制的地區：\n      是§Y[ROOT.GetNameWithFlag]§!的核心\n      控制者：$is_literally_china_tt_NOT$\n      必須滿足以下條件之一：\n         不由控制者擁有\n         控制者：\n            當前控制的政黨是§Y[ROOT.GetRulingIdeology]§!" #The weird indentations are deliberate and is there to make the tooltip look like the real deal!
+ CHI_request_territory_trigger_tt: "任何控制的地區：\n      是§Y[ROOT.GetNameWithFlag]§!的核心\n      控制者：$is_literally_china_tt_NOT$\n      必須滿足以下條件之一：\n         不由控制者擁有\n         控制者：\n            當前控制的政黨是§Y[ROOT.GetRulingIdeology]§!"
  CHI_petition_territorial_restoration_desc: "$PRC_restore_territorial_integrity_desc$"
  CHI_crush_the_communists: "消滅[PRC.GetNameDef]"
  CHI_crush_the_communists_desc: "徹底消滅[PRC.GetNameDef]的時機已經到了——這個我們多年以來的願望！我們被其他事務分散精力太久了，絕不再容忍這個麻煩繼續存在！"
@@ -1873,7 +1851,6 @@
  CHI_reclaim_the_north_desc: "過去，出於形勢所迫，我們不得不放棄對北方大片領土的主權要求。但時過境遷，如今我們自身實力已空前增強——是時候重新奪回北方故土！"
  CHI_subjugate_korea: "$PRC_subjugate_korea$"
  CHI_subjugate_korea_desc: "$PRC_subjugate_korea_desc$"
- # Fascist Branch
  CHI_strengthening_our_resolve: "凝聚意志"
  CHI_strengthening_our_resolve_desc: "舊派系之間爭吵不休，而現有領導層的力量不足以將我們團結起來。我們必須改變方向，因為民國必須維繫統一，絕不可分裂解體。"
  CHI_china_reborn: "中國重生"
@@ -1970,7 +1947,6 @@
  CHI_cradle_of_civilization: "文明的搖籃"
  CHI_cradle_of_civilization_desc: "自黃河渾濁的水流中誕生了塑造人類的文明。王朝興衰更替，但古代中國的榮光永遠照耀大地，我們的至高地位也將永存。"
  CHI_cradle_of_civilization_tt: "解鎖決議，在達到足夠高§Y順從度§!時整合我們有§Y領土要求§!的§Y亞洲§!地區"
- # Army Focuses
  CHI_military_affairs_commission_sea: "軍事委員會"
  CHI_military_affairs_commission_sea_desc: "高效軍隊的根基在於完善的最高統帥部。軍事委員會是我國最高防務機構，必須確保其具備足以勝任的能力。"
  CHI_set_up_an_nco_school: "設立士官學校"
@@ -2054,8 +2030,7 @@
  CHI_serve_the_country_with_utmost_loyalty_desc: "我們已向敵人展現了堅毅，將其死死擋在原地。憑藉對祖國的堅定奉獻與忠誠，沒有任何侵略者能將我們征服！"
  CHI_the_well_timed_swoop_of_a_falcon: "鷙鳥之疾"
  CHI_the_well_timed_swoop_of_a_falcon_desc: "我們已掌握打擊與殲滅敵人的方法。從驅逐侵略者，到將戰火燒至敵國本土，古老的智慧至今依舊有效，我們必將邁向勝利！"
- # Air Focuses
- CHI_rocaf: "加強民國空軍" # was Establish the ROCAF
+ CHI_rocaf: "加強民國空軍"
  CHI_rocaf_desc: "為保障[ROOT.GetName]空域安全、展現國家力量，我們必須強化空軍。通過投資先進學說與技術，將為打造一支能夠應對任何對手的現代化空中力量奠定基礎。"
  CHI_officialize_the_rocaf: "正式成立中華民國空軍"
  CHI_officialize_the_rocaf_desc: "空軍長期以來一直是個非正式的機構。隨著我們取得的技術與戰術發展，現在是時候將航空委員會改組為空軍司令部，使中華民國空軍成為獨立於陸軍與海軍的正規軍種。"
@@ -2107,7 +2082,6 @@
  CHI_VTOL_experiments_desc: "垂直起降飛機能在複雜地形提供戰術靈活性。我們已啟動試驗以評估其在現代戰爭中的作用。"
  CHI_hongxiang_force: "雲南空降兵部隊"
  CHI_hongxiang_force_desc: "通過與我們在航空領域的盟友和同僚合作，我們已經成功建立了國內軍事傘降作戰的訓練體系。"
- # Navy focuses
  CHI_republic_of_china_navy: "中華民國海軍"
  CHI_republic_of_china_navy_desc: "中央海軍過去歷經坎坷，資金匱乏與海防不穩致使艦船狀況不佳。隨著危機臨近，我們必須把克服這些挑戰提上日程。"
  CHI_foreign_acquisition: "海外收購"
@@ -2155,7 +2129,6 @@
  CHI_the_seas_of_tomorrow_tt: "一位專門研究先前所選領域的§Y科學家§!將可供使用。"
  CHI_long_range_screens: "長程屏衛"
  CHI_long_range_screens_desc: "隨著我們著力超越國內衝突，以低成本遠距離投送實質性軍力的能力變得至關重要。"
- # Industrial branch
  CHI_promote_the_national_currency: "推廣法幣"
  CHI_promote_the_national_currency_desc: "我們最近廢除銀本位，在全國推行新貨幣，初期在降低對國際事件的依賴方面成效良好。然而，新貨幣主要流行於大城市。我們必須集中努力，確保其在農村地區也普及。"
  CHI_institute_a_national_registry_of_property: "建立全國財產登記制度"
@@ -2223,12 +2196,6 @@
  CHI_import_fertilisers_desc: "雖然國內生產能解決依賴問題，但模仿他人終究多此一舉。若向國外發出採購訂單，我們就能集中精力發展自身的獨特優勢。"
  CHI_construct_the_banqiao_dam: "建造板橋水庫"
  CHI_construct_the_banqiao_dam_desc: "大江大河構成了我們的國土，控制江河一直是我們文明的基石。未來，這些河流將繼續推動國家的成長與偉大！"
- #################
- ## PHILIPPINES ##
- #################
- #############
- # PHI FOCUS #
- #############
  PHI_commonwealth_of_the_philippines: "菲律賓聯邦"
  PHI_commonwealth_of_the_philippines_desc: "僅在一年前成立的菲律賓聯邦是朝向獨立邁出的第一步，美國承諾這將是一個為期十年的過渡期。我們這個新生國家仍有許多工作要做，許多決議要作出，才能真正運作起來。"
  PHI_align_with_the_usa: "與美國結盟"
@@ -2341,10 +2308,6 @@
  PHI_bell_trade_act_desc: "貝爾貿易法案也被稱為《菲律賓貿易法案》，負責規範[PHI.GetName]與[USA.GetName]之間的貿易。這包括一攬子金融投資計劃、優惠貿易和關稅協定。此外，該法案還允許美國企業大規模獲取菲律賓資源，這些條款引發一定擔憂，但經評估後認為其他收益足以抵消這一風險。"
  PHI_pearl_of_the_orient_seas: "東方海洋的明珠"
  PHI_pearl_of_the_orient_seas_desc: "首批西班牙探險家曾用富有浪漫色彩的語句來描繪他們剛剛發現的這片土地，儘管有渲染成分，卻沿用至今。儘管我們的島嶼歷經磨難與創傷，它始終保持著與本地孕育的珍珠相媲美的美麗風貌。"
- #PHI_join_co_pro: "Join Co-Prosperity Sphere"
- #PHI_join_co_pro_desc: ""
- #PHI_join_allies: "Join Allies"
- #PHI_join_allies_desc: ""
  PHI_united_states_army_forces_in_the_far_east: "美軍遠東部隊"
  PHI_united_states_army_forces_in_the_far_east_desc: "美軍菲律賓司令部長期以來一直是美國在菲律賓的軍事指揮機構，但隨著緊張局勢的加劇，是時候將其擴編為更大規模的美軍建制部隊。這將需要建立新的指揮結構，並從美國本土調撥大量軍官與士兵。"
  PHI_send_a_share_of_THIS_navy_to_ROOT_tt: "派遣部分[THIS.GetAdjective]海軍至[ROOT.GetNameDef]。"
@@ -2623,7 +2586,6 @@
  PHI_philippine_naval_patrol_desc: "作為一個包含眾多島嶼的國家，要想在國際舞臺上贏得認可，我們的艦隊必須能保護我們的海岸。要做到這一點，我們必須改進更新我們的指揮和控制體系，以達到現代艦隊的預期。"
  PHI_thalassocracy: "海權主義"
  PHI_thalassocracy_desc: "“擁有國家的軍隊”這一概念廣為人知，並經常被用來指代普魯士。而我們應該成為“擁有國家的海軍”，建設一支哪怕巔峰的大英帝國也會相形見絀的艦隊。"
- #PHI LOC#
  PHI_warning_american_intervention_tt: "§R警告：這會激怒§!§Y[USA.GetNameDef]§!，§R除非應對得當，否則美國會出手干預§!"
  Pan_pacific_trade_union_secretariat: "泛太平洋工會秘書處"
  PHI_central_focuses_done_4_tt: "至少完成前一層級的§Y4§!項國策"
@@ -2637,9 +2599,6 @@
  PHI_focus_time_reduced_T1_tt: "§Y$PHI_leverage_the_peso$§!將使該國策所需時間縮短35天。"
  PHI_focus_time_reduced_T2_tt: "§Y$PHI_anti_hacendados$§!將使該國策所需時間縮短35天。"
  PHI_focus_time_reduced_T3_tt: "§Y$PHI_open_borders$§!將使該國策所需時間縮短35天。"
- ############
- # WARLORDS #
- ############
  SIK_six_great_policies: "六大政策"
  SIK_six_great_policies_desc: "通過人民反帝協會推動的六大政策——反帝、親蘇、民族平等、清廉政府、和平、建設——構成了盛世才在新疆派系統治的基礎。憑藉這些政策，我們將確保省份繁榮，避免倒退至封建統治。"
  SIK_invest_in_the_dushanzi_oil_fields: "投資獨山子油田"
@@ -3107,7 +3066,6 @@
  YUN_the_democratic_fortress_desc: "經各項革新舉措落地，縱觀全中華波譎雲詭的政治格局，我省堪稱當之無愧的民主堡壘。如今，我們可以放眼外界，力求將此民主之光播撒於更多人心間。"
  YUN_strengthen_burmic_ties: "強化滇緬紐帶"
  YUN_strengthen_burmic_ties_desc: "我們當地的民眾，尤其是操持彝緬語族語言的族群，與中國內地及緬甸都有著深厚的淵源。作為一代土司之子，龍雲也必須也將民主帶到南方，讓他們擺脫殖民主義的枷鎖。"
- #OLD FOCUSES NEW TREES
  CHI_sea_secure_internal_politics: "$CHI_secure_internal_politics$"
  CHI_sea_secure_internal_politics_desc: "$CHI_secure_internal_politics_desc$"
  CHI_sea_strenghten_warlord_authority: "$CHI_strenghten_warlord_authority$"

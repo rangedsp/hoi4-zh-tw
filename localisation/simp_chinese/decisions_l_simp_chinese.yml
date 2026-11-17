@@ -177,30 +177,25 @@
  IMPORTED_FILM_INDUSTRY: "進口宣傳電影"
  DOMESTIC_FILM_INDUSTRY_DESC: "[ROOT.GetAdjective]的電影行業在過去十年間發展迅速。一些宣傳愛國主義的電影既能滿足人們對這種娛樂的需求，也能激發人們的愛國熱情。這對我們來說是大有裨益的。"
  IMPORTED_FILM_INDUSTRY_DESC: "我們的保護者和盟友正在開發宣傳性電影的一些戰略用途。只要給出一小點投資，我們就能在我們的國家內放映這些電影。這將極大地激發人民支持戰爭的熱情。"
- ##Eng films for above
  the_lion_has_wings: "有翼的獅子"
  the_battle_of_london: "倫敦戰役"
  queens_messengers: "女王的信使"
  in_which_we_serve: "與祖國同在"
  the_volunteer: "志願兵"
  fires_were_started: "戰火已起"
- ##Aus
  men_of_timor: "帝汶人"
  soldiers_without_uniform: "沒有制服的士兵"
  mid_east: "中東"
- ##Can
  atlantic_patrol: "大西洋護航隊"
  front_of_steel: "鋼鐵陣線"
  home_front: "國土防線"
  wings_of_youth: "雛鷹翱翔"
  all_out_for_war: "全面參戰"
  banshees_over_canada: "加拿大上空的報喪女妖"
- ##RAJ_agrarian_society$§
  the_planes_of_hindustan: "印度斯坦機隊"
  road_to_victory: "勝利之路"
  hes_in_the_navy: "他在海軍"
  in_self_defence: "自衛之戰"
- ##USA
  women_in_defense: "巾幗衛士"
  winning_your_wings: "長勝之翼"
  the_world_at_war: "全球戰火"
@@ -208,19 +203,16 @@
  the_fleet_that_came_to_stay: "駐留艦隊"
  fury_in_the_pacific: "太平洋狂怒"
  its_your_war_too: "這也是你的戰爭"
- ##Holland/Belgium
  belguique_toujours: "比利時永存"
  high_stakes_in_the_east: "遠東危機"
  glorious_colours: "光輝之色"
  litte_belgium: "小比利時"
- ##Sov
  for_the_front: "為了前線"
  the_peoples_avengers: "人民的復仇者"
  day_of_war: "戰爭之日"
  film_motherland: "祖國"
  sons_of_the_motherland: "祖國之子"
  moscow_strikes_back: "莫斯科反擊戰"
- ##Ger
  fluchtlinge: "難民"
  film_bismarck: "俾斯麥"
  wunschkonzert: "願望音樂會"
@@ -230,7 +222,6 @@
  opfergang: "犧牲"
  panorama: "全景"
  kolberg: "科爾貝格"
- ##Japan
  monkey_king: "孫悟空"
  genghis_khan: "成吉思汗"
  vow_in_the_desert: "熱沙之誓"
@@ -238,23 +229,19 @@
  five_scouts: "五個偵察兵"
  fire_on_that_flag: "向那面旗幟開火！"
  momotarou_umi_no_shinpei: "桃太郎：海之神兵"
- ##Ita (hard to find it seems)
  condottieri: "僱傭軍"
  scipio_africano: "非洲人西庇阿"
  the_man_with_the_cross: "揹負十字架的人"
- ##China
  mulan: "木蘭從軍"
  defend_our_land: "守我疆土"
  storm_on_the_border: "邊陲鏖戰"
  children_of_china: "中華兒女"
- ##Generic
  our_war: "我們的戰爭"
  the_war_for_our_existence: "存亡之戰"
  war_in_the_skies: "搏擊長空"
  flags_raised: "旗幟高揚"
  the_day_of_sacrifice: "犧牲之日"
  blood_and_toil: "熱血與辛勞"
- ############### Foreign MIOs ###############
  available_mio_tt: "§Y軍工機構§!§G可用§!："
  foreign_mio_decisions_category: "邀請外國工業"
  invite_GER_henschel_organization: "邀請§Y$GER_henschel_organization$§!來§Y[ROOT.GetNameWithFlag]§!"
@@ -289,23 +276,19 @@
  invite_SWE_bofors_organization: "邀請§Y$SWE_bofors_organization$§!至§Y[ROOT.GetNameWithFlag]§!"
  invites_mio_tt: "\n§Y邀請外國軍工機構§!："
  unlock_mio_tt: "\n§Y建立軍工機構§!"
- ############### Generic Purchase Ship ################
  generic_purchase_old_ships_category: "海軍採購"
  generic_purchase_old_ships_category_desc: "世界愈發不穩定，我們亟需擴大海軍力量投射能力。幸運的是，部分海軍大國或有打算退役掉老舊船隻。"
  purchase_ships_eng: "向[ENG.GetFlag]購買[ENG.GetAdjective]老式驅逐艦"
  purchase_ships_sov: "向[SOV.GetFlag]購買[SOV.GetAdjective]老式戰列艦"
  purchase_ships_ger: "向[GER.GetFlag]購買[GER.GetAdjective]老式U艇"
  purchase_ships_usa: "向[USA.GetFlag]購買[USA.GetAdjective]老式驅逐艦"
- #### Generic Refit Civilian Ships ####
  generic_refit_civilian_ships_category: "民用船隻改裝軍艦"
  generic_refit_civilian_ships_category_desc: "我國現存艦隊實際上沒法用來指望去與海軍大國競爭，因此只能去改裝民用船隻，以此為軍事目的擴編艦隊。"
  refit_to_destroyer: "改裝艦艇為驅逐艦"
  refit_to_cruiser: "改裝艦艇為巡洋艦"
- #### Special Forces
  diversify_special_forces: "多樣化精英部隊"
  diversify_special_forces_desc: "我軍常規部隊根本不足以應對即將到來的風暴。必須創新。"
  add_potential_special_forces_tree_tt: "添加§H1§!免費特種部隊§H分支專業化§!"
- #### Norway Refit Civilian Ships ####
  refit_to_destroyer_nor: "將運輸船改裝為驅逐艦"
  refit_to_destroyer_mass_nor: "將運輸船大規模改裝為驅逐艦"
  nor_building_ship: "正在改裝的船舶"

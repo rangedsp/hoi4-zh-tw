@@ -1131,7 +1131,7 @@
  MODIFIER_CIC_TO_TARGET_FACTOR_DESC: "該國控制著多少§Y民用§!工廠"
  MODIFIER_MIC_TO_TARGET_FACTOR: "該國所擁軍用工廠"
  MODIFIER_MIC_TO_TARGET_FACTOR_DESC: "該國控制著多少§Y軍用§!工廠"
- MODIFIER_TRADE_TO_TARGET_FACTOR: "對目標的額外貿易" #was 'Overlord' but the modifier seems to be targetted to specific tag
+ MODIFIER_TRADE_TO_TARGET_FACTOR: "對目標的額外貿易"
  MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "可與該國交易額外可用生產資源"
  MODIFIER_TRADE_COST_TO_TARGET_FACTOR: "對該國貿易成本"
  MODIFIER_TRADE_COST_TO_TARGET_FACTOR_DESC: "各國間貿易資源所用工廠"
@@ -1417,7 +1417,6 @@
  MODIFIER_NO_COMPLIANCE_GAIN: "無順從度增長"
  resource_sabotage_decrease_tooltip: " 資源破壞幾率：§G-25%§!\n  資源破壞時長：§G-25%§!"
  factory_sabotage_decrease_tooltip: " 民用工廠破壞幾率：§G-25%§!\n  軍用工廠破壞幾率：§G-25%§!"
- #these are used for comparison
  resource_sabotage_decrease_tooltip_ADDED: " 資源破壞幾率：§G-25%§!（§G-25%§!）\n  資源破壞時長：§G-25%§!（§G-25%§!）"
  factory_sabotage_decrease_tooltip_ADDED: " 民用工廠破壞幾率：§G-25%§!（§G-25%§!）\n  軍用工廠破壞幾率：§G-25%§!（§G-25%§!）"
  resource_sabotage_decrease_tooltip_REMOVED: " 資源破壞幾率：§H+0%§!（§R+25%§!）\n  資源破壞時長：§H+0%§!（§R+25%§!）"
@@ -2415,7 +2414,6 @@
  MODIFIER_FACTION_INFLUENCE_POWER_tt: "$MODIFIER_FACTION_INFLUENCE_POWER$：$RIGHT|Y=%1$"
  MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE: "接納流亡政府影響力修正"
  MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE_tt: "$MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE$：$RIGHT|Y=%1$"
- #MODIFIERS SP
  sp_air_helicopter_speed_factor: "直升機研究速度"
  sp_air_intercontinental_bomber_speed_factor: "洲際轟炸機研究速度"
  sp_air_mothership_aircraft_speed_factor: "空天母艦研究速度"
@@ -2463,7 +2461,6 @@
  sp_land_flamethrower_tank_speed_factor: "噴火坦克研究速度"
  sp_land_military_engineering_vehicles_speed_factor: "軍用工程車輛研究速度"
  sp_land_large_caliber_kinetic_energy_sabot_speed_factor: "大口徑動能脫殼穿甲彈研究速度"
- #TOOLTIPS SP
  sp_air_helicopter_speed_factor_tt: " $sp_air_helicopter_speed_factor$：$RIGHT|+=%1$"
  sp_air_intercontinental_bomber_speed_factor_tt: " $sp_air_intercontinental_bomber_speed_factor$：$RIGHT|+=%1$"
  sp_air_mothership_aircraft_speed_factor_tt: "$sp_air_mothership_aircraft_speed_factor$：$RIGHT|+=%1$"
@@ -2509,7 +2506,6 @@
  sp_land_stronghold_network_speed_factor_tt: " $sp_land_stronghold_network_speed_factor$：$RIGHT|+=%1$"
  sp_land_flamethrower_tank_speed_factor_tt: " $sp_land_flamethrower_tank_speed_factor$：$RIGHT|+=%1$"
  sp_land_military_engineering_vehicles_speed_factor_tt: " $sp_land_military_engineering_vehicles_speed_factor$：$RIGHT|+=%1$"
- #SPECIAL PROJECT TRAIT MODIFIERS #
  specialization_air_speed_factor: "$specialization_air$專項計劃速度"
  specialization_land_speed_factor: "$specialization_land$專項計劃速度"
  specialization_naval_speed_factor: "$specialization_naval$專項計劃速度"

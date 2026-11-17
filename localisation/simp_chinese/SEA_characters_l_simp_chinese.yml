@@ -1,7 +1,4 @@
 ﻿l_simp_chinese:
- ###################
- ###### JAPAN ######
- ###################
  JAP_hideo_iwakuro: "巖畔豪雄"
  JAP_yuzuru_hiraga: "平賀讓"
  JAP_keisuke_okada: "岡田啟介"
@@ -100,9 +97,6 @@
  JAP_toyoaki_horiuchi: "堀內豐秋"
  JAP_tadaichi_wakamatsu: "若松只一"
  JAP_masanobu_tsuji: "辻政信"
- ###################
- ###### MENG #######
- ###################
  MEN_prince_demchugdongrub: "德穆楚克棟魯普親王"
  MEN_sonin_xiangying: "索寧祥英"
  MEN_zhao_zhanshan: "趙佔山"
@@ -135,9 +129,6 @@
  MAN_li_zhaolin: "李兆麟"
  MAN_kanjurjab: "甘珠爾扎布"
  MAN_ding_jianxiu: "丁鑑修"
- ###################
- ###### MON ########
- ###################
  MON_anandyn_amar: "阿南德·阿瑪爾"
  MON_mingzhu_zhanshan: "明珠佔山"
  MON_fu_shangzhi: "傅尚志"
@@ -159,9 +150,6 @@
  MON_dansrabilegyin_dogsam: "丹斯拉比萊格·道格薩姆"
  MON_yundunwangcug: "雲端旺楚克"
  MON_pai_yun_ti: "白雲梯"
- ###################
- ###### BHU ########
- ###################
  BHU_jigme_wangchuck: "吉格梅·旺楚克"
  BHU_tsarong_wangyal: "擦絨·旺傑"
  BHU_gendun_rinpoche: "更登·仁波切"
@@ -182,16 +170,10 @@
  BHU_jigme_palden_dorji: "吉格梅·帕爾登·多吉"
  BHU_sonam_tobgay_dorji: "索南·托布加伊·多傑"
  BHU_mang_pos_bhur_bai: "曼波·布拉巴依"
- ###################
- ###### NEP ########
- ###################
  NEP_amar_thapa: "阿馬爾·塔帕"
  NEP_bir_shamsher_singh_thapa: "比爾·沙姆謝爾·辛格·塔帕"
  NEP_bhakti_thapa: "巴克提·塔帕"
  NEP_juddha_rana: "居達·拉納"
- ###################
- ###### TIB ########
- ###################
  TIB_jamphel_yeshe_gyaltsen: "熱振·圖旦絳白益西丹巴堅贊"
  TIB_namgang_rinpoche: "南岡·仁波切"
  TIB_penor_tashi: "貝諾·扎西"
@@ -201,9 +183,6 @@
  TIB_thubten_kunpela: "土登貢培"
  TIB_lungshar: "龍廈多吉次傑"
  TIB_tsarong_dzasa: "擦絨·達桑佔堆"
- ###################
- ###### KOREA ######
- ###################
  KOR_syngman_rhee: "李承晚"
  KOR_yi_kang: "李堈"
  KOR_kim_il_sung: "金日成"
@@ -212,9 +191,6 @@
  KOR_lyuh_woon_hyung: "呂運亨"
  KOR_choe_hyon: "崔賢"
  KOR_pak_hon_yong: "樸憲永"
- ###################
- ###### SEA ########
- ###################
  CAM_norodom_sihanouk: "諾羅敦·西哈努克"
  AFA_sultan_mohamed_yayyo_of_aussa: "穆罕默德·亞約"
  CAM_son_ngoc_thanh: "山玉成"
@@ -344,9 +320,6 @@
  KHM_muhammad_amin_bughra: "穆罕默德·阿明·布格拉"
  XSM_han_youwen: "韓有文"
  XSM_han_yimu: "韓乙奴"
- ####################################
- #### PEOPLE'S REPUBLIC OF CHINA ####
- ####################################
  PRC_has_not_been_purged_tt: "尚未被罷免"
  PRC_zhang_guotao: "張國燾"
  PRC_guotao_and_mao: "勉強合作的兩架馬車"
@@ -405,9 +378,6 @@
  PRC_li_kenong: "李克農"
  PRC_wang_shusheng: "王樹聲"
  PRC_ulanhu: "烏蘭夫"
- ###################
- ###### CHINA ######
- ###################
  CHI_zhang_guotao_kmt: "$PRC_zhang_guotao$"
  CHI_wong_tsu: "王助"
  CHI_chu_chia_jen: "朱家仁"
@@ -465,13 +435,6 @@
  CHI_zhang_lan: "張瀾"
  CHI_symeon_du: "西麥翁·杜潤臣"
  CHI_zhu_jiahua: "朱家驊"
- ###################
- ###### PINOY ######
- ###################
- #########################
- ###### PHILIPPINES ######
- #########################
- #Country Leaders
  PHI_manuel_luis_quezon: "曼努埃爾·奎松"
  PHI_jose_laurel: "何塞·勞雷爾"
  PHI_manuel_roxas: "曼努埃爾·羅哈斯"
@@ -481,7 +444,6 @@
  PHI_artemio_ricarte: "阿特米奧·裡卡爾特"
  PHI_back_soon: "空位期"
  PHI_juan_iii: "胡安三世"
- #Advisors
  PHI_sergio_osmena: "塞爾希奧·奧斯梅尼亞"
  PHI_carlos_p_romulo: "卡洛斯·羅慕洛"
  PHI_benigno_ramos: "貝尼尼奧·拉莫斯"
@@ -492,7 +454,6 @@
  PHI_vicente_lava: "維森特·拉瓦"
  PHI_nieves_fernandez: "涅韋斯·費爾南德斯"
  PHI_tan_malaka: "陳馬六甲"
- #Military
  PHI_courtney_whitney: "考特尼·惠特尼"
  PHI_richard_marshall: "理查德·馬歇爾"
  PHI_lewis_c_beebe: "路易斯·C·比比"
@@ -500,24 +461,19 @@
  PHI_godofredo_juliano: "戈多弗雷多·胡利亞諾"
  PHI_napoleon_de_leon: "拿破崙·德·萊昂"
  PHI_luis_taruc: "路易斯·塔魯克"
- #Branch Heads
  PHI_jesus_villamor: "熱蘇斯·比利亞莫爾"
  PHI_paulino_santos: "保利諾·桑托斯"
  PHI_richard_sutherland: "理查德·薩瑟蘭"
  PHI_george_grunert: "喬治·格魯納特"
- #Theorists
  PHI_russell_volckmann: "拉塞爾·沃克曼"
- #Commanders
  PHI_ramon_magsaysay: "拉蒙·麥格賽賽"
  PHI_vicente_p_lim: "比森特·林"
  PHI_edward_king: "愛德華·金"
  PHI_yuitsu_tsuchihashi: "土橋勇逸"
  PHI_iwaichi_fujiwara: "藤原巖市"
- #Admirals
  PHI_jose_v_andrada: "何塞·安德拉達"
  PHI_enrique_jurado: "恩裡克·朱拉多"
  PHI_thomas_hart: "托馬斯·哈特"
  PHI_john_wilkes: "約翰·威爾克斯"
  PHI_okawachi_denshichi: "大川內傳七"
- #Scientists
  PHI_emma_rotor: "艾瑪·羅托"

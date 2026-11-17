@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ###### AUSTRIA  ######
  AUS_antischluss_category: "反德奧合併措施"
  AUS_antischluss_category_desc: "隨著近期德意志國在萊茵蘭地區再度實現軍事化，其秘密侵略的行徑已與日激增。為避免在大難臨頭時措手不及，我們必須做好最壞的打算。"
  AUS_antischluss_risk_text: "目前[GER.GetAdjective]發動德奧合併的風險：[GetAnschlussRisk]"
@@ -99,7 +98,6 @@
  AUS_reintegrate_FROM_italy_decision: "重新整合[FROM.GetName]"
  AUS_reintegrate_FROM_switzerland_decision: "重新整合[FROM.GetName]"
  AUS_currently_reintegrating_state_flag: "目前正在將一個地區重新整合進[ROOT.GetNameDef]"
- ###### HUNGARY  ######
  HUN_tap_the_nagylengyel_oil_field: "開採瑙吉倫傑爾油田"
  HUN_explore_the_oil_fields_around_nagykanizsa: "勘探瑙吉考尼饒油田"
  expand_the_rudabanya_iron_mine: "擴大魯道巴尼奧鐵礦開採"
@@ -222,7 +220,6 @@
  HUN_referendum_in_north_transylvania: "在塞凱伊組織公投"
  HUN_recall_kocsard_janky_to_active_service: "召回揚基·科恰爾德重返現役"
  HUN_recall_kocsard_janky_to_active_service_tt: "§Y揚基·科恰爾德§!成為陸軍將領"
- ##### FORMABLE NATIONS ####
  antilles_category: "安的列斯聯邦"
  antilles_category_desc: "安的列斯聯邦是由拉蒙·埃梅特里奧·貝坦塞斯所提出的，致力於將加勒比地區人民整合為統一的地區實體，維護安的列斯諸國主權及福祉的偉大構想。自1850年代起直到美西戰爭時期，這一設想都得到了極大的支持。儘管如今這一構想已然式微，但仍還有一線希望。通過凝聚共同的精神與道路，我們可以致力於徹底實現安的列斯聯邦的偉業，成就屬於全安的列斯人的安的列斯！"
  unite_the_antilles: "統一安的列斯諸國"
@@ -241,7 +238,6 @@
  reintegrate_east_prussia: "重新整合東普魯士"
  reintegrate_silesia: "重新整合西里西亞"
  reintegrate_posen_west_prussia: "重新整合波森-西普魯士"
- ###### BELGIUM  ######
  BEL_requisition_congolese_funds_decision: "從[COG.GetAdjective]政府徵用資金"
  BEL_belgian_defences_cat: "比利時防禦工事"
  BEL_gold_reserves_cat: "投入黃金儲備"
@@ -309,7 +305,6 @@
  BEL_boost_construction_unions_decision: "促進建築工會"
  BEL_boost_factory_workers_unions_decision: "促進產業工人工會"
  BEL_boost_unions_tt: "§R你只能促進一支專業工人工會。扶植該工會將使剩下兩個工會鎖定！§!"
- ###### CONGO #########
  CONGO_belgian_officer_corps_decisions_tt: "解鎖決議§Y召回退役公安軍軍官§!"
  COG_recall_armand_huyghe_to_active_service: "將阿爾芒·於熱·德·馬亨蓋騎士召回現役"
  COG_recall_armand_huyghe_to_active_service_tt: "§Y阿爾芒·克里斯托弗·於熱§!成為陸軍將軍"
@@ -394,7 +389,6 @@
  COG_cancel_the_trade_deal_decision: "取消剛果鈾貿易"
  COG_uranium_trust_invitation_decision: "邀請§Y[FROM.GetNameDef]§!加入鈾礦開發托拉斯"
  CONGO_invite_from_to_uranium_development_trust_tt: "解鎖決議§Y邀請盟友加入鈾礦開發托拉斯§!，為他們的建築和圍繞§Y核研究§!的研發提供增益"
- ###### GERMANY  ######
  GER_seize_gold_reserves_cat: "奪取黃金儲備"
  GER_seize_gold_reserves_cat_desc: "我們雄心勃勃的軍備重整計劃所需的資金和資源已超出了我國自身的產能。但通過擴張，我們可以利用征服帶來的收益去供應軍事工業的開支。勝者為王！"
  GER_seize_gold_reserves: "奪取[FROM.GetAdjective]的黃金儲備"
@@ -685,7 +679,6 @@
  GER_occupy_macedonian_decision: "佔領馬其頓"
  GER_occupy_slovenia_decision: "佔領斯洛文尼亞"
  GER_occupy_kosovo_decision: "佔領科索沃"
- ### REICHSKOMMISSARIATS ###
  GER_reichskommissariat_ukraine_effect_tt: "除§Y[202.GetName]§!之外的所有必需的地區都將由[RKU.GetNameDef]控制"
  GER_reichskommissariat_ostland_effect_tt: "除§Y[808.GetName]§!之外的所有必需的地區都將由[RKO.GetNameDef]控制"
  GER_reichskommissariat_niederlande_effect_tt: "除§Y[7.GetName]§!之外的所有必需的地區都將由[RKN.GetNameDef]控制"
@@ -758,7 +751,6 @@
  GER_expand_rkc_adminsitrative_area: "擴張巴爾幹總督府行政區"
  GER_further_expand_ukraine_adminsitrative_area: "進一步擴張烏克蘭總督府行政區"
  GER_the_fate_of_greenland_and_nfl: "擴張北美行政區"
- ##################### MONROE ARRAY STUFF, It looks horrible, but it works ######################
  GER_1_country_in_monroe: "§Y[?global.monroe_doctrine_countries_to_destabilize^0.GetNameWithFlag]§!"
  GER_2_country_in_monroe: "§Y[?global.monroe_doctrine_countries_to_destabilize^0.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^1.GetNameWithFlag]§!，"
  GER_3_country_in_monroe: "§Y[?global.monroe_doctrine_countries_to_destabilize^0.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^1.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^2.GetNameWithFlag]§!，"
@@ -785,9 +777,6 @@
  GER_24_country_in_monroe: "§Y[?global.monroe_doctrine_countries_to_destabilize^0.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^1.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^2.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^3.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^4.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^5.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^6.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^7.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^8.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^9.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^10.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^11.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^12.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^13.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^14.GetNameWithFlag]§!、 §Y[?global.monroe_doctrine_countries_to_destabilize^15.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^16.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^17.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^18.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^19.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^20.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^21.GetNameWithFlag]§!、 §Y[?global.monroe_doctrine_countries_to_destabilize^22.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^23.GetNameWithFlag]§!，"
  GER_25_country_in_monroe: "§Y[?global.monroe_doctrine_countries_to_destabilize^0.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^1.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^2.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^3.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^4.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^5.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^6.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^7.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^8.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^9.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^10.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^11.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^12.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^13.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^14.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^15.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^16.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^17.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^18.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^19.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^20.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^21.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^22.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^23.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^24.GetNameWithFlag]§!，"
  GER_26_country_in_monroe: "§Y[?global.monroe_doctrine_countries_to_destabilize^0.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^1.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^2.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^3.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^4.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^5.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^6.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^7.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^8.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^9.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^10.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^11.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^12.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^13.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^14.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^15.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^16.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^17.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^18.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^19.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^20.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^21.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^22.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^23.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^24.GetNameWithFlag]§!、§Y[?global.monroe_doctrine_countries_to_destabilize^25.GetNameWithFlag]§!"
- ########################
- #### DECISION COSTS ####
- ########################
  decision_cost_20_convoy_10_NavXP: "£GFX_topbar_convoys §Y20§!£navy_experience §Y10§!"
  decision_cost_20_convoy_10_NavXP_blocked: "£GFX_topbar_convoys §R20§!£navy_experience §R10§!"
  decision_cost_20_convoy_10_NavXP_tooltip: "執行此決議需要花費§Y20§!£GFX_topbar_convoys 和§Y10§!£navy_experience"

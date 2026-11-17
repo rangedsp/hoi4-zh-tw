@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ##CZECHOSLOVAKIA##
  MUN_czech_skoda_priority.t: "斯柯達工廠"
  MUN_czech_skoda_priority.d: "斯柯達工廠涵蓋了多個領域，從火炮、坦克、列車和艦炮都有生產。我們可以在一定程度上予以指示，將資源轉移到需求最大的領域。"
  MUN_czech_skoda_priority.1.a: "有趣"
@@ -178,7 +177,6 @@
  MUN_czech.1035.d: "鑑於我們與[CZE.GetNameDef]的緊密合作關係，他們提出了一項特殊的提議：他們將為我們製造我們國內正在生產的武器，當然，這是有條件的。這反過來將使我們能夠專注於產業的其他領域。"
  MUN_czech.1035.a: "這意味著能少些重複性工作"
  MUN_czech.1035.b: "我們不能讓軍隊依賴外國裝備"
- #MUN_czech.1036.t: "" #Event uses MUN_czech.1032.t
  MUN_czech.1036.d: "大蕭條在經濟和政治上對我國都沒什麼幫助。許多地方上的經濟和政治問題困擾著我們，即使我們奇蹟般地從大蕭條中復甦，這些問題似乎也在惡化。我們需要在這些問題進一步分裂國家之前解決它們。"
  MUN_czech.1036.a: "我們需要拯救我們的國家"
  CZE_divided_nation_event_onbroad_tt: "解鎖§Y決議§!，允許我們§Y移除§!核心地區上的負面§Y地區修正§!。\n\n完成這些§Y決議§!也會降低§Y$CZE_a_divided_nation_dynamic_modifier$§!民族精神的負面修正，直至完全§Y移除§!。"
@@ -220,7 +218,6 @@
  MUN_czech.1046.t: "彌合裂痕"
  MUN_czech.1046.d: "我們已經解決了國內的諸多問題，國家內部的緊張局勢似乎正在緩解。在完成多項經濟與社會改革項目之後，如今我們的國家似乎正在走向恢復。"
  MUN_czech.1046.a: "喜訊"
- #MUN_czech.1047 is hidden
  MUN_czech.1048.t: "[FROM.GetName]接受要求"
  MUN_czech.1048.t2: "[FROM.GetName]同意提案"
  MUN_czech.1048.d: "[FROM.GetAdjective]官員不情願地告知我們，他們將滿足我們的領土要求。[FROM.GetAdjective]部隊已經開始從該地撤離。"
@@ -228,7 +225,6 @@
  MUN_czech.1048.d3: "我們提出的互不侵犯條約提案立即得到了[FROM.GetAdjective]代表的熱烈響應，看來他們的野心目前集中在別處。"
  MUN_czech.1048.d4: "面對嚴峻威脅，[FROM.GetNameDef]已屈從於我方的結盟要求。"
  MUN_czech.1048.d5: "經過長時間的討論，我方官員與[FROM.GetNameDef]的代表已成功達成協議：我們的部分軍事工業將為他們生產裝備。作為回報，我們將獲得用於市場與生產的貿易物資。"
- #MUN_czech.1049 is a faction joining event so largely reuses generic loc
  MUN_czech.1049.d: "[FROM.GetNameDef]的新政府向我們提出結盟建議。儘管他們的新軍事政府起初持反德立場，但他們似乎已採取務實態度，意識到他們曾經的國際夥伴不再可靠。"
  MUN_czech.1050.d: "我們的外交官從[FROM.GetNameDef]返回，帶來了令人失望的消息：他們拒絕了我們加入其聯盟的請求。雖然理由尚不明確，但我們現在陷入了一個兩難的境地——我們暴露了對老盟友的擔憂，卻未能爭取到新的依靠。"
  MUN_czech.1050.a: "也許我們應該提出更有吸引力的條件"
@@ -249,7 +245,6 @@
  MUN_czech.1055.d: "在一場前所未有的空運後勤行動中，[SOV.GetNameDef]動用其空軍，將數個志願師部署至我方位於[73.GetName]的機場，以支援我們當前的戰爭努力。"
  MUN_czech.1056.t: "[FROM.GetName]要求[975.GetName]"
  MUN_czech.1056.d: "正如第一次世界大戰後的巴黎和會上曾提議的那樣，[CZE.GetNameDef]宣稱建立一條通往其盟友[YUG.GetNameDef]的走廊對於其聯盟安全至關重要。為實現這一目標，[FROM.GetAdjective]代表已發出最後通牒，要求我們割讓[975.GetName]。"
- #THE FALL OF THE REPUBLIC EVENTS#
  MUN_the_fall_of_the_republic.1.t: "大範圍抗議"
  MUN_the_fall_of_the_republic.1.d: "[ROOT.GetLeader]近期決定放棄蘇臺德地區，導致全國爆發抗議活動。儘管軍政領導層希望避免流血衝突，不想面對不可能的困難進行毫無意義的抵抗，但全國各地的許多民眾認為他們做出了錯誤的決定。一些政治運動現在正在利用這次動亂來推進自己的目標。"
  MUN_the_fall_of_the_republic.1.a: "我們別無選擇！"
@@ -279,7 +274,6 @@
  MUN_the_fall_of_the_republic.7.t: "[FROM.getname]向我國妥協"
  MUN_the_fall_of_the_republic.7.d: "[FROM.getname]接受了我們的要求，願意以一些微不足道的條件被併入我們國家，沒有人對此感到意外。這個小地方完全無法抵抗像我們這樣強大的國家。我們的北方邊界現在比以前更加漫長，政府對於如此輕鬆取得勝利非常滿意。"
  MUN_the_fall_of_the_republic.7.a: "好消息"
- #BOP EVENTS#
  MUN_czech_bop.1.t: "軍隊就緒"
  MUN_czech_bop.1.d: "這十年前半段的改革努力開始初見成效。目前，我國軍隊已是歐洲最現代化的軍隊之一。然而，一些政客和眾多工業集團領導人卻開始滋生自滿情緒。如果要使我國軍隊保持最佳戰備狀態，我們必須消除外界對我國軍隊作戰能力的疑慮，並打擊那些為謀取私利而企圖削弱軍隊的人。"
  MUN_czech_bop.1.a: "我們會做好準備。"
@@ -305,7 +299,6 @@
  MUN_czech_bop.5.d: "在與捷克政府代表商討後，$CZE_zbrojovka_brno_organization$獲得秘密許可，開始向我國走私少量輕武器。他們的專業知識也將通過秘密渠道為我們所用。"
  MUN_czech_bop.5.a: "我們會好好利用"
  MUN_czech_bop_5_tt: "該§Y製造商§!會在戰爭結束後§R移除§!。"
- ##SLOVAKIA##
  MUN_slovakia_little_war.1.t: "[71.Getname]大捷"
  MUN_slovakia_little_war.1.d: "我軍在[71.Getname]擊敗敵軍，表現出色。指揮官們從戰鬥中汲取了寶貴的經驗。"
  MUN_slovakia_little_war.1.a: "幹得漂亮"
@@ -318,11 +311,9 @@
  MUN_slovakia_little_war.4.t: "[71.Getname]困局"
  MUN_slovakia_little_war.4.d: "儘管我們全力以赴，我軍仍在[71.Getname]敗北。彈藥和摩托化裝備未能及時供應，是此次失利的關鍵原因。不過，指揮官們從這場戰鬥中吸取了寶貴教訓。"
  MUN_slovakia_little_war.4.a: "令人失望。"
- ##Exile##
  MUN_czech_exile.1.t: "[CZE.GetAdjective]流亡者抵達[ROOT.GetNameDef]"
  MUN_czech_exile.1.d: "慕尼黑會議後，[GER.GetNameDef]解散了[CZE.GetAdjective]，他們的流亡者已經抵達包括我們在內的許多國家。他們願意拿起武器幫助我們，希望有朝一日能借助我們的力量解放自己的祖國。"
  MUN_czech_exile.1.a: "歡迎"
- ##NEWS EVENTS##
  MUN_czech.news.1.t: "蘇臺德危機"
  MUN_czech.news.1.desc: "蘇臺德地區的人們已經開始武裝反抗[CZE.getnameDef]。有報道稱，蘇臺德地區的準軍事組織已經開始襲擊整個地區的警察局和政府大樓。[FROM.getname]試圖吞併該地區的消息就是這場叛亂的緣由。\n\n這些叛亂似乎是[FROM.getname]和[CZE.GetNameDef]之間更大沖突的前奏。而這場衝突看起來已不可避免。"
  MUN_czech.news.1.a: "這對歐洲來說並不是個好兆頭"

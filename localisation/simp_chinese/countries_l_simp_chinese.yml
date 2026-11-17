@@ -242,7 +242,7 @@
  AUS_neutrality_DEF: "奧地利聯邦"
  AUS_communism: "奧地利社會主義共和國"
  AUS_communism_DEF: "奧地利社會主義共和國"
- AUS_stalinism: "奧地利蘇維埃共和國" #to signify change to full soviet politics rather than a little soviet politics
+ AUS_stalinism: "奧地利蘇維埃共和國"
  AUS_stalinism_DEF: "奧地利蘇維埃共和國"
  AUS_fascism_ADJ: "奧地利"
  AUS_democratic_ADJ: "奧地利"
@@ -601,7 +601,7 @@
  ARG_subject_DEF: "$OVERLORDADJ$屬$ARG$"
  BOL_fascism: "長槍黨玻利維亞"
  BOL_fascism_DEF: "長槍黨玻利維亞"
- BOL_democratic: "玻利維亞共和國" #Was Plurinational Bolivia
+ BOL_democratic: "玻利維亞共和國"
  BOL_democratic_DEF: "玻利維亞共和國"
  BOL_neutrality: "玻利維亞"
  BOL_neutrality_DEF: "玻利維亞"
@@ -683,7 +683,6 @@
  CHI_autonomy_supervised_state_DEF: "$OVERLORDADJ$屬中國"
  CHI_PRC_subject: "華中及華東省"
  CHI_PRC_subject_DEF: "華中及華東省"
- #For specific Japanese Puppet names, see countries_cosmetic
  PRC_fascism: "中華帝國"
  PRC_fascism_DEF: "中華帝國"
  PRC_democratic: "中華共和國"
@@ -1705,7 +1704,7 @@
  GEO_GER_fascism_subject_DEF: "高加索專員轄區"
  GEO_democratic: "格魯吉亞共和國"
  GEO_democratic_DEF: "格魯吉亞共和國"
- GEO_neutrality: "格魯吉亞王國" #Was Free State of St. George
+ GEO_neutrality: "格魯吉亞王國"
  GEO_neutrality_DEF: "格魯吉亞王國"
  GEO_communism: "格魯吉亞社會主義共和國"
  GEO_communism_DEF: "格魯吉亞社會主義共和國"
@@ -2151,7 +2150,7 @@
  SUR: "蘇里南"
  SUR_DEF: "蘇里南"
  SUR_ADJ: "蘇里南"
- TAJ_fascism: "達爾瓦茲沙阿國" #was Bekstvo of Matcha
+ TAJ_fascism: "達爾瓦茲沙阿國"
  TAJ_fascism_DEF: "達爾瓦茲沙阿國"
  TAJ_democratic: "塔吉克斯坦共和國"
  TAJ_democratic_DEF: "塔吉克斯坦共和國"
@@ -2181,7 +2180,7 @@
  TRI: "特立尼達和多巴哥"
  TRI_DEF: "特立尼達和多巴哥"
  TRI_ADJ: "特立尼達和多巴哥"
- TMS_fascism: "新塞爾柱帝國" #Changed from Khiva due to Khiva being added to the game
+ TMS_fascism: "新塞爾柱帝國"
  TMS_fascism_DEF: "新塞爾柱帝國"
  TMS_democratic: "土庫曼斯坦共和國"
  TMS_democratic_DEF: "土庫曼斯坦共和國"
@@ -2211,7 +2210,7 @@
  UAE: "阿拉伯酋長國"
  UAE_DEF: "阿拉伯酋長國"
  UAE_ADJ: "阿聯酋"
- UZB_fascism: "烏茲別克汗國" #Changed from Bukhara due to Bukhara being added to the game
+ UZB_fascism: "烏茲別克汗國"
  UZB_fascism_DEF: "烏茲別克汗國"
  UZB_democratic: "烏茲別克斯坦共和國"
  UZB_democratic_DEF: "烏茲別克斯坦共和國"
@@ -4129,8 +4128,6 @@
  PAP_communism_DEF: "羅馬人民共和國"
  PAP_neutrality: "教宗國"
  PAP_neutrality_DEF: "教宗國"
- #PAP_subject: "Vatican"
- #PAP_subject_DEF: "the Vatican State"
  PAP_autonomy_supervised_state: "$OVERLORDADJ$在羅馬佔領區"
  PAP_autonomy_supervised_state_DEF: "$OVERLORDADJ$在羅馬佔領區"
  PAP_fascism_ADJ: "聖座"

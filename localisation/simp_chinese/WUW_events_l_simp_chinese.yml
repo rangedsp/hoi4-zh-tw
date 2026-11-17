@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- #News events
  wuw_GER_news.1.t: "德國統一"
  wuw_GER_news.1.d: "經歷了長期的割裂，過去兄弟之間被人為的邊界分隔，如今德國人民終於可以因為一個嶄新的德國國家的崛起而高興了！在近期取得政治上的實績之後，[FROM.GetLeader]儼然繼承了俾斯麥的精神，宣佈德國的統一，這是一個將延續千古的國家！"
  wuw_GER_news.1.a: "德國終於統一了。"
@@ -10,7 +9,6 @@
  wuw_GER_news.2.b: "他們之前嘗試過並且失敗了"
  wuw_GER_news.2.c: "這是我們的時刻！"
  wuw_GER_news.2.d: "希望他們這次能成功"
- #Austrian events
  AUS_political_events.1.t: "奧地利聯合信貸銀行的命運"
  AUS_political_events.1.desc: "我們注意到，1934年的銀行合併，重組後的奧地利信貸公司接管了維也納聯合銀行的所有資產和負債，以及下奧地利企業聯盟的可行業務，這件事現在反噬了我們，因為這極大地阻礙了我們的經濟發展，並無意中形成了對金融行業的一種壟斷。既然我們現在正在監管這個行業，我們應該如何處理這種情況？"
  AUS_political_events.1.a: "維持原狀最穩妥。"
@@ -592,7 +590,6 @@
  AUS_news_events.12.desc: "\n自1930年9月11日以來，[AUS.GetNameDef]首次舉行了民主選舉。投票率很高，隨著計票接近尾聲，[AUS.GetLeader]代表[AUS.GetDemocraticParty]贏得了選舉。他現在將面臨帶領國家走上一條嶄新的、更加民主的道路的艱難任務。"
  AUS_news_events.12.a: "太好了"
  AUS_news_events.12.b: "知道了"
- #Hungarian country events
  WW_hungary.1.t: "[HUN.GetName]啟動聯合制造計劃"
  WW_hungary.1.desc: "我們的盟友[HUN.GetNameDef]已啟動一項聯合開發飛機的計劃，並已開始投資我們的研發，以便將來進一步推進他們自己的研發工作。"
  WW_hungary.1.a: "這無疑是個好消息"
@@ -1030,7 +1027,6 @@
  WW_hungary.124.desc: "今天早上，哥里當局報告稱，有一名男子要求歸還他聲稱曾屬於他的農場莊園，稱他剛剛從俄羅斯的魔掌中逃脫並返回家鄉。他還承諾，如果允許他進入政界，他可以帶領我們的國家走向輝煌，據稱他出身於一個成功的政治家世家。為了實現大格魯吉亞夢想，這是我們需要的那個人嗎？"
  WW_hungary.124.a: "立刻給這個人一個職位！"
  WW_hungary.124.b: "無論他說什麼，我們都不能信任他"
- ### HUN news events ###
  wuw_HUN_news_events.1.t: "[HUN.GetNameDEFCAP]宣佈傑爾計劃"
  wuw_HUN_news_events.1.d: "\n在[HUN.GetLeader]的領導下，[HUN.GetAdjective]政府宣佈了一項新的大規模工業計劃，旨在儘可能快地重新武裝國家。外國觀察家認為這是[HUN.GetNameDef]對其鄰國的一種侵略行為，但時間將告訴我們他們的真正意圖。"
  wuw_HUN_news_events.1.a: "他們在為某事做準備……"
@@ -1075,138 +1071,106 @@
  wuw_HUN_news_events.9.a: "物歸原主"
  wuw_HUN_news_events.9.b: "那不屬於他們！"
  wuw_HUN_news_events.9.c: "有趣的發展"
- ##### Belgian events #####
- #### Historical ####
- ### Political Events
- #Government Resigns
  ww_BEL_event_political.1.t: "政府辭職，開啟提前選舉"
  ww_BEL_event_political.1.desc: "由於正在發生的腐敗醜聞，政府最終迫於壓力垮臺了。萊昂·德格萊勒——法西斯性質的雷克斯主義黨領導人——率領的調查員團隊，已經對政府部長的賄賂進行了數年的調查，結果發現了大量的賄款。\n\n為了恢復合法性，飽受爭議的總理保羅·範澤蘭宣佈開啟提前選舉，以恢復公信力和合法性，現在選舉結果已經公佈。\n\n由埃米爾·王德威爾得領導的比利時工人黨（Parti Ouvrier Belge）表現最佳，主要原因是他的政治對手不受群眾歡迎。他可以以此勝利為基礎，單獨組建少數黨政府，或與保羅·範澤蘭的天主教黨合作，組建一個更穩定的多數黨，成立民族團結政府。\n\n同樣值得注意的是萊昂·德格萊勒的雷克斯主義黨也取得了非常好的成績，他的反腐敗立場證明非常受歡迎。"
  ww_BEL_event_political.1.a: "組建民族團結政府"
  ww_BEL_event_political.1.b: "王德威爾得組建少數派政府"
  BEL_paul_van_zeeland_remains_tt: "§Y保羅·範澤蘭§!仍擔任總理，領導擴大的§Y民主§!黨派聯盟。"
- #Corrupt Zeeland
  ww_BEL_event_political.2.t: "保羅·範澤蘭腐敗醜聞"
  ww_BEL_event_political.2.desc: "保羅·範澤蘭領導的天主教黨今天因為腐敗醜聞遭到更大的打擊，因為發現總理本人接受了“捐款”！看起來他的政府很快就會再次垮臺……"
  ww_BEL_event_political.2.a: "這腐敗還沒完沒了了？！"
- #Royal Appointment
  ww_BEL_event_political.3.t: "王室欽點"
  ww_BEL_event_political.3.desc: "保羅·範澤蘭終於辭去了總理職務，並以恥辱的身份離開他的崗位。這次，國王利奧波德三世親自宣佈他將介入此事並任命一名新總理。有兩個主要候選人：\n\n既是自由黨成員，也是民族團結政府成員的保羅·埃米爾·揚松被認為是一個穩健的選擇。另一人是萊昂·德格雷勒，此人被譽為法治和秩序的代言人，且其黨派最近在選舉中的成功助漲了這一讚譽。"
  ww_BEL_event_political.3.a: "任命穩健的人，自由派的保羅·埃米爾·揚松。"
  ww_BEL_event_political.3.b: "選擇雷克斯主義者萊昂·德格雷勒，恢復法律與秩序。"
- #Budgetary Crisis
  ww_BEL_event_political.4.t: "預算危機"
  ww_BEL_event_political.4.desc: "儘管我們的經濟復甦初見曙光，但我們再次面臨財務危機。首相[BEL.GetLeader]未能通過議會批准[BEL.GetHerHis]的預算，無法就需要的稅改改革達成廣泛的共識，以對抗不斷惡化的公共財務狀況，從而再次導致政府垮臺。\n\n這導致權力很快移交給了勞動黨的新秀保羅-亨利·斯巴克，他成為了比利時的第一位社會黨首相。"
  ww_BEL_event_political.4.a: "希望斯巴克能夠堅挺的久一些！"
- #Adriaan Martens Crisis
  ww_BEL_event_political.5.t: "阿德里安·馬滕斯危機"
  ww_BEL_event_political.5.desc: "起初看似正常的任命，演變成了我國政府的又一個政治危機。首相需要為皇家醫學學院任命一名新成員，而他提名了阿德里安·馬滕斯作為候選。這一選擇引發了爭議，因為馬滕斯是佛蘭德民族主義者，並曾在大戰期間與德國佔領者合作。這一提名遭到了退伍軍人、自由主義者和法語系比利時人的強烈反對，甚至國王也表示不滿。\n\n[BEL.GetLeader]試圖為這個選擇辯護，但受到越來越大的壓力。反對者呼籲舉行提前選舉以選出新的領導人，儘管斯巴克可能仍有政治資本來競爭這一職位。"
  ww_BEL_event_political.5.a: "首相應該引咎辭職，並舉行提前大選。"
  ww_BEL_event_political.5.b: "斯巴克擁有足夠的政治支持度過這一關。"
- #The Flemish Question
  ww_BEL_event_political.6.t: "佛蘭德問題"
  ww_BEL_event_political.6.desc: "自建國以來，比利時內部一直分為兩個語言群體：講法語的瓦隆人和講荷蘭語的佛蘭德人。這導致了我國的各種問題，包括朋友之間的簡單誤解、軍事命令被錯誤執行、因被告與法庭語言不通導致的不公正審判。\n\n現在是時候徹底解決這種分裂問題了，並決定如何在通用語言的模式下團結我們的國民。"
  ww_BEL_event_political.6.a: "荷蘭語應該優先"
  ww_BEL_event_political.6.b: "法語應該優先"
  ww_BEL_event_political.6.c: "比利時由兩種文化平等地定義"
- #The Snap Election
  ww_BEL_event_political.7.t: "提前選舉"
  ww_BEL_event_political.7.desc: "隨著憲法危機暫時得到控制，現在是時候確保政府重新具有合法性，否則與他們剛剛推翻的政府沒有什麼不同。目前，社會黨的保羅-亨利·斯巴克和天主教黨的于貝爾·皮耶洛是潛在的提前選舉的領先的候選人。"
  ww_BEL_event_political.7.a: "于貝爾·皮耶洛和天主教黨將繼續對抗威脅我們的人"
  ww_BEL_event_political.7.b: "保羅-亨利·斯巴克和工黨將帶領我們走向嶄新的社會主義未來。"
- #Communist Language Problems
  ww_BEL_event_political.8.t: "人民的語言"
  ww_BEL_event_political.8.desc: "我們的人民長期以來因語言而割裂。講法語的瓦隆人和講荷蘭語的佛蘭德人之間存在著輕微的裂痕，阻礙了更統一的[ROOT.GetName]的發展。我們必須就官方語言問題做出決定，否則朋友之間的誤解、軍事命令的執行錯誤和司法不公將永遠成為[ROOT.GetAdjective]人日常生活的一部分。"
  ww_BEL_event_political.8.a: "荷蘭語是我們的語言"
  ww_BEL_event_political.8.b: "法語是我們的語言"
  ww_BEL_event_political.8.c: "我們的語言是平等的，我們將保留兩者！"
- ### Diplomatic Events
- #Repudiate Treaties
  ww_BEL_event_diplomatic.1.t: "[FROM.GetNameDefCap]斷絕了我們的擔保"
  ww_BEL_event_diplomatic.1.desc: "[FROM.GetLeader]通知我們，我們兩國之間的互助防務條約已經作廢，因為他們尋求在這些動盪時期採取中立的態度。然而，那並沒有在大戰期間為他們帶來好的結果……"
  ww_BEL_event_diplomatic.1.a: "讓他們獨自前行吧。"
- #Luxembourg Receives Ultimatum - to LUX
  ww_BEL_event_diplomatic.2.t: "[FROM.GetNameDefCap]要求我們投降"
  ww_BEL_event_diplomatic.2.desc: "[FROM.GetLeader]藉助歷史上的紐帶以及我們共同的文化和語言，設法確保我們被併入他們的國家。"
  ww_BEL_event_diplomatic.2.a: "我們在一起更強大。"
  ww_BEL_event_diplomatic.2.b: "盧森堡是個自豪而獨立的國家！"
- #Luxembourg Yields - to BEL
  ww_BEL_event_diplomatic.3.t: "[FROM.GetNameDefCap]屈從要求"
  ww_BEL_event_diplomatic.3.desc: "我們收到了好消息！[FROM.GetNameDefCap]的人們明智地決定，團結在一起能更強大，目前已經開始安排新政權的管理事宜。"
  ww_BEL_event_diplomatic.3.a: "太棒了！"
- #Luxembourg Resists - to BEL
  ww_BEL_event_diplomatic.4.t: "[FROM.GetNameDefCap]抵抗！"
  ww_BEL_event_diplomatic.4.desc: "不幸的是，看來[FROM.GetNameDefCap]的人們對自己的主權力量有些自負，選擇拒絕我們慷慨的統一提議。我們需要向他們展示我們國家的力量，以武力將他們納入我們的統一體。"
  ww_BEL_event_diplomatic.4.a: "他們做出了錯誤的選擇"
- ##Demand Calais Events
- #To Belgium : What can we offer?
  ww_BEL_event_diplomatic.5.t: "我們應該如何取得加來？"
  ww_BEL_event_diplomatic.5.desc: "我們決定向法國索要加來，但我們仍然需要選擇取得加來的方式。當然，我們強大的軍隊可以毫無問題地佔領這片土地，但我們也應該考慮到可能的附帶損害，因此也許應該追求另一種獲取方式。對我們來說，統一的方式並不重要，只要我們能得到屬於我們的土地！"
  ww_BEL_event_diplomatic.5.a: "以戰爭相威脅"
  ww_BEL_event_diplomatic.5.b: "用剛果換取加來"
  ww_BEL_event_diplomatic.5.c: "提供經濟補償"
  ww_BEL_event_diplomatic.5.d: "提出結盟作為交換條件"
- #To France : Belgium demand Calais
  ww_BEL_event_diplomatic.6.t: "比利時索要加來"
  ww_BEL_event_diplomatic.6.desc: "我們剛剛收到了[BEL.GetName]的無禮要求，要我們交出加來！他們聲稱，基於歷史上的勃艮第公國，這片土地而理應屬於比利時，並宣佈自己繼承了某種形式的勃艮第遺產。他們的大使明確表示，如果我們不答應他們的要求，他們將會採取暴力威脅，但考慮到他們的軍事力量，這很可能只是虛張聲勢。"
  ww_BEL_event_diplomatic.6.a: "該死！不行！"
  ww_BEL_event_diplomatic.6.b: "我們現在承受不起再多一個敵人"
- #To France : Belgium offers Congo land for Calais
  ww_BEL_event_diplomatic.7.t: "比利時希望換取加來"
  ww_BEL_event_diplomatic.7.desc: "我們剛剛收到了[BEL.GetAdjective]代表團提出的有趣提議。他們提出以剛果的大部分領土換取加來。如此，我們將佔據與我們目前在該地區接壤的科基拉維爾和斯坦利維爾。他們的外交官隱含地威脅我們，如果我們拒絕此提議，可能會導致緊張局勢升級，但這是否值得？"
  ww_BEL_event_diplomatic.7.a: "不，加來對我們來說更有價值"
  ww_BEL_event_diplomatic.7.b: "很好，這筆交易很公平"
- #To France : Belgium offers payment for Calais
  ww_BEL_event_diplomatic.8.t: "比利時希望購買加來"
  ww_BEL_event_diplomatic.8.desc: "我們剛剛收到了[BEL.GetAdjective]代表團提出的有趣提議。他們表示有興趣購買加來，以“重新統一他們的歷史領土”。他們提出的金額相當高，這無疑可以改善我們的經濟，但問題在於，我們是否認為損失這片土地值得這個價格。還應注意到，他們的外交官暗示，如果我們拒絕他們的提議，緊張局勢可能會升級。"
  ww_BEL_event_diplomatic.8.a: "不，加來對我們來說更有價值"
  ww_BEL_event_diplomatic.8.b: "這個價格似乎合理！"
- #To Congo : Belgium just handed land over to France
  ww_BEL_event_diplomatic.9.t: "科基拉維爾和斯坦利維爾出售給法國！"
  ww_BEL_event_diplomatic.9.desc: "我們的殖民地總督剛剛被告知，[BEL.GetName]已經與[FRA.GetName]達成協議，用加來換取我們的若干地區，即科基拉維爾和斯坦利維爾。歐洲列強再次改變非洲的邊界，而我們這些真正居住在這裡的人卻毫無參與！"
  ww_BEL_event_diplomatic.9.a: "我們得再次更新地圖了……"
- #To Belgium : France accepted! We got the land.
  ww_BEL_event_diplomatic.10.t: "法國接受了！"
  ww_BEL_event_diplomatic.10.desc: "我們從派往巴黎的代表團收到消息，[FRA.GetName]選擇接受我們的提議，加來及其周邊地區的行政權的移交工作已經開始！"
  ww_BEL_event_diplomatic.10.a: "我們的合法領土已恢復！"
- #To Belgium : France refused. Escalate?
  ww_BEL_event_diplomatic.11.t: "因加來問題而升級的緊張局勢"
  ww_BEL_event_diplomatic.11.desc: "我們在巴黎的代表團發來消息，加來的談判已經破裂，我們可能需要動用武力來確保這片本屬於我們的土地。我們已經盡力提出合理的提議，但他們每一回都拒絕我們。是時候向他們展示[BEL.GetAdjective]的真正軍事實力了。"
  ww_BEL_event_diplomatic.11.a: "退一步，不要逼得太緊"
- ww_BEL_event_diplomatic.11.b: "那麼他們就是選擇了戰爭！" #Tool tip to say occupying Paris may be enough to force peace.
- #To ENG/FRA/SOV: Belgium requests guarantee
+ ww_BEL_event_diplomatic.11.b: "那麼他們就是選擇了戰爭！"
  ww_BEL_event_diplomatic.12.t: "[FROM.GetNameDefCap]請求我們的援助"
  ww_BEL_event_diplomatic.12.desc: "來自[FROM.GetAdjective]領導層的通訊剛剛到達我們手中。隨著世界變得越來越敵對，他們擔心自己保家衛國的能力。我們的幫助將是非常有用的，並且對維持該地區的和平至關重要。"
  ww_BEL_event_diplomatic.12.a: "他們將得到我們的援助！"
  ww_BEL_event_diplomatic.12.b: "我們無法援助他們"
- #To Belgium: Gets guarantee from ENG/FRA/SOV
  ww_BEL_event_diplomatic.13.t: "[FROM.GetNameDefCap]保證我們的獨立"
  ww_BEL_event_diplomatic.13.desc: "我們收到了[FROM.GetAdjective]外交官傳來的非常令人欣喜的消息。他們同意我們的安全可能受到威脅，而我們的軍隊可能不足以保護我們的獨立。為此，他們向我們提供了我們所請求的保證。"
  ww_BEL_event_diplomatic.13.a: "這將確保我們的安全"
- #To Belgium: Does not get guarantee from ENG/FRA/SOV
  ww_BEL_event_diplomatic.14.t: "[FROM.GetNameDefCap]拒絕為我們提供保證"
  ww_BEL_event_diplomatic.14.desc: "儘管我們生存面臨明顯的威脅，[FROM.GetAdjective]領導層還是拒絕了我們對保證的請求。我們試圖與他們講道理，但他們拒絕認識到局勢的嚴重性。看來我們只能靠自己了。"
  ww_BEL_event_diplomatic.14.a: "他們太無禮了！"
- #To GER/FRA/ENG: Exiled Belgium Requests equipment
  ww_BEL_event_diplomatic.15.t: "[FROM.GetNameDefCap]請求裝備援助"
  ww_BEL_event_diplomatic.15.desc: "我們剛剛收到流亡中的[FROM.GetAdjective]領導層的請求。他們希望從我們這裡獲得一些裝備，以訓練他們剩餘的部隊，希望有朝一日能夠收復他們的家園。"
  ww_BEL_event_diplomatic.15.a: "我們會為他們提供$infantry_equipment$！"
  ww_BEL_event_diplomatic.15.c: "我們將向他們輸送$support_equipment$！"
  ww_BEL_event_diplomatic.15.b: "他們的抱負值得欽佩，但我們無能為力"
- #To GER/FRA/ENG: Exiled Belgium Requests factories
  ww_BEL_event_diplomatic.16.t: "[FROM.GetNameDefCap]請求工廠援助"
  ww_BEL_event_diplomatic.16.desc: "我們收到了[FROM.GetAdjective]領導層的請求，希望使用我們的工廠為他們剩餘的部隊生產裝備。他們渴望奪回自己的家園，為此，他們的部隊需要裝備。"
  ww_BEL_event_diplomatic.16.a: "我們當然會幫忙"
  ww_BEL_event_diplomatic.16.b: "我們心有餘而力不足"
- #To GER/USA/ENG: BEL requests military experience sharing
  ww_BEL_event_diplomatic.17.t: "[FROM.GetNameDefCap]提議分享軍事經驗"
  ww_BEL_event_diplomatic.17.desc: "[FROM.GetNameDef]的流亡政府聯繫了我們，提議共同努力，在我們的軍隊之間分享軍事經驗。這對我們和他們都有好處。"
  ww_BEL_event_diplomatic.17.a: "這是個好主意！"
  ww_BEL_event_diplomatic.17.b: "這不值得花費時間"
- #To BEL: Generic accept
  ww_BEL_event_diplomatic.18.t: "[FROM.GetNameDefCap]同意"
  ww_BEL_event_diplomatic.18.desc: "我們提出的加強我們地位並幫助重建軍隊以收復家園的建議得到了[FROM.GetNameDef]的認可。儘管這不足以單獨解決我們的問題，但這將是我們最終重獲獨立的重要一步。"
  ww_BEL_event_diplomatic.18.a: "好消息！"
- #To BEL: generic reject
  ww_BEL_event_diplomatic.19.t: "[FROM.GetNameDefCap]拒絕"
  ww_BEL_event_diplomatic.19.desc: "我們提出的加強我們地位並幫助重建軍隊以收復家園的建議被[FROM.GetNameDef]拒絕了。我們本希望這是未來計劃的一個起點，但看來只能擱置這些計劃了。"
  ww_BEL_event_diplomatic.19.a: "真是不幸"
@@ -1278,34 +1242,25 @@
  ww_BEL_event_diplomatic.38.t: "[FROM.GetNameDefCap]投資我國工業"
  ww_BEL_event_diplomatic.38.desc: "一個[FROM.GetAdjective]代表團已經抵達，帶著已簽署的合同和大量資本。新的工程將在我們的腹地興建，費用由[FROM.GetFactionName]承擔——民用工業將與一座兵工廠一同拔地而起。那些簽下支票的人毫不掩飾他們希望換來什麼：下一次[FROM.GetNameDef]提出歐洲聯邦問題時，能獲得一次公正的聽證。"
  ww_BEL_event_diplomatic.38.a: "聯邦兌現了承諾"
- ### War Events
- #Relocate Air Industries
  ww_BEL_event_war.1.t: "啟用已轉移的航空工業"
  ww_BEL_event_war.1.desc: "我們提前與外國工業公司建立良好的工作聯繫的遠見卓識已經獲得了回報。他們的設施已經準備好，可以立即投入生產。"
  ww_BEL_event_war.1.a: "這就是為什麼我們要提前佈局！"
- ### King's Surrender Chain
- #Unknown Sympathies
  ww_BEL_event_war.2.t: "搖擺不定的國王"
  ww_BEL_event_war.2.desc: "利奧波德三世國王一直生活在他的父親、被譽為戰士國王的阿爾貝一世的陰影下，後者因在大戰期間保衛比利時、阻止德意志帝國的勝利而聞名。儘管在此過程中，他的國家變成了戰場，但國家的軍事榮譽沒有受到玷汙，比利時在世界舞臺上的聲譽也隨之上升。\n\n現在，比利時再次陷入戰爭，利奧波德的真正考驗開始了，已經有一些令人擔憂的傳言。\n\n國王聲稱要保護他的人民的生命，已經在為和平試探，考慮到布魯塞爾、列日或安特衛普的陷落，國王可能會在不顧人民繼續戰鬥的民主意願的情況下早早投降。"
  ww_BEL_event_war.2.a: "利奧波德國王將帶領我們走向勝利"
  BEL_unknown_sympathies_tt: "§R如果我們失去列日、安特衛普或布魯塞爾中的任意一個，利奧波德國王會投降。到那時你仍可以有其他選擇。§!"
- #The King's Surrender
  ww_BEL_event_war.3.t: "國王投降"
  ww_BEL_event_war.3.desc: "未先等待[BEL.GetAdjective]議會的批准，作為武裝部隊總司令的國王今天提議[BEL.GetName]無條件投降。嚴格來說，作為總司令，他有權讓軍隊投降，但沒有權力投降整個國家。\n\n平民議會已經流亡，明確表示將利用[BEL.GetAdjective]帝國的所有資源繼續戰爭。"
  ww_BEL_event_war.3.a: "這是國王的意志！"
  ww_BEL_event_war.3.b: "繼續戰鬥！"
  ww_BEL_event_war.3.c: "他沒這個權利！軟禁國王"
- #Royal Prisoner
  ww_BEL_event_war.4.t: "皇家囚徒"
  ww_BEL_event_war.4.desc: "國王將國家交給侵略者，這種背叛行為使他遭到軟禁，並被剝奪了武裝部隊總司令的職務、頭銜，當然還有王冠。然而，人民仍然需要一位統治者，現在我們必須選擇由誰來領導攝政，直到他的兒子年齡足夠大到登上王位。有兩個選擇：\n\n第一個是合法任命的首相和人民領袖萊昂·德格雷爾。另一個選擇是利奧波德的兄弟，佛蘭德伯爵查爾斯，他將給王位帶來合法性和連續性。"
  ww_BEL_event_war.4.a: "讓萊昂·德格雷勒成為新攝政"
  ww_BEL_event_war.4.b: "讓查理保障合法順位"
- #The King's Surrender - Triggered via capitulation rather than event
  ww_BEL_event_war.5.t: "國王投降"
  ww_BEL_event_war.5.desc: "在全國的英勇防禦之後，利奧波德三世國王最終提議[BEL.GetName]投降，我們的政府被迫流亡。利奧波德選擇與他的人民在一起，成為自己家的囚犯。我們仍然可以依靠盟友的善意，並依賴[BEL.GetAdjective]帝國的資源，終有一天我們可以光復我們的家園。"
  ww_BEL_event_war.5.a: "未來仍不確定"
- ## King's Surrender Chain Ends
- #Belgium demands special treatment (-_-)ゞ゛ - Event for any occupier of Belgium
  ww_BEL_event_war.6.t: "總秘書處"
  ww_BEL_event_war.6.desc: "一群比利時公務員向我們提出了一項提議：允許他們繼續在政府職務上工作，他們將確保在這個過渡時期，當地政府能夠順利運作。比利時政府已經通過立法，使他們與我們合作合法化，以減少佔領對其人民的影響。他們甚至授權比利時銀行繼續支付這些行政人員的工資。這是一個展示我們願意與當地人合作的機會，也可以在一定程度上緩解該地區的劇烈抵抗。"
  ww_BEL_event_war.6.a: "很好的倡議，與他們合作，確保佔領的順利推進"
@@ -1315,17 +1270,13 @@
  BEL_available_secretaries_general_tt: "§Y總秘書處§!現在可作為比利時的§Y佔領法§!使用"
  BEL_no_secretaries_general_tt: "§Y總秘書處§!將不再作為比利時的§Y佔領法§!"
  BEL_remove_secretaries_general_civs_tt: "移除2個§Y地圖外民用工廠§!"
- ## France Limited War
- #To Belgium: Inform Belgium of Limited War goals
  ww_BEL_event_war.7.t: "潛在的有限戰爭——巴黎必須陷落！"
  ww_BEL_event_war.7.desc: "我們外交總長和將軍最近會面，並建議我們，如果衝突保持在有限的範圍內，即如果沒有其他大國介入，我們或許能夠迫使[FRA.GetName]坐到談判桌前，迅速達成和平協議。我們知道他們害怕緊張局勢加劇，和我們一樣，他們也不願再次捲入全球衝突。\n\n因此按我們的預測，如果巴黎陷落，這將足以證明我們的實力，他們可能願意談判移交有爭議的加來。"
  ww_BEL_event_war.7.a: "我們的軍隊很快就會在巴黎街頭行進！"
- #To France: Paris has fallen! Sue for peace?
  ww_BEL_event_war.8.t: "巴黎淪陷！"
  ww_BEL_event_war.8.desc: "這是一場國家災難，我們引以為傲的首都巴黎淪陷了！我們的軍隊再次在明顯不如我們的敵人面前顯得不堪一擊。[FROM.GetAdjective]人提出撤回他們的部隊並饒過我們國家的其他部分，但作為交換，他們要求我們將加來交給他們。\n\n我們已經感受到禿鷲在盤旋，這將為我們爭取時間，從中吸取教訓，併為未來可能遇到的更強大的敵人做好準備。"
  ww_BEL_event_war.8.a: "用加來換取和平"
  ww_BEL_event_war.8.b: "繼續戰鬥！戰爭還沒有結束"
- #To Belgium: Accept peace offer?
  ww_BEL_event_war.9.t: "法國同意和平協議"
  ww_BEL_event_war.9.desc: "今天，我們接待了一支法國代表團，他們前來商討在首都淪陷後，當前衝突的和平解決方案。經過多次商議，他們最終決定以加來換取立即停火。\n\n需要注意的是，這是一次性的提議，如果我們拒絕，他們將更加堅定地進行防禦，並且不太可能再提出類似的建議。"
  ww_BEL_event_war.9.a: "我們接受！加來換和平"
@@ -1334,8 +1285,6 @@
  ww_BEL_event_war.10.desc: "在我們對抗[FRA.GetAdjective]的戰爭初期的會議中設定的目標已經實現。巴黎在我們的控制之下，因此可以推測[FRA.GetAdjective]可能已經承受了足夠的壓力，如果我們提議撤回軍隊，換取加來的領土，他們可能會勉強同意。\n\n與此同時，反對的聲音越來越大，我們已經走到了這一步，而[FRA.GetAdjective]顯然無法阻止我們。為什麼現在要停止呢？"
  ww_BEL_event_war.10.a: "我們已經達到了目的，現在需要和平！"
  ww_BEL_event_war.10.b: "我們想要全部！"
- ### King's Surrender Chain End
- ### Spanish Civil War Interaction Events ###
  ww_BEL_event_spanish_interaction.1.t: "[FROM.GetNameDefCap]運送裝備"
  ww_BEL_event_spanish_interaction.1.desc: "我們收到了一批來自[FROM.GetAdjective]政府的步槍。他們與我們一樣認為必須阻止國民派，並希望不僅僅用言辭來幫助我們的鬥爭。"
  ww_BEL_event_spanish_interaction.1.a: "我們會好好利用這些裝備！"
@@ -1372,7 +1321,6 @@
  ww_BEL_event_misc.3.t: "柯克里爾：比利時製造業的心臟"
  ww_BEL_event_misc.3.desc: "柯克里爾公司是比利時製造業的核心企業。自成立以來，該公司不僅生產鐵和鋼，還製造精密機械，包括蒸汽機、火車，甚至戰艦。它建立了卓越的聲譽，成為西歐鋼鐵工業的重要力量。\n\n在那次世界大戰期間，柯克里爾的總經理阿道夫·格賴納及其他管理層成員在列日圍城期間一直堅守崗位，確保為員工提供儘可能長的就業機會。城市被佔領後，公司拒絕為佔領軍生產產品，因此大部分重型鋼鐵設備遭到破壞。\n\n在戰間期，它已經恢復，並繼續作為一個重要的工業力量存在。"
  ww_BEL_event_misc.3.a: "他們可能建造了我們的經濟引擎！"
- ### Congolese events ###
  ww_congo.1.t: "比利時投資我國的發展建設"
  ww_congo.1.desc: "比利時殖民辦公室今天通過了一項法案，將大量資源分配給我們的工業發展，並已開始在[295.GetName]建設工業設施。"
  ww_congo.1.a: "巨大的恩惠"
@@ -1634,7 +1582,6 @@
  ww_congo.73.desc: "[FROM.GetAdjective]的外交官們帶著和平的提議來找我們。這一提議取決於我們是否同意放棄對某些非洲領土的要求，並從那裡撤軍。我們是否接受？"
  ww_congo.73.a: "我們不會放棄我們的領土"
  ww_congo.73.b: "我們別無選擇，只能同意"
- #### THE WHISPERS AND NEGOTIATIONS OF INDEPENDENCE EVENT CHAIN ####
  congo_independence_struggle.1.t: "獨立的低語"
  congo_independence_struggle.1.d: "自從我們的大陸被歐洲人瓜分以來，我們一直渴望自由，渴望有能力開創自己的未來。作為[BEL.GetNameDefCap]的殖民地，我們的歷史充滿了剝削和非人化，但我們總是因為自己的分裂和他們的強大武力而被壓制。\n\n街頭和叢林中再次傳來煽動的低語，我們的人民表達了他們希望剛果擺脫殖民干涉的夢想。一個能夠自行立法、執法的剛果，一個能夠勞有所得的剛果，一個能夠塑造自己未來的剛果。"
  congo_independence_struggle.1.a: "我們應該嘗試通過外交獲得自由"
@@ -1723,12 +1670,6 @@
  congo_independence_struggle.24.a: "這是一場我們輸不起的戰爭！"
  congolese_civil_war_starting_tt: "剛果將對我們發動獨立戰爭。如果他們控制了§Y利奧波德維爾§!、§Y伊麗莎白維爾§!和§Y斯坦利維爾§!，他們將能夠強行實現和平並獲得完全獨立。\n\n同樣地，我們也能通過控制§Y利奧波德維爾§!、§Y伊麗莎白維爾§!和§Y斯坦利維爾§!來強行實現和平，並保留我們對該地的控制權。"
  congolese_civil_war_starting_congo_side_tt: "效忠比利時派將對我們發動內戰。如果我們控制了§Y利奧波德維爾§!、§Y伊麗莎白維爾§!和§Y斯坦利維爾§!，將能夠與我們的前宗主國強行實現和平並獲得完全獨立。\n\n同樣地，他們們也能通過控制§Y利奧波德維爾§!、§Y伊麗莎白維爾§!和§Y斯坦利維爾§!來強行實現和平，並保留對我國的控制權。"
- #####################################
- #####################################
- ############## GERMANY ##############
- #####################################
- #####################################
- #### GERMAN RELEASABLE AND FORMABLE EVENTS ####
  wuw_GER_releasable.1.t: "德意志人民的首都"
  wuw_GER_releasable.1.desc: "隨著德國的改革，我們的許多政治家認為，我國首都需要重新考慮。他們宣稱它配不上“德意志人民的首都”這樣的稱號。在這種情況下，我們希望將首都遷移到哪裡？"
  wuw_GER_releasable.1.a: "柏林是當然的選擇！"
@@ -1741,7 +1682,6 @@
  wuw_GER_releasable.2.b: "仍然需要約瑟夫·伯克"
  wuw_GER_releasable.2.c: "在這個危險時期，皇室必須採取行動！"
  wuw_GER_releasable.2.d: "人民應該抗議這樣一個明顯被操縱的選舉！"
- ### GERMAN CIVIL WAR EVENTS ###
  wuw_GER_civil_war.1.t: "流亡共產主義者重返故土"
  wuw_GER_civil_war.1.desc: "隨著國防軍最近針對納粹政權的政變，許多之前離開國家的共產主義者現在紛紛回國，因為他們看到機會來幫助我們對抗那些曾經傷害他們的人。我們是否應該允許他們參戰，還是應該試圖掩蓋他們的迴歸，只願他們不會變得足夠受歡迎，從而發動自己的革命？"
  wuw_GER_civil_war.1.a: "歡迎回來，同志！"
@@ -1787,7 +1727,6 @@
  wuw_GER_civil_war.9.a: "他為我們效力良久"
  GER_mackensen_went_into_retirement_tt: "§Y奧古斯特·馮·馬肯森§!不再是§Y陸軍元帥§!"
  GER_recalled_hans_krebs_from_russia_flag: "從§Y[SOV.GetNameDef]§!召回§Y漢斯·克雷布斯§!"
- ### GERMAN FOREIGN LEGIONS AND LEGIONARIES EVENTS ###
  wuw_GER_legions.1.t: "格魯吉亞外籍軍團的組建"
  wuw_GER_legions.1.desc: "隨著我們最近宣佈打算恢復《佈列斯特-立托夫斯克和約》的邊界，一些流亡的格魯吉亞將軍和士兵前來，希望幫助我們收復他們的故土，作為交換，我們承諾重建格魯吉亞國家，並授予其統治高加索地區的權利。我們是否應接受他們的協助？"
  wuw_GER_legions.1.a: "歡迎他們加入我們"
@@ -1820,7 +1759,6 @@
  wuw_GER_legions.8.desc: "隨著我們準備對[SOV.GetNameDef]發動進攻的意圖愈發明確，許多在俄羅斯內戰中失敗的人找上門來，想借機終結當前的[SOV,GetAdjective]政府。其中包括頓河和庫班哥薩克的[SOV.SOV_pyotr_krasnov.GetName]和[SOV.SOV_andrey_shkuro.GetName]，他們希望為我們作戰。我們是否應該接受他們的幫助？"
  wuw_GER_legions.8.a: "我們可以利用他們對庫班草原的瞭解"
  wuw_GER_legions.8.b: "我們為什麼需要這些哥薩克人的幫助？"
- ### GERMAN MONROE DOCTRINE EVENTS ###
  wuw_GER_monroe.1.t: "[FROM.GetAdjectiveCap]對門羅主義的興趣"
  wuw_GER_monroe.1.desc: "我們收到了令人不安的報告，對於破壞門羅主義，[FROM.GetNameDef]開始表現出越來越大的興趣。該主義是為了防止外國在我們認為是勢力範圍的美洲大陸製造麻煩而制定的。根據之前與[FROM.GetNameDef]的接觸，我們只能假設他們的意圖不善。"
  wuw_GER_monroe.1.a: "我們必須介入！"
@@ -1890,7 +1828,6 @@
  GER_saved_the_monroe_doctrine_bad: "加強門羅主義"
  GER_supported_the_monroe_doctrine_good: "支持門羅主義"
  GER_opposed_the_monroe_doctrine_good: "反對門羅主義"
- ###### OTHER GERMAN EVENTS ######
  germany_mefo_bills.1.t: "德國軍備重整計劃的未來"
  germany_mefo_bills.1.desc: "軍備重整計劃的財政負擔可能會導致我們的經濟崩潰。如果我們打算保持與以前相同水平的武器生產，我們必須尋找新的資金來源——或改變我們的優先級。"
  germany_mefo_bills.1.a: "軍備重整一直是我們的目標"
@@ -1917,17 +1854,13 @@
  wuw_GER_military_events.2.b: "拿他殺雞儆猴！"
  wuw_GER_military_events.2.c: "對此一言不發"
  wuw_GER_diplomacy.1.t: "[FROM.GetNameDefCap]提供貿易伙伴關係"
- #wuw_GER_diplomacy.1.desc - there is none - using AAT_germany.1.desc
  wuw_GER_diplomacy.1.a: "我們雙方都將從中受益"
  wuw_GER_diplomacy.1.b: "這筆交易只會讓其中一方受益……"
  wuw_GER_diplomacy.2.t: "[FROM.GetNameDefCap]接受了我們的貿易提議"
  wuw_GER_diplomacy.2.desc: "[FROM.GetLeader]似乎是一位理智的領導者，他在尋求[FROM.GetLeader.GetHerHis]國家的最佳利益。巧合的是，恰好也符合我們國家的最佳利益。我們將充分利用來自[FROM.GetName]的額外資源。"
- #wuw_GER_diplomacy.2.a - there is none
  wuw_GER_diplomacy.3.t: "[FROM.GetNameDefCap]拒絕了我們的貿易提議"
  wuw_GER_diplomacy.3.desc: "[FROM.GetLeader]似乎是一個不講理且不明智的領導者，對於[FROM.GetLeader.GetHerHis]國家的最佳利益毫不關心。我們將去他處尋找我們所需的資源。"
  wuw_GER_diplomacy.3.a: "這是他們的損失"
- #wuw_GER_diplomacy.10.t - using old loc
- #wuw_GER_diplomacy.10.desc - using old loc
  wuw_GER_diplomacy.10.a: "我們不敢說不……"
  wuw_GER_diplomacy.10.b: "這不可接受！"
  wuw_GER_diplomacy.11.t: "[FROM.GetNameDefCap]挫敗我們的計劃"
@@ -2553,7 +2486,6 @@
  wuw_GER_realpolitik.29.desc: "在經歷了一段時間的法西斯主義思潮的增長之後，[ROOT.GetAdjective]的法西斯主義分子似乎對等待政府和平變革感到厭倦，且在一起炸燬當地警察局的事件中，引發了街頭戰鬥。激烈的討論之後，談判途徑似乎已經破裂，武裝衝突隨之而來。我們只能屏住呼吸，靜觀[ROOT.GetAdjective]未來將走向何方。"
  wuw_GER_realpolitik.29.a: "為了革命！"
  wuw_GER_realpolitik.29.b: "我們必須制止這種愚蠢的行為！"
- #wuw_GER_realpolitik.30, wuw_GER_realpolitik.31 and wuw_GER_realpolitik.32 use other loc
  wuw_GER_realpolitik.33.t: "[FROM.GetNameDefCap]要求經濟一體化"
  wuw_GER_realpolitik.33.desc: "[FROM.GetNameDef]的[FROM.GetLeader]今天抵達我們的首都，向我們提出了一項提議。他們希望我們加強關稅同盟的活動，並進一步與他們進行經濟一體化。這將大大有利於我們的經濟，但這一切似乎有些不對勁……"
  wuw_GER_realpolitik.33.a: "這實在太誘人了，不可錯過"
@@ -2703,47 +2635,37 @@
  GER_amerikabomber_heinkel_flag: "§Y$GER_heinkel_organization$§!被指定負責研發§Y美洲轟炸機§!"
  GER_amerikabomber_messerschmitt_flag: "§Y$GER_messerschmitt_organization$§!被指定負責研發§Y美洲轟炸機§!"
  GER_amerikabomber_junkers_flag: "§Y$GER_junkers_organization$§!被指定負責研發§Y美洲轟炸機§!"
- #Event for GER
  GER_operation_panzerfaust_events.01.t: "霍爾蒂忠誠問題"
  GER_operation_panzerfaust_events.01.desc: "我們發現我們的盟友霍爾蒂·米克洛什可能正與敵方秘密接觸達成和平協議。我們必須向他施壓，確保匈牙利忠於我們的事業。"
  GER_operation_panzerfaust_events.01.a: "要求他服從元首"
  GER_operation_panzerfaust_events.01.b: "這反應過度了，霍爾蒂是忠誠的！"
- #Event for HUN
  GER_operation_panzerfaust_events.02.t: "[GER.GetLeader]要求霍爾蒂辭職"
  GER_operation_panzerfaust_events.02.desc: "今天我們收到消息，德國要求米霍爾蒂·米克洛什下臺，以便由他們認為更為可靠的薩拉希·費倫茨接任。他們還表示，如果不如他們所願，他們可能會採取干涉手段。"
  GER_operation_panzerfaust_events.02.a: "我們無力反抗"
  GER_operation_panzerfaust_events.02.b: "他們沒有權力在這裡為所欲為"
- #Event for GER
  GER_operation_panzerfaust_events.03.t: "匈牙利屈服"
  GER_operation_panzerfaust_events.03.desc: "霍爾蒂·米克洛什已屈服，匈牙利現在完全在我們掌控之下。看來我們的威脅奏效了。"
  GER_operation_panzerfaust_events.03.a: "太好了"
- #Event for GER
  GER_operation_panzerfaust_events.04.t: "霍爾蒂保持強硬"
  GER_operation_panzerfaust_events.04.desc: "霍爾蒂·米克洛什今天宣佈他不會屈服於德國壓力，匈牙利將繼續獨立於德國之外。僅靠外交壓力似乎不足以奏效，我們必須決定下一步的行動。"
  GER_operation_panzerfaust_events.04.a: "這太過分了，開啟瑪格麗特行動！"
  GER_operation_panzerfaust_events.04.b: "我們不會配合他的把戲"
  GER_operation_panzerfaust_events.04.c: "那就交給我們的特工去處理吧……"
- #Event for HUN
  GER_operation_panzerfaust_events.05.t: "德國開啟瑪格麗特行動"
  GER_operation_panzerfaust_events.05.desc: "元首兌現了他的承諾，宣佈開始瑪格麗特行動，他們為了征服我國而發動入侵。我們必須堅決抗戰！"
  GER_operation_panzerfaust_events.05.a: "讓他們放馬過來"
- #Event for HUN
  GER_operation_panzerfaust_events.06.t: "德國嘗試緩和局勢"
  GER_operation_panzerfaust_events.06.desc: "德國儘管對我們的邊境和主權發出威脅，他們現在卻試圖放棄要求，緩和局勢。"
  GER_operation_panzerfaust_events.06.a: "那就如此吧"
- #Event for GER
  GER_operation_panzerfaust_events.07.t: "鐵拳行動失敗"
  GER_operation_panzerfaust_events.07.desc: "我們原本期望這將是對愈加叛逆的匈牙利的最後一擊，但今日鐵拳行動告敗，我方特工在霍爾蒂住宅外被捕。"
  GER_operation_panzerfaust_events.07.a: "目前，我們還不能控制他們"
- #Event for GER
  GER_operation_panzerfaust_events.08.t: "鐵拳行動成功"
  GER_operation_panzerfaust_events.08.desc: "我們成功逮捕了霍爾蒂和他的兒子，並將權力移交給薩拉希·費倫茨。匈牙利現在將忠於我們的事業。"
  GER_operation_panzerfaust_events.08.a: "非常好"
- #Event for HUN
  GER_operation_panzerfaust_events.09.t: "針對霍爾蒂的陰謀被挫敗"
  GER_operation_panzerfaust_events.09.desc: "今天我們收到消息，德國試圖罷黜並綁架霍爾蒂及其兒子的計劃失敗了，德國特工在霍爾蒂住宅外被捕。"
  GER_operation_panzerfaust_events.09.a: "我們暫時是安全的"
- #Event for HUN
  GER_operation_panzerfaust_events.10.t: "霍爾蒂被綁架"
  GER_operation_panzerfaust_events.10.desc: "今天德國坦克開進城堡山，逮捕了霍爾蒂·米克洛什。據傳他們還扣押了霍爾蒂·米克洛什的兒子並將其帶至奧地利。他們廣播了消息，要求我們投降，否則他們將採取強制手段。"
  GER_operation_panzerfaust_events.10.a: "我們不得不接受他們的條件"
@@ -2759,11 +2681,6 @@
  GOT_GER_fading_eagle.03.desc: "[FROM.GetNameDef]的[FROM.GetLeader]宣稱他們不會再次接受征服，如果我們想要他們的領土，只能訴諸武力。"
  GOT_GER_fading_eagle.03.a: "他們會後悔自己的決定"
  GOT_GER_fading_eagle.03.b: "我們無法再樹敵了"
- ### #  # #  # ### ###       ##  ### ###   ##  #   ###
- ### # ## # #   #  #     #  #  #  #  # #  # #   #
- ## ## # ## ##  ###      #     #  ###  #    #   ##
- ##  # #  # #   #  #     #  #  #  #  # #  # #   #
- ### #  # #  # ### #  #      ##  ### #  #  ##  ### ###
  GER_inner_circle_himmler.00.t: "希姆萊的職責"
  GER_inner_circle_himmler.00.desc: "希姆萊在掌控了黨衛隊和蓋世太保後，在德國政治和決策制定中積累了巨大的影響力。雖然這使他成為德國事務中的強大人物，但他只能有限地加強其中一個組織。問題是，應該優先發展哪一個？"
  GER_inner_circle_himmler.00.a: "武裝黨衛軍是我們的優先部隊"
@@ -2791,16 +2708,10 @@
  GER_inner_circle_industrial_reichsleiter: "[GetIndustrialReichsleiterNames]"
  GER_inner_circle_industrial_reichsleiter_all: "$GER_fritz_todt$、$GER_albert_speer$和$GER_hermann_goring$"
  GER_inner_circle_industrial_reichsleiter_no_goring: "$GER_fritz_todt$和$GER_albert_speer$"
- ########################
- ########################
- #### GENERIC EVENTS ####
- ########################
- ########################
  GOT_guarantee_events.01.t: "保障波蘭的主權"
  GOT_guarantee_events.01.desc: "很明顯，[GER.GetLeader]無法通過談判解決問題，他不會停止對世界統治的追求。[GER.GetLeader.GetSheHe]堅信，沒有人敢阻止[GER.GetNameDef]及其日益增長的野心與對領土的渴望。"
  GOT_guarantee_events.01.a: "我們必須向波蘭提供保護！"
  GOT_guarantee_events.01.b: "任由[GER.GetLeader]隨心所欲"
- #NEWS EVENTS
  GOT_newsevents.1.t: "[FROM.GetNameDef]的崛起"
  GOT_newsevents.1.desc: "[FROM.GetAdjective]人已成功征服歐洲，成為這片大陸的霸主，並採取措施整合新徵服的領土。[FROM.GetAdjective]政府試圖團結民眾，支持國家和社會主義理想，發起了數次泛民族主義宣傳活動，增進無產階級的支持。\n\n[FROM.GetLeader]宣佈，統一的歐洲無產者將從此被稱為“[From.GetNameDef]”。"
  GOT_newsevents.1.a: "我們一同崛起"

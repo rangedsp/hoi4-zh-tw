@@ -153,7 +153,6 @@
  unlock_faction_goal_effect_tt: "解鎖陣營目標§Y$GOALNAME$§!"
  FACTION_PROGRESS_SECTION_DESC: "$NAME|Y$\n§g當進度介於：§!$MIN|%Y$§g與§!$MAX|%Y$§g之間時：§!\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
  usa_commonwealth_faction: "美聯邦"
- #SEA faction rule names
  joining_rules_applicability: "§g激活後，只有滿足以下條件的國家能加入我們的陣營：§!"
  joining_rule_non_fascist: "僅非法西斯國家"
  joining_rule_non_democratic: "僅非民主主義"
@@ -241,7 +240,6 @@
  change_leader_rule_manpower: "成員國在兵力上超過陣營領袖"
  change_leader_rule_industry: "成員國在工業上超過陣營領袖"
  change_leader_rule_influence: "成員國在影響力上超過陣營領袖"
- #SEA faction effects
  ADD_FACTION_RULE_EFFECT: "為$FACTION|H$添加$RULE|H$規則"
  REMOVE_FACTION_RULE_EFFECT: "從$FACTION|H$移除$RULE|H$規則"
  SET_FACTION_RULE_EFFECT: "設定陣營規則：$FACTION|H$設為$RULE|H$"
@@ -264,7 +262,6 @@
  ADD_FACTION_POWER_PROJECTION_EFFECT_NO_FACTION: "增加$VAL|H0$陣營力量投射"
  FACTION_ADD_EXTRA_GOAL_SLOT: "為$FACTION|H$添加$VAL|+0$$CATEGORY|H$目標槽位"
  FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION: "為你的陣營添加$VAL|+0$$CATEGORY|H$目標槽位"
- #SEA faction triggers
  TRIGGER_HAS_FACTION_TEMPLATE: "$COUNTRY|H$處於$FACTION|H$陣營"
  TRIGGER_HAS_NOT_FACTION_TEMPLATE: "$COUNTRY|H$不處於$FACTION|H$陣營"
  TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$在部署兵力上超過當前陣營領袖及其附屬國。$MISSING_EXPL$"
@@ -302,7 +299,6 @@
  FACTION_INFLUENCE_RANK_LESS_THAN: "陣營影響力排名低於$VALUE|H0$"
  FACTION_INFLUENCE_RANK_MORE_THAN: "陣營影響力排名高於$VALUE|H0$"
  guardians_of_peace_been_at_war_flag: "處於戰爭狀態"
- #SEA faction rule groups
  rule_group_geographical: "地理"
  rule_group_ideology_allies: "盟友"
  rule_group_ideology: "意識形態"
@@ -327,7 +323,6 @@
  rule_group_leader_industry: "工業要求"
  rule_group_leader_manpower: "兵力要求"
  rule_group_gie_rules: "流亡政府"
- #SEA rule type names: " # Sea Rule Type Names"
  war_declaration_rules: "我們何時可以宣戰？"
  member_rules: "陣營成員能如何行動？"
  member_rules_applicability: ""
@@ -337,15 +332,12 @@
  peace_conference_rules_applicability: ""
  dismissal_rules: "誰可以被從陣營中移除？"
  change_leader_rules: "我們的領導者何時可以更換？"
- #SEA faction goals
- ## Manifest Progress
  low_progress: "低進展"
  medium_progress: "中等進展"
  high_progress: "高進展"
  manifest_fulfilled: "章程已達成"
  GLOBAL_RESOURCE_EXTRACTED_TOTAL_DESC: "全球開採資源總量"
  FACTION_RESOURCE_EXTRACTED_TOTAL_DESC: "陣營成員開採資源總量"
- ## Manifests
  defense_of_democracy_goal_name: "捍衛民主"
  defense_of_democracy_goal_desc: "民主價值觀正面臨嚴峻挑戰。我們必須團結一致，確保世界上的民主國家不會在威脅面前逐個淪陷。"
  containment_of_communism_goal_name: "遏制全球共產主義"
@@ -393,7 +385,6 @@
  mare_nostrum_goal_desc: "將地中海變為我們的內海一直是我們民族的夢想。時機已到，讓夢想成真！"
  pax_romana_goal_name: "羅馬治世"
  pax_romana_goal_desc: "恢復羅馬帝國的輝煌一直是我們民族的夢想。時機已到，讓夢想成真！"
- ## Short term Goals
  building_up_guam_goal_name: "擴建關島海軍基地"
  building_up_guam_goal_desc: "我們必須確保與[PHI.GetNameDef]的通信渠道暢通無阻，以應對可能發生的對[JAP.GetName]的衝突。若能獲取一處更近的海軍戰略據點，將為未來可能爆發的對[JAP.GetAdjective]戰爭創造決定性優勢。而[638.GetName]正是我們夢寐以求的理想基地。"
  the_two_seas_goal_name: "在波羅的海與黑海建立影響"
@@ -620,7 +611,6 @@
  expand_wake_island_bases_goal_name: "擴建威克島基地"
  expand_midway_island_bases_goal_name: "擴建中途島基地"
  expand_midway_island_bases_goal_desc: "發展我們在中途島的基地將確保中央太平洋通道的安全，並提供實施跨洋行動的關鍵基地。"
- #Mid term Goals
  undoing_brest_litowsk_goal_name: "為《佈列斯特-立托夫斯克條約》復仇"
  undoing_brest_litowsk_goal_desc: "《佈列斯特-立陶夫斯克條約》帶來的屈辱性和平從未被徹底消除。現在是時候抹去這段可恥歷史的最後殘餘了。"
  marine_corps_goal_name: "建立海軍陸戰隊"
@@ -731,14 +721,12 @@
  control_attu_island_goal_desc: "佔領阿圖島將得以控制北太平洋航道，並能夠沿阿留申群島向阿拉斯加及美洲太平洋沿岸展開軍事行動。"
  undo_versailles_goal_name: "為《凡爾賽條約》復仇"
  undo_versailles_goal_desc: "是時候糾正這份“強加條約”的荒謬性了。我們必將收復合法的領土！"
- #Long term goals
  strategic_bombing_campaign_goal_name: "持續戰略轟炸戰役"
  strategic_bombing_campaign_goal_desc: "大規模的戰略轟炸行動將系統性削弱敵人的工業產能，使我們能夠逐步消耗其軍隊力量。"
  liberate_territory_goal_name: "解放國土"
  liberate_territory_goal_desc: "敵人佔領了我們的領土。解放它應是我們的首要目標。"
  great_offensive_goal_name: "發動大規模攻勢"
  great_offensive_goal_desc: "發起一場奪取敵方領土的大規模攻勢，應是我們邁向戰爭最終勝利的第一步。"
- #Goal Effect Tooltips
  FACTION_NAME: "§Y[ROOT.GetFactionName]§!"
  ALL_FACTION_MEMBERS: "§Y所有陣營成員：§!"
  THE_FACTION_LEADER: "§Y陣營領袖：§!"
@@ -780,7 +768,6 @@
  MEDIUM_TERM: "中期"
  LONG_TERM: "長期"
  ALL_FACTION_MEMBERS_INFLICTED_250K_CASUALTIES: "對敵方造成超過25萬人員傷亡的§Y所有陣營成員§!："
- #SEA faction upgrades
  FACTION_UPGRADE_NAME_WITH_FACTION: "$FACTIONNAME|H$$UPGRADENAME|$"
  FACTION_UPGRADE_RESEARCH_NAME: "研究共享$INDEX|H$"
  FACTION_UPGRADE_RESEARCH_DESC: "其他陣營成員已研究該§H科技§!時，通過在你§H陣營§!中的§H設施§!分配§H支援科學家§!獲得額外§H研究§!加成。"
@@ -824,14 +811,12 @@
  INTELLIGENCE_OPPURTUNITIES: "以下情報機構升級速度加成："
  INTELLIGENCE_OPPURTUNITIES_ITEM: "$NAME|H$"
  FACTION_RECRUIT_SPIES_BUTTON: "招募間諜"
- #SEA faction commander
  FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING: "§R$COUNTRY|H$已解鎖戰區指揮官§!"
  FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING_PORTRAIT: "§R戰區指揮官只能由$COUNTRY|H$任命§!"
  FACTION_COMMANDER_PORTRAIT: "點擊以指派戰區指揮官"
  FACTION_THEATER_CREATE_BUTTON: "增加戰區£faction_initiative_texticon£$VALUE$"
  FACTION_COMMANDER_EXT_DESC: "只有解鎖該戰區的國家可以指派戰區指揮官，合格人選包括§H陸軍元帥§!和§H海軍將官§!。"
  FACTION_COMMANDER_DESC: "戰區指揮官會將陣營成員在該戰區獲得的部分£doctrine_mastery §H精通度§!轉移到其自身國家，轉移比例基於其§H攻擊§!與§H防禦§!技能。\n他們還會根據其§H後勤§!與§H規劃§!技能減少§H補給消耗§!。\n\n"
- #SEA faction member upgrades
  FACTION_MANPOWER_CONTRIBUTION: "人力貢獻"
  FACTION_MANPOWER_CONTRIBUTION_DESC: "將你每月人力增長的一部分貢獻至陣營的§H駐軍§!人力池。"
  FACTION_MANPOWER_NO_CONTRIBUTION_DESC: "貢獻£manpower_texticon $VALUE|H0%$的每月人力到你陣營的§H駐軍§!人力池。"
@@ -847,7 +832,6 @@
  REQUEST_FACTION_MANPOWER_BUTTON_DESC: "我們可以在此處請求人力支援以補充當前佔領地中任何空缺的駐軍，讓我們本國的軍隊專注於作戰。"
  FACTION_MANPOWER_DESC: "池中總人力：$ALL|H*$\n你貢獻的人力：$YOUR|H*$\n你可以提取的人力：$FREE|H*$\n"
  FACTION_MEMBER_UPGRADE_BELOW_MIN: "§R低於陣營要求的最小值。§!"
- #SEA Strategic Region
  FACTION_THEATER_HEADER: "陣營戰區"
  FACTION_THEATER_DESC: "陣營戰區是由§H戰區指揮官§!領導的統一協調區域。所能包含的地區數量和參與國家取決於指揮官的技能等級。指揮官通過指揮區內的盟軍作戰獲得經驗，其國家也會因此獲得£doctrine_mastery §H學說精通度§!。"
  FACTION_STRAT_REGION_INSTRUCTION: "將陣營成員分配至各區域"
@@ -868,7 +852,6 @@
  FACTION_THEATER_COUNTRY_ITEM_DESC: "師總數：$ARMY|H*$\n特遣艦隊總數：$NAVY|H*$"
  FACTION_THEATER_NOT_SELECTED_COUNTRIES: "必須至少選擇一個國家。"
  FACTION_THEATER_NOT_SELECTED_REGION: "必須選擇地圖上至少一個區域。"
- #SEA Faction program
  FACTION_CANT_ASSIGN_SCIENTIST_SAME_COUNTRY: "無法為你自己的專項計劃分配額外科學家"
  FACTION_CANT_ASSIGN_SCIENTIST_MORE: "你只能分配一名額外科學家"
  FACTION_ASSIGN_SCIENTIST_COST: "£pol_power $VALUE|0$"
@@ -879,7 +862,6 @@
  FACTION_ASSIGN_FACILITY_DESC: "共享你的專項計劃設施，讓其他陣營成員添加$NUMBER|H0$名§H支援科學家§!"
  FACTION_UNASSIGN_PROJECT_POPUP_TITLE: "取消分配設施"
  FACTION_UNASSIGN_PROJECT_POPUP_DESC: "你要取消分配在$STATE_NAME|Y$的設施嗎？"
- #SEA Faction Intelligence Agency
  FACTION_NO_AGENCY: "無情報機構"
  FACTION_AGENCY_ADD: "§G點擊§!添加$GROUP|H$"
  FACTION_SPY_MASTER: "間諜主管"
@@ -887,7 +869,6 @@
  FACTION_HEAD_OF_COUNTER_INTELLIGENCE: "反間諜部門主管"
  FACTION_HEAD_OF_OPERATIONS: "情報活動主管"
  FACTION_UNLOCK_BUTTON: "解鎖£faction_initiative_texticon£$VALUE$"
- #SEA faction UI
  VIEW_EXISTING_FACTIONS: "陣營"
  VIEW_FACTION: "查看陣營"
  CREATE_FACTION: "創建陣營"
@@ -1085,7 +1066,6 @@
  INDUSTRY_TAB_LABEL: "工業"
  INTELLIGENCE_TAB_LABEL: "情報"
  FACTION_ADD_GOAL: "添加一個$CATEGORY|H$目標"
- #SEA Power Projection
  POWER_PROJECTION_FROM_EFFECTS: "來自效果與目標的力量投射：$VAL|0H$"
  INDUSTRIAL_POWER_PROJECTION: "工業力量投射：$VAL|0H$"
  ARMY_POWER_PROJECTION: "陸軍力量投射：$VAL|0H$"
@@ -1093,7 +1073,6 @@
  AIR_POWER_PROJECTION: "空軍力量投射：$VAL|0H$"
  POWER_PROJECTION_IN_FACTION_RATIO: "總共享佔比：$VAL|H%$"
  TOTAL_POWER_PROJECTION: "總力量投射：$VAL|0H$"
- #SEA Influence
  CONTRIBUTION_INFLUENCE: "貢獻影響力：$VAL|H$$MOD$"
  WAR_SCORE_INFLUENCE: "戰爭分數的影響力：$VAL|H$$MOD$"
  FROM_EFFECTS_INFLUENCE: "事件影響力：$VAL|H$$MOD$"
@@ -1102,13 +1081,11 @@
  TOTAL_INFLUENCE: "總影響力：$VAL|H$"
  FACTION_INFLUENCE_PERCENTAGE: "($VAL|.0%$)"
  FACTION_INFLUENCE_TOOLTIP_HEADER: "$NAME$§H($VAL|.2H%$)§!"
- #SEA Contribution
  CONTRIBUTION_INFLUENCE_EXPECTED_GAIN: "§H預計獲得貢獻：\n§!"
  CONTRIBUTION_SUPPORTIVE_SCIENTIST_EXPECTED_GAIN: "支援科學家：§H每日§!$VAL|H$"
  CONTRIBUTION_MANPOWER_EXPECTED_GAIN: "人力貢獻：§H每月§!$VAL|H$"
  CONTRIBUTION_EXPIDITIONARY_FORCES_EXPECTED_GAIN: "遠征軍：§H每日§!$VAL|H$"
  CONTRIBUTION_SUBJECT_SCALER_EXPECTED_GAIN: "§R由於是附屬國，貢獻獲取量調整為§!$VAL|H%$"
- #SEA Faction Diplomacy
  DR_FACTION_POWER_PROJECTION: "陣營力量投射："
  FACTION_THEATER_DEFAULT_NAME: "陣營戰區$NUM$"
  FACTION_THEATER_SELECT_ALL: "選擇最大容量"
@@ -1146,7 +1123,6 @@
  THEATER_COMMANDER_MASTERY_SKILL: "$VAL|%0$"
  FACTION_THEATER_SWITCH_TO_FACTION_VIEW_TOOLTIP: "顯示陣營戰區"
  FACTION_THEATER_SWITCH_TO_THEATER_VIEW_TOOLTIP: "顯示國家戰區"
- #Sort
  RULES_SORT_NAME: "§G點擊§!按名稱排序"
  dismissal_rules_filter_tooltip: "§G點擊§!切換§H開除§!篩選器"
  change_leader_rules_filter_tooltip: "§G點擊§!切換§H領導權變動§!篩選器"
@@ -1156,14 +1132,12 @@
  peace_conference_rules_filter_tooltip: "§G點擊§!切換§H和談§!篩選器"
  war_declaration_rules_filter_tooltip: "§G點擊§!切換§H宣戰§!篩選器"
  call_to_war_rules_filter_tooltip: "§G點擊§!切換§H戰爭召喚§!篩選器"
- #Tabs
  FACTION_GOALS_TAB_TT: "§H陣營目標§!\n查看和更改你的當前目標。"
  FACTION_RULES_TAB_TT: "§H陣營規則§!\n查看和更改你的陣營必須遵守的規則。"
  FACTION_RESEARCH_TAB_TT: "§H陣營研究§!\n建立研究共享和聯合研究設施。"
  FACTION_ARMY_TAB_TT: "§H陣營軍事行動§!\n請求駐軍人力，管理戰區指揮官和陣營戰區，以及設置學說共享。"
  FACTION_INTELLIGENCE_TAB_TT: "§H陣營情報§!\n設置情報共享並更換陣營間諜主管。"
  FACTION_INTELLIGENCE_TAB: "陣營情報"
- #Ranking
  FACTION_RANKING: "全球排名：$VAL|H$"
  FACTION_POWER_RANKING_TOOLTIP: "§H陣營排名§!\n\n我們的§H陣營實力投射§!為$VAL|0H$，因此我們的陣營在世界上排名第$RANK|H$位。"
  RANK_TEXT_FACTION: "$VALUE|H$"
@@ -1179,7 +1153,6 @@
  FACTION_EXECUTE_CAREFUL_DESC: "當計劃執行時，部隊不會攻擊重度設防地點（除非無人防守），並會避免進攻那些會拉長前線的省份。\n\n§g注意：這僅影響戰區內由盟友AI控制的部隊，不影響玩家控制部隊。§!"
  FACTION_EXECUTE_BALANCED_DESC: "標準作戰計劃規則生效。部隊將嘗試以保持最短前線的方式推進，可能攻擊設防地點。\n\n§g注意：這僅影響戰區內由盟友AI控制的部隊，不影響玩家控制部隊。§!"
  FACTION_EXECUTE_RUSH_DESC: "若省份在作戰計劃範圍內，部隊將發起攻擊，即便這可能使前線延長或使部隊暴露。\n\n§g注意：這僅影響戰區內由盟友AI控制的部隊，不影響玩家控制部隊。§!"
- #AI Faction Theater Names
  theater_western_europe: "西歐"
  theater_eastern_europe: "東歐"
  theater_barbarossa_north: "北方集團軍群"

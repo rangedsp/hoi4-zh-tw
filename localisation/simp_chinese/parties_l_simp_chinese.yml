@@ -76,9 +76,9 @@
  POL_democratic_party_long: "波蘭人民黨"
  POL_neutrality_party: "薩納齊亞"
  POL_OZON_party: "民族團結陣營"
- POL_OZON_party_long: "民族團結陣營" #Camp of National Unity
+ POL_OZON_party_long: "民族團結陣營"
  POL_POS_party: "社會共同組織"
- POL_POS_party_long: "社會共同組織" #Common Organization of Society
+ POL_POS_party_long: "社會共同組織"
  POL_exile_democratic_party: "自由民主黨"
  POL_exile_democratic_party_long: "自由民主黨"
  ENG_communism_party: "大不列顛共產黨"
@@ -427,8 +427,8 @@
  HUN_communism_party_long: "匈牙利共產黨"
  HUN_democratic_party: "匈牙利社會民主黨"
  HUN_democratic_party_long: "匈牙利社會民主黨"
- HUN_neutrality_party: "國家統一黨" #was F48P
- HUN_neutrality_party_long: "國家統一黨" #was Függetlentségi és 48-as Párt
+ HUN_neutrality_party: "國家統一黨"
+ HUN_neutrality_party_long: "國家統一黨"
  HUN_legitimists_party: "正統派王黨"
  HUN_legitimists_party_long: "正統派王黨"
  HUN_national_socialist_party: "匈牙利國家社會主義黨"
@@ -514,7 +514,7 @@
  NOR_hoyre_name: "挪威保守黨"
  NOR_hoyre_long: "挪威保守黨"
  NOR_arbeiderklassen_name: "工人階級統一黨"
- NOR_arbeiderklassen_long: "工人階級統一黨" #unified Party of the Working Classes
+ NOR_arbeiderklassen_long: "工人階級統一黨"
  NOR_nkp_name: "挪威共產黨"
  NOR_nkp_long: "挪威共產黨"
  HOL_neutrality_party: "尼德蘭人民運動"
@@ -584,7 +584,7 @@
  COL_neutrality_party_long: "哥倫比亞保守黨"
  CZE_communism_party: "捷克斯洛伐克共產黨"
  CZE_communism_party_long: "捷克斯洛伐克共產黨"
- CZE_democratic_party: "廣泛聯盟" #RZML led 'Broad Coalition'
+ CZE_democratic_party: "廣泛聯盟"
  CZE_democratic_party_long: "農業和小農共和黨主導的廣泛聯盟"
  CZE_fascism_party: "國家法西斯黨團"
  CZE_fascism_party_long: "國家法西斯黨團"
@@ -905,21 +905,21 @@
  ISR_democratic_party: "以色列地工人黨"
  ISR_fascism_party: "赫帕姆黨"
  ISR_neutrality_party: "中央委員會"
- VIN_fascism_party: "大越國家社會黨" #was Vietnamese Restoration League or Reformation Society
- VIN_democratic_party: "勤勞黨" #formed in early 50s
- VIN_communism_party: "越南共產黨" #Viet Minh was more important in early years
- VIN_neutrality_party: "阮朝" #was Viêt Nam Quoc Dân Đang
+ VIN_fascism_party: "大越國家社會黨"
+ VIN_democratic_party: "勤勞黨"
+ VIN_communism_party: "越南共產黨"
+ VIN_neutrality_party: "阮朝"
  CAM_fascism_party: "高棉黨"
- CAM_democratic_party: "民主黨" #formed in 1946
+ CAM_democratic_party: "民主黨"
  CAM_communism_party: "高棉自由民族統一戰線"
- CAM_neutrality_party: "人民社會同盟" #or just Sangkum 1955, democratic but right leaning and anti communist
+ CAM_neutrality_party: "人民社會同盟"
  CPS_neutrality_party: "納佔巴塞王朝"
  INS_fascism_party: "尼德蘭國家社會主義運動"
  INS_fascism_party_long: "荷屬東印度尼德蘭國家社會主義運動"
  INS_democratic_party: "人民議會"
- INS_communism_party: "印尼共產黨" #Partai Komunis Indonesia
+ INS_communism_party: "印尼共產黨"
  INS_communism_party_long: "印度尼西亞共產黨"
- INS_neutrality_party: "總督" #Dutch
+ INS_neutrality_party: "總督"
  INS_neutrality_party_long: "荷蘭殖民政府"
  INS_republic_knip_party: "中央全國委員會"
  INS_republic_knip_party_long: "中央印度尼西亞全國委員會"
@@ -952,15 +952,15 @@
  LAO_neutrality_party: "保王黨"
  MNT_fascism_party: "綠黨"
  MNT_democratic_party: "民主同盟"
- MNT_communism_party: "黑山共產黨" #or KPCG
- MNT_neutrality_party: "聯邦黨" #Montenegrin ultra nationalists, start democratic right wing but went full fascist collaboration in 41'
+ MNT_communism_party: "黑山共產黨"
+ MNT_neutrality_party: "聯邦黨"
  UKR_fascism_party: "烏克蘭民族主義組織"
  UKR_fascism_party_long: "烏克蘭民族主義組織"
  UKR_democratic_party: "烏克蘭國家民主聯盟"
  UKR_democratic_party_long: "烏克蘭國家民主聯盟"
  UKR_communism_party: "烏克蘭共產黨"
  UKR_communism_party_long: "烏克蘭共產黨"
- UKR_neutrality_party: "全烏克蘭蓋特曼黨團" #was Ukrainian Progress Party
+ UKR_neutrality_party: "全烏克蘭蓋特曼黨團"
  GEO_fascism_party: "聖喬治愛國聯盟"
  GEO_fascism_party_long: "聖喬治愛國聯盟"
  GEO_democratic_party: "格魯吉亞孟什維克黨"
@@ -977,7 +977,7 @@
  AZR_communism_party: "阿塞拜疆共產黨"
  AZR_neutrality_party: "伊蒂哈德黨"
  ARM_fascism_party: "亞美尼亞軍團"
- ARM_democratic_party: "亞美尼亞革命聯盟" #or ARF
+ ARM_democratic_party: "亞美尼亞革命聯盟"
  ARM_communism_party: "亞美尼亞共產黨"
  ARM_neutrality_party: "中央政府"
  BLR_fascism_party: "白俄羅斯中央委員會"
@@ -1136,7 +1136,6 @@
  DNZ_neutrality_party: "德意志國家人民黨-但澤支部"
  DNZ_neutrality_party_long: "德意志國家人民黨-但澤支部"
  bermontian_party: "貝蒙德黨"
- #POL_hohenzollern_sigmaringen_long: "House of Hohenzollern-Sigmaringen"
  POL_hohenzollern_sigmaringen: "霍亨索倫王朝"
  POL_wettin_party: "韋廷王朝"
  romanov_party: "羅曼諾夫王朝"
@@ -1671,7 +1670,7 @@
  RUT_fascism_party: "俄羅斯國家自治黨"
  RUT_fascism_party_long: "俄羅斯國家自治黨"
  GAL_communism_party: "加利西亞社會民主黨"
- GAL_communism_party_long: "加利西亞社會民主黨" #in history file, the democratic party copies the name of the Polish equivalent
+ GAL_communism_party_long: "加利西亞社會民主黨"
  CZE_neutrality_party_monarchist: "施瓦岑貝格王朝"
  CZE_neutrality_party_placeholder: "捷克國家社會黨"
  CZE_neutrality_party_national_unity: "國家統一黨"

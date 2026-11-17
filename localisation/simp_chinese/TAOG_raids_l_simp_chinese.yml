@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ### Indonesia
  INS_naval_steal_crit_tt: "§Y20%§![THIS.GetAdjective]海軍被俘。"
  INS_naval_steal_success_tt: "§Y35%§![THIS.GetAdjective]海軍被俘。"
  INS_naval_steal_limited_success_tt: "§Y50%§![THIS.GetAdjective]海軍被俘。"
@@ -10,7 +9,6 @@
  INS_weapons_caches_unlock_tt: "在荷蘭控制的爪哇島地區解鎖§Y突襲軍火庫§!襲擊，該襲擊只能進行一次。"
  INS_militia_increase_activity_raid_unlock_tt: "在荷蘭控制的接壤地區解鎖§Y突襲荷蘭皇家東印度陸軍基地§!襲擊，成功後將為該地區提供戰鬥修正。"
  SIA_activate_naval_raid_tt: "解鎖§Y襲擊太平洋島嶼§!，對太平洋的島嶼發動襲擊。"
- ### AST - Malaya Foothold Raid
  AST_malaya_foothold_raid_unlock_tt: "解鎖針對馬來亞政府控制地區的§Y在馬來亞建立共產主義立足點§!襲擊。"
  raid_type_AST_malaya_communist_foothold_raid: "在馬來亞建立共產主義立足點"
  AST_malaya_communist_foothold_raid: "在馬來亞建立共產主義立足點"

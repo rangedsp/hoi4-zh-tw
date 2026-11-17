@@ -1,8 +1,6 @@
 ﻿l_simp_chinese:
- ##### France Ideas ####
  FRA_maginot_line_dynamic_modifier: "馬奇諾防線"
  JAP_public_awareness_of_war_ns: "公眾對中國戰爭的關注"
- ###### AUSTRIAN NATIONAL SPIRITS (IDEAS) ######
  AUS_widespread_unemployment: "廣泛失業"
  AUS_widespread_unemployment_desc: "自經濟崩潰以來，奧地利一直在與通貨膨脹和高失業率作鬥爭。民眾對政客的怨恨程度很高。"
  AUS_employment_efforts: "就業努力"
@@ -71,7 +69,6 @@
  AUS_unfriendly_neighbor: "不友善的鄰居"
  AUS_nuclear_effort: "核研發"
  AUS_avionics_effort: "航空電子研發"
- ###### AUSTRIAN DESIGNERS (IDEAS) #########
  AUS_hirtenberger_wuw: "希爾滕伯格"
  AUS_ansaldo: "安薩爾多"
  AUS_steyr_arms: "斯太爾武器"
@@ -89,7 +86,6 @@
  AUS_bbo_improved: "奧地利聯邦鐵路"
  AUS_alpen_elektrowerke_designer: "阿爾卑斯電子工程公司"
  AUS_kapsch: "電話與電報公司"
- ###### AUSTRIAN NATIONAL SPIRITS (DYNAMIC MODIFIERS) ######
  AUS_austrofascism: "奧地利法西斯主義"
  AUS_austrofascism_desc: "拒絕西方民主議會制，以企業國家的方式運作，祖國陣線是唯一的執政黨。憲法已被改寫，引導奧地利走向法團主義、威權主義和民族主義。"
  AUS_habsburg_monarchy_restored: "哈布斯堡君主復辟"
@@ -117,7 +113,6 @@
  AUS_navy: "奧地利海軍"
  AUS_compensation_for_guarantee: "補償外國援助"
  AUS_compensation_for_guarantee_desc: "得到其他國家的援助並不便宜。通過承諾負責他們一部分的消費品生產，我們設法購買了他們的援助，以應對可能發生的最糟糕情況。"
- ######  AUSTRIAN DYNAMIC MODIFIER TT INTROS   #######
  AUS_austrofascism_intro_tt: "§Y奧地利法西斯主義§!追加效果："
  AUS_habsburg_monarchy_restored_intro_tt: "§Y哈布斯堡君主復辟§!追加效果："
  AUS_austrian_monarchy_restored_intro_tt: "§Y奧地利恢復君主制§!追加效果："
@@ -139,9 +134,6 @@
  AUS_army_monarchy_intro_tt: "§Y奧地利後備軍§!追加效果："
  AUS_navy_intro_tt: "§Y奧地利海軍§!追加效果："
  AUS_compensation_for_guarantee_intro_tt: "§Y補償戰時保證§!追加效果："
- #####################################
- ############# HUNGARY ###############
- #####################################
  HUN_gombos_trade_treaty: "根伯什貿易條約"
  HUN_gombos_trade_treaty_desc: "1934年，根伯什·久洛與德國簽署的貿易條約對於刺激我們的經濟和從大蕭條中恢復至關重要，但這也帶來了重大的缺點。儘管協議為我們的小麥銷售提供了有利的價格，但所賺取的資金必須存放在德國的賬戶中，且只能用於購買德國的工業產品。如果這種情況持續下去，德國將能夠實現對我們國家的經濟統治。"
  HUN_hungarian_national_defense_association: "匈牙利國防軍協會"
@@ -241,9 +233,6 @@
  HUN_heirs_of_the_huns_idea: "匈人真正的繼承人"
  HUN_urbanization_efforts: "推動城市化"
  HUN_low_popular_support: "低民眾支持"
- ######################################
- ######### JOINT HABSBURG #############
- ######################################
  HABSBURG_economy_dynamic_modifier: "經濟合作政策"
  HABSBURG_modify_economy_ns_intro: "§Y$HABSBURG_economy_dynamic_modifier$§!追加效果："
  HABSBURG_joint_industry_modifier: "聯合工業規劃"
@@ -257,12 +246,6 @@
  HABSBURG_an_imperium_restored: "帝國復辟"
  HABSBURG_imperial_integration: "人民帝國統一運動"
  wuw_HUN_does_not_have_trianon_tt: "沒有殘留任何形式的§Y特里亞農條約§!"
- #####################################
- #####################################
- ############## GERMANY ##############
- #####################################
- #####################################
- #DESIGNERS (IDEAS)
  GER_vereinigte_stahlwerke: "聯合鋼鐵公司"
  GER_deutsche_reichsbahn: "德意志國家鐵路"
  GER_philipp_holzmann: "菲利普·霍爾茨曼"
@@ -277,7 +260,7 @@
  GER_deschimag: "機械製造股份公司"
  GER_deschimag_desc: "德國船舶和機械廠"
  GER_deutsche_werke: "基爾德意志造船廠"
- GER_kriegsmarinewerft_wilhelmshaven: "威廉港海軍造船廠" #Using Marinewerft instead of Kriegsmarinewerft since it works with all ideologies
+ GER_kriegsmarinewerft_wilhelmshaven: "威廉港海軍造船廠"
  GER_alkett: "阿爾凱特公司"
  GER_daimler_benz: "戴姆勒-奔馳"
  GER_reichswerke: "[GetReichsWerkeName]"
@@ -285,9 +268,8 @@
  GER_reichswerke_neutral: "凱撒工廠"
  GER_reichswerke_democratic: "聯邦工廠"
  GER_reichswerke_communism: "人民工廠"
- #NATIONAL SPIRITS
  GER_mefo_bills_modifier: "$GER_mefo_bills$"
- GER_mefo_bills_modifier_desc: "$GER_mefo_bills_desc$" #Reusing the old loc for this
+ GER_mefo_bills_modifier_desc: "$GER_mefo_bills_desc$"
  GER_economy_of_conquest_modifier: "征服經濟"
  GER_economy_of_conquest_modifier_desc: "儘管凡爾賽和約有不公平的規定，但我們將以堅定不移的決心從灰燼中崛起。通過孜孜不倦的重整軍備，我們致力於打造一個無與倫比的軍事工業，為我們走向輝煌提供動力。雖然這會使我們的經濟緊張，但勝利帶來了收穫征服戰利品的機會，引導其他國家的財富來加強我們的軍事。被征服的人有難了！"
  GER_aufrusting_modifier: "軍備擴張"
@@ -327,7 +309,6 @@
  is_controlled_by_ROOT_or_subject: "由§Y[ROOT.GetNameDef]§!或其附屬國控制"
  is_controlled_by_ROOT_or_subject_NOT: "不受§Y[ROOT.GetNameDef]§!或其附屬國控制"
  GER_alfred_rosenberg_modifier: "阿爾弗雷德·羅森堡"
- #TIMED SPIRITS
  GER_collect_scrap_metal_ns_desc: "我們發起了一場全國性運動，以儘可能多地收集廢金屬，幫助我們重新武裝。"
  GER_import_tariffs_ns_desc: "設立進口關稅是促進國內製造業和生產增長的必要之惡，但更重要的是，它將幫助我們節省寶貴的資金，因為我們無需耗費有限的外匯。"
  GER_knickebein: "曲腿導航系統"
@@ -352,7 +333,7 @@
  GER_the_inner_circle_dm: "核心集團"
  GER_the_inner_circle_dm_desc: "元首的核心集團囊括了[GER.GetNameDef]的政治精英，都是狂熱的忠誠分子，致力於推進[GER.GetLeader]的願景。儘管他們充滿野心，努力在核心集團內晉升為“帝國領袖”，他們的影響力塑造了軍事、工業和政治決策，並推動德國的政策制定。然而，他們的野心也是緊張的根源，導致了陰謀和背叛。"
  GER_the_inner_circle_dm_tt: "現任§Y核心集團§!顧問：\n[GetAscendedAdvisor1][GetAscendedAdvisor2][GetAscendedAdvisor3]"
- GER_the_inner_circle_tt_ascended_advisor_1: "§Y[GetAscendedAdvisorName1]§!，擔任[GetAscendedAdvisorDesc1]\n" #[GetAscendedAdvisorTrait1]
+ GER_the_inner_circle_tt_ascended_advisor_1: "§Y[GetAscendedAdvisorName1]§!，擔任[GetAscendedAdvisorDesc1]\n"
  GER_the_inner_circle_tt_ascended_advisor_2: "§Y[GetAscendedAdvisorName2]§!，擔任[GetAscendedAdvisorDesc2]\n"
  GER_the_inner_circle_tt_ascended_advisor_3: "§Y[GetAscendedAdvisorName3]§!，擔任[GetAscendedAdvisorDesc3]\n"
  GER_war_preparations_tt: "§Y[ROOT.GetNameDef]§!下一次處於§Y戰爭§!時："
@@ -378,7 +359,6 @@
  GER_eben_emael_success_ns: "埃本·埃馬爾堡壘突襲取得成功"
  GER_eben_emael_success_ns_desc: "我們在埃本·埃馬爾堡壘精心策劃的襲擊已經讓[BEL.GetAdjective]人變得脆弱。現在正是我們發動大規模進攻的絕佳時機。"
  GER_battle_for_air_superiority: "爭奪制空權"
- #Democratic/Kaiserreich
  GER_the_shield_of_democracy_idea: "民主之盾"
  GER_the_shield_of_democracy_idea_desc: "我們的國家是西方民主價值觀的驕傲盾牌，隨時準備保護其人民和盟友免受任何威權暴政的侵害。"
  reaffirmed_the_locarno_treaty: "重申《洛迦諾公約》"
@@ -388,8 +368,8 @@
  GER_safeguard_finland_idea: "防範布爾什維克主義"
  GER_safeguard_finland_idea_desc: "芬蘭直到幾十年前還是俄羅斯帝國的一部分，因此俄羅斯人可能再次試圖吞併它。為此，[GER.GetRussiansDemonym]已提供全力支持以應對來自東方的威脅。"
  GER_boosting_fascism_in_country: "[GER.GetNameDefCap]促進法西斯主義"
- GER_boosting_communism_in_country: "[USA.GetNameDefCap]促進共產主義" #yes it is supposed to be USA
- GER_boosting_democratic_in_country: "[USA.GetNameDefCap]促進民主主義" #yes it is supposed to be USA
+ GER_boosting_communism_in_country: "[USA.GetNameDefCap]促進共產主義"
+ GER_boosting_democratic_in_country: "[USA.GetNameDefCap]促進民主主義"
  GER_striking_the_sleeping_bear: "襲擊睡熊"
  GER_safeguard_poland_idea: "保護波蘭"
  GER_joint_military_drills_idea: "聯合軍事演習"
@@ -408,7 +388,6 @@
  GER_investments_into_sino_german_research_cooperation_idea: "對中德聯合研究計劃的投資"
  GER_compensation_for_transferred_colonies: "移交殖民地的補償"
  GER_supporting_independence_idea: "[GER.GetNameDefCap]支持獨立"
- #Communism
  GER_communist_intel_modifier: "情報部門"
  GER_communist_intel_modifier_desc: "正式建立情報部門將使我們的信息收集、處理和分析更加高效。"
  GER_stasi_modifier: "斯塔西"
@@ -431,7 +410,6 @@
  GER_stricter_industrial_organization: "更嚴謹的工業機構"
  GER_industrial_relocation_resources: "工業設施搬遷"
  GER_the_new_schlieffen_plan: "新施裡芬計劃"
- #REICHSKOMMISSARIATS
  GER_industrial_relocation_resources_modify_tt: "§Y工業設施遷移§!追加效果："
  GER_german_controlled_reichskommissariat: "專員轄區的民事管理"
  GER_government_general_idea: "總督府"
@@ -453,7 +431,6 @@
  GER_uncertain_future: "前途未卜"
  GER_uncertain_future_desc: "隨著內戰的結束，德國正在逐步重建，但其人民渴望穩定和安全。[ROOT.GetLeader]未曾採取任何行動，似乎對新德國的未來毫無興趣。這引起了人民的極大擔憂，他們急切希望擺脫過去的破碎局面。"
  GER_august_von_mackensen_must_retire_tt: "§Y$GER_uncertain_future$§!將會在§Y$GER_august_von_mackensen$§!卸任政府首腦後被§Y移除§!"
- #STATE MODIFIERS
  GER_overburdened_state_modifier: "不堪重負的國家"
  GER_lokot_autonomy_modifier: "洛科季自治政府"
  GER_blitzkrieg_modifier: "閃電戰"
@@ -481,8 +458,6 @@
  GER_proletariat_uprising_modifier: "無產階級起義"
  GER_state_supporting_resistance_modifier: "德國支持的抵抗"
  GER_state_supporting_resistance_modifier_desc: "[GER.GetName]秘密提供武器裝備以及軍事訓練給當地的抵抗組織。"
- #### TOOLTIPS ###
- #INDUSTRIAL TOOLTIPS
  GER_industrial_consumer_goods_factor_tt: "[GetCGLevelText][GetCGPenaltiesText]\n\n"
  GER_increasing_cg_tt: "§Y$MODIFIER_CONSUMER_GOODS_FACTOR$§!每月將§R增加§!§Y[?GER.GER_monthly_consumer_goods_increase|%1]§!，直到達到§Y100.0%§!。每月增加量將視§Y[ROOT.GetName]§!控制的§Y非核心地區§!數量而§R提高§!。"
  GER_max_CG_tt: "§Y100.0%$MODIFIER_CONSUMER_GOODS_FACTOR$§!§R已到達§!。"
@@ -506,7 +481,6 @@
  GER_replace_economy_of_conquest_with_recovering_economy_tt: "以§Y$GER_recovering_economy_modifier$§!取代§Y$GER_economy_of_conquest_modifier$§!，效果變化："
  GER_add_wehrwirtschaft_modifier_tt: "獲得§Y$GER_wehrwirtschaft_modifier$§!，其效果為："
  GER_modify_wehrwirtschaft_modifier_tt: "§Y$GER_wehrwirtschaft_modifier$§!追加效果："
- #MILITARY TOOLTIPS
  GER_modify_army_modifier_tt: "§Y$GER_army_modifier$§!追加效果："
  GER_modify_army_communist_modifier_tt: "§Y$GER_army_communist_modifier$§!追加效果："
  GER_modify_navy_fascist_modifier_tt: "§Y$GER_navy_fascist_modifier$§!追加效果："
@@ -521,7 +495,6 @@
  GER_modify_bewegungskrieg_modifier_tt: "§Y$GER_bewegungskrieg_modifier$§!追加效果："
  GER_motor_and_mech_attack_tt: "[GetMotorMechAttack]"
  GER_display_motor_and_mech_attack_tt: "$MODIFIER_MOTORIZED_ATTACK_FACTOR$：§G+5%§!\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$：§G+5%§!"
- #ALFRED ROSENBERG
  GER_rk_modifiers_tt: "[GetRosenbergsModifiers]"
  GER_modify_GER_alfred_rosenberg_modifier_tt: "改善§Y$GER_alfred_rosenberg_modifier$§!的特質最高§Y[?ROOT.GER_max_alfred_rosenberg_upgrades|.0]次§!："
  GER_times_GER_alfred_rosenberg_has_been_modified_tt: "§Y$GER_alfred_rosenberg_modifier$§!特質可以提高的次數：§Y[?ROOT.GER_count_down_alfred_rosenberg_upgrades|0]§!"
@@ -534,19 +507,15 @@
  GER_add_wunderwaffen_modifier_tt: "獲得§Y$GER_wunderwaffen_modifier$§!，其效果為："
  GER_modify_wunderwaffen_modifier_tt: "§Y$GER_wunderwaffen_modifier$§!追加效果："
  GER_dimantle_faction_tt: "§R當§Y$soviet_german_friendship$§!移除時，§Y$the_berlin_moscow_axis$§!將解散§!"
- #INTELLIGENCE
  GER_military_intelligence_service_modifier: "軍事情報部門"
  GER_add_military_intelligence_service_modifier_tt: "獲得§Y$GER_military_intelligence_service_modifier$§!，其效果為："
  GER_modify_military_intelligence_service_modifier_tt: "§Y$GER_military_intelligence_service_modifier$§!追加效果："
- #FAKE NATIONAL SPIRITS:
  GER_mefo_bills_1936_fake_ns_tt: "$GER_increasing_cg_tt$$GER_CG_penalties_may_apply$\n\n $MODIFIER_CONSUMER_GOODS_FACTOR$：§Y10.0%§!\n $MODIFIER_CIVILIAN_INTEL_TO_OTHERS$：§G-25.0%§! \n $MODIFIER_ARMY_INTEL_TO_OTHERS$：§G-25.0%§!\n $MODIFIER_NAVY_INTEL_TO_OTHERS$：§G-25.0%§!\n $MODIFIER_AIRFORCE_INTEL_TO_OTHERS_FACTOR$：§G-25.0%§!\n $modifier_production_speed_arms_factory_factor$：§G+10.00%§!\n $modifier_production_speed_dockyard_factor$：§G+10.00%§!"
  GER_mefo_bills_1939_fake_ns_tt: "$GER_increasing_cg_tt$$GER_CG_penalties_warning$\n\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y71.0%§!\n $MODIFIER_CIVILIAN_INTEL_TO_OTHERS$: §G-25.0%§! \n $MODIFIER_ARMY_INTEL_TO_OTHERS$: §G-25.0%§!\n $MODIFIER_NAVY_INTEL_TO_OTHERS$: §G-25.0%§!\n $MODIFIER_AIRFORCE_INTEL_TO_OTHERS_FACTOR$: §G-25.0%§!\n $modifier_production_speed_arms_factory_factor$: §G+15.00%%§!\n $modifier_production_speed_dockyard_factor$: §G+15.00%§!"
- #OPINION MODIFIERS
  GER_german_trade_opinion: "德意志貿易關係"
  GER_autarky_trade_opinion: "自給自足貿易關係"
  GER_trading_partners: "貿易伙伴"
  GER_german_influence: "德國影響"
- #INNER CIRCLE
  GER_todt_reich_engineer: "國家工程師"
  GER_todt_reich_minister_of_armaments: "國家軍備部長"
  GER_speer_reich_architect: "國家建築師"
@@ -568,14 +537,9 @@
  GER_bormann_secretary_to_the_fuhrer: "元首秘書"
  GER_bormann_secretary_to_the_fuhrer_improved: "$GER_bormann_secretary_to_the_fuhrer$"
  GER_bormann_brown_eminence: "幕後權臣"
- #####################################
- ############# BELGIUM ###############
- #####################################
- ###### BELGIAN DESIGNERS (IDEAS) #########
  BEL_cockerill_industrial: "柯克里爾"
  BEL_societe_generale_de_belgique_industrial: "比利時興業銀行"
  BEL_distrigaz: "迪斯特里天然氣公司"
- ###### BELGIAN NATIONAL SPIRITS #########
  BEL_inflation_controls_ns: "控制通貨膨脹"
  BEL_inflation_controls_ns_desc: "為了減少通貨膨脹的影響，我們開始回購貨幣並不再發行損壞貨幣的替代品，調整利率，並鼓勵經濟循環中鼓勵消費。"
  BEL_language_barriers_ns: "語言隔閡"
@@ -635,7 +599,6 @@
  BEL_corruption_ns_fake_desc: "$BEL_corruption_dynamic_modifier_desc$"
  BEL_democratization_of_education_ns: "教育民主化"
  BEL_democratization_of_education_ns_desc: "我們的社會有著彼此關愛的傳統，這體現在工人與企業間的社會契約中。同樣，國家也應致力於給予每個人平等機會，彰顯優質教育的重要性。"
- ###### BELGIAN DYNAMIC MODIFIERS #########
  BEL_scars_of_ww1_dynamic_modifier: "大戰之瘡"
  BEL_scars_of_ww1_dynamic_modifier_desc: "[BEL.GetName]在大戰期間飽受戰火摧殘，西線戰場的主要戰鬥大多發生在這片土地上，至今仍留有深重的創傷。"
  BEL_social_partners_dynamic_modifier: "社會夥伴"
@@ -671,16 +634,12 @@
  BEL_socialism_on_the_rise_dynamic_modifier_desc: "在王德威爾得在選舉中相對領先後，社會主義思潮在[ROOT.GetNameDef]穩步增長。"
  BEL_academies_of_belgium_dynamic_modifier: "比利時學院"
  BEL_academies_of_belgium_dynamic_modifier_desc: "比利時學院是全國高等學術機構的集體組織，是比利時技術突破的核心。"
- ###### BELGIAN STATE MODIFIERS #########
  BEL_belgian_resistance_state_dynamic_modifier: "比利時抵抗組織"
- BEL_belgian_resistance_state_dynamic_modifier_desc: "我們的人民對被佔領並不陌生，許多人在上次戰爭中學到了非暴力不合作和抵抗的經驗教訓。" #Note, this is countered by the Secretaries General occupation law.
+ BEL_belgian_resistance_state_dynamic_modifier_desc: "我們的人民對被佔領並不陌生，許多人在上次戰爭中學到了非暴力不合作和抵抗的經驗教訓。"
  BEL_flooded_tank_barriers_dynamic_modifier: "淹沒式反坦克屏障"
  BEL_flooded_tank_barriers_dynamic_modifier_desc: "該區域的水下隱藏著分散的反坦克障礙物，旨在遲滯敵軍移動，增強比利時的防禦。"
  BEL_secretaries_general_tt: "§Y國家控制者§!將在§Y比利時核心地區§!中獲得一部僅限於該區域的特殊§Y佔領法§!。"
- ###### BELGIAN HIDDEN IDEAS #########
  BEL_international_stipend_ns: "國際津貼"
- ###### TOOLTIPS ##########################
- #Dynamic Modifiers
  BEL_modify_social_partners_dynamic_modifier_tt: "§Y$BEL_social_partners_dynamic_modifier$§!追加效果："
  BEL_remove_social_partners_dynamic_modifier_tt: "以§Y$BEL_engine_of_the_economy_dynamic_modifier$§!取代§Y$BEL_social_partners_dynamic_modifier$§!，效果變化："
  BEL_modify_engine_of_the_economy_dynamic_modifier_tt: "§Y$BEL_engine_of_the_economy_dynamic_modifier$§!效果變化："
@@ -703,15 +662,11 @@
  BEL_european_crusade_dynamic_modifier_vnv_tt: "添加§Y$BEL_european_crusade_dynamic_modifier$（佛蘭德國民聯盟）§!："
  BEL_academies_of_belgium_dynamic_modifier_tt: "§Y$BEL_academies_of_belgium_dynamic_modifier$§!提升："
  BEL_modify_socialism_on_the_rise_dynamic_modifier: "§Y$BEL_socialism_on_the_rise_dynamic_modifier$§!追加效果："
- #Dynamic State Modifiers
  BEL_modify_belgian_resistance_state_dynamic_modifier_tt: "§Y$BEL_belgian_resistance_state_dynamic_modifier$（地區）§!提高："
- #National Spirits
  BEL_social_partner_to_engine_tt: "以§Y$BEL_engine_of_the_economy_dynamic_modifier$§!取代§Y$BEL_social_partners_modifier$§!"
  BEL_engine_to_miracle_tt: "以§Y$BEL_belgian_miracle_dynamic_modifier$§!取代§Y$BEL_engine_of_the_economy_modifier$§!"
  BEL_construction_investments: "建設投資"
- #BEL_construction_investments_desc: #TODO?
  BEL_industrial_investments: "工業投資"
- #BEL_industrial_investments_desc: #TODO?
  BEL_burgundian_heritage_ns: "勃艮第的遺產"
  BEL_burgundian_heritage_ns_desc: "祈願勃艮第黃金時代的繁榮的庇護，這個國家的軍事、政治和經濟潛力將再一次無可辯駁地走向鼎盛。"
  BEL_pax_belgica_ns: "貝爾吉卡的和平"
@@ -729,7 +684,6 @@
  BEL_empowered_factory_workers_unions_ns: "授權成立工廠工會"
  BEL_emergency_measures: "緊急措施"
  BEL_corvette_fleet_ns: "護衛艦艦隊"
- ###### CONGO #############################
  COG_colonial_maritime_company: "剛果比利時海運公司"
  BEL_colonial_maritime_company: "剛果比利時海運公司"
  COG_rawji_group: "拉吉集團"
@@ -840,7 +794,6 @@
  COG_kongo_volunteer_force_idea: "泛剛果志願兵"
  generic_secret_weapons_ns: "秘密武器計劃"
  generic_secret_weapons_ns_desc: "儘管將所有額外資源投入坦克和飛機的開發是令人誘惑的，但贏得戰爭的秘密在於全新的科學領域：電子學、火箭技術和核研究。"
- ##### CONGO TOOLTIPS ######
  BEL_belgian_congo_colonial_returns_dynamic_modifier: "殖民回報"
  modify_BEL_belgian_congo_colonial_returns_dynamic_modifier_tt: "§Y$BEL_belgian_congo_colonial_returns_dynamic_modifier$§!追加效果："
  modify_COG_belgian_congo_colonial_dynamic_modifier_tt: "§Y$COG_belgian_congo_colonial_dynamic_modifier$§!追加效果："

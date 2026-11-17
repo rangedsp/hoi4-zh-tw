@@ -201,7 +201,6 @@
  nsb_coup.1.t: "[Root.GetLeader]接管政府"
  nsb_coup.1.desc: "經過數週的籌謀，[Root.GetLeader]麾下的幾位軍官啟動了[Root.GetOperationName]計劃，意在奪取政權。\n\n長時間的準備終於有了回報，忠於[Root.GetLeader]的部隊迅速佔領所有政府重要建築。面對壓倒性的人數優勢，衛兵和警察部隊未做抵抗。同時，首都周圍設置的關卡抓獲了所有企圖逃跑的政府要員。\n\n基於[Root.GetLeader]圈禁了前政府內閣，擺在[Root.GetNameDef]的其他人面前的是已成定局的事實。據信各地方行政機構也會立刻歸順。"
  nsb_coup.1.a: "我，代表個人，歡迎我們的新統治者。"
- #translation notes: these are names and shouldn't be translated - non-latin alphabets may however transcribe them
  GER_operation_1: "女武神行動"
  GER_operation_2: "磨刀石行動"
  GER_operation_3: "鬥牛行動"
@@ -214,7 +213,6 @@
  ENG_operation_2: "甜魚行動"
  ENG_operation_3: "小丑行動"
  ENG_operation_4: "日珥行動"
- #translation notes: these generic operation names can be translated
  generic_operation_1: "意外事件1"
  generic_operation_2: "意外事件2"
  generic_operation_3: "意外事件3"

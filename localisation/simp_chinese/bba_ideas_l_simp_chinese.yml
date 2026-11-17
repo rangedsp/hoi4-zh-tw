@@ -104,7 +104,6 @@
  ETH_aid_ethiopian_communists: "幫助埃塞俄比亞共產主義者"
  ETH_aid_SPC: "支援西班牙安那其"
  ETH_purge_ideology_boost_idea: "清除共產黨及法西斯流亡者"
- #Foreign Industrialists
  ETH_english_electric: "英國電氣"
  ETH_CZE_skoda_works_2: "斯柯達工業"
  ETH_CZE_skoda_artillery: "斯柯達火炮"
@@ -265,7 +264,6 @@
  ITA_papal_state_catholic_dominion_desc: "隨著教宗國崛起成為世界強權，是時候執行上帝的旨意了——就像牧者引導羊群一般，我們將保護基督徒免於惡魔之侵害。"
  ITA_papal_state_catholic_dominion_puppet_discount_tt: "和談時為§Y傀儡國家§!行動§Y花費減少§!。"
  ITA_cooperation_of_the_bourgeoisie: "與資產階級合作"
- #ITA_cooperation_of_the_bourgeoisie_desc: "NEEDED?"
  ITA_seizing_old_equipment: "奪取舊式軍備"
  ITA_international_aid: "國際援助"
  ITA_disgruntled_military: "不滿的軍隊"
@@ -336,7 +334,6 @@
  ITA_impero_italiano_desc: "意大利帝國成立的宣佈鼓舞了我們的軍隊，併合法化我們在非洲的宣稱。"
  ITA_novus_ordo_modifier: "新秩序"
  ITA_expanded_corporatism_modifier: "拓展社團主義"
- ### Switzerland ###
  SWI_spirit_of_resistance_idea: "瑞士的抵抗精神"
  SWI_swiss_neutrality: "瑞士式中立"
  SWI_werner_risch: "維爾納-裡施"

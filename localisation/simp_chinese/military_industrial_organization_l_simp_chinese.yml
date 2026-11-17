@@ -1,7 +1,4 @@
 ﻿l_simp_chinese:
- ###################################################################################################
- #### Code and UX localization
- ###################################################################################################
  INDUSTRIAL_ORG_PP_COST: "£GFX_pol_power_icon $VALUE|H$/日"
  INDUSTRIAL_ORG_PP_COST_KEEP_COLOR: "£GFX_pol_power_icon $VALUE|H$/日"
  INDUSTRIAL_ORG_ARMY_XP_COST: "£GFX_army_experience $VALUE$"
@@ -9,7 +6,6 @@
  INDUSTRIAL_ORG_NAVY_XP_COST: "£GFX_navy_experience $VALUE$"
  INDUSTRIAL_ORG_ANY_XP_COST: "£GFX_neutral_experience $VALUE$"
  INDUSTRIAL_ORG_POLICY_PP_COST: "£GFX_pol_power_icon $VALUE|H$"
- #SORTING
  mio_sorting_name: "名稱"
  mio_sorting_task_capacity: "容量"
  mio_sorting_task_cost: "花費"
@@ -238,24 +234,12 @@
  INDUSTRIAL_ORG_CLEAR_QUEUE_TITLE: "清空特質隊列"
  INDUSTRIAL_ORG_CLEAR_QUEUE_DESC: "你確定要清空當前特質隊列嗎？"
  INDUSTRIAL_ORG_CLEAR_QUEUE_CONFIRM: "清空"
- ###################################################################################################
- #### Content localization
- ###################################################################################################
- ### Just for testing
  my_custom_mio: "我的自定義軍工機構"
  FRA_my_custom_mio: "法國的我的自定義軍工機構"
  my_custom_mio_custom_1: "我的左上特質"
  FRA_my_custom_mio_custom_1: "法國的我的左上特質"
  my_custom_mio_initial_trait: "初始特質"
  FRA_my_custom_mio_initial_trait: "初始特質"
- ### end of testing stuff
- ########  #######  ##     ## #### ########  ##     ## ######## ##    ## ########     ######   ########   #######  ##     ## ########   ######
- ##       ##     ## ##     ##  ##  ##     ## ###   ### ##       ###   ##    ##       ##    ##  ##     ## ##     ## ##     ## ##     ## ##    ##
- ##       ##     ## ##     ##  ##  ##     ## #### #### ##       ####  ##    ##       ##        ##     ## ##     ## ##     ## ##     ## ##
- ######   ##     ## ##     ##  ##  ########  ## ### ## ######   ## ## ##    ##       ##   #### ########  ##     ## ##     ## ########   ######
- ##       ##  ## ## ##     ##  ##  ##        ##     ## ##       ##  ####    ##       ##    ##  ##   ##   ##     ## ##     ## ##              ##
- ##       ##    ##  ##     ##  ##  ##        ##     ## ##       ##   ###    ##       ##    ##  ##    ##  ##     ## ##     ## ##        ##    ##
- ########  ##### ##  #######  #### ##        ##     ## ######## ##    ##    ##        ######   ##     ##  #######   #######  ##         ######
  mio_cat_eq_all_light_tank: "所有輕型坦克裝備"
  mio_cat_eq_all_medium_tank: "所有中型坦克裝備"
  mio_cat_eq_all_heavy_tank: "所有重型坦克裝備"
@@ -280,16 +264,6 @@
  mio_cat_eq_all_artillery: "所有火炮裝備"
  mio_cat_eq_only_artillery: "$artillery_equipment$"
  mio_cat_eq_all_infantry_and_support_equipment: "所有步兵和支援裝備"
- ##     ## ########    ###    ########  ######## ########   ######
- ##     ## ##         ## ##   ##     ## ##       ##     ## ##    ##
- ##     ## ##        ##   ##  ##     ## ##       ##     ## ##
- ######### ######   ##     ## ##     ## ######   ########   ######
- ##     ## ##       ######### ##     ## ##       ##   ##         ##
- ##     ## ##       ##     ## ##     ## ##       ##    ##  ##    ##
- ##     ## ######## ##     ## ########  ######## ##     ##  ######
- #######################
- ##### MIO HEADERS #####
- #######################
  mio_header_light_tank_department: "輕型坦克部門"
  mio_header_medium_tank_department: "中型坦克部門"
  mio_header_heavy_tank_department: "重型坦克部門"
@@ -343,13 +317,6 @@
  mio_header_medium_tank_destroyers_department: "中型坦殲車部門"
  mio_header_heavy_tank_destroyers_department: "重型坦殲車部門"
  mio_header_tank_production: "坦克生產"
- ########   #######  ##       ####  ######  #### ########  ######
- ##     ## ##     ## ##        ##  ##    ##  ##  ##       ##    ##
- ##     ## ##     ## ##        ##  ##        ##  ##       ##
- ########  ##     ## ##        ##  ##        ##  ######    ######
- ##        ##     ## ##        ##  ##        ##  ##             ##
- ##        ##     ## ##        ##  ##    ##  ##  ##       ##    ##
- ##         #######  ######## ####  ######  #### ########  ######
  mio_policy_general_ruthless_contracts: "無情合同"
  mio_policy_general_assembly_line_optimisers: "裝配線優化者"
  mio_policy_general_vertical_integration: "上下游整合"
@@ -370,15 +337,6 @@
  mio_policy_navy_stable_platforms: "穩定炮臺"
  mio_policy_navy_great_sea_keeping: "優秀耐波性"
  mio_policy_navy_coastal_battlefleet: "海岸作戰艦隊"
- ##  ##   ###  ##  ###       ##   ##  #  # #  # ### ###  ### ###  ##
- ## ## #  #    # #  # #  #     #  # #  # #  # ## #  #  #  #  #  #   #
- ## # ####    # #  # ###      #    #  # #  # # ##  #  ###   #  ##   #
- ## #  # #  # #  # #  #     #  # #  # #  # #  #  #  #  #  #  #     #
- ## #  #  ##   ##  #  #      ##   ##   ##  #  #  #  #  # ### ### ##
- ###################
- ####### USA #######
- ###################
- ### ORGANIZATIONS ###
  USA_marmon_herrington_organization: "$marmon_herrington$"
  USA_chrysler_organization: "$chrysler$"
  USA_army_ordnance_department_organization: "$army_ordnance_department$"
@@ -395,7 +353,6 @@
  USA_ford_motor_company_organization: "$ford_motor_company$"
  USA_rock_island_arsenal_organization: "$rock_island_arsenal$"
  USA_sikorsky_organization: "西科爾斯基航空公司"
- ### TRAITS ###
  USA_mio_trait_lockeed_aircraft: "洛克希德飛行器"
  USA_mio_trait_medium_tank_organization: "中型坦克機構"
  USA_mio_trait_mechanized_production: "機械化生產線"
@@ -417,17 +374,12 @@
  USA_mio_trait_drydock_expansion: "擴建幹船塢"
  USA_mio_trait_north_carolina_shipbuilding_company: "北卡羅來納造船公司"
  USA_mio_trait_carrier_specialists: "航空母艦專家"
- ### INITIAL TRAITS ###
  USA_mio_trait_light_long_range_aircraft: "輕型長程飛行器"
  USA_mio_trait_medium_long_range_aircraft: "中型長程飛行器"
  USA_mio_trait_light_aircraft_development: "輕型飛行器研發"
  USA_mio_trait_mass_production_of_armor: "裝甲車輛大規模生產"
  USA_mio_trait_medium_tank_manufacturer: "中型坦克製造商"
  USA_mio_trait_dedicated_tank_factory: "專用坦克工廠"
- ###################
- ###### JAPAN ######
- ###################
- ### ORGANIZATIONS ###
  JAP_kure_naval_arsenal_organization: "$kure_naval_arsenal$"
  JAP_yokosuka_naval_arsenal_organization: "$yokosuka_naval_arsenal$"
  JAP_maizuru_naval_arsenal_organization: "$maizuru_naval_arsenal$"
@@ -457,7 +409,6 @@
  JAP_isuzu_motors: "五十鈴自動車"
  JAP_nippon_sharyo_organization: "日本車輛製造株式會社"
  JAP_kawasaki_dockyards_org_name: "專注航母的襲擊艦隊"
- ### TRAITS ###
  JAP_mio_trait_rapid_counterflooding_system: "快速抗傾覆注水系統"
  JAP_generic_mio_trait_advanced_hydrodynamic_design: "球鼻艏"
  JAP_mio_trait_enhanced_optics: "增強光學器件"
@@ -483,10 +434,6 @@
  mitsubishi_trait_will_not_be_available_in_other_organizations: "§R此特質將不可用於其他三菱軍工機構§!。"
  JAP_mio_trait_special_government_contracts_nissan_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$"
  JAP_mio_trait_special_government_contracts_nakajima_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$"
- ######################
- #### SOVIET UNION ####
- ######################
- ### ORGANIZATIONS ###
  SOV_mytishchy_machine_building_plant_organization: "$SOV_mytishchy_machine_building_plant$"
  SOV_tupolev_design_bureau_organization: "$tupolev_design_bureau$"
  SOV_morozov_design_bureau_organization: "$morozov_design_bureau$"
@@ -503,7 +450,6 @@
  SOV_grabin_design_bureau_organization: "$grabin_design_bureau$"
  SOV_tula_arms_plant_organization: "$tula_arms_plant$"
  SOV_gaz_organization: "$gaz$"
- ### TRAITS ###
  SOV_mio_trait_gas_tank_protection: "氣罐保護"
  SOV_mio_trait_lightened_reduction_gear: "輕型減速器"
  SOV_merge_plant_no_174_flag: "$generic_has_already_completed_this_trait$"
@@ -516,10 +462,6 @@
  SOV_merge_vef_plant_flag: "$generic_has_already_completed_this_trait$"
  SOV_merge_nkmz_plant_flag: "$generic_has_already_completed_this_trait$"
  SOV_merge_magnitogorsk_metallurgical_plant_flag: "$generic_has_already_completed_this_trait$"
- ########################
- #### UNITED KINGDOM ####
- ########################
- ### ORGANIZATIONS ###
  ENG_harland_wolff_organization: "$harland_wolff$"
  ENG_cammell_laird_organization: "$cammell_laird$"
  ENG_yarrow_shipbuilders_organization: "$yarrow_shipbuilders$"
@@ -533,7 +475,6 @@
  ENG_royal_arsenal_organization: "$royal_arsenal$"
  ENG_vickers_armstrong_eng_organization: "$vickers_armstrong_eng$"
  ENG_avro_organization: "$avro$"
- ### TRAITS ###
  ENG_mio_trait_flared_bow: "船艏外傾"
  ENG_mio_trait_super_charges: "超級炸彈"
  ENG_mio_trait_seaplane_origins: "水上飛機起源"
@@ -543,10 +484,6 @@
  ENG_mio_trait_sten_submachine_guns: "斯登衝鋒槍"
  ENG_mio_trait_expanded_turret_capacity: "炮塔擴容"
  ENG_mio_trait_expanded_production_facilities: "擴大生產設施"
- ################
- #### FRANCE ####
- ################
- ### ORGANIZATIONS ###
  FRA_panhard_organization: "$FRA_panhard$"
  FRA_renault_organization: "$renault_fra$"
  FRA_hotchkiss_organization: "$FRA_hotchkiss$"
@@ -563,7 +500,6 @@
  FRA_aeb_organization: "$aeb$"
  FRA_acl_organization: "$acl$"
  FRA_acf_organization: "$acf$"
- ### TRAITS ###
  FRA_mio_trait_light_tank_improvements: "輕戰坦克"
  FRA_mio_trait_medium_tank_improvements: "作戰坦克"
  FRA_mio_trait_automitrailleuses: "自行火炮車"
@@ -572,10 +508,6 @@
  FRA_mio_trait_b1_bis_suspension: "B1 bis懸掛"
  FRA_mio_trait_l_35: "L/35"
  FRA_mio_trait_scam_facilities: "SACM 設施"
- #################
- #### GERMANY ####
- #################
- #### ORGANIZATIONS ####
  GER_porsche_organization: "$porsche$"
  GER_henschel_organization: "$henschel$"
  GER_man_organization: "$GER_MAN$"
@@ -600,7 +532,6 @@
  GER_opel_organization: "$opel$"
  GER_carl_walther_organization: "$GER_carl_walther$"
  GER_auto_union_organization: "$GER_auto_union$"
- ### TRAITS ###
  GER_mio_trait_hotrolled_armor: "熱軋裝甲"
  GER_mio_trait_multilayer_armour: "附加裝甲"
  GER_mio_trait_maintenance_first_design: "維護優先設計"
@@ -681,10 +612,6 @@
  generic_mio_initial_trait_helicopter_designer: "早期直升機設計商"
  GER_mio_trait_aerodynamic_research_insitute: "空氣動力研究綜合部門"
  GER_mio_trait_aerodynamic_research_insitute_taken_flag: "$generic_has_already_completed_this_trait$"
- ###################
- ###### ITALY ######
- ###################
- #### ORGANIZATIONS ####
  ITA_fiat_organization: "$fiat$"
  ITA_crda_organization: "$crda$"
  ITA_cantiere_oto_organization: "$ITA_cantiere_oto$"
@@ -704,7 +631,6 @@
  ITA_brescia_arsenal_organization: "$ITA_brescia_arsenal$"
  ITA_officine_meccaniche_organization: "$ITA_officine_meccaniche$"
  ITA_ansaldo_train_organization: "$AUS_ansaldo_organization$"
- ### TRAITS ###
  ITA_mio_trait_air_race_pedigree: "空中競賽血統"
  ITA_mio_trait_special_aerotorpedoes_unit: "特製航空魚雷裝置"
  ITA_mio_trait_remote_operated: "遙控操作"
@@ -712,31 +638,17 @@
  ITA_new_ricostruzione_industriale_motorized: "$ITA_new_ricostruzione_industriale$（摩托化）"
  ITA_new_ricostruzione_industriale_mechanized: "$ITA_new_ricostruzione_industriale$（機械化）"
  ITA_new_ricostruzione_industriale_train: "$ITA_new_ricostruzione_industriale$（火車）"
- ###  ##   ##  ### ### #  # ### ###      ###  ##  ###      #   # ###  ##  ###  ##  ###  #   #
- ##  # #    #    #  #  # #   #  #     #   #  # #  #     #   #  #  #  #  #  #  # #  #  # #
- ##  # # ## ##   #  #### ##  ###      ##  #  # ###       # #   #  #     #  #  # ###    #
- ##  # #  # #    #  #  # #   #  #     #   #  # #  #      # #   #  #  #  #  #  # #  #   #
- ###   ##  ###  #  #  # ### #  #     #    ##  #  #       #   ###  ##   #   ##  #  #   #
- #####################
- #### NEW ZEALAND ####
- #####################
- ### ORGANIZATIONS ###
  NZL_port_chalmers_shipbuilding_organization: "$NZL_port_chalmers_shipbuilding$"
  NZL_st_mary_bay_ship_organization: "$NZL_st_mary_bay_ship$"
  NZL_nz_railways_organization: "$NZL_nz_railways$"
  NZL_christchurch_workshops_organization: "$NZL_christchurch_workshops$"
  NZL_charlton_mw_organization: "$NZL_charlton_mw$"
- ###################
- #### AUSTRALIA ####
- ###################
- ### ORGANIZATIONS BASEGAME ###
  AST_cockatoo_doe_organization: "$Cockatoo_doe$"
  AST_evans_deakin_co_organization: "$evans_deakin_co$"
  AST_new_south_wales_rc_organization: "$new_south_wales_rc$"
  AST_lysaghts_works_organization: "$lysaghts_works$"
  AST_lithgow_saf_organization: "$lithgow_saf$"
  AST_com_aircraft_corporation_organization: "$AST_commonwealth_aircraft_corporation$"
- ### ORGANIZATIONS Thunder at Our Gates ###
  AST_new_south_wales_government_railways_organization: "新南威爾士國營鐵路"
  AST_vulcan_foundry_organization: "伏爾甘鑄造廠"
  AST_nuffield_mechanizations_and_aero_organization: "納菲爾德機械化與航空公司"
@@ -756,10 +668,6 @@
  AST_morts_dock_organization: "莫特船塢與工程公司"
  AST_cockatoo_docks_organization: "鸚鵡島船塢與工程公司"
  AST_john_brown_and_company_organization: "約翰·布朗公司"
- #####################
- #### BRITISH RAJ ####
- #####################
- ### ORGANIZATIONS ###
  RAJ_mazagon_dock_limited_organization: "$mazagon_dock_limited$"
  RAJ_garden_reach_shipbuilders_organization: "$garden_reach_shipbuilders$"
  RAJ_scindia_shipyard_organization: "$scindia_shipyard$"
@@ -787,15 +695,7 @@
  RAJ_vauxhall_automotive_organization: "沃克斯豪爾汽車-印度分部"
  RAJ_royal_arsenal_organization: "皇家兵工廠-印度分部"
  RAJ_crossley_motors_organization: "克羅斯利汽車公司-印度分部"
- ######################
- #### SOUTH AFRICA ####
- ######################
- ### ORGANIZATIONS ###
  SAF_iscor_organization: "$iscor$"
- ################
- #### CANADA ####
- ################
- ### CANADIAN ORGANIZATIONS ###
  CAN_kingston_shipbuilding_organization: "$kingston_shipbuilding$"
  CAN_halifax_shipyard_organization: "$halifax_shipyard_limited$"
  CAN_vickers_armstrong_can_organization: "$vickers_armstrong_can$"
@@ -805,18 +705,8 @@
  CAN_canadian_car_foundry_organization: "$canadian_car_foundry$"
  CAN_fairchild_aircraft_ltd_organization: "$CAN_fairchild_aircraft_ltd$"
  CAN_handley_page_organization: "$CAN_handley_page$"
- ### CANADIAN TRAITS ###
  CAN_mio_trait_cookie_carriers: "$CAN_cookie_carriers$"
  CAN_mio_trait_fairchilds_funded: "仙童半導體受資助"
- ###  ###  ##  ### #  #      ##  ###      ###  ###  ## #  #  ##  #  #  ##  ###
- ## #   #  #  #  #  #     #  # #  #     #  #  #  #   #  # #  # ## # #  # #  #
- ## ##  ####  #  ####     #  # ###      #  #  #   #  #### #  # # ## #  # ###
- ## #   #  #  #  #  #     #  # #  #     #  #  #    # #  # #  # #  # #  # #  #
- ###  ### #  #  #  #  #      ##  #  #     ###  ### ##  #  #  ##  #  #  ##  #  #
- ########################
- #### CZECHOSLOVAKIA ####
- ########################
- ### CZECHOSLOVAKIAN ORGANIZATIONS ###
  CZE_skoda_shipyards_organization: "$CZE_skoda_shipyards$"
  CZE_ckd_organization: "$CZE_ckd$"
  CZE_tatra_organization: "$CZE_tatra$"
@@ -829,10 +719,6 @@
  CZE_aero_organization: "$CZE_aero$"
  CZE_letov_organization: "$CZE_letov$"
  CZE_praga_aviation_organization: "$CZE_praga$航空"
- #################
- #### HUNGARY ####
- #################
- ### HUNGARIAN ORGANIZATIONS ###
  HUN_ganz_danubius_organization: "$HUN_ganz_danubius$"
  HUN_femaru_fegyver_es_gepgyar_organization: "$HUN_femaru_fegyver_es_gepgyar$"
  HUN_mw_aircraft_organization: "$mw_aircraft$"
@@ -845,24 +731,17 @@
  HUN_mavag_assault_guns_organization: "$HUN_mavag_assault_guns$"
  HUN_mio_trait_army_ammunition_and_wepaons_works: "彈藥及武器工廠"
  HUN_digep_artillery: "迪歐什久爾火炮廠"
- ## FOREIGN ###
  ENG_crossley_motors_organization: "$HUN_crossley_motors$"
  HUN_fiat_tankettes_organization: "$ITA_fiat_organization$"
  HUN_henschel_organization: "$GER_henschel_organization$"
  HUN_mio_trait_aircraft_production_plant: "$aircraft_production_plant$"
- ### HUNGARIAN TRAITS ###
  HUN_mio_trait_naval_warfare: "$HUN_naval_warfare$"
  HUN_mio_trait_danuvia_two_part_lever_delayed_blowback_bolt: "兩部分槓桿延遲式反吹螺栓"
  HUN_mio_trait_danuvia_motorcycles: "摩托車"
  HUN_mio_trait_danuvia_improved_stock: "摺疊式金屬槍托"
  HUN_mio_trait_heavy_mauser_rounds: "9×25mm毛瑟子彈"
- ### FOREIGN TRAITS ###
  GER_mio_trait_3_7_cm_pak: "PaK 3.7cm反坦克炮"
  GER_mio_trait_7_5_cm_pak: "PaK 7.5cm反坦克炮"
- #################
- #### ROMANIA ####
- #################
- ### ROMANIAN ORGANIZATIONS ###
  ROM_constanta_shipyard_organization: "$constanta_shipyard$"
  ROM_galati_shipyard_organization: "$ROM_coastal_defense_navy_designer$"
  ROM_Braila_organization: "$ROM_black_sea_dominance_designer$"
@@ -881,35 +760,20 @@
  ROM_ENG_vauxhall_automotive_organization: "$ROM_vauxhall$"
  ROM_GER_opel_organization: "$ROM_opel$"
  ROM_USA_ford_motor_company_organization: "$ROM_ford$"
- ### ROMANIAN TRAITS ###
  ROM_mio_trait_iar_investment: "羅馬尼亞航空工業投資"
  ROM_mio_trait_black_sea_armor: "黑海裝甲"
  ROM_mio_trait_black_sea_weapons: "黑海武器"
  ROM_mio_trait_coastal_defense_weapons: "岸防武器"
  ROM_mio_trait_coastal_defense_production: "岸防生產"
  ROM_mio_trait_mobile_tank_destroyers: "$ROM_mobile_tank_destroyers$"
- ####################
- #### YUGOSLAVIA ####
- ####################
- ### YUGOSLAVIC ORGANIZATIONS ###
  YUG_jadransko_brodogradiliste_organization: "$jadransko_brodogradiliste$"
  YUG_zastava_arms_organization: "$zastava_arms$"
  YUG_ikarus_organization: "$YUG_ikarus$"
  YUG_rogozarski_organization: "$YUG_rogozarski$"
  YUG_zmaj_organization: "$YUG_zmaj$"
- ### YUGOSLAVIC TRAITS ###
  YUG_mio_trait_ikarus_funding: "$YUG_ikarus$資助"
  YUG_mio_trait_rogozarski_funding: "$YUG_rogozarski$資助"
  YUG_mio_trait_zmaj_funding: "$YUG_zmaj$資助"
- ##  ##  # # ### #  #  ##      ### #  # ###     ### ###  ##  ### ###
- ## #  # # #  #  ## # #         #  #  # #        #   #  #    #   #  #
- ## # #### ##   #  # ## # ##      #  #### ##       #   #  # ## ##  ###
- ## # #  # # #  #  #  # #  #      #  #  # #        #   #  #  # #   #  #
- ##  #  # # # ### #  #  ##       #  #  # ###      #  ###  ##  ### #  #
- ##########################
- #### CHINESE FACTIONS ####
- ##########################
- ### CHINESE ORGANIZATIONS ###
  CHI_jiangnan_shipyard_group_organization: "$jiangnan_shipyard_group$"
  CHI_dagu_shipyard_organization: "$dagu_shipyard$"
  CHI_morozov_design_bureau_organization: "$morozov_design_bureau$"
@@ -923,7 +787,6 @@
  CHI_camco_fighter_organization: "$CHI_camco_2$"
  CHI_camco_bomber_organization: "$CHI_camco_3$"
  CHI_ncns_sino_german_technical_mission_organization: "$german_chinese_tank_designer$"
- ### CHINESE TRAITS ###
  CHI_mio_trait_chinese_panzer_armor: "中國坦克裝甲"
  CHI_mio_trait_chinese_panzer_weapons: "中國坦克武器"
  CHI_mio_trait_morozov_reliability: "莫洛佐夫可靠性"
@@ -931,27 +794,13 @@
  CHI_mio_trait_raf_cooperation: "英國皇家空軍合作"
  CHI_mio_trait_camco_fighters: "中杭廠戰鬥機"
  CHI_mio_trait_camco_bombers: "中杭廠轟炸機"
- ###################
- #### MANCHUKUO ####
- ###################
- ### MANCHUKUO ORGANIZATIONS ###
  MAN_mamc_organization: "$MAN_manshu$"
  MAN_mamc_light_organization: "$MAN_mamc_light$"
  MAN_mamc_medium_organization: "$MAN_mamc_medium$"
  MAN_mamc_heavy_organization: "$MAN_mamc_heavy$"
- ### MANCHUKUO TRAITS ###
  MAN_mio_trait_mamc_fighters: "滿洲戰鬥機"
  MAN_mio_trait_mamc_bombers: "滿洲轟炸機"
  MAN_mio_trait_mamc_heavy: "滿洲大型工程"
- ##  ##  #  #     ### #  # ###      ##  #  # #  #  ##
- ## ## #  # ## #      #  #  # #       #    #  # ## # #
- ## # #### # ##      #  #### ##      # ## #  # # ##  #
- ## #  # #  #      #  #  # #       #  # #  # #  #   #
- ## #  # #  #      #  #  # ###      ##   ##  #  # ##
- #####################
- #### NETHERLANDS ####
- #####################
- ### ORGANIZATIONS ###
  HOL_fokker_organization: "$fokker$"
  HOL_koolhoven_organization: "$koolhoven$"
  HOL_nsm_amsterdam_organization: "$nsm_amsterdam$"
@@ -959,11 +808,6 @@
  HOL_daf_organization: "$HOL_daf$"
  HOL_artillerie_inrichtingen_organization: "$artillerie_inrichtingen$"
  HOL_hih_siderius_organization: "$hih_siderius$"
- ### TRAITS ###
- ####################
- ###### MEXICO ######
- ####################
- ### ORGANIZATIONS ###
  MEX_tga_organization: "$MEX_tga$"
  MEX_GER_porsche_organization: "$MEX_germano_mexican_tanks$"
  MEX_SOV_morozov_design_bureau_organization: "$MEX_russo_mexican_tanks$"
@@ -974,16 +818,6 @@
  MEX_fabrica_nacional_armas_organization: "$fabrica_nacional_armas$"
  MEX_comesa_organization: "$comesa$"
  MEX_USA_ford_motor_company_organization: "$mexican_ford$"
- ### TRAITS ###
- ###      ###  ###  ## ###  ## ###  ##  #  #  ##  ###
- ##  #     #  # #   #    #  #    #  #  # ## # #  # #
- #####     ###  ##   #   #   #   #  #### # ## #    ##
- ##  #     #  # #     #  #    #  #  #  # #  # #  # #
- ### #  #     #  # ### ##  ### ##   #  #  # #  #  ##  ###
- ###################
- ###### SPAIN ######
- ###################
- ### ORGANIZATIONS ###
  SPR_secn_vanilla_organization: "$secn$"
  SPR_secn_organization: "$secn$"
  SPR_euskalduna_organization: "$SPR_euskalduna$"
@@ -994,11 +828,6 @@
  SPR_esperanza_y_cia_organization: "$SPR_esperanza_y_cia$"
  SPR_llama_gabilondo_y_cia_organization: "$SPR_llama_gabilondo_y_cia$"
  SPR_hispano_suiza_organization: "$SPR_hispano_suiza$"
- ### TRAITS ###
- ####################
- ##### PORTUGAL #####
- ####################
- ### ORGANIZATIONS ###
  POR_ogma_organization: "$ogma$"
  POR_arsenal_alfeite_organization: "$arsenal_alfeite$"
  POR_fnmal_organization: "$fnmal$"
@@ -1006,16 +835,6 @@
  POR_ogme_organization: "$ogme$"
  POR_fma_organization: "$fma$"
  POR_generic_infantry_equipment_organization: "$POR_fabrica_material_guerra_organization$"
- ### TRAITS ###
- ###   ##  ### ### #   ###     ###  ##  ###      ### #  # ###     ###   ##   ## ###   ##  ###  #  #  ##
- ## #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  # #   #  # #  # #  # #  # #
- ###  ####  #   #  #   ##      ##  #  # ###       #  #### ##      ###  #  #  #  ###  #  # ###  #  #  #
- ## #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  #   # #    #  # #  # #  #   #
- ###  #  #  #   #  ### ###     #    ##  #  #      #  #  # ###     ###   ##  ##  #     ##  #  #  ##  ##
- ####################
- ###### TURKEY ######
- ####################
- ### ORGANIZATIONS ###
  TUR_ticaret_organization: "$koc_ticaret_as_armor$"
  TUR_tulomsas_organization: "$tulomsas$"
  TUR_thk_organization: "$thk$"
@@ -1030,11 +849,6 @@
  TUR_istanbul_military_industries_organization: "$istanbul_military_industries$"
  TUR_killigil_endustrileri_organization: "$killigil_endustrileri$"
  TUR_koc_ticaret_as_defense_industry_organization: "$koc_ticaret_as_defense_industry$"
- ### TRAITS ###
- ####################
- ###### GREECE ######
- ####################
- ### ORGANIZATIONS ###
  GRE_biamax_organization: "$GRE_biamax$"
  GRE_gnaf_organization: "$gnaf$"
  GRE_aekkea_organization: "$GRE_aekkea$"
@@ -1044,27 +858,12 @@
  GRE_astilleros_onassis_organization: "$GRE_astilleros_onassis$"
  GRE_pyrkal_organization: "$GRE_pyrkal$"
  GRE_petropoulos_organization: "$GRE_petropoulos$"
- ### TRAITS ###
- ####################
- ##### BULGARIA #####
- ####################
- ### ORGANIZATIONS ###
  BUL_varna_naval_dockyard_organization: "$BUL_varna_naval_dockyard$"
  BUL_dar_organization: "$BUL_dar$"
  BUL_kaproni_bulgarski_organization: "$BUL_kaproni_bulgarski$"
  BUL_dvf_organization: "$BUL_dvf$"
  BUL_dvf_sopot_organization: "$BUL_dvf_sopot$"
- ### TRAITS ###
  has_invited_mio_tt: "§Y[ROOT.owner.GetNameWithFlag]§!已邀請§Y[ROOT.GetName]§!"
- ##  ##       ## ### ### ###      ###   ##   ##  # #
- ## # #  #     #    #  #   #  #     #  # #  # #  # # #
- ### #  #      #   #  ##  ###      ###  #### #    ##
- ## #  #       #  #  #   #        #  # #  # #  # # #
- ##  ##      ##   #  ### #        ###  #  #  ##  # #
- ###############
- ### POLAND ###
- ###############
- ### ORGANIZATIONS ###
  POL_pzl_organization: "波蘭國家航空工廠"
  POL_pws_organization: "波德拉斯卡飛機公司"
  POL_pzinz_organization: "波蘭國家工程廠"
@@ -1075,52 +874,17 @@
  POL_USA_ford_motor_company_organization: "$POL_ford$"
  POL_ENG_vauxhall_organization: "$POL_vauxhall$"
  POL_FRA_somua_organization: "$POL_somua$"
- ### TRAITS ###
  POL_mio_trait_cruiser_tanks: "巡洋坦克"
  POL_mio_trait_multi_role_tank_designer: "多用途坦克設計商"
- #####################
- ### BALTIC SHARED ###
- #####################
- ### ORGANIZATIONS ###
  BALTIC_ford_organization: "$BALTIC_ford$"
  BALTIC_rsaf_enfield_organization: "$BALTIC_RSAF_enfield$"
  BALTIC_royal_arsenal_organization: "$BALTIC_royal_arsenal$"
  BALTIC_RAF_organization: "$BALTIC_RAF$"
- ### TRAITS ###
- ###############
- ### ESTONIA ###
- ###############
- ### ORGANIZATIONS ###
  EST_paldiski_port_organization: "$paldiski_port$"
  EST_arsenal_organization: "$arsenal$"
- ### TRAITS ###
- ##############
- ### LATVIA ###
- ##############
- ### ORGANIZATIONS ###
  LAT_lkod_organization: "$lkod$"
  LAT_vef_organization: "$vef$"
- ### TRAITS ###
- #################
- ### LITHUANIA ###
- #################
- ### ORGANIZATIONS ###
  LIT_anbo_organization: "$anbo$"
- ### TRAITS ###
- ###  #   #     ###  #    ##   ##  ###       ##  #    ##  #  # ###
- ##  # #      #  # #   #  # #  # #  #     #  # #   #  # ## # #
- ###    #       ###  #   #  # #  # #  #     #### #   #  # # ## ##
- ##   #       #  # #   #  # #  # #  #     #  # #   #  # #  # #
- ###    #       ###  ###  ##   ##  ###      #  # ###  ##  #  # ###
- ##  ###  #   #  ##      ##   ##   ##  ### #  #  ## ###     ### #   # ###   ##  #  # #  # #   #
- ## #  # ## ## #       #  # #    #  #  #  ## # #    #       #   # #  #  # #  # ## # ## #  # #
- #### ###  # # #  #      #### # ## ####  #  # ##  #   #       #    #   ###  #### # ## # ##   #
- ## #  # #   #   #     #  # #  # #  #  #  #  #   #  #       #    #   #  # #  # #  # #  #   #
- ## #  # #   # ##      #  #  ##  #  # ### #  # ##   #       #    #   #  # #  # #  # #  #   #
- ###############
- ### SWEDEN ###
- ###############
- ### SWEDISH ORGANIZATIONS ###
  SWE_bofors_organization: "博福斯"
  SWE_landsverk_organization: "蘭斯韋克"
  SWE_volvo_organization: "沃爾沃"
@@ -1129,7 +893,6 @@
  SWE_gotaverken_organization: "約塔韋爾肯"
  SWE_husqvarna_organization: "富世華有限公司"
  SWE_kockums_organization: "考庫姆"
- ### SWEDISH TRAITS ###
  SWE_mio_trait_german_landsverk_tech_exchange: "德國-瑞典坦克技術交流"
  SWE_mio_trait_lancer_tank: "利矛"
  SWE_mio_trait_recoil_operation: "後座作用"
@@ -1137,17 +900,12 @@
  SWE_mio_trait_high_capacity_dockyard: "大容量船塢"
  SWE_mio_trait_forefront_of_aeroplane_development: "飛機研發領導者"
  SWE_mio_trait_booming_domestic_production: "國內生產欣欣向榮"
- ###############
- ### FINLAND ###
- ###############
- ### FINNISH ORGANIZATIONS ###
  FIN_valtion_panssaritehdas_organization: "國家裝甲製造廠"
  FIN_crichton_vulcan_organization: "克萊頓-伏爾甘"
  FIN_valtion_lentokonetehdas_organization: "國家飛機制造廠"
  FIN_sisu_auto_organization: "西蘇汽車"
  FIN_valtion_kivaaritehdas_organization: "國家槍械製造廠"
  FIN_valtion_tykkitehdas_organization: "國家火炮製造廠"
- ### FINNISH TRAITS ###
  FIN_mio_trait_recycled_materials: "回收材料"
  FIN_mio_trait_contract_with_yhteissisu: "西蘇汽車合同"
  FIN_mio_trait_yhteissisus_modern_premises: "西蘇汽車現代化廠房"
@@ -1161,10 +919,6 @@
  FIN_mio_trait_repurposed_equipment_trigger_tt: "已研究§Y$FIN_mechanized_equipment_3$§!（1944機械化裝備科技）"
  FIN_mio_trait_wartsila_engine_production: "$FIN_wartsila_engine_production$"
  FIN_mio_trait_modernization_program: "現代化計劃"
- ###############
- ### DENMARK ###
- ###############
- ### DANISH ORGANIZATIONS ###
  DEN_DISA_organization: "丹麥工業辛迪加股份公司"
  DEN_haerens_tekniske_korps_organization: "陸軍技術兵團"
  DEN_triangel_organization: "三角聯合汽車製造廠"
@@ -1172,7 +926,6 @@
  DEN_orlogsvaerftet_organization: "“戰爭庭院”造船廠"
  DEN_flyvertroppernes_organization: "空軍工坊"
  DEN_flyvemaskinevaerksted_organization: "“戰爭庭院”飛行器工坊"
- ### DANISH TRAITS ###
  DEN_mio_trait_burmeister_wain_engines: "布爾邁斯特&韋恩引擎"
  DEN_mio_trait_coastal_defense_ship_modernization: "岸防艦現代化"
  DEN_mio_trait_weibel_development: "改進魏貝爾原型"
@@ -1181,10 +934,6 @@
  DEN_mio_trait_feltkanoner: "野戰炮"
  DEN_mio_trait_madsen_20_mm: "改良型高爆穿甲弾"
  DEN_mio_trait_repurpose_triangel_factories: "改造三角工廠"
- ################
- #### NORWAY ####
- ################
- ### NORWEGIAN ORGANIZATIONS ###
  NOR_thunes_mekaniske_verksted_organization: "圖內斯機械廠"
  NOR_akers_mekaniske_verksted_organization: "阿克斯機械廠"
  NOR_karljohansvern_verft_organization: "卡爾約翰斯文造船廠"
@@ -1202,17 +951,12 @@
  NOR_SOV_morozov_design_bureau_organization: "$NOR_morozov_design_bureau_nord_organization$"
  NOR_SOV_rubin_design_bureau_organization: "$NOR_rubin_design_bureau_nord_organization$"
  NOR_SOV_gaz_organization: "$NOR_gaz_nord_organization$"
- ### NORWEGIAN TRAITS ###
  NOR_mio_initial_trait_mechanical_workshop: "重型機械工坊"
  NOR_mio_initial_trait_convoy_and_escort_fleet: "商船和護衛艦建造商"
  mio_policy_NOR_general_permanent_industrial_revolution: "不斷的工業革命"
  NOR_mio_trait_forsvarets_forskningsinstitutt: "挪威國防研究所"
  NOR_mio_trait_trondhjems_mekaniske_vaerksted: "特隆赫姆機械廠"
  NOR_mio_trait_cruiser_specialization: "巡洋艦專精"
- ################
- #### NORDIC ####
- ################
- ### NORDIC TRAITS ###
  NORDIC_mio_department_design_infantry_name: "步兵裝備部門"
  NORDIC_mio_department_design_tank_general_name: "坦克部門"
  NORDIC_joint_MIO: "[THIS.OWNER.NORDIC_get_adjective]軍備部門"
@@ -1220,18 +964,6 @@
  NORDIC_mio_trait_large_scale_production_infantry: "$NORDIC_large_scale_production$"
  NORDIC_mio_trait_improved_assembly_tank: "$NORDIC_improve_assembly$"
  NORDIC_mio_trait_improved_assembly_infantry: "$NORDIC_improve_assembly$"
- ########################################################################
- #/$$$$$
- #|__  $$
- #| $$ /$$   /$$ /$$$$$$$   /$$$$$$
- #| $$| $$  | $$| $$__  $$ /$$__  $$
- #/$$  | $$| $$  | $$| $$  \ $$| $$  \ $$
- #| $$  | $$| $$  | $$| $$  | $$| $$  | $$
- #|  $$$$$$/|  $$$$$$/| $$  | $$|  $$$$$$/
- #\______/  \______/ |__/  |__/ \______/
- ################
- #### Brazil ####
- ################
  BRA_amrj_organization: "里約熱內盧海軍工廠"
  BRA_rossi_organization: "阿瑪迪奧·羅西"
  BRA_cbc_organization: "巴西彈藥公司"
@@ -1239,7 +971,6 @@
  BRA_embraer_organization: "巴西航空公司"
  BRA_bernadini_organization: "貝爾納迪尼"
  BRA_ddam_organization: "炮兵部"
- #CHILE
  CHL_arsenales_de_marina_organization: "海軍兵工廠"
  CHL_epartamento_de_tanques_del_ejercito_organization: "陸軍坦克部"
  CHL_enaer_organization: "國家航空企業"
@@ -1248,7 +979,6 @@
  CHL_famae_rama_de_artilleria_organization: "陸軍工廠-火炮部"
  CHL_willys_famae_corvo_organization: "威利斯-陸軍工廠-科爾沃"
  CHL_csav_organization: "智利南美航運公司"
- #ARGENTINA
  ARG_fabricaciones_militares_epartamento_de_tanques_del_ejercito_organization: "軍用製造廠-陸軍坦克部"
  ARG_arsenales_de_marina_organization: "海軍兵工廠"
  ARG_astarsa_organization: "阿斯塔爾薩"
@@ -1257,17 +987,6 @@
  ARG_fabricaciones_militares_art_organization: "軍用製造廠-火炮部"
  ARG_hispano_argentina_organization: "希斯巴諾-阿根廷"
  ARG_mio_trait_dreams_of_a_domestic_tank_trait: "國產坦克之夢"
- ########################################################################
- ##      ## ##     ## ##    ## ########  ######## ########  ##      ##    ###    ######## ######## ########
- ##  ##  ## ##     ## ###   ## ##     ## ##       ##     ## ##  ##  ##   ## ##   ##       ##       ##
- ##  ##  ## ##     ## ####  ## ##     ## ##       ##     ## ##  ##  ##  ##   ##  ##       ##       ##
- ##  ##  ## ##     ## ## ## ## ##     ## ######   ########  ##  ##  ## ##     ## ######   ######   ######
- ##  ##  ## ##     ## ##  #### ##     ## ##       ##   ##   ##  ##  ## ######### ##       ##       ##
- ##  ##  ## ##     ## ##   ### ##     ## ##       ##    ##  ##  ##  ## ##     ## ##       ##       ##
- ###  ###   #######  ##    ## ########  ######## ##     ##  ###  ###  ##     ## ##       ##       ########
- ##########################
- ######## AUSTRIA #########
- ##########################
  AUS_ansaldo_organization: "安薩爾多"
  AUS_stabilimento_tecnico_triestino_organization: "第裡雅斯特技術工廠"
  AUS_ELIN_organization: "依林"
@@ -1297,7 +1016,6 @@
  AUS_mio_trait_innovative_riflemaking: "創新設計"
  AUS_mio_trait_cutting_corners: "偷工減料"
  AUS_osterreichische_fleugzeugfabrik_organization: "奧地利飛機制造公司"
- #BELGIUM - Organizations
  BEL_vickers_armstrong_bel_organization: "比利時維克斯-阿姆斯特朗"
  BEL_fonderie_royale_canons: "皇家火炮鑄造廠"
  BEL_renault_organization: "比利時雷諾"
@@ -1308,7 +1026,6 @@
  BEL_minerva_imperia_motorized_organization: "密涅瓦-因佩里亞汽車公司"
  BEL_laboratoire_aerotechnique_de_belgique_organization: "比利時航空技術實驗室"
  BEL_ateliers_metallurgiques_tubize_organization: "蒂比茲機械製造廠"
- #BELGIUM - MIO Traits
  BEL_mio_initial_trait_fn_herstal: "輕武器製造商"
  BEL_mio_trait_belgium_congo_link: "比利時-剛果聯繫"
  BEL_mio_trait_high_speed_transport: "高速運輸"
@@ -1327,11 +1044,9 @@
  BEL_mio_trait_fonderie_royale_canons: "皇家火炮鑄造廠"
  BEL_mio_trait_stampe_et_vertrongen: "斯坦普與威特隆根公司"
  BEL_mio_trait_stampe_et_renard: "斯坦普和勒納爾"
- #CONGO - Organizations
  COG_fonderie_royale_de_canons_leopoldville_organization: "利奧波德維爾皇家火炮鑄造廠"
  COG_fn_hershal_organization: "埃斯塔勒國營工廠"
  COG_explosifs_congo_organization: "剛果非洲炸藥公司"
- #AFGHANISTAN - Organizations
  AFG_naval_organization: "阿富汗造船廠"
  AFG_tanks_organization: "赫拉特軍械庫"
  afg_tank_factory_mio: "已通過§Y$AFG_placate_the_graduates$§!決議建立國營坦克工廠"
@@ -1345,13 +1060,11 @@
  AFG_khyber_pass_rifling_org_cost_reduction_1: "家庭手工業"
  AFG_khyber_pass_rifling_org_cost_reduction_2: "廢料轉化"
  AFG_khyber_pass_rifling_org_cost_reduction_3: "傳統專長"
- #IRAN - Organizations
  PER_tehran_armor_organization: "德黑蘭裝甲"
  PER_qorkhaneh_organization: "戈爾哈內赫"
  PER_shahbaz_organization: "沙赫巴茲飛行器"
  PER_iranian_shipyards_organization: "伊朗造船廠"
  PER_motor_organization: "伊朗國民公司"
- #Iraq - Organizations
  IRQ_tanks_organization: "提克里特裝甲"
  IRQ_naval_organization: "巴士拉海軍造船廠"
  IRQ_aircraft_organization: "哈巴尼亞空氣動力"
@@ -1390,7 +1103,6 @@
  CHI_camco_tt: "已完成國策：§Y$CHI_camco$§!"
  CHI_chinese_panzers_TT: "已完成國策：§Y$CHI_chinese_panzers$§!"
  CHI_beining_railway_tangshan_manufacturing_plant: "北寧鐵路唐山製造廠"
- ### PRC - Organizations
  PRC_factory_617_organization: "617廠"
  PRC_factory_617_early_mbt_trait: "早期主戰坦克"
  PRC_first_tractor_company_organization: "第一拖拉機制造廠"
@@ -1426,7 +1138,6 @@
  PRC_shenyang_aircraft_corporation_factory_112_trait: "一一二廠"
  PRC_peoples_aviation_company_of_china_transport_planes_trait: "伊留申機隊"
  PRC_shipbuilding_industry_bureau_office_of_the_science_technology_committee_trait: "科技委員會辦公室"
- ### Philippines MIOs ###
  PHI_mio_trait_rugged_construction: "堅固構造"
  PHI_mio_trait_use_local_materials: "使用當地材料"
  PHI_mio_trait_naval_caliber_artillery: "海軍口徑火炮"
@@ -1440,7 +1151,6 @@
  PHI_mio_trait_widened_tires: "加寬輪胎"
  PHI_mio_trait_improvised_bombs: "簡易炸彈"
  PHI_mio_trait_engine_filters: "引擎過濾器"
- ### Indonesia MIOs ###
  INS_nsm_amsterdam_name_nationalized: "雅加達造船公司"
  INS_nsm_amsterdam_name_normal: "阿姆斯特丹荷蘭造船公司"
  INS_nsm_amsterdam_organization: "[INS_nsm_amsterdam_name]"
@@ -1471,7 +1181,6 @@
  INS_machinefabriek_braat_name_nationalized: "泗水機械廠"
  INS_machinefabriek_braat_organization: "[INS_machinefabriek_braat_name]"
  machinefabriek_braat: "[INS_machinefabriek_braat_name]"
- ### Australia MIOs ###
  AST_mio_trait_lee_enfield_no1_mark3: "$AST_lee_enfield_no1_mark3$"
  AST_mio_trait_owen_gun: "$AST_owen_gun$"
  AST_mio_trait_better_ammo_supply: "彈藥補給強化"
@@ -1527,7 +1236,6 @@
  AST_mio_trait_acf_production_pipeline: "流水線生產"
  AST_mio_trait_acf_lend_lease_integration: "租借物資整合"
  AST_mio_trait_acf_arsenal_of_the_pacific: "太平洋兵工廠"
- ## SIAM ###
  SIA_army_ordnance_department_organzation: "陸軍軍械輕武器部"
  SIA_army_ordnance_department_artillery_organzation: "陸軍軍械火炮部"
  SIA_thai_rung_organization: "泰隆聯合汽車"
@@ -1536,18 +1244,6 @@
  SIA_mio_trait_american_procurement: "美國採購渠道"
  SIA_chaiseri_organization: "財生利公司"
  SIA_bangkok_dock_organization: "曼谷船塢公司"
- ########################################################################
- ##     ## ##     ## ##    ## ####  ######  ##     ##
- ###   ### ##     ## ###   ##  ##  ##    ## ##     ##
- #### #### ##     ## ####  ##  ##  ##       ##     ##
- ## ### ## ##     ## ## ## ##  ##  ##       #########
- ##     ## ##     ## ##  ####  ##  ##       ##     ##
- ##     ## ##     ## ##   ###  ##  ##    ## ##     ##
- ##     ##  #######  ##    ## ####  ######  ##     ##
- ##########################
- #######    PFOT    #######
- ##########################
- #CZECHOSLOVAKIA - Organizations
  CZE_zbrojovka_vsetin_organization: "弗塞廷兵工廠"
  CZE_benees_mraz_organization: "貝內什-姆拉茲"
  CZE_zlin_aircraft_organization: "茲林飛機制造廠"
@@ -1555,7 +1251,6 @@
  CZE_ceska_zbrojovka_uhersky_brod_organization: "捷克兵工廠（烏赫爾布羅德）"
  CZE_ringhoffer_tatra_organization: "林霍費爾-太脫拉公司"
  CZE_skoda_plzen_tank_destroyer_organization: "斯柯達裝甲（比爾森）"
- #OTHER TAGS - Organizations
  CZE_skoda_works_german_organization: "$CZE_skoda_works$（布拉格）"
  CZE_bohmische_mahrische_maschinenfabrik_ag_german_organization: "波希米亞-摩拉維亞機械製造股份公司"
  GER_henschel_kassel_organization: "亨舍爾-卡塞爾"
@@ -1565,13 +1260,11 @@
  SOV_kolomna_locomotive_plant_name_dynamic: "[SOV_kolomna_locomotive_plant_name_dynamic]"
  SOV_kolomna_locomotive_plant_communist: "B.B.古比雪夫冠名的科洛姆納機車廠"
  SOV_kolomna_locomotive_plant_default: "科洛姆納機車廠"
- #CZECHOSLOVAKIA - MIO Traits
  CZE_mio_trait_skoda_works: "$CZE_skoda_works$"
  CZE_mio_trait_walter_co_name: "$CZE_walter_co$引擎"
  CZE_bata_corporation_name: "$CZE_bata_corporation$ 設施"
  CZE_mio_trait_walter_co_taken_flag: "$GER_hoesch_facilities_trait_taken_flag$"
  CZE_mio_trait_bata_corporation_taken_flag: "$GER_hoesch_facilities_trait_taken_flag$"
- #OTHER TAGS - MIO Traits
  CZE_mio_trait_gun_smuggling_difficulties: "武器走私困難"
  CZE_mio_trait_panzer_38t_chassis_conversion: "38(t)坦克底盤改裝"
  CZE_mio_trait_messerschmitt_integration: "整合進梅塞施密特生產線"
@@ -1587,7 +1280,6 @@
  ENG_mio_trait_lms_class_stanier_class_5_black_five: "倫米蘇“黑五”型蒸汽機車"
  ENG_mio_trait_vickers_armstrong_knowledge_sharing: "$ENG_vickers_armstrong_eng_organization$技術共享"
  CZE_mio_trait_scam_facilities: "米盧斯工廠"
- #SLOVAKIA - Organizations
  SLO_povazska_bystrica_organization: "斯柯達-瓦赫河畔比斯特里察"
  SLO_CZE_skoda_artillery_organization: "斯柯達-瓦赫河畔杜布尼察"
  SLO_zbrojnica_roth_organization: "羅特武器廠"
@@ -1597,9 +1289,6 @@
  SLO_svit_organization: "斯維特"
  SLO_CZE_skoda_armor_organization: "斯柯達-瓦赫河畔杜布尼察"
  SLO_CZE_skoda_plzen_tank_destroyer_organization: "重型機械工廠"
- ###################################
- #### AUTOMATIC WEAPON DESIGNER ####
- ###################################
  CZE_mio_initial_trait_automatic_manufacturer: "自動武器製造商"
  CZE_mio_trait_drum_mags: "彈鼓"
  CZE_mio_trait_box_mags: "彈匣"
@@ -1611,9 +1300,6 @@
  CZE_mio_trait_stamp_steel_components: "沖壓鋼結構"
  CZE_mio_trait_anti_tank_rifles: "反坦克步槍"
  CZE_mio_trait_simplified_barrel_forging: "簡化槍管鍛造"
- ###################################
- ####  Tank Destroyer Designer  ####
- ###################################
  CZE_tank_destroyer_organization: "自行反坦克炮製造商"
  CZE_mio_trait_initial_trait_tank_destroyer_guns_organization: "自行反坦克炮設計商"
  CZE_mio_trait_mobile_tank_destroyers: "襲擾型坦殲車"
@@ -1632,25 +1318,8 @@
  CZE_mio_trait_additional_ammo_storage: "額外彈藥儲存"
  CZE_mio_trait_easier_gun_maintance: "易維護槍械"
  CZE_mio_trait_cannon_improvements: "火炮改進"
- ########################################################################
- ######   ######## ##    ## ######## ########  ####  ######   ######
- ##    ##  ##       ###   ## ##       ##     ##  ##  ##    ## ##    ##
- ##        ##       ####  ## ##       ##     ##  ##  ##       ##
- ##   #### ######   ## ## ## ######   ########   ##  ##        ######
- ##    ##  ##       ##  #### ##       ##   ##    ##  ##             ##
- ##    ##  ##       ##   ### ##       ##    ##   ##  ##    ## ##    ##
- ######   ######## ##    ## ######## ##     ## ####  ######   ######
- ### GENERIC TOOLTIPS FOR SPECIAL TRAITS ##
  generic_has_already_completed_this_trait: " 已經在另一個組織完成了這個特質"
  generic_trait_will_not_be_available_in_other_organizations: "§R這個特質將不再在其他組織中可用。§!"
- ###  ##  #  # # #     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
- ##  # ## # # #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
- ##### # ## ##      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
- ##  # #  # # #     #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
- ##  # #  # # #     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
- ################################
- #### GENERAL TANK DESIGNER ####
- ################################
  generic_tank_organization: "坦克製造商"
  generic_mio_initial_trait_standardized_production: "標準化生產"
  generic_mio_trait_simplified_suspension: "簡化懸掛"
@@ -1664,9 +1333,6 @@
  generic_mio_trait_long_barreled_guns: "長管火炮"
  generic_mio_trait_anti_tank_specialization: "反坦克專精"
  generic_mio_trait_infantry_support_tanks: "步兵支援坦克"
- ################################
- #### INFANTRY TANK DESIGNER ####
- ################################
  generic_infantry_tank_organization: "步兵坦克製造商"
  generic_mio_initial_trait_infantry_tanks_designer: "步兵坦克設計商"
  generic_mio_trait_single_engine: "耐用引擎"
@@ -1684,9 +1350,6 @@
  generic_mio_trait_heavy_tank_specialization: "重型坦克專精"
  generic_mio_trait_thick_armor: "加厚型裝甲"
  generic_mio_trait_even_thicker_armor: "極厚型裝甲"
- ################################
- #### MOBILE TANK DESIGNER ######
- ################################
  generic_mobile_tank_organization: "機動坦克製造商"
  generic_mio_initial_trait_fast_tanks_designer: "快速坦克設計商"
  generic_mio_trait_improved_boogies: "改進型負重輪"
@@ -1701,9 +1364,6 @@
  generic_mio_gunner_sight_improvements: "改進炮手瞄具"
  generic_mio_quality_assurance_routines: "例行質量保證"
  generic_mio_streamlined_production: "生產線流水化"
- ################################
- #### MEDIUM TANK DESIGNER ######
- ################################
  generic_medium_tank_organization: "中型坦克製造商"
  generic_mio_initial_trait_medium_tank_designer: "中型坦克設計商"
  generic_mio_trait_power_traverse: "動力橫移"
@@ -1719,9 +1379,6 @@
  generic_mio_trait_truck_engines: "卡車引擎"
  generic_mio_trait_aircraft_engines: "飛行器引擎"
  generic_mio_trait_improved_suspension: "改進型懸掛"
- ################################
- ##### HEAVY TANK DESIGNER ######
- ################################
  generic_heavy_tank_organization: "重型坦克製造商"
  generic_mio_initial_trait_heavy_tank_designer: "重型坦克設計商"
  generic_mio_trait_wide_tracks: "寬履帶"
@@ -1737,9 +1394,6 @@
  generic_mio_trait_simplified_layout: "簡化佈局"
  generic_mio_trait_high_explosive_shells: "高爆破片彈"
  generic_mio_trait_apcr_hvap_shells: "硬芯穿甲彈/高速穿甲彈"
- #####################################
- ##### TANK REFURBISHMENT PLANT ######
- #####################################
  generic_tank_refurbishment_plant_organization: "坦克改裝廠"
  generic_mio_initial_trait_tank_refurbishment_plant: "坦克改裝廠"
  generic_mio_trait_enemy_tank_refitting: "繳獲坦克改裝"
@@ -1755,9 +1409,6 @@
  generic_mio_trait_24h_rotation_shifts: "24小時輪班"
  generic_mio_trait_long_distance_escort: "防空炮列車"
  generic_mio_trait_barrels_of_hell: "海軍火炮改造"
- #####################################
- ##### ASSAULT GUNS MANUFACTURER #####
- #####################################
  generic_assault_guns_organization: "突擊炮製造商"
  generic_mio_initial_trait_assault_guns_organization: "突擊炮製造商"
  generic_mio_trait_light_assault_gun_improvements: "步兵護衛炮兵連"
@@ -1773,14 +1424,6 @@
  generic_mio_trait_heavy_assault_gun_improvements: "移動火力平臺"
  generic_mio_trait_fully_cast_turret_assault_gun: "封閉式上層結構"
  generic_mio_trait_assault_gun_improved_tracks: "強化履帶"
- ## #  # ### ###      #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
- ##  #  #  #  #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
- #####  #  ###      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
- ##  #  #  #        #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
- ##  #  # ### #        #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
- ######################################
- #### TASK FORCE SHIP MANUFACTURER ####
- ######################################
  generic_task_force_ship_organization: "特遣艦隊艦艇製造商"
  generic_mio_initial_trait_task_force_ship_builders: "特遣艦隊艦船建造方"
  generic_mio_trait_long_range_cruising: "長程巡航"
@@ -1798,9 +1441,6 @@
  generic_mio_trait_primary_fire_director_control: "主武器引導控制"
  generic_mio_trait_high_velocity_guns: "高速艦炮"
  JAP_generic_mio_trait_high_velocity_guns: "可靠AP引線"
- #######################################
- #### BATTLE LINE SHIP MANUFACTURER ####
- #######################################
  generic_battle_line_ship_organization: "戰列線艦艇製造商"
  generic_mio_initial_trait_battle_line_ship_builders: "戰列線艦船建造方"
  generic_mio_trait_external_armor_belt: "垂直裝甲帶"
@@ -1816,9 +1456,6 @@
  JAP_generic_mio_trait_primary_battery_layout: "高級彈道學"
  generic_mio_trait_super_heavy_shells: "防碎蓋"
  generic_mio_trait_semi_armor_piercing_shells: "半穿甲炮彈"
- ##################################
- #### ESCORT SHIP MANUFACTURER ####
- ##################################
  generic_escort_ship_organization: "護衛艦製造商"
  generic_mio_initial_trait_escort_fleet: "護航艦造船廠"
  generic_mio_trait_submarine_hunters: "反潛角色優化"
@@ -1835,9 +1472,6 @@
  JAP_generic_mio_trait_mass_production: "焊接塊狀結構"
  generic_mio_trait_improved_light_gun_mounting: "改進輕型火炮裝配"
  JAP_generic_mio_trait_improved_light_gun_mounting: "95式25mm三聯防空炮臺"
- ##################################
- #### RAIDER SHIP MANUFACTURER ####
- ##################################
  generic_raider_ship_organization: "襲擊艦艇製造商"
  generic_mio_initial_trait_raiding_fleet: "突襲艦造船廠"
  generic_mio_trait_long_range_raiding: "長程襲擊"
@@ -1854,9 +1488,6 @@
  generic_mio_trait_spotting_tops: "斑點頂棚"
  generic_mio_trait_large_torpedo_banks: "大型魚雷庫"
  generic_mio_trait_mass_produced_raiders: "量產突擊艦"
- ##############################
- ### SUBMARINE MANUFACTURER ###
- ##############################
  generic_submarine_organization: "潛艇製造商"
  generic_mio_initial_trait_submarine_designer: "潛艇製造商"
  generic_mio_trait_decalin_fueled_torpedo: "十氫化萘燃料魚雷"
@@ -1875,9 +1506,6 @@
  generic_mio_trait_advanced_sonar: "先進型聲吶"
  generic_mio_trait_deck_guns: "甲板炮"
  generic_mio_trait_high_capacity_mine_storage: "大容量水雷存儲"
- ##############################
- ### BLACK SEA MANUFACTURER ###
- ##############################
  generic_black_sea_fleet_organization: "黑海艦隊製造商"
  generic_mio_initial_trait_black_sea_fleet_designer: "黑海造船廠"
  generic_mio_trait_submarine_hunters_black_sea: "潛艇殺手"
@@ -1910,14 +1538,6 @@
  generic_mio_trait_advanced_scanners: "先進掃描儀"
  generic_mio_trait_capital_destroyer_shells: "主力驅逐艦外裝甲"
  generic_mio_trait_naval_all_purpose_defense_systems: "多用途防禦系統"
- ##  ### ###   ##  ###   ##  ### ###     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
- ##  #  #  # #  # #  # #  # #    #      ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
- ####  #  ###  #    ###  #### ##   #      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
- ##  #  #  # #  # #  # #  # #    #      #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
- ## ### #  #  ##  #  # #  # #    #      #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
- #######################################
- #### GENERAL AIRCRAFT MANUFACTURER ####
- #######################################
  generic_general_aircraft_organization: "通用飛機制造商"
  generic_mio_initial_trait_general_aircraft_designer: "通用飛行器設計商"
  generic_mio_trait_conservative_designs: "保守設計"
@@ -1933,9 +1553,6 @@
  generic_mio_trait_naval_strike: "海軍襲擊"
  generic_mio_trait_naval_air_patrol: "海軍航空巡邏"
  generic_mio_trait_naval_aircraft_production: "艦載飛機生產"
- #####################################
- #### LIGHT AIRCRAFT MANUFACTURER ####
- #####################################
  generic_light_aircraft_organization: "輕型飛機制造商"
  generic_mio_initial_trait_light_aircraft_designer: "輕型飛機設計商"
  generic_mio_trait_expanded_production_facilities: "擴建生產設施"
@@ -1955,9 +1572,6 @@
  generic_mio_trait_flexible_design: "靈活設計"
  generic_mio_trait_fighter_expertise: "戰鬥機專長"
  generic_mio_trait_close_air_support_expertise: "近距支援機專長"
- ######################################
- #### MEDIUM AIRCRAFT MANUFACTURER ####
- ######################################
  generic_medium_aircraft_organization: "中型飛機制造商"
  generic_mio_initial_trait_multi_role_tactical_aircraft: "中型飛機設計商"
  generic_mio_trait_narrow_build: "窄體構型"
@@ -1975,9 +1589,6 @@
  generic_mio_trait_tactical_bomber_specialization: "戰術轟炸機專精"
  generic_mio_trait_skip_bombing: "跳彈轟炸"
  generic_mio_trait_high_frequency_direction_finding: "高頻測向"
- #####################################
- #### HEAVY AIRCRAFT MANUFACTURER ####
- #####################################
  generic_heavy_aircraft_organization: "重型飛機制造商"
  generic_mio_initial_trait_heavy_aircraft_designer: "重型飛機設計商"
  generic_mio_trait_reinforced_frames: "加固框架"
@@ -1994,9 +1605,6 @@
  generic_mio_trait_cockpit_controlled_remote_gun_turrets: "座艙遙控炮塔"
  generic_mio_trait_flying_fortress: "飛行堡壘"
  generic_mio_trait_advanced_instruments: "先進儀表盤"
- ###################################
- #### CAS AIRCRAFT MANUFACTURER ####
- ###################################
  generic_cas_aircraft_organization: "近距支援機制造商"
  generic_mio_initial_trait_cas_aircraft_designer: "近距支援機設計商"
  generic_mio_trait_selectional_construction: "選擇性建設"
@@ -2013,9 +1621,6 @@
  generic_mio_trait_rockets: "火箭"
  generic_mio_heat_bombs: "高爆破甲炸彈"
  generic_mio_cluster_bombs: "集束炸彈"
- #####################################
- #### NAVAL AIRCRAFT MANUFACTURER ####
- #####################################
  generic_naval_aircraft_organization: "艦載飛機機構"
  generic_mio_initial_trait_naval_aircraft_designer: "艦載飛機設計商"
  generic_mio_trait_navigation_equipment: "導航設備"
@@ -2031,9 +1636,6 @@
  generic_mio_multi_stage_super_charger: "多段式機械增壓"
  generic_mio_water_injection: "注水"
  generic_mio_advanced_materials: "先進材料"
- ##########################################
- #### MULTI-ROLE AIRCRAFT MANUFACTURER ####
- ##########################################
  generic_multi_role_aircraft_organization: "多用途飛行器製造商"
  generic_mio_initial_trait_multi_role_aircraft_designer: "多用途飛行器設計商"
  generic_mio_trait_armored_cockpit: "裝甲座艙"
@@ -2052,9 +1654,6 @@
  generic_mio_trait_lengthened_wings: "加長機翼"
  generic_mio_trait_bubble_canopy: "泡型艙罩"
  generic_mio_trait_bomber_specialization: "轟炸機專精"
- ####################################################
- #### HIGH AGILITY FIGHTER AIRCRAFT MANUFACTURER ####
- ####################################################
  generic_high_agility_fighter_aircraft_organization: "高機動戰鬥機飛行器製造商"
  generic_mio_initial_trait_high_agility_fighters_designer: "高機動戰鬥機設計商"
  generic_mio_trait_bigger_engines: "大號引擎"
@@ -2070,9 +1669,6 @@
  generic_mio_trait_stiffened_wings: "硬化機翼"
  generic_mio_trait_subsidiary_suppliers: "次級供應商"
  generic_mio_trait_fighter_interceptors: "戰鬥機截擊機"
- #############################################
- #### RANGE FOCUSED AIRCRAFT MANUFACTURER ####
- #############################################
  generic_range_focused_aircraft_organization: "長航程飛機制造商"
  generic_mio_initial_trait_range_focused_aircraft_designer: "長航程飛機設計商"
  generic_mio_trait_large_rudders_and_flaps: "大型方向舵&襟翼"
@@ -2090,14 +1686,6 @@
  generic_mio_trait_long_range_fighters: "長程戰鬥機"
  generic_mio_trait_heavy_fighters: "重型戰鬥機"
  generic_mio_trait_tactical_bombers: "戰術轟炸機"
- ##  ##  ### ### ###  ### ### #       #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
- ## ## #  #  #  #   #  #  #  #   #       ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
- ## # ####  #  ##  ###   #  ##  #       # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
- ## #  #  #  #   #  #  #  #   #       #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
- ## #  #  #  ### #  # ### ### ###     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
- ############################################
- ############ ARTLLERY MANUFRACTURER ########
- ############################################
  generic_artillery_organization: "火炮製造商"
  generic_mio_initial_trait_artillery_manufacturer: "$generic_artillery_organization$"
  generic_mio_trait_mobile_limbers: "可移動通水孔"
@@ -2108,14 +1696,11 @@
  generic_mio_trait_advanced_trajectory_calculations: "高級軌道計算"
  generic_mio_trait_sliding_breech_block: "滑動式炮閂"
  generic_mio_trait_rapid_fire: "速射炮"
- generic_mio_trait_advanced_barrel_forging: "先進槍管鍛造" #ALSO FOR INFANTRY WEAPONS
+ generic_mio_trait_advanced_barrel_forging: "先進槍管鍛造"
  generic_mio_trait_big_guns: "重炮"
  generic_mio_trait_gun_mass_production: "火炮大規模生產"
  generic_mio_trait_super_charges: "超級炸彈"
  generic_mio_trait_light_weight_barrels: "輕質炮管"
- ##################################
- #### Infantry Weapons         ####
- ##################################
  generic_infantry_equipment_organization: "步兵裝備製造商"
  generic_mio_initial_trait_infantry_manufacturer: "步兵武器製造商"
  generic_mio_trait_drum_pattern_sights: "鼓型瞄準器"
@@ -2131,9 +1716,6 @@
  generic_mio_trait_vehicle_mounted_capabilities: "車載容量"
  generic_mio_trait_rubber_cushioned_buttpad: "改進步槍後坐力"
  generic_mio_trait_anti_vechicle_land_mines: "反載具地雷"
- ##################################
- #### Mot/Mech                 ####
- ##################################
  generic_motorized_mechanized_organization: "摩托化製造商"
  generic_mio_initial_trait_motorized_mechanized_manufacturer: "機動車製造商"
  generic_mio_trait_composite_cargo_bed: "複合貨床"
@@ -2151,9 +1733,6 @@
  generic_mio_trait_bulletproof_panels: "防彈鑲板"
  generic_mio_trait_light_flame_projectors: "輕型噴火器"
  generic_mio_trait_land_mine_racks: "地雷架"
- ##################################
- #### Support Eq               ####
- ##################################
  generic_support_equipment_organization: "支援裝備製造商"
  generic_mio_initial_trait_support_equipment_manufacturer: "支援裝備製造商"
  generic_mio_trait_material_recycling: "材料回收"
@@ -2168,9 +1747,6 @@
  generic_mio_trait_small_sidearms: "小型副武器"
  generic_mio_trait_light_mortar: "輕型迫擊炮"
  generic_mio_trait_pontoons: "浮橋"
- ##################################
- #### ARMORED CAR MANUFACTURER ####
- ##################################
  generic_armored_car_organization: "裝甲車製造商"
  generic_mio_initial_trait_armored_car_manufacturer: "裝甲車設計商"
  generic_mio_trait_flash_suppressor: "消焰器"
@@ -2186,9 +1762,6 @@
  generic_mio_trait_officer_support_car: "軍官支援載具"
  generic_mio_trait_heavy_anti_tank_gun: "重型反坦克炮"
  generic_mio_trait_reinforced_wheels: "後備輪胎"
- #################################
- #### HELICOPTER MANUFACTURER ####
- #################################
  generic_helicopter_organization: "直升機製造商"
  generic_mio_initial_trait_helicopter_manufacturer: "直升機研發"
  generic_mio_trait_tandem_rotor_innovations: "雙旋翼革新"
@@ -2198,9 +1771,6 @@
  generic_mio_trait_extra_seating: "額外座位"
  generic_mio_trait_co_axial_rotors: "共軸旋翼"
  generic_mio_trait_mass_production_certification: "大規模生產證書"
- ############################
- #### TRAIN MANUFACTURER #### #marijn211: PfoT CCP addition
- ############################
  generic_mio_initial_trait_generic_train_manufacturer: "火車製造商"
  generic_mio_trait_material_improvements: "材料改進"
  generic_mio_trait_joint_stock_scheme: "合資企業模式"
@@ -2217,7 +1787,6 @@
  generic_mio_trait_salavage_destoryed_locomotives: "回收被毀機車"
  generic_mio_trait_train_production_at_scale: "大規模生產"
  generic_mio_trait_machine_assembly: "機械組裝"
- ########### DEBUG #############
  DEBUG_generic_tank_organization: "$generic_tank_organization$"
  DEBUG_generic_infantry_tank_organization: "$generic_infantry_tank_organization$"
  DEBUG_generic_mobile_tank_organization: "$generic_mobile_tank_organization$"

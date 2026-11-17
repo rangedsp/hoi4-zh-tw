@@ -329,8 +329,6 @@
  AFG_political_events.173.a: "始終如一的$AFG_shah_mahmud_khan$"
  AFG_political_events.173.b: "軍事的天才$AFG_sardar_shah_wali_khan$"
  AFG_political_events.173.c: "更進步的$AFG_mohammed_daoud_khan$"
- #RAJ
- #India wants to invade Bhutan
  GOE_RAJ.1.t: "[FROM.GetName]申請入侵[BHU.GetName]許可"
  GOE_RAJ.1.desc: "我們的附屬國[FROM.GetNameDef]看到了征服[BHU.GetAdjective]隱士王國，擴大我們在印度次大陸影響力的機會。這將打開通往內亞的大門。"
  GOE_RAJ.1.a: "好主意"
@@ -341,7 +339,6 @@
  GOE_RAJ.3.t: "[FROM.GetName]拒絕"
  GOE_RAJ.3.desc: "[FROM.GetName]拒絕了我們擴張領土的申請，宣稱此時破壞次大陸的穩定不符合王室的利益。"
  GOE_RAJ.3.a: "真是遺憾"
- #India demands Bhutan protectorate
  GOE_RAJ.4.t: "[FROM.GetName]要求歸附"
  GOE_RAJ.4.desc: "隨著大陸局勢迅速惡化，[FROM.GetNameDef]要求我們王國穩固地融入他們的勢力範圍。\n[FROM.GetAdjective]政府強調，我們將保持一定的獨立性，但決不能危及國家。"
  GOE_RAJ.4.a: "不可接受的條款"
@@ -576,14 +573,12 @@
  goe_japan.1.desc: "印度國民軍領袖蘇巴斯·錢德拉·鮑斯與我們接觸，並表示他的部隊已準備好協助我們進攻[BRM.GetName]。他認為這是將印度從[ENG.GetAdjective]統治中解放出來的第一步，通過進攻緬甸，我們可以削弱英屬印度。他的部下是堅定的民族主義者，其對地形的瞭解極其寶貴。我們要接受嗎？"
  goe_japan.1.a: "當然"
  goe_japan.1.b: "不"
- #FAMINE
  RAJ_famine_scripted_timeframe_reveal: "[GetFamineTimeframe]\n$RAJ_famine_prevention_stats$"
  RAJ_famine_scripted_timeframe_reveal_desc: "我們已確定饑荒還會持續§Y[?RAJ_famine_spread_times]§!個月。"
  RAJ_famine_scripted_timeframe_non_reveal_desc: "我們預計饑荒還會持續§Y[?RAJ_famine_spread_times_min]§!-§Y[?RAJ_famine_spread_times_max]§!個月。"
  RAJ_famine_risk_scripted_gui_desc: "預防措施阻止飢荒蔓延的概率：§G[?RAJ_famine_shield]%§!\n饑荒蔓延的概率：§R[?RAJ_famine_spreads]%§!"
  RAJ_famine_prevention_stats: "我們的預防措施已\n-阻止飢荒蔓延：§Y[?RAJ_times_shield_has_blocked_spread]§!次\n-降低饑荒時間：§Y[?RAJ_famine_reduction_from_shield]§!個月"
  RAJ_famine_shield_tt: "預防措施阻止飢荒蔓延的概率：§G+$RIGHT|0$%§!"
- #Raj Partition
  RAJ_partition_1.t: "[FROM.GetName]的抗議演變為暴力"
  RAJ_partition_1.desc: "一開始只是民眾的抗議，但隨著地方警察與示威群眾爆發衝突，這場抗議升級為了暴力。[ENG.GetAdjective]警察宣稱他們先遭受了暴力威脅才採取行動，而抗議者建成他們恪守了非暴力原則。\n沒有人死亡，但有兩名警察受了輕傷，另有一名抗議者腦震盪後被送往當地醫院。"
  RAJ_partition_1.a: "不可接受"
@@ -627,7 +622,6 @@
  GOE_RAJ_partition.10.desc: "戰爭已在印度次大陸爆發。鑑於我們對兩國都一樣相當大的影響力，也許我們應該介入，結束這種瘋狂。"
  GOE_RAJ_partition.10.a: "我們沒有時間"
  GOE_RAJ_partition.10.b: "我們需要結束它"
- #Loyalist Branch
  GOE_RAJ_partition.11.desc: "多年來，[RAJ.GetNameDef]一直由來自帝國當局的官員主導治理。但隨著自治呼聲日益高漲，我們亟需建立新的印度議會。這將使本土領袖在塑造國家方面發揮作用，同時確保國家仍將帝國利益置於考量。話雖如此，我們必須決定由誰來領導這個新政府。"
  GOE_RAJ_loyalist.01.t: "[FROM.GetAdjective]向英聯邦出口"
  GOE_RAJ_loyalist.01.desc: "今日我們帶來好消息。[RAJ.GetNameDef]的領導者向我們提出一項提案，希望增加從[RAJ.GetNonIdeologyName]銷往其餘英聯邦的主要商品的生產與出口。隨著[RAJ.GetNameDef]證明其對我們富饒領地的價值，我們可以預見，我們的倉庫將堆滿印度茶葉、棉花和黃麻。"
@@ -690,7 +684,6 @@
  GOE_RAJ_loyalist.17.t: "[FROM.GetName]拒絕緬甸$state_resource_tungsten$開採請求"
  GOE_RAJ_loyalist.17.desc: "遺憾的是，[FROM.GetNameDef]拒絕了我們在緬甸開採$state_resource_tungsten$的請求。這令人深感失望，因為該資源本可在維持我們的戰爭機器發展中發揮關鍵作用。"
  GOE_RAJ_loyalist.17.a: "真令人失望。"
- #EIC
  GOE_RAJ_eic.2.t: "任命首席執行官"
  GOE_RAJ_eic.2.desc: "公司需要堅決的領導者指引其發展，我們需要選出能使投資回報最大化的人選。這位領袖的性格會影響領導團隊的其他人，因此選對人是至關重要的。"
  GOE_RAJ_eic.2.a: "此人需要靈活"
@@ -723,7 +716,6 @@
  GOE_RAJ_eic.9.t: "[FROM.GetName]同意"
  GOE_RAJ_eic.9.desc: "[FROM.GetName]同意了這筆交易。我們很快就會把錢轉給他們，而那塊土地也會轉讓給我們。"
  GOE_RAJ_eic.9.a: "划算的交易！"
- #MUGHAL EMPIRE
  GOE_RAJ_princely.1.t: "選擇一位王公領導[ROOT.GetNameDef]"
  GOE_RAJ_princely.1.desc: "巴布爾大帝開創的帝國幅員遼闊、治世仁厚，統治南亞次大陸長達數百年之久。若要繼承這份偉業，我們仍有漫漫長路。古爾卡尼家族雖枝繁葉茂，但唯有明主方能引領我們重獲榮光。"
  GOE_RAJ_princely.1.a: "米爾·奧斯曼·阿里·汗將領導帝國走向偉大"
@@ -827,7 +819,6 @@
  GOE_RAJ_generals.9.desc: "[ENG.GetLeader]回應了我們的提議，表示他們不感興趣。"
  GOE_RAJ_generals.9.a: "真遺憾"
  GOE_RAJ_transfered_commander_tt: "轉移至[RAJ.GetNameDefCap]"
- #NEWS
  GOE_RAJ_news.1.t: "[?event_target:EIC_FORMER.GetAdjective]東印度公司捲土重來"
  GOE_RAJ_news.1.desc: "隨著[RAJ.GetNonIdeologyName]的緊張局勢持續升級，[?event_target:EIC_FORMER.GetNonIdeologyName]將如何穩定該地區，已成為其議會內部討論的關鍵點。今天上午，[?event_target:EIC_FORMER.GetLeader]發表講話，宣佈[?event_target:EIC_FORMER.GetLeader.GetHerHis]計劃在[429.GetName]建立一個新的公司制國家，以促進[RAJ.GetNonIdeologyName]和[?event_target:EIC_FORMER.GetNonIdeologyName]的經濟增長。[?event_target:EIC_FORMER.GetLeader.GetSheHeCap]聲稱，該國將獨立於王室運作，但仍將通過稅收在經濟上與[?event_target:EIC_FORMER.GetNonIdeologyName]聯繫在一起。[?event_target:EIC_FORMER.GetSheHeCap]將其描述為“19世紀東印度公司的精神繼承者”。\n\n[?event_target:EIC_FORMER.GetLeader]表示，雖然這可能會導致暫時的混亂和更高的不穩定，但它將為新的經濟安全和該地區的逐步穩定鋪平道路。"
  GOE_RAJ_news.1.a: "第二次一定行。"
@@ -843,12 +834,6 @@
  GOE_RAJ_news.4.desc: "據報道，[FROM.GetNameDef]的[FROM.GetLeader]宣佈了印度次大陸所有民族的統一，這標誌著亞洲和全世界歷史的新篇章。許多分析人士表示，印度斯坦的統一可能會對世界政治產生巨大影響，意味著一個新的超級大國的崛起。"
  GOE_RAJ_news.4.a: "確實是新的超級大國"
  GOE_RAJ_news.4.b: "可怕"
- ##############
- #### IRAN ####
- ##############
- #############
- ### FLAGS ###
- #############
  PER_fawzia_married: "與法絲亞·福阿德結婚"
  PER_teymourtash_married: "與泰穆爾塔什結婚"
  PER_irandokht_married: "與伊朗多赫特結婚"
@@ -857,9 +842,6 @@
  PER_orchestrating_rebellions: "策劃叛亂"
  PER_kurds_armed_and_ready: "庫爾德人準備就緒"
  PER_kurdish_rebellion_growing: "庫爾德叛亂髮展中"
- ###########################
- #### INDUSTRIAL EVENTS ####
- ###########################
  PER_industrial_events.1.t: "[FROM.GetNameDefCap]提供資源開採權"
  PER_industrial_events.1.desc: "今天，[PER.GetAdjective]政府聯絡我們，稱要提供$STATE_413$的石油的開採區。該地區擁有豐富的重要資源，也許這個提議值得考慮？"
  PER_industrial_events.1.a: "聽起來不錯"
@@ -871,9 +853,6 @@
  PER_industrial_events.3.t: "[FROM.GetNameDefCap]拒絕我們的貿易提案"
  PER_industrial_events.3.desc: "很遺憾，[FROM.GetNameDef]拒絕了我們慷慨的[PER.GetAdjective]石油貿易協議。也許我們最好去別處談談？"
  PER_industrial_events.3.a: "這是他們的損失！"
- #########################
- #### IMPERIAL EVENTS ####
- #########################
  PER_imperial_events.1.t: "[FROM.GetNameDefCap]希望簽訂互不侵犯條約"
  PER_imperial_events.1.desc: "今天早上，一位來自[PER.Capital.GetCapitalVictoryPointName]的使者抵達[SOU.Capital.GetCapitalVictoryPointName]，轉達了[PER.GetNameDef]沙阿希望簽署互不侵犯條約，以確保兩國安全的提議。考慮到[PER.GetNameDef]與我國南部邊疆的距離，我們應該慎重考慮此事。"
  PER_imperial_events.1.a: "我們同意。這是最好的"
@@ -1038,20 +1017,17 @@
  PER_imperial_events.182.a: "真是遺憾……"
  PER_imperial_events.190.t: "[FROM.GetNameDefCap]希望商討投降條款"
  PER_imperial_events.190.desc: "今天早上，我們收到[PER.GetAdjective]政府的消息，他們願意允許我們獲取大量他們的自然資源以結束敵對。這將迅速結束戰爭，並讓我們專注於更大的目標。不僅如此，有了他們的石油，我們在未來的戰爭將處於有利的位置。"
- #PER_imperial_events.190.desc: "[GetROOTMainInvaderOrNot190]"
  MainInvader190: "今天早上，我們收到[PER.GetAdjective]政府提議結束敵對狀態的消息，作為回報，他們將允許我們獲取其大量的自然資源。這將迅速結束戰爭，使我們能專注於實現更遠大的目標。不僅如此，憑藉他們的石油特許權，我們還能在未來任何軍事行動中佔據有利地位。"
  NotMainInvader190: "今天早上，我們收到[PER.GetAdjective]政府提議結束敵對狀態的消息，雖然眼下我們不會獲得利益或補償，但這將迅速結束戰爭。"
  PER_imperial_events.190.a: "我們可以同意這些條款"
  PER_imperial_events.190.b: "這對我們不利，繼續戰爭"
  PER_imperial_events.191.t: "[FROM.GetNameDefCap]同意我們的條款"
  PER_imperial_events.191.desc: "看來[FROM.GetAdjective]同意了我們的提議，開始起草我們的投降條款。這意味著我們將失去部分自然資源，但遠比成為[FROM.GetNameDef]控制下的完全附屬國要好得多。"
- #PER_imperial_events.191.desc: "[GetROOTMainInvaderOrNot191]"
  MainInvader191: "看來[FROM.GetAdjective]同意了我們的提議，開始起草我們的投降條款。儘管這意味著我們將損失部分自然資源，但比起完全淪為[FROM.GetNameDef]統治下的臣民，條件已經算相當優厚。"
  NotMainInvader191: "看來[FROM.GetAdjective]同意了我們的提議，開始起草我們的投降條款。我們本希望不必走到這一步，但就當前局勢而言，這已經是最好的結果"
  PER_imperial_events.191.a: "這是我們能為[PER.GetNameDef]達成的最好結果"
  PER_imperial_events.192.t: "[FROM.GetNameDefCap]拒絕我們的條款"
  PER_imperial_events.192.desc: "這是黑暗的一天。我們的敵人決定繼續進攻我們的領土，儘管他們損失慘重而我們要求和平。他們不願允許我們結束戰爭並給予他們資源，真是令人失望，我們別無選擇，只能繼續戰鬥。"
- #PER_imperial_events.192.desc: "[GetROOTMainInvaderOrNot192]"
  MainInvader192: "這是黑暗的一天。我們的敵人決定繼續進攻我們的領土，儘管他們損失慘重而我們要求和平。他們不願允許我們認輸並移交我們的資源，真是令人失望，我們別無選擇，只能繼續戰鬥。"
  NotMainInvader192: "這是黑暗的一天。我們的敵人決定繼續進攻我們的領土，儘管他們損失慘重而我們要求和平。他們不願允許我們雙方結束戰爭，真是令人失望，我們別無選擇，只能繼續戰鬥。"
  PER_imperial_events.192.a: "真是遺憾……"
@@ -1182,7 +1158,6 @@
  PER_fascist_events.1.desc: "我們已召開帝國議會，決定最適合的沙阿人選。一些人主張復辟卡扎爾王朝，另一些人建議讓巴列維王朝繼續執政以確保人民眼中的合法性。與此同時，還有一些人認為應該建立新王朝。"
  PER_fascist_events.1.a: "巴列維傀儡非常適合我們"
  PER_fascist_events.1.b: "新的伊朗，新的王朝"
- ### Iraq Events ###
  IRQ_political_events.10.t: "[FROM.GetNonIdeologyName]廢除條約"
  IRQ_political_events.10.desc: "1930年達成的《英伊條約》允許這個年輕的國家享有更大的自治權，同時也使他們在根本上受制於我們的外交政策。然而，[FROM.GetAdjective]政府廢除了這項條約，並要求我們完全撤出他們的領土。由於我們十分依賴該地區的石油，如果[FROM.GetAdjective]政府決定切斷我們的石油供應，可能會危及我們整個國家的安全。"
  IRQ_political_events.10.a: "我們應該出手干預，讓我們的朋友重新掌權"
@@ -1255,7 +1230,6 @@
  IRQ_political_events.29.a: "一群鼠目寸光的傢伙……"
  rejected_hashemite_federation_tt: "§R我們將不再能邀請[FROM.GetNameDef]加入我們的聯邦！§!"
  IRQ_regent_turned_down_absolute_powers: "§Y阿卜杜勒·伊拉§!拒絕了恢復專制君主制的機會"
- #Demand Leb
  IRQ_political_events.30.t: "[FROM.GetNameDef]要求控制[553.GetName]"
  IRQ_political_events.30.desc: "[FROM.GetNameDef]政府以他們有責任保護和統一黎巴嫩的阿拉伯人為由，大膽地要求我們放棄黎巴嫩的控制權。雖然他們名義上是為了泛阿拉伯主義，但很明顯該地的戰略位置和經濟潛力，包括其寶貴的港口和基礎設施，才是他們真正的目標。如果我們拒絕此要求，他們不太可能和平地擱置此事。"
  IRQ_political_events.30.a: "我們承擔不起另一場戰爭了"
@@ -1359,7 +1333,6 @@
  IRQ_political_events.80.desc: "馬魯夫·魯薩菲——他的詩作長期以來嘲諷著巴格達政府背後的外國黑手——如今再次成為每家咖啡館裡人人談論的話題。他最新的詩作談到一個用鮮血償清了債務、理應只向自己負責的民族，學生們在街頭公開朗誦這些詩。他的話語，為所有希望伊拉克完全自立的人發出了新的聲音。"
  IRQ_political_events.80.a: "讓他的詩篇被世人聆聽"
  IRQ_rusafi_verses_of_independence: "魯薩菲的獨立詩篇"
- #Kurdistan
  IRQ_kurdistan_events.1.t: "庫爾德民族主義者向我們求助"
  IRQ_kurdistan_events.1.desc: "我們剛剛收到[IRQ.GetNameDefCap]的庫爾德民族主義者的通訊，請求我們援助他們的革命。"
  IRQ_kurdistan_events.1.a: "我們當然會幫忙！"
@@ -1374,8 +1347,6 @@
  IRQ_kurdistan_events.4.desc: "在我們近期推進工業化的過程中，多個工會組織相繼興起。工廠工人們聯合起來，要求他們眼中公平的工作條件。安撫他們或許對我們有利，但誰也說不好這會在政治上給我們帶來什麼影響。"
  IRQ_kurdistan_events.4.a: "工人們是對的。"
  IRQ_kurdistan_events.4.b: "我們不能容忍這種社會主義的做法！"
- ###
- ### News Events ###
  GOE_IRQ_news.1.t: "巴勒斯坦大起義"
  GOE_IRQ_news.1.d: "對[ENG.GetAdjective]的管理，以及世界大戰以來的移民的多年不滿，導致[PAL.GetName]的阿拉伯人爆發了叛亂。叛亂者要求[ENG.GetAdjective]撤出部隊，並允許巴勒斯坦完全獨立。儘管[ENG.GetAdjective]不太可能接受這樣的要求，但很明顯，對他們來說，管理該地區的成本將大大提高。"
  GOE_IRQ_news.1.a: "我們支持叛軍"
@@ -1385,7 +1356,6 @@
  GOE_IRQ_news.2.t: "[FROM.GetNameDefCap]拒絕《安卡拉條約》"
  GOE_IRQ_news.2.d: "[FROM.GetNameDef]政府採取了大膽的舉措，正式拒絕了《安卡拉條約》，認為其領土協議不具備現實意義。這一決定直接挑戰了[TUR.GetNameDef]、[PER.GetNameDef]和[FROM.GetNonIdeologyName]之間的既定邊界和協議，使該地區陷入政治不確定中。這種挑釁在[TUR.Capital.GetCapitalVictoryPointName]和[PER.Capital.GetCapitalVictoryPointName]都引發了公憤，要求對[FROM.GetNameDef]的單方行動作出果斷回應的呼聲越來越高，緊張局勢正在加劇。"
  GOE_IRQ_news.2.a: "我們應該做好相應準備"
- ### Mughal peace Deal
  GOE_RAJ_mughals_peace_deal.1.t: "[UK_INDIA.GetName]提出領土讓步"
  GOE_RAJ_mughals_peace_deal.1.desc: "終於，戰爭導致的經濟困難讓[UK_INDIA.GetAdjective]政府難以維繫。儘管他們的宗主國反對，他們還是提出大量領土讓步以換取和平。"
  GOE_RAJ_mughals_peace_deal.1.a: "太棒了"

@@ -231,7 +231,6 @@
  raid_source_tooltip_distance: "距離目標：$DIST|0H$公里"
  tooltip_raid_auto_launch_description: "準備就緒且§H成功率§!高於指定閾值時，自動發起襲擊。"
  tooltip_raid_auto_launch_threshold: "§H成功率§!高於$VAL$時發起襲擊。"
- #Raid Outcome Tooltips
  raid_aborted_tt: "§R任務中止§!\n"
  dud_missile_tt: "導彈爆炸失敗"
  missile_hit_wrong_target_tt: "導彈擊中錯誤目標"
@@ -250,9 +249,7 @@
  operation_huansheng_limited_success_tt: "大膽的轟炸行動成功在大多數指定城市上空投放了傳單。然而，大部分傳單散落在難以到達的區域，並迅速被敵軍清理。"
  operation_huansheng_success_tt: "大膽的轟炸行動成功在所有指定城市上空投放了傳單。一些傳單散落在屋頂或森林區域，但大部分落在易於到達且人口密集的地區，迅速被當地居民拾起。"
  operation_huansheng_critical_success_tt: "大膽的轟炸行動成功在所有指定城市上空投放了傳單。所有傳單都落在易於到達且人口密集的地區，迅速被當地居民拾起，廣泛傳播日本侵略的消息。"
- #History Entries
  commando_port_raid_history_entry: "成功參與$raid_type_commando_port_raid$"
- #Modifiers from raids
  dam_blown_modifier: "大壩被炸燬"
  refinery_damaged_modifier: "煉油廠受損"
  refinery_critically_damaged_modifier: "$refinery_damaged_modifier$"
@@ -278,8 +275,6 @@
  tooltip_raid_modifier_effect_improvement: "  §g（當前效果：§!$VALUE$/$MAX$§g來自§!$SOURCE$§g）§!"
  tooltip_raid_modifier_effect_improvement_no_source: "§g（當前效果：§!$VALUE$/$MAX$§g）§!"
  tooltip_raid_warning_success_chance_header: "擊退襲擊的概率：$VALUE|H%1$"
- #Success chance modifiers
- #If you want a separate negative or positive statement, add a specific *_positive or *_negative entry
  success_modifier_prep_time: "§H準備§!"
  success_modifier_prep_time_negative: "缺乏§H準備§!"
  success_modifier_anti_air: "敵方§H防空§!"
@@ -360,7 +355,6 @@
  raid_target_intel_from_air_superiority: "-制空權：$AMOUNT|+1$"
  raid_target_intel_from_decryption: "-破譯了敵方密碼：$AMOUNT|+1$"
  raid_target_intel_from_enemy_counter_intel: "-敵方反間諜：$AMOUNT|+1$"
- #Unlock Tooltip
  SP_UNLOCK_RAID: "解鎖襲擊：$RAID_TYPE|Y$"
  SP_UNLOCK_RAID_CATEGORY: "解鎖：$RAID_CATEGORY|Y$"
  raid_category_fluff_text_air_raids: "§L空軍司令部§!"
@@ -430,25 +424,13 @@
  raid_target_name_great_wall: "§H$the_great_wall$§!"
  raid_target_name_state: "$LOCATION|H$"
  early_nuclear_raid_unlock: "已準備好部署用原型炸彈"
- #Custom Raid Names
- ### PRC
- #Land
  raid_type_PRC_weapons_depot_raid: "掠襲武器倉庫"
  raid_type_PRC_probe_border_defenses_raid: "突襲邊區防線"
  raid_type_SOV_transport_volunteers_to_CZE: "蘇聯志願軍空中通道"
  raid_type_SOV_transport_volunteers_to_CZE_desc: "捷克斯洛伐克請求軍事援助，但由於我們之間沒有直接接壤的邊境，後勤運輸存在困難。作為替代方案，我們可以組建一支志願軍部隊，通過空運方式將其送至捷克斯洛伐克軍隊中參與作戰。"
  raid_target_name_CZE_volunteer_transport: "穆卡切沃機場"
- ### Indonesia
- #Land
- #raid_type_INS_militia_knil_sabotage_raid: "Raid KNIL Bases"
- #raid_type_INS_militia_knil_sabotage_raid_desc: "A team of Militias will attempt to raid KNIL bases with the goal of converting Indonesian soldiers to the Republican side, gaining manpower and valuable insights into enemy plans."
- #raid_type_INS_militia_knil_supply_raid: "Raid Weapon Depots"
- #raid_type_INS_militia_knil_supply_raid_desc: "A team of Militias will attempt to raid Supply Hubs controlled by the enemy with the goal of stealing equipment for the Republic"
- #raid_type_INS_militia_loot_caches_raid: "Raid Weapons Caches"
- #raid_type_INS_militia_loot_caches_raid_desc: "A team of Militias will raid KNIL weapons caches using intelligence from ex-KNIL republicans, attempting to steal large quantities of equipment."
  raid_type_INS_militia_increase_activity_raid: "嘗試游擊滲透"
  raid_type_INS_militia_increase_activity_raid_desc: "我方將派遣民兵前往該地區，與當地革命人士取得聯繫並建立游擊據點。若行動順利，我方將嘗試滲透該區域，從荷蘭當局手中奪取控制權。\n\n§W目標地區必須位於共和派控制的§Y地堡§!、§Y鐵路§!或§Y海軍基地§!的範圍內。這些建築可作為行動起點。§!\n\n§Y效果：§!\n§R部署的師將會被消耗§!\n§Y成功：§!\n       §W成為該地區的所有者與控制者。\n       提升戰局態勢等級§R1§!§!級。\n§Y部分成功：§!\n       §W民兵活動等級提升§Y1級§!，提高後續行動的成功概率。§!\n§Y失敗：§!\n       §W沒有效果。§!"
- #Naval
  raid_type_INS_militia_port_raid: "佔領海軍基地"
  raid_type_INS_militia_port_raid_desc: "我方將派遣民兵偽裝成漁民，乘坐小型船隻行動，力求不被當局發現。登陸後，他們將嘗試建立游擊隊據點；若時機成熟，便會同當地游擊隊協同奪取該海軍基地。此次行動風險極高，一旦民兵暴露行蹤，行動必將失敗。\n\n§Y效果：§!\n§R所分配的師將被消耗§!\n§Y成功：§!\n       §W成為該地區的所有者與控制者。§!\n       提升戰局態勢等級§R1§!級。\n§Y部分成功：§!\n       §W民兵活動等級提升§Y1級§!，提高後續行動的成功概率。§!\n§Y失敗：§!\n       §W沒有效果。§!"
  SIA_pacific_island_raid: "襲擊太平洋島嶼"

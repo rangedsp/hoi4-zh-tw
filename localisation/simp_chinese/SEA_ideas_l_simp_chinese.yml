@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ### MISC ###
  TIB_tibetan_politics_idea: "甘丹頗章"
  TIB_tibetan_politics_idea_desc: "在格魯派統一西藏核心地區、在曠日持久的內戰中擊敗藏巴汗後，第五世達賴喇嘛建立了政教合一的政府，而這一模式也延續至今，成為我們現行體制的基礎。雖然當時採取了閉關政策，但這一舉措確實帶來了更為穩定的局面。"
  TIB_tibetan_army_idea: "藏軍"
@@ -13,10 +12,6 @@
  MEN_disorganized_army_idea: "缺乏組織的軍隊"
  MEN_disorganized_army_idea_4: "蒙疆國民軍"
  MON_income_from_hulunbuir_idea: "[761.GetName]資金"
- ###################
- ###### JAPAN ######
- ###################
- ### Imperial Influence ###
  JAP_imperial_influence_dm: "帝國影響力"
  JAP_imperial_influence_dm_desc: "國家內部的各派系都在爭奪對[GetImperialInfluenceRulerTitle]的權力與影響，這一傳統可追溯至明治與大正時期由寡頭與軍閥集團建立之時。"
  JAP_imperial_influence_communist_dm: "國家影響力"
@@ -98,7 +93,6 @@
  JAP_big_government_faction_loss_tt: "£imperial_influence_texticon $JAP_government_faction$$JAP_big_influence_loss$"
  JAP_interservice_rivalry_effects: "£imperial_influence_texticon 由於陸軍和海軍間的§Y$JAP_interservice_rivalry$§!："
  JAP_pending_imperial_influence_decision: "未在執行帝國影響力決議"
- #Imperial Influence Triggers
  JAP_army_faction_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_army_faction$至少$JAP_imperial_influence_tier_3$"
  JAP_army_faction_is_not_subdued_tt: "£imperial_influence_texticon $JAP_army_faction$不是$JAP_imperial_influence_tier_1$"
  JAP_army_faction_is_at_most_meddling_tt: "£imperial_influence_texticon $JAP_army_faction$§Y至多§!$JAP_imperial_influence_tier_2$"
@@ -119,7 +113,6 @@
  JAP_blocked_from_favoring_the_navy_flag: "$JAP_imperial_influence_ruler_title$已§R徹底放棄支持§!§Y$JAP_naval_faction$§!"
  JAP_blocked_from_favoring_the_zaibatsus_flag: "$JAP_imperial_influence_ruler_title$已§R徹底放棄支持§!§Y$JAP_zaibatsu_faction$§!"
  JAP_blocked_from_favoring_the_government_flag: "$JAP_imperial_influence_ruler_title$已§R徹底放棄支持§!§Y$JAP_government_faction$§!"
- #####################################################
  JAP_state_shinotism_dm: "國家神道"
  JAP_state_shinotism_dm_desc: "自從明治維新以來，我們一直使用對神社的崇拜來宣揚忠誠與發展。這個政策使得我們能夠建立一個為天皇犧牲的國家。"
  JAP_modify_state_shinotism_modifier_tt: "§Y$JAP_state_shinotism_dm$§!追加效果："
@@ -130,7 +123,7 @@
  JAP_japanese_armor_doctrine_blankspace_tt: "[GetJapaneseArmorDoctrineBlankSpace]"
  JAP_japanese_armor_doctrine: "日本裝甲學說"
  JAP_blanskspace_tt: "\n"
- JAP_japanese_armor_doctrine_equipment_tt: "§Y所有坦克§!：\n  $production_cost_tt$§R+10.00%§!" #WARNING! If these numbers are changed, the numbers in JAP_japanese_armor_doctrine_equipment need to change to!
+ JAP_japanese_armor_doctrine_equipment_tt: "§Y所有坦克§!：\n  $production_cost_tt$§R+10.00%§!"
  JAP_national_army_dm: "帝國陸軍"
  JAP_national_army_dm_desc: "日本陸軍是我們的主要地面部隊，在明治時代的快速現代化進程中發揮了核心作用，並參與了日清戰爭、日俄戰爭以及世界大戰等多場衝突。它最初由明治維新後的藩兵整編而成，後受法國和德國模式影響，逐漸發展成為強大的現代化軍隊。"
  JAP_jungle_armor_tt: "\n§Y$category_all_armor$§!：\n§Y叢林§!：\n進攻效果變化：§G+10%§!\n防禦效果變化：§G+10%§!"
@@ -369,8 +362,7 @@
  JAP_accepted_the_potsdam_agreement: "已接受波茨坦公告"
  JAP_the_final_war_theory_idea: "最終戰論"
  USA_wounded_national_pride_idea: "受傷的民族自尊"
- #### PEOPLE'S REPUBLIC OF CHINA ####
- PRC_the_chinese_red_army: "中國紅軍" #No scripted loc in idea names and sadly that means no ROOT.GetAdjective in the title :(
+ PRC_the_chinese_red_army: "中國紅軍"
  PRC_the_chinese_red_army_desc: "[GetArmyRecoveryStage]"
  PRC_the_chinese_red_army_modify_tt: "§Y$PRC_the_chinese_red_army$§!追加效果："
  PRC_no_army_recovery: "[ROOT.GetAdjective]紅軍仍因長征而疲憊不堪、實力受損，為了對抗看似強大的敵人，還在艱難重整旗鼓。"
@@ -450,7 +442,6 @@
  PRC_passive_revolutionaries_idea_tt: "\n§Y$PRC_passive_revolutionaries_idea$§!§R將在§Y[PRC.GetNameWithFlag]§!加入對抗外國侵略者的戰爭，或外國侵略者與全§Y中國§!達成和平後移除。§!"
  PRC_crossing_the_taiwanese_strait: "跨越臺灣海峽"
  PRC_guerilla_warfare: "游擊戰"
- #PRC_the_internal_enemy: "The Internal Enemy"
  PRC_the_internal_enemy_tt: "對§Y大中華區§!所有勢力的進攻加成：§G+5%§!\n對§Y大中華區§!所有勢力的突破加成：§G+5%§!"
  PRC_the_internal_enemy_upgrade_tt: "對所有§Y大中華區§!勢力的進攻加成：§G+10%§!\n對所有§Y大中華區§!勢力的突破加成：§G+10%§!"
  PRC_add_the_internal_enemy_idea_upgrade_tt: "§Y$PRC_the_internal_enemy$§!追加效果：\n對所有§Y大中華區§!勢力的進攻加成：§G+5%§!\n對所有§Y大中華區§!勢力的突破加成：§G+5%§!"
@@ -461,7 +452,6 @@
  PRC_to_supply_an_army_idea: "供應軍隊"
  PRC_to_equip_an_army: "武裝軍隊"
  PRC_the_party_builds_the_nation_timed_idea: "快速進展"
- ## Industiral Concerns
  PRC_peoples_bank_of_china: "[ROOT.GetName]人民銀行"
  PRC_publicity_department_of_central_committee: "中國共產黨中央委員會宣傳部"
  PRC_sinochem: "中化集團"
@@ -471,7 +461,6 @@
  PRC_china_state_construction_engineering_corporation_mil_improved: "$PRC_china_state_construction_engineering_corporation$"
  PRC_china_railway_construction_corporation: "中國鐵道建築總公司"
  PRC_china_national_nuclear_corporation: "中國核工業總公司"
- ## Non AAT manufacturers
  PRC_first_tractor_company: "第一拖拉機制造廠"
  PRC_ordenance_bureau: "軍械部"
  PRC_huangyadong_arsenal: "黃崖洞兵工廠"
@@ -483,7 +472,6 @@
  PRC_harbin_aircraft: "哈爾濱飛機工業集團"
  PRC_shipbuilding_industry_bureau: "船舶工業局"
  PRC_dalian_shipbuilding_company: "大連造船公司"
- ## State Modifiers
  PRC_guerilla_cells_active_1: "已建立游擊隊"
  PRC_guerilla_cells_active_1_desc: "敵對游擊隊已在該地區建立據點。"
  PRC_guerilla_cells_active_1_tt: "\n當地區§Y順從度§!超過§G60.00%§!時，§Y$PRC_guerilla_cells_active_1$§!將被移除。"
@@ -504,16 +492,11 @@
  PRC_probed_border_defenses_victim_massive: "緊急反制"
  PRC_infiltrated_border_defenses: "滲透邊區防線"
  PRC_sabotaged_border_defenses: "破壞邊區防線"
- #Opinion Modifiers
  PRC_approached_the_west_opinion: "已接觸西方"
  PRC_dixie_mission_opinion: "迪克西使團"
  PRC_deepened_communist_ties_opinion: "已加深共產主義合作"
  PRC_approached_the_soviets_opinion: "已接觸蘇聯"
  PRC_soviet_technological_cooperation_opinion: "中蘇科技合作"
- ############################
- ### Nationalist China ####
- ############################
- #### TOOLTIPS ###
  CHI_modify_corruption_in_the_administration_tt: "§Y$CHI_corruption_in_the_administration$§!追加效果："
  CHI_modify_reorganized_administration_tt: "§Y$CHI_reorganized_administration$§!追加效果："
  CHI_corruption_recruitable_fake_tt: "可徵募人口係數：§R-78%§!"
@@ -606,7 +589,7 @@
  CHI_foreign_economic_support: "外國經濟援助"
  CHI_foreign_economic_support_dm_tt: "[?CHI_foreign_economic_support_cic_amount|Y0]經濟產能每月盈餘"
  CHI_american_reconstruction_support: "中美聯合農村建設委員會"
- CHI_american_support_equipment_tt: "\n向庫存中添加[USA.GetAdjective]裝備：" #TODO_JNS Change to getting the proper sender
+ CHI_american_support_equipment_tt: "\n向庫存中添加[USA.GetAdjective]裝備："
  CHI_the_hanoi_route_tt: "\n  [?CHI_the_hanoi_route_support_equipment|Y0]單位$support_equipment$"
  CHI_the_burma_road_tt: "\n  [?CHI_the_burma_road_motorized_equipment|Y0]單位$motorized_equipment$"
  CHI_the_hump_sea_tt: "\n  [?CHI_the_hump_sea_infantry_equipment|Y0]單位$infantry_equipment$"
@@ -657,14 +640,11 @@
  CHI_correcting_a_hisotrical_wrong_idea: "糾正歷史錯誤"
  CHI_liberated_by_democratic_china: "由[CHI.GetNameDefCap]解放"
  CHI_liberated_by_democratic_china_desc: "我們國家終於從殖民者手中贏得了應有的獨立。在[CHI.GetNameDef]的幫助下，我們再次成為一個自由的國家。他們的行動顯然是在幫助我們，他們所宣揚的共產主義思想開始在我們的人民中紮根。"
- # State modifiers
  CHI_declared_war_zone_idea: "已劃定戰區"
  CHI_bog_defensive_modifier: "協調防禦"
  CHI_shanghai_international_settlement: "上海公共租界"
  CHI_shanghai_international_settlement_desc: "外國勢力通過條約確立了控制權，使上海成為了一座門戶開放的城市。"
- # General
  add_cic_monthly_tt: "$RIGHT|+=0$經濟產能盈餘"
- # Industrial Concerns
  CHI_national_resource_commission: "全國資源委員會"
  CHI_national_resource_commission_desc: "$CHI_mining_commission_desc$"
  CHI_china_national_aviation_corporation: "中國航空公司"
@@ -672,7 +652,6 @@
  CHI_shanghai_power_company: "上海電力公司"
  CHI_bank_of_china: "中國銀行"
  CHI_yongli_chemical_industries: "永利化學工業"
- # Designers
  CHI_camco_SEA: "$CHI_camco_1$"
  CHI_sinaw: "$CHI_sinaw_organization_sea$"
  CHI_shanghai_arsenal_designer: "$CHI_shanghai_arsenal$"
@@ -682,25 +661,18 @@
  CHI_corruption_in_the_administration_fake_ns: "$CHI_corruption_in_the_administration$"
  CHI_protracted_warfare_idea_fake_ns: "$CHI_protracted_warfare_idea$"
  CHI_gung_ho_idea_fake_ns: "$CHI_gung_ho_idea$"
- #########################
- ##### PHILIPPINES #####
- #########################
- ### Dynamic Modifiers ###
- ## Defense Strategy
  PHI_defense_strategy_dynamic_modifier: "防禦戰略"
  PHI_defense_strategy_dynamic_modifier_desc: "作為一個群島國家，菲律賓天然具備相當強的防禦優勢。但這並不意味著我們不應給任何入侵者設置更多障礙。"
  PHI_defense_strategy_dynamic_modifier_tt: "防禦戰略"
  PHI_modify_defense_strategy_dynamic_modifier_tt: "§Y$PHI_defense_strategy_dynamic_modifier_tt$§!追加效果："
  PHI_add_defense_strategy_dynamic_modifier_tt: "獲得§Y$PHI_defense_strategy_dynamic_modifier_tt$§!，其效果為：\n"
  PHI_modify_economy_dynamic_modifier_tt: "[GetPHIEconomicModifier]"
- ## Great Depression
  PHI_the_great_depression_dynamic_modifier: "大蕭條"
  PHI_the_great_depression_dynamic_modifier_desc: "大蕭條給美國帶來了沉重打擊，而作為其附屬國，我們也未能倖免於這場金融災難。"
  PHI_modify_the_great_depression_dynamic_modifier_tt: "§Y$PHI_the_great_depression_dynamic_modifier$§!追加效果："
  PHI_the_great_depression_temp_construction_speed: "臨時建築業繁榮"
  PHI_ruling_ideology_ideology_drift_tt: "任何意識形態的偏移都將與執政黨保持一致"
  PHI_ruling_ideology_ideology_drift_tt_2: "每日執政黨變動：$RIGHT|+=2$"
- ##Shaken/Recovering Economy
  PHI_shaken_economy_dynamic_modifier: "動搖的經濟"
  PHI_shaken_economy_dynamic_modifier_desc: "大蕭條的影響仍在全國範圍內迴盪，經濟依舊動盪且易受衝擊。不過，也並非全是壞事，遠處已隱約可見經濟復甦的微弱曙光。"
  PHI_replace_depression_dynamic_modifier_tt: "將§Y$PHI_the_great_depression_dynamic_modifier$§!替換為§Y$PHI_shaken_economy_dynamic_modifier$§!\n效果變化："
@@ -710,7 +682,6 @@
  PHI_recovering_economy_dynamic_modifier_desc: "我們的經濟已開始從先前的金融困境中復甦，投資也已再度認真展開。雖然尚未看到真正的增長，但我們至少大致回到了大蕭條來臨前的水平。"
  PHI_replace_shaken_dynamic_modifier_tt: "將§Y$PHI_shaken_economy_dynamic_modifier$§!替換為§Y$PHI_recovering_economy_dynamic_modifier$§!\n效果變化："
  PHI_modify_recovering_economy_dynamic_modifier_tt: "§Y$PHI_recovering_economy_dynamic_modifier$§!追加效果："
- ## Economic Growth/Pearl of the Orient (Great Depression's lategame replacement)
  PHI_economic_growth_dynamic_modifier: "經濟增長"
  PHI_economic_growth_dynamic_modifier_desc: "我們終於開始看到真正的經濟增長，小企業和創業精神已站穩腳跟，引領國家走向財政繁榮。"
  PHI_modify_economic_recovery_dynamic_modifier_tt: "§Y$PHI_economic_growth_dynamic_modifier$§!追加效果："
@@ -719,24 +690,19 @@
  PHI_pearl_of_the_orient_dynamic_modifier_desc: "我們的經濟正蓬勃發展，如今擺脫了殖民宗主國的束縛，我們得以自由做出決策，並證明了東南亞地區能夠實現的經濟繁榮。"
  PHI_remove_economic_recovery_dynamic_modifier_tt: "將§Y$PHI_economic_growth_dynamic_modifier$§!替換為§Y$PHI_pearl_of_the_orient_dynamic_modifier$§!\n效果變化："
  PHI_modify_pearl_of_the_orient_dynamic_modifier_tt: "§Y$PHI_pearl_of_the_orient_dynamic_modifier$§!追加效果："
- ## Philippine Army
  PHI_philippine_army_dynamic_modifier: "菲律賓陸軍"
  PHI_philippine_army_dynamic_modifier_desc: "菲律賓的陸上部隊主要負責保衛我們的本土島嶼。這支部隊最初由多個偵察單位組成，如今其掌控的兵力仍在持續擴充。"
  PHI_philippine_army_dynamic_modifier_tt: "§Y$PHI_philippine_army_dynamic_modifier$§!追加效果："
  PHI_philippine_rule_cant_volunteer: "可以派遣志願軍：§R否§!"
- ## Philippine Army Air Corps
  PHI_philippine_army_air_corps_dynamic_modifier: "菲律賓陸軍航空隊"
  PHI_philippine_army_air_corps_dynamic_modifier_desc: "儘管這支力量在菲律賓軍中尚屬新生，但掌控天空的渴望並未因此減弱。"
  PHI_philippine_army_air_corps_dynamic_modifier_tt: "§Y$PHI_philippine_army_air_corps_dynamic_modifier$§!追加效果："
- ## American Interference
  PHI_american_interference_dynamic_modifier: "美國干預"
  PHI_american_interference_dynamic_modifier_desc: "外國勢力對我國有著重大影響力，倘若我們希望真正感受到獨立，那麼就必須打破他們強加於我們的這種專橫控制。"
  PHI_american_interference_dynamic_modifier_tt: "§Y$PHI_american_interference_dynamic_modifier$§!追加效果："
- ## Island Nation
  PHI_island_nation_dynamic_modifier: "島國"
  PHI_island_nation_dynamic_modifier_desc: "菲律賓是一個由島嶼組成的國家，因此我們的人民對海洋有著天然的親近感。"
  PHI_island_nation_dynamic_modifier_tt: "§Y$PHI_island_nation_dynamic_modifier$§!追加效果："
- ## Asian Trade
  PHI_asian_trade_connections_dynamic_modifier: "亞洲貿易聯繫"
  PHI_asian_trade_connections_dynamic_modifier_desc: "幾個世紀以來，貿易一直是菲律賓經濟的基石，我們不應羞於從中獲取收益。"
  PHI_asian_trade_connections_dynamic_modifier_tt: "[GetAsianTradePartnersSiam]\n[GetAsianTradePartnersMalaya]\n[GetAsianTradePartnersDutchEastIndia]"
@@ -745,18 +711,14 @@
  PHI_asian_trade_connections_dutch_east_india: "荷屬東印度貿易協定"
  PHI_japanese_investors_mod: "日本投資者"
  PHI_japanese_trade_connections: "日本貿易聯繫"
- ## Preemtive Strike
  PHI_preemptive_strikes_dynamic_modifier: "先發制人打擊"
  PHI_preemptive_strikes_dynamic_modifier_desc: "確保我們不被入侵只有一個方法——先入侵其他人！"
  PHI_preemptive_strikes_dynamic_modifier_tt: "§Y$PHI_preemptive_strikes_dynamic_modifier$§!追加效果："
- ## Resistance
  PHI_philippine_resistance_movement_dynamic_modifier: "菲律賓抵抗"
  PHI_philippine_resistance_movement_dynamic_modifier_tt: "§Y$PHI_philippine_resistance_movement_dynamic_modifier$§!追加效果："
  PHI_strong_guerrilla_presence: "強大的游擊隊力量"
  PHI_no_gtd_concrete_battleship: "$PHI_the_concrete_battleship$"
- ## Investment plan bonuses
  PHI_investment_plan_1_building_bonus: "已投資國家基礎設施"
- ### National Spirits ###
  PHI_maritime_communism_idea: "海洋共產主義"
  PHI_struggle_conference_idea: "鬥爭會議"
  PHI_encourage_chinese_immigration_idea: "鼓勵中國移民"
@@ -764,7 +726,7 @@
  PHI_cobalt_supremacy_idea: "鈷礦霸權"
  PHI_submarine_supply: "潛艇補給空投"
  PHI_add_bell_trade_act_opinion_modifier_tt: "與§Y[ROOT.GetName]§!的貿易關係變動：§G+30§!"
- PHI_rehabilitation_finance_corporation_idea: "$PHI_rehabilitation_finance_corporation$" #inconsistency with using name = on other ideas is intentional, as name = also copies the focus description
+ PHI_rehabilitation_finance_corporation_idea: "$PHI_rehabilitation_finance_corporation$"
  PHI_development_bank: "菲律賓開發銀行"
  PHI_dockworker_infiltration: "與碼頭工人合作"
  PHI_unified_naval_command: "統一海軍指揮"
@@ -783,7 +745,6 @@
  considered_as_extremist_for_war_economy_tt: "§Y[ROOT.GetNameDefCap]§!的§Y$war_economy$§!限制將減少，與§Y法西斯主義§!/§Y共產主義§!政體一致"
  considered_as_extremist_for_manpower_laws_tt: "§Y[ROOT.GetNameDefCap]§!的§Y$extensive_conscription$§!和§Y$service_by_requirement$§!限制將減少，與§Y法西斯主義§!/§Y共產主義§!政體一致"
  PHI_integration_efforts: "整合工作"
- ### Timed Spirits ###
  PHI_government_filipinization_surrender_limit_timed_idea: "菲律賓化"
  PHI_petition_the_supreme_court_communism_timed_idea: "共產壓力"
  PHI_recognize_unions_timed_idea: "承認工會-工人滿意"
@@ -792,7 +753,6 @@
  PHI_slippery_slope_timed_idea: "滑向深淵"
  PHI_restore_order_timed_idea: "秩序恢復"
  PHI_japanese_investment: "[JAP.GetAdjective]投資"
- ### MIO / Design Company ###
  PHI_san_miguel_company: "聖米格爾釀酒廠"
  PHI_san_miguel_improved_tt: "§Y$PHI_san_miguel_company$§!的效果提升"
  PHI_south_seas_development_company: "南洋開發公司"
@@ -804,39 +764,28 @@
  PHI_marsman_and_company: "馬斯曼公司"
  PHI_marsman_and_company_improved_tt: "§Y$PHI_marsman_and_company$§!的效果提升"
  PHI_compania_maritima_de_cebu: "宿務海運公司"
- ### Focus ###
  PHI_japan_aligned_ideology: "親日意識形態"
  PHI_japan_aligned_ideology_tt: "與日本現任執政黨結盟"
  PHI_japan_aligned_ideology_improved_tt: "§Y$PHI_japan_aligned_ideology$§!追加效果："
  PHI_clock_tt: "加速完成的國策會顯示小鐘表圖標。"
  PHI_reduce_national_defense_act_cost_tt: "選擇§Y親美§!或§Y親日§!路線，將使該國策所需時間縮短至最低 35 天。"
- ### Misc ###
  PHI_convoys_for_consumer_goods_idea: "在民用市場出售運輸船"
  PHI_selling_convoys_fake_modifier_tt: "§Y2§!地圖外§Y$industrial_complex$§!"
  PHI_recently_broke_USA_alliance: "最近與@USA §Y[USA.GetName]§!解除了同盟關係"
- ### Fake Ideas ###
  PHI_the_great_depression_ns_fake: "大蕭條"
  PHI_the_great_depression_ns_fake_tt: "每日政治點數：§R0.75%§!\n資源獲取效率：§R-25%§!\n消費品工廠係數：§Y50%§!\n建設速度：§R-25%§!\n加入陣營緊張度限制：§R+100%§!"
  PHI_philippine_army_ns_fake: "菲律賓陸軍"
  PHI_philippine_army_ns_fake_tt: "陸軍經驗獲取：§R-80%§!\n可徵募人口係數：§R-50%§!\n工廠產出：§R-90%§!\n船塢產出：§R-50%§!\n訓練時間：§R+40%§!\n每日指揮點數增長乘數：§R-50%§!"
  PHI_island_nation_ns_fake: "島國"
  PHI_island_nation_ns_fake_tt: "撤退時運輸船速度：§G+15%§!\n可見度：§G-5.00%§!"
- #Nine Power Treaty
  CHI_repudiated_nine_power_treaty_no_bba: "廢除九國公約"
  CHI_repudiated_nine_power_treaty: "$CHI_repudiated_nine_power_treaty_no_bba$"
- #### POST WARLORD
  PRC_tsr_warlord_peoples_liberation_army: "人民解放軍"
- ###################
- ##### Generic #####
- ###################
  alternate_political_infiltrated_opposition: "顛覆行動"
  alternate_political_dockworker_strike: "碼頭工人罷工"
  alternate_political_dockworker_strike_demands_met: "同意罷工訴求"
  alternate_political_corruption_exposed: "腐敗醜聞"
  alternate_political_major_protest: "大眾抗議"
- ###################
- ##### WARLORDS ####
- ###################
  SOV_cooperation_with_sinkiang: "與新疆合作"
  failed_revolutionaries: "失敗的革命者"
  criticized_our_intervention_opm: "批評我們介入新疆"
@@ -887,7 +836,6 @@
  CHI_tsr_low_legitimacy_4: "正統王朝"
  CHI_tsr_a_new_empire_idea: "新帝國"
  idea_MAN_central_government_integration_pressure: "帝國政府整合壓力"
- ### National Spirits ###
  SIK_soviet_military_cooperation: "蘇聯軍事合作"
  SIK_battle_for_sinkiang: "為新疆而戰"
  SIK_battle_for_sinkiang_desc: "隨著北部的軍政長官與南部的新36師對峙，新疆局勢愈演愈烈。若捲入衝突的各方想要另尋戰端，他們必須先解決自身的問題。"
@@ -961,12 +909,10 @@
  CHI_modify_ma_clique_collective_modifier_tt: "§Y$CHI_ma_clique_collective$§!追加效果："
  MA_family_ties_opm: "牢固的馬氏家族紐帶"
  MA_family_ties_2_opm: "正式建立馬家軍集團"
- ### state ###
  SIK_state_autonomous_prefecture: "自治區"
  SIK_state_autonomous_prefecture_desc: "此地由地方領袖治理，政府的干預較少。倘若戰事爆發，這些領袖未必會完全忠誠。"
  PRC_the_yulin_garrison: "榆林駐軍"
  PRC_the_yulin_garrison_desc: "儘管我們盡了最大努力將他們剷除，但由井嶽秀與高桂滋指揮的第86與第84師仍設法抵擋我們的攻擊，並有效地將該省北部維持在國民黨控制之下。要剷除他們並不容易，因為他們的陣地非常堅固。"
- ### military spirits  ###
  living_off_the_land_army_spirit: "就地補給"
  living_off_the_land_army_spirit_desc: "用己方武器消滅敵人固然不錯，但用敵方武器消滅他則更勝一籌。"
  rapid_emplacement_army_spirit: "快速部署"

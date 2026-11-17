@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- #POLITICS_SUBGOAL_HEADER: "$NAME$ ($COLOR$$PROGRESS|%0$§!):"
  POLITICS_SUBGOAL: "目標 #$NUMBER$"
  DRIFT_DIM_RETURN: "政黨惰性：§R-$VAL$§!\n"
  POL_DAILY_CHANGE: "每日變化：$VAL$"

@@ -185,7 +185,7 @@
  mtg_usa_anti_bolshevist_aid_tt: "解鎖決議：§Y反[GetSovietThreatNameAlt]戰爭的武器§!\n選擇決議時：\n向正在與§Y[SOV.GetNameDefCap]§!作戰的國家送出§Y1000§!件§Y步兵裝備§!，優先送出過時裝備。"
  ENG_trade_unions_demand_minister_appointment_decision: "任命工會大臣"
  ENG_trade_unions_demand_minister_appointment_decision_desc: "為了滿足工會的要求，我們將任命他們選出的代表加入內閣。"
- ENG_trade_unions_demand_minister_appointment_1_NOT: "工會要求任命大臣" #This is needed due to changes in how the custom_trigger_tooltip functions.
+ ENG_trade_unions_demand_minister_appointment_1_NOT: "工會要求任命大臣"
  ENG_trade_unions_demand_minister_appointment_2: "工會要求任命大臣"
  ENG_trade_unions_demand_minister_appointment_3: "工會要求任命大臣"
  ENG_trade_unions_demand_minister_appointment_4: "工會要求任命大臣"

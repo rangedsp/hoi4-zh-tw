@@ -33,9 +33,6 @@
  PSR_coring_state_in_progress: "一個地區正在整合中。"
  SOV_cancel_the_japanese_resource_rights_to_sakhalin_decision: "取消[JAP.GetAdjective]對§Y[655.GetName]§!的資源開採權"
  MEN_request_initiation_of_the_suiyuan_campaign_decision: "請求發動綏遠戰役"
- ###################
- ###### JAPAN ######
- ###################
  JAP_kodoha_insurgency_decisions: "皇道派"
  JAP_kodoha_insurgency_decisions_desc: "皇道派，我們帝國陸軍中的一個派系，目前正對其敵對勢力採取行動，1935年8月他們暗殺軍事將領永田鐵山便是實證。如果他們今後決定採取更大規模的行動，至少要等到其長官相澤三郎的審判結束後。或許現在最好加強對某些人的安保措施，皇道派聲稱這些人威脅到了國體——我們國家的靈魂。"
  JAP_aizawa_trial_ongoing: "相澤三郎進行中的審判"
@@ -281,10 +278,8 @@
  JAP_tauran_border_conflict_time_until_cancelled_desc: "就目前的態勢來說，我們已經不再能維持更久的作戰了。"
  initial_tauran_decision_taken_flag: "已開始準備攻擊塔烏蘭"
  MAN_we_must_assault_to_not_have_negatives_tt: "我們必須攻擊§Y[761.GetName]§!的§Y[MON.GetAdjective]§!軍隊，以免喪失對該區域的掌控"
- #### IMPERIAL INFLUENCE MISSIONS AND DECISIONS ####
  JAP_imperial_influence_decision_cat: "內部派系訴求"
  JAP_imperial_influence_decision_cat_desc: "我國內部的各派系擁有高度自治權，他們不會坐視[ROOT.GetLeader]的漠視。因此，只要他們的權力沒有被大幅削弱，他們就會不斷向政府提出廣泛要求。"
- #ARMY
  JAP_army_faction_demands_military_factories: "$JAP_army_faction$要求更多的軍用工廠"
  JAP_army_faction_demands_military_factories_tt: "擁有超過§Y[?JAP_desired_military_factories]§!$arms_factory$"
  JAP_army_faction_demands_political_appointment: "$JAP_army_faction$要求陸軍部長任命"
@@ -293,7 +288,6 @@
  JAP_army_faction_demands_more_trucks: "$JAP_army_faction$要求更多卡車"
  JAP_army_faction_demands_more_tanks: "$JAP_army_faction$要求更多坦克"
  JAP_army_faction_demands_more_artillery: "$JAP_army_faction$要求更多火炮"
- #NAVY
  JAP_naval_faction_demands_dockyards: "$JAP_naval_faction$要求更多的船廠"
  JAP_naval_faction_demands_dockyards_tt: "擁有超過§Y[?JAP_desired_naval_factories]§!$dockyard$"
  JAP_naval_faction_demands_political_appointment: "$JAP_naval_faction$要求海軍部長任命"
@@ -302,13 +296,11 @@
  JAP_naval_faction_demands_more_carriers_and_battleships: "$JAP_naval_faction$要求更多航母和戰列艦"
  JAP_naval_faction_demands_more_battleships: "$JAP_naval_faction$要求更多戰列艦"
  JAP_naval_faction_demands_strike_south_happen_mission: "$JAP_naval_faction$請命南征"
- #ZAIBATSU
  JAP_zaibatsu_faction_demands_factories: "$JAP_zaibatsu_faction$要求更多的民用工廠"
  JAP_zaibatsu_faction_demands_factories_tt: "擁有超過§Y[?JAP_desired_civilian_factories]§!$industrial_complex$"
  JAP_zaibatsu_faction_demands_political_appointment: "$JAP_zaibatsu_faction$要求政治委任"
  JAP_zaibatsu_faction_demands_economy_law_change: "$JAP_zaibatsu_faction$要求更改經濟法案"
  JAP_zaibatsu_faction_demands_industrial_company_employment: "$JAP_zaibatsu_faction$要求工業企業合同"
- #GOVERNMENT
  JAP_government_faction_demands_political_appointment: "$JAP_government_faction$要求政治委任"
  JAP_government_faction_demands_trade_law_change: "$JAP_government_faction$要求更改貿易法案"
  JAP_government_faction_demands_limited_army_influence: "$JAP_government_faction$要求限制陸軍影響力"
@@ -317,9 +309,6 @@
  JAP_ai_curtail_the_army_faction_decision: "遏制陸軍派系"
  JAP_ai_curtail_the_navy_faction_decision: "遏制海軍派系"
  JAP_ai_curtail_the_zaibatsu_faction_decision: "遏制財閥派系"
- ###############################
- #### THE REPUBLIC OF CHINA ####
- ###############################
  CHI_the_political_tutelage_cat: "訓政"
  CHI_the_political_tutelage_cat_desc: "現在是全面貫徹孫中山思想的時候了，提高中國人民的識字率並喚醒他們的政治意識，以便在我們土地上建設並維持民國。"
  CHI_core_asian_state: "整合§Y[FROM.GetName]§!"
@@ -335,8 +324,6 @@
  CHI_war_of_resistance_cat_desc: "敵軍再度侵犯我國領土，戰火已蔓延至家園，我們必須迎接這一挑戰。儘管我們並非世界上最現代化、裝備最精良的軍隊，但我們擁有與他們作戰並取勝的工具。我們將在自己的田野、山丘和高山上擊退他們。"
  CHI_demonstrate_our_resolve_decision: "在§Y[FROM.GetName]§!展現我們的決心"
  CHI_demonstrate_our_resolve_decision_tt: "激活一項在限定時間內守住此地區的任務。如果成功，我們將獲得：\n  -[?demonstrate_resolve_cic_reward]§Y$CIC_BANK_HEADER$§!\n  -[?demonstrate_resolve_art_reward]§Y炮兵裝備§!"
- #if we have §Y$CHI_american_support$§! from the §Y$CHI_send_the_first_lady_abroad$§! focus
- #if we have §Y$CHI_soviet_support$§! from the §Y$CHI_secure_the_soviet_border$§! focus
  CHI_holding_state_mission_flag: "保衛：[?CHI.CHI_declare_defence_name_var.GetName]"
  CHI_holding_state_mission_trigger: "[?CHI.CHI_declare_defence_name_var.GetName]由我方或盟友控制"
  CHI_declared_defence: "[CHI.GetName]已宣佈地區防衛"
@@ -423,7 +410,6 @@
  CHI_reeducate_sheng_shiqi_decision: "對[SIK.GetFlag]$SIK_sheng_shiqi$再教育"
  CHI_reeducate_altanochir_decision: "對[MEN.GetFlag]$MEN_altanochir$再教育"
  CHI_reeducate_yu_zhishan_decision: "對[MAN.GetFlag]$MAN_yu_zishan$再教育"
- # MIO moving
  CHI_select_mios: "從§Y[FROM.GetName]§!遷移工廠"
  CHI_select_mios_tt_no_aat: "允許你將工廠從該地區遷移到另一地區。"
  CHI_select_mios_tt_aat: "允許你將工廠和軍工機構從該地區遷移到另一地區。"
@@ -446,7 +432,6 @@
  CHI_relocate_mio_china_automobile_corporation: "遷移§Y$CHI_china_automobile_corporation_organization$§!"
  CHI_relocate_mio_jinling_arsenal: "遷移§Y$CHI_jinling_arsenal_organization$§!"
  CHI_relocate_mio_beining_railway_tangshan: "遷移§Y$CHI_beining_railway_tangshan_manufacturing_plant$§!"
- # Flag names double as the trigger tooltip text shown in MIO/designer availability.
  CHI_relocated_shanghai_arsenal: "已遷移§Y$CHI_shanghai_arsenal$§!"
  CHI_relocated_kiangnan_shipyard: "已遷移§Y$CHI_kiangnan_shipyard_group_organization_sea$§!"
  CHI_relocated_dagu_shipyard: "已遷移§Y$CHI_dagu_shipyard_organization_sea$§!"
@@ -481,14 +466,9 @@
  CHI_invite_demo_asian_nation_to_faction_decison: "邀請§Y[FROM.GetNameDef]§!加入我們的聯盟"
  CHI_stir_democratic_sentiments_in_asia_decison: "在§Y[FROM.GetNameDef]§!推動共和主義情緒"
  CHI_oust_the_empires_decision: "要求§Y[FROM.Capital.OWNER.GetNameDef]§!釋放[FROM.GetNameDef]"
- ####################################
- #### PEOPLE'S REPUBLIC OF CHINA ####
- ####################################
- #BALANCE OF POWER
  PRC_unlock_left_side_bop_decisions_tt: "解鎖£BoP_left_texticon §Y$PRC_communist_power_struggle$§!決議"
  PRC_unlock_right_side_bop_decisions_tt: "解鎖£BoP_right_texticon §Y$PRC_communist_power_struggle$§!決議"
  PRC_unlock_both_sides_bop_decisions_tt: "解鎖£BoP_left_texticon £BoP_right_texticon §Y$PRC_communist_power_struggle$§!決議"
- #Left Side/Mao
  PRC_hold_speech_questioning_tradition: "£BoP_left_texticon 質疑舊傳統"
  PRC_emphasize_rural_support: "£BoP_left_texticon 重視農村支持"
  PRC_criticize_dogmatism: "£BoP_left_texticon 批判教條主義"
@@ -500,7 +480,6 @@
  PRC_mao_lectures: "£BoP_left_texticon 毛澤東舉辦一系列講座"
  PRC_purge_chen_changhao: "£BoP_left_texticon 清洗$PRC_chen_changhao$"
  PRC_purge_wang_shiwei: "£BoP_left_texticon 清洗$PRC_wang_shiwei$"
- #Right Side/28 Bolsheviks
  PRC_reinforce_teachings_from_USSR: "£BoP_right_texticon 強化蘇聯指導"
  PRC_emphasize_urban_support: "£BoP_right_texticon 重視城市支持"
  PRC_emphasize_intellectual_support: "£BoP_right_texticon 重視知識分子支持"
@@ -519,7 +498,6 @@
  PRC_criticize_leadership_decision: "£BoP_right_texticon 批判路線遺留問題"
  PRC_wang_ming_exiled: "流亡[SOV.GetName]"
  PRC_dismissed_advisor: "未被罷免"
- #INFLITRATION & GUERILLA
  PRC_guerilla_warfare_sea_cat: "游擊戰"
  PRC_guerilla_warfare_sea_cat_desc: "我們的戰爭高度依賴當地民眾，而不僅僅是我們的軍隊。我們必須增強他們的力量，使他們能在敵後展開行動。"
  PRC_establish_guerilla_cells_start: "[GetGuerillaWarfareName]"
@@ -544,7 +522,6 @@
  CHI_currently_infiltrating_state: "$PRC_currently_infiltrating_state$"
  PRC_root_out_guerilla_fighters_upgraded: "剷除[FROM.GetName]游擊隊戰士"
  CHI_fascist_infiltrate_state: "在[FROM.GetName]設立地方分社"
- #BORDER WARS
  PRC_border_wars_cat: "邊界衝突"
  PRC_the_westward_expedition_decision: "$PRC_the_westward_expedition$"
  PRC_assaulting_guyuan: "突擊[1045.GetName]"
@@ -552,7 +529,6 @@
  PRC_assaulting_shanxi: "突擊[615.GetName]"
  PRC_usurp_control_over_yanan_decision: "$PRC_usurp_control_over_yanan$"
  PRC_assaulting_yanan: "突擊[1032.GetName]"
- ## Five year plan
  PRC_economic_planning_cat: "經濟規劃"
  PRC_initialize_five_year_plan_mission: "啟動五年計劃"
  PRC_initialize_shorter_market_plans_mission: "啟動短期市場計劃"
@@ -560,7 +536,6 @@
  PRC_the_peoples_doubt: "疑慮重重"
  PRC_the_peoples_doubt_desc: "我們對外來侵略者態度優柔寡斷，拖泥帶水。中國人民開始懷疑我們統一中國的決心以及保家衛國的能力。"
  PRC_the_peoples_doubt_tt: "當§Y[PRC.GetNameWithFlag]§!加入反侵略者鬥爭，或侵略者與全中國和平共處時。"
- ## 28 Bolshevik Faction decisions
  PRC_28_bolshevik_faction_cat: "影響陣營"
  PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers: "派遣§Y$PRC_zhou_enlai$§!前往[FROM.GetName]進行外交任務"
  PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers_desc: "通過派遣周恩來支援[FROM.GetNameDef]，我們能夠提升在[ROOT.GetFactionName]內的地位"
@@ -572,13 +547,11 @@
  PRC_28_bolshevik_faction_decision_legitimize_faction_leader: "承認[FROM.GetName]在[ROOT.GetFactionName]中的領導地位"
  PRC_28_bolshevik_faction_decision_legitimize_faction_leader_desc: "敵人的敵人就是我們的朋友。我們必須拋開分歧，共同對抗入侵者。"
  PRC_zhou_enlai_on_diplomatic_mission: "§Y$PRC_zhou_enlai$§!正在進行外交任務"
- ## Integration decisions
  PRC_integration_decision_cat: "整合決議"
  PRC_integration_decision_tibet: "整合並獲得[FROM.GetName]的核心"
  PRC_integration_decision_soviet_states: "整合並獲得[FROM.GetName]的核心"
  PRC_unlock_integration_decisions_tt: "§Y整合並獲得核心§!的決議已可用"
  PRC_is_integrating_a_state: "正在整合一個地區"
- ## Misc
  PRC_rural_surveyer_decision_cat: "農村調查"
  PRC_rural_surveys: "執行農村調查"
  PRC_rural_surveyer_tt: "只能完成五次：[?PRC_amount_of_times_rural_survey]/5"
@@ -589,10 +562,6 @@
  PRC_appeal_for_foreign_aid_cat: "呼籲外國援助"
  PRC_appeal_for_foreign_aid_t34: "請求T-34坦克"
  PRC_appeal_for_foreign_aid_bt7: "請求提供BT-7坦克"
- #####################
- #### PHILIPPINES ####
- #####################
- # Prospecting
  PHI_prospecting_decision_cat_unlock_tt: "§Y解鎖探勘決議§!"
  PHI_mineral_prospecting_chromium_small_decision: "鉻礦勘探"
  PHI_mineral_prospecting_chromium_large_decision: "擴大鉻礦勘探"
@@ -600,12 +569,10 @@
  PHI_mineral_prospecting_steel_repeatable_decision_2: "擴大鐵礦勘探"
  PHI_gold_prospecting_decision: "金礦勘探"
  PHI_has_completed_decision_chromium_prospecting_flag: "需要§Y$PHI_mineral_prospecting_chromium_small_decision$§!"
- # Sugar barons
  PHI_sugar_barons_category: "與糖業巨頭合作"
  PHI_sugar_barons_category_desc: "糖業生產是我國經濟中一個利潤可觀的部分，我們或許能從中獲取資金來填補日益增長的國防預算，而無需削減其他開支。"
  PHI_sugar_excise_general: "用糖業資金資助軍官培訓課程"
  PHI_sugar_excise_divisions: "用糖業資金資助實操訓練"
- # Convoys for Infrastructure
  PHI_mindanao_transport_decision_unlock_tt: "§Y解鎖決議§!出售運輸船以換取軍事裝備"
  PHI_convoys_for_infrastructure_decision_cat: "運輸船換取基礎設施"
  PHI_convoys_for_infrastructure_decision_cat_desc: "作為一個島國，造船業是在任何政府介入之前就已存在的行業。我們必須在現代化的進程中利用這一專業技術來籌集資金，並將我們的工藝、艦船及其他設備應用於建築等不同領域。"
@@ -632,7 +599,6 @@
  PHI_add_one_infra_point: "獲得1點§Y基礎設施點數§!以完成§Y$PHI_investment_plan_3$§!\n當前點數：[?PHI_infrastructure_points]"
  PHI_infrastructure_points_requirement_tt: "需要5點§Y基建點數§!，可通過以下決議獲取，當前點數：[?PHI_infrastructure_points]"
  PHI_infrastructure_points_requirement_tt_NOT: "尚未獲得5點§Y基礎設施點數§!"
- ## American Intervention
  PHI_american_intervention_icon_value: "[?PHI.PHI_american_intervention_icon_value|0H]§Y%§!"
  PHI_american_intervention_icon_description: "威脅等級：[?PHI.PHI_american_intervention_icon_value|0H]§Y%§!\n\n若數值達到§R100%§!，則§Y[USA.GetNameDefCap]§!將發動入侵。若降至§G0%§!，[USA.GetNameDef]將同意不干涉，下列行動將不可用。"
  PHI_american_intervention_change_value_small_decrease_tt: "§Y[USA.GetNameDefCap]的威脅等級§!§G-10%§!"
@@ -663,28 +629,23 @@
  PHI_sent_away: "在[USA.GetAdjective]壓力下流亡"
  PHI_american_intervention_is_over: "[USA.GetNameDefCap]已同意不進行干預"
  PHI_repeatable_except_delay: "這項決議可再次使用，但§Y美國的耐心§!只會在首次延長。"
- # Coring islands
  PHI_integration_category: "吞併印度洋與太平洋諸島"
  PHI_integrate_conquests: "整合[FROM.GetName]"
- # Political category decisions
  PHI_request_indefinite_stay_for_macarthur: "為麥克阿瑟申請無限期居留"
  PHI_peace_with_philippines: "同意與[PHI.GetNameDef]達成無條件和平"
  PHI_request_macarthur_stay_tt: "$USA_douglas_macarthur$被召回的可能性降低"
  PHI_recall_eisenhower: "從[PHI.GetNameDef]召回$USA_dwight_d_eisenhower$"
  PHI_recall_macarthur: "從[PHI.GetNameDef]召回$USA_douglas_macarthur$"
- # Alliance decisions
  PHI_department_of_foreign_affairs_category: "$PHI_department_of_foreign_affairs$"
  PHI_asia_treaty_faction: "東南亞條約組織"
  PHI_create_faction: "成立$PHI_asia_treaty_faction$"
  PHI_join_other_faction: "請求加入[FROM.GetFactionName]"
  PHI_decrease_japanese_ideological_influence: "降低[JAP.GetAdjective]的意識形態影響"
- # Exile
  PHI_government_in_exile_cat: "流亡政府合作"
  PHI_request_equipment_tt: "解鎖決議：§Y向[temp_host.GetName]申請裝備§!"
  PHI_share_military_experience_tt: "解鎖決議：§Y與[temp_host.GetName]交流軍事見解§!"
  PHI_request_equipment: "請求[?host.GetName]裝備援助"
  PHI_share_military_experience: "與[?host.GetName]交流軍事見解"
- # Economic investment plans
  PHI_investment_plan_1: "投資計劃1：發展基建"
  PHI_investment_plan_2: "投資計劃2：建立新貿易關係"
  PHI_investment_plan_3: "投資計劃3：提高工業效率"
@@ -698,7 +659,6 @@
  PHI_establish_reserve_transport_fleet: "建立預備運輸艦隊"
  PHI_establish_new_train_connections: "建立新的鐵路支線"
  PHI_inspect_road_network: "檢查道路網"
- # Formable
  form_maphilindo_category: "統一馬來人民"
  form_maphilindo_category_desc: "儘管我們與印度尼西亞和馬來西亞人民的聯繫不如他們之間那樣緊密，但必須承認我們的邊界是由殖民列強劃定的，只有團結一致才能抵禦外部勢力對我們這一戰略要地的影響。"
  form_maphilindo: "成立馬菲印多"
@@ -714,9 +674,6 @@
  PHI_force_unification: "宣稱[FROM.GetNonIdeologyName]為[ROOT.GetAdjective]領土"
  PHI_force_unification_tt: "已通過和平統一成為§Y$PHI_hispanic_empire_tag$§!"
  SPR_has_eliminated_guerrillas_tt: "[SPR.GetNameDef]已在其領土內清除了所有游擊隊"
- ############
- # WARLORDS #
- ############
  CHI_war_in_sinkiang: "新疆的戰爭"
  CHI_war_in_sinkiang_desc: "隨著戰爭降臨新疆省，中央政府強制和談以及我軍士氣衰落只是時間問題。如果我們要贏，就必須迅速而果斷地進攻。"
  SIK_war_halting: "反戰情緒日益增長"
@@ -832,7 +789,6 @@
  CHI_form_x_force_tt: "在[435.GetName]創建6個步兵師"
  CHI_form_y_force: "組建Y部隊"
  CHI_form_y_force_tt: "在[325.GetName]創建15個步兵師"
- # Coal prospecting
  develop_rio_grande_sul_coal_mines: "擴大[502.GetName]煤礦開採"
  develop_la_libertad_coal_mines: "擴大[493.GetName]煤礦開採"
  develop_western_visayas_coal_mines: "擴大[628.GetName]煤礦開採"

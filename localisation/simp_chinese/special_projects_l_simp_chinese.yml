@@ -58,7 +58,6 @@
  SCIENTIST_RECRUIT_COST_LAST: "$AMOUNT|Y$§Y+§!科學家：$COST|Y$£pol_power "
  PROGRAM_ITEM_SUPPORTING_SCIENTISTS_TOOLTIP_HEADER: "協助該計劃的科學家："
  PROGRAM_ITEM_SCIENTIST_TOOLTIP_NAME: "$NAME|Y$（$COUNTRY$）"
- #Program is the view that bundles the facility building + scientist + ongoing project
  PROGRAM_STATE_NAME: "$STATE$"
  PROGRAM_SPECIALIZATION_NAME: "$SPECIALIZATION$"
  PROGRAM_SPECIALIZATION_NAME_YELLOW: "$SPECIALIZATION|Y$"
@@ -205,7 +204,6 @@
  ADD_BREAKTHROUGH_PROGRESS_EFFECT_SPECIALIZATION: "$SPECIALIZATION|Y$：$AMOUNT|2%G$"
  TECHNOLOGY_RESEARCH_BREAKTHROUGH_BONUS: "每天產生$AMOUNT|Y$§Y%§!突破進展用於："
  TECHNOLOGY_RESEARCH_BREAKTHROUGH_SPECIALIZATION: "-$SPECIALIZATION|Y$"
- ### SPECIALIZATIONS ###
  specialization: "特化"
  specialization_nuclear: "核研究"
  specialization_naval: "海軍工程"
@@ -247,16 +245,6 @@
  SCIENTIST_IS_NOT_INJURED: "$NAME|Y$很健康"
  TRIGGER_SPECIAL_PROJECT_FLAG_NOT_SET: "沒有："
  TRIGGER_SPECIAL_PROJECT_FLAG_SET: ""
- ########## CONTENT DESIGN LAIR ##############
- #BEWARE OF THE DOG
- #/ \__
- #(    @\___
- #/         O
- #/   (_____/
- #/_____/   U
- ##########################
- ### Scripted tooltips ###
- ##########################
  SP_UNLOCK_BUILDING: "解鎖建築：$BUILDING|Y$"
  SP_UNLOCK_BUILDING_ICON_DESC: "解鎖建築：$BUILDING|Y$\n\n£GFX_buildings_strip|$ICON_FRAME$\n\n$BUILDING_DESCRIPTION$"
  SP_BUILDING_MISSING_PROJECT: "缺少必要的專項計劃$PROJECT|Y$"
@@ -264,17 +252,11 @@
  SP_UNLOCK_TECH: "解鎖科技$TECH|Y$。"
  SP_UNLOCK_TECH_WITH_EXTRA_PROJECT: "結合專項計劃$EXTRA_PROJECT|Y$，解鎖科技$TECH|Y$。"
  SP_UNLOCK_TECH_WITH_EXTRA_TECH: "結合技術$EXTRA_TECH|Y$，解鎖技術$TECH|Y$。"
- ##########################
- ### Complexity Strings ###
- ##########################
  complexity_small: "小型"
  complexity_medium: "中型"
  complexity_large: "大型"
  complexity_insane: "瘋狂"
  generic_no_effects_to_equipment_tt: "$EQUIPMENT$裝備不會有任何變化。"
- ##########################
- ### LAND PROJECTS ###
- ##########################
  sp_land_multi_charge_large_caliber_gun: "多級加速大口徑火炮"
  sp_land_multi_charge_large_caliber_gun_desc: "憑藉其多段推進系統和大尺寸內徑，這種武器能夠在很遠的距離上進行毀滅性轟炸。"
  GER_sp_land_multi_charge_large_caliber_gun: "V3多級加速大口徑火炮"
@@ -286,7 +268,7 @@
  sp_land_reward_multi_charge_large_caliber_gun_successful_test_firing: "成功試射"
  sp_land_reward_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology: "推進技術的突破"
  multi_charge_large_caliber_gun_small_size: "多級加速小口徑火炮"
- sp_multi_charge_large_caliber_gun_small_size_ns: "$multi_charge_large_caliber_gun_small_size$" #Hidden NS: no need for desc
+ sp_multi_charge_large_caliber_gun_small_size_ns: "$multi_charge_large_caliber_gun_small_size$"
  sp_land_super_heavy_railway_gun: "超重型列車炮"
  JAP_sp_land_super_heavy_railway_gun: "41H實驗性榴彈炮"
  GER_sp_land_super_heavy_railway_gun: "古斯塔夫巨炮"
@@ -336,11 +318,9 @@
  sp_air_radar_desc: "通過使用脈衝無線電波並檢測其反射，我們將能夠監控敵軍在陸地、空中和海上的動向。"
  sp_air_centimetric_radar: "釐米波雷達"
  sp_air_centimetric_radar_desc: "開發釐米波雷達將允許我們檢測更小的目標，並使用更小的天線。"
- #Pfot
  sp_land_large_caliber_kinetic_energy_sabot: "大口徑動能脫殼穿甲彈"
  sp_land_large_caliber_kinetic_energy_sabot_desc: "這是一種更大口徑的穿甲炮彈藥，專為穿透防禦工事而設計。"
  GER_sp_land_large_caliber_kinetic_energy_sabot: "勒希林炮彈"
- #End Pfot
  sp_land_reward_land_cruiser_overheating: "試驗中過熱"
  sp_land_reward_land_cruiser_chassis: "底盤壓力測試失敗"
  sp_land_reward_land_cruiser_chassis_desc: "在壓力測試期間，[SpecialProject.GetName]的底盤無法承受巨大的重量，導致結構變形。設計團隊對是否增加額外的加固構件產生了分歧，增添構件會進一步加大車輛的重量，而使用輕量化材料則可能削弱其耐用性。"
@@ -427,9 +407,6 @@
  sp_land_reward_option_stronghold_network_collapse_01_continue_without_delay: "繼續施工，不準延誤"
  sp_land_reward_option_stronghold_network_collapse_02: "$sp_land_reward_option_stronghold_network_collapse_01$"
  sp_land_reward_option_stronghold_network_collapse_02_desc: "位於主要掩體之一下方的一條隧道意外坍塌，數名工人被困，施工被迫中斷。必須採取緊急措施解決這一問題並安全救出被困人員，但事故已經導致整體進度延誤。"
- ################################
- ### GENERIC LAND REWARDS ###
- ################################
  sp_land_generic_reward_scientist_xp_1: "新知識"
  sp_land_generic_reward_scientist_xp_2: "優化的專業技能"
  sp_land_generic_reward_scientist_xp_3: "深刻的發現"
@@ -461,9 +438,6 @@
  sp_land_generic_reward_artillery_bonus_3: "先進的炮口設計"
  sp_land_generic_reward_resource_scarcity: "資源稀缺"
  sp_land_generic_reward_critical_failure: "重大失敗"
- ##########################
- ## NUCLEAR PROJECTS ##
- ##########################
  sp_nuclear_reactor: "核反應堆"
  sp_nuclear_reactor_desc: "實驗已經證明，通過裂變分裂原子可以釋放出大量的能量，這些能量可以用於發電。或者作為炸彈的燃料……"
  ENG_sp_nuclear_reactor: "合金管"
@@ -504,10 +478,6 @@
  POL_sp_thermo_nuclear_bomb: "烏拉姆裝置"
  sp_nuclear_warheads: "核彈頭"
  sp_nuclear_warheads_desc: "通過製造濃縮型核武器，我們將能夠將其作為多種火箭發射系統的有效載荷，使我們能夠進行遠距離打擊。"
- #################################
- ## NUCLEAR PROJECT REWARDS ##
- #################################
- #Nuclear reactor
  sp_nuclear_design_choice_reward: "反應堆設計"
  sp_nuclear_design_choice_reward_desc: "在設計反應堆時，首先需要選擇使用哪種材料作為反應堆慢化劑，這將決定整個反應堆的設計。我們可以選擇重水或是石墨，兩者各有優劣……"
  sp_nuclear_design_choice_reward_graphite: "純化石墨是更好的反應堆慢化劑"
@@ -518,7 +488,6 @@
  sp_nuclear_isotope_separation_choice_reward_desc: "為了給我們的反應堆提供核燃料，我們需要決定一種分離鈾中有用同位素的工藝。目前有多個分離設施的提案，其中的兩個主要候選是氣體擴散法和離心分離法。"
  sp_nuclear_isotope_separation_choice_reward_gaseous: "氣體擴散法是一種經過驗證的技術。"
  sp_nuclear_isotope_separation_choice_reward_centrifugal: "離心分離法從長遠來看效率更高。"
- #Generic
  sp_nuclear_scientist_xp_generic_reward: "新知識"
  sp_nuclear_generic_industry_tech_reward: "技術進步"
  sp_nuclear_generic_industry_tech_reward_desc: "在項目的工作過程中，我們的工程師發明了幾項新技術，這些技術很可能也可以適用於其他領域。"
@@ -542,7 +511,6 @@
  sp_nuclear_bomb_information_leak_reward: "信息洩露"
  sp_nuclear_bomb_information_leak_reward_desc: "[SpecialProject.GetName]的一名工作人員顯然在向外國特工洩露信息。目前尚不清楚這是故意的還是無意的。很難確定這對項目造成了多大損害。"
  sp_nuclear_bomb_information_leak_reward_tt: "獲得項目進展"
- #Nuclear Reactor
  sp_nuclear_reactor_radioactive_leak_stabilized_reward: "放射性洩漏-可控"
  sp_nuclear_reactor_radioactive_leak_stabilized_reward_desc: "不幸的是，在反應堆工作期間發生了嚴重事故。由於工作人員的快速反應，損失得到了控制，團隊能夠從事件中獲得有價值的數據。"
  sp_nuclear_reactor_minor_explosion_reward: "輕微爆炸，沒有人員傷亡"
@@ -557,7 +525,6 @@
  sp_commercial_nuclear_reactor_concerns_reward_desc: "[Character.GetName]對新反應堆冷卻塔中缺乏過濾器提出了擔憂。[Character.GetSheHeCap]堅持認為必須添加過濾器，以防在緊急情況下放射性物質從反應堆洩漏。而工程師們則認為這將大大延誤項目進度。"
  sp_commercial_nuclear_reactor_concerns_reward_option_safety: "加裝過濾器"
  sp_commercial_nuclear_reactor_concerns_reward_option_ignore: "愚蠢至極！"
- #Nuclear bombs
  sp_nuclear_bomb_test_prototype_reward: "原型炸彈"
  sp_nuclear_bomb_test_prototype_reward_desc: "[Character.GetName]的團隊已經制造了一顆原型炸彈。成功製作和評估一次測試將顯著提升我們的進展。另一方面，我們現在有了一顆核彈……"
  sp_nuclear_bomb_test_prototype_reward_test_bomb: "在可控措施下進行測試"
@@ -575,15 +542,11 @@
  sp_nuclear_bomb_design_choice_reward_desc: "我們的科學家正在推進兩種原子武器的設計，並且圍繞如何繼續展開了爭論。其一是槍式設計，製造更為簡單，但核材料利用效率較低。另一種是內爆式設計，儘管更具挑戰性，但理論上核材料利用效率更高。"
  sp_nuclear_bomb_design_choice_reward_gun_type: "槍式設計是更穩妥的選擇。"
  sp_nuclear_bomb_design_choice_reward_implosion: "內爆式設計是更優越的方案。"
- #Thermonuclear Bombs
  sp_thermonuclear_bomb_test_reward: "測試方案"
  sp_thermonuclear_bomb_test_reward_desc: "為了驗證熱核炸彈背後的理論，我們的科學家請求進行一次試驗性爆炸。這將需要一顆現有的原子彈來引發鏈式反應，但這將大大加速項目的進展。"
  sp_thermonuclear_bomb_test_reward_option_yes: "進行測試"
  sp_thermonuclear_bomb_test_reward_option_no: "我們無法騰出足夠的材料"
  sp_no_nukes_available_tt: "$sp_thermonuclear_bomb_test_reward_option_no$"
- #########################
- ## ROCKET PROJECTS ##
- #########################
  sp_rockets_experimental_rockets: "實驗火箭"
  sp_rockets_experimental_rockets_desc: "$experimental_rockets_desc$"
  sp_rockets_flying_bomb: "飛行炸彈"
@@ -662,28 +625,18 @@
  POL_sp_rocket_interceptor: "PZL白鷺"
  JAP_sp_rocket_interceptor: "三稜 J8M 秋水"
  sp_rocket_interceptor_desc: "將火箭的動力與小型機體的機動性結合，我們將創造出無與倫比的截擊機。"
- ################################
- ## ROCKET PROJECT REWARDS ##
- ################################
- #Generic
  sp_rockets_scientist_xp_generic_reward: "新知識"
  sp_rockets_scientist_xp_generic_reward_desc: "在最新原型的開發過程中，我們的科學家得到了多項新知識"
- #sp_rockets_scientist_xp_generic_reward_option: "That is good"
  sp_rockets_political_interference_generic_reward: "政治干預"
  sp_rockets_political_interference_generic_reward_desc: "政客們在不該插手的地方插手，導致項目被迫重做已經做過的事情，這對任何人來說都沒有意義。"
- #sp_rockets_political_interference_generic_reward_option: "Two steps forward, one step back"
  sp_rockets_onsite_explosion_generic_reward: "現場爆炸"
  sp_rockets_onsite_explosion_generic_reward_desc: "一次測試中的重大爆炸嚴重破壞了部分設施，但也為我們的科學家帶來了新的認知"
- #sp_rockets_onsite_explosion_generic_reward_option: "At least it wasn't totally destroyed"
  sp_rockets_generic_major_breakthrough_reward: "重大突破"
  sp_rockets_generic_major_breakthrough_reward_desc: "在最近一次原型迭代期間，我們取得了重大突破。"
- #sp_rockets_generic_major_breakthrough_reward_option: "Excellent!"
  sp_rockets_generic_avionics_advancements_reward: "航空電子技術進展"
  sp_rockets_generic_avionics_advancements_reward_desc: "我們通過不斷摸索，在航空電子和空氣動力學領域取得了許多發現，這些發現可以提升我們的飛機生產。"
- #sp_rockets_generic_avionics_advancements_reward_option: "This will certainly prove useful"
  sp_rockets_experimental_rockets_improved_accuracy_reward: "精度改進"
  sp_rockets_experimental_rockets_stability_improvements_reward: "改進的火箭飛行穩定性"
- #Flying Bomb
  sp_rocket_design_choice_reward: "射程與載荷？"
  sp_rocket_design_choice_reward_desc: "設計這種遠程飛行炸彈時，我們的工程師認為重要的是決定設計的主要目標。我們是想最大化射程，還是優先載荷。"
  sp_rocket_design_choice_reward_balanced: "平衡"
@@ -691,23 +644,17 @@
  sp_rocket_design_choice_reward_payload: "載荷"
  sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward: "脈衝噴氣設計的技術突破"
  sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward_desc: "我們的工程師在設計導彈的脈衝噴氣引擎方面克服了重大障礙，這對其射程和速度至關重要。"
- #sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward_option: "Upward and Onward!"
  sp_rockets_flying_bomb_launch_ramp_innovations_reward: "發射臺創新"
  sp_rockets_flying_bomb_launch_ramp_innovations_reward_desc: "我們的工程師在部署導彈所需的專用發射臺上取得了顯著改進。"
  sp_rockets_flying_bomb_launch_ramp_innovations_reward_option: "好消息"
  sp_rockets_flying_bomb_mass_production_scaling_reward: "規模化大量生產"
  sp_rockets_flying_bomb_mass_production_scaling_reward_desc: "我們已經成功地改進了生產，這將使我們能夠更快地進行大規模生產。"
- #sp_rockets_flying_bomb_mass_production_scaling_reward_option: "Most beneficial"
  sp_rockets_flying_bomb_engine_optimization_breakthrough_reward: "發動機優化突破"
  sp_rockets_flying_bomb_engine_optimization_breakthrough_reward_desc: "我們的工程師已經顯著提高了脈衝噴氣的航程和可靠性，增強了導彈的作戰能力。"
- #sp_rockets_flying_bomb_engine_optimization_breakthrough_reward_option: "Some call it luck"
  sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward: "制導系統的技術創新"
  sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward_desc: "在最新一輪原型設計中，制導系統的精確度和抗干擾能力得到了顯著改善，提升了我們的技術優勢。"
- #sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward_option: "We are getting closer to achieving our goal"
  sp_rockets_flying_bomb_test_flight_failures_reward: "試飛失敗"
  sp_rockets_flying_bomb_test_flight_failures_reward_desc: "早期試飛由於制導系統故障和結構弱點而失敗。我們的科學家從中學到了很多，但我們需要退一步重新思考。"
- #sp_rockets_flying_bomb_test_flight_failures_reward_option: "They say you learn the most from your failures"
- #Ground to Air
  sp_rockets_ground_control_improvements_reward: "地面制導改進"
  sp_rockets_ground_control_improvements_reward_desc: "[Character.GetName]成功解決了幾個從地面追蹤和控制導彈的關鍵問題。這標誌著我們朝瞄準高空飛行飛機邁出了重要一步。"
  sp_rockets_vertical_launch_reward: "垂直髮射系統"
@@ -718,7 +665,6 @@
  sp_rockets_warhead_detonation_mechanisms_reward: "彈頭引爆機制"
  sp_rockets_warhead_detonation_mechanisms_reward_desc: "整個開發過程中一個重要的部分是讓武器在正確的時機爆炸。看來[Character.GetName]找到了一個解決方案，使我們能夠在儘可能有利的時機引爆它。"
  sp_surface_air_missile_warhead_detonation_bonus: "地對空導彈：改進戰鬥部爆炸"
- #Ballistic missile
  sp_rocket_wind_tunnel_choice_reward: "工程師申請建造風洞"
  sp_rocket_wind_tunnel_choice_reward_desc: "彈道導彈項目的工程師請求建設一個超音速風洞，以便更早地測試他們設計的模型。這將加快迭代進程，並從長遠來看節省資源。"
  sp_rocket_wind_tunnel_choice_reward_reject: "資源有其他優先用途"
@@ -746,9 +692,6 @@
  sp_rocket_launch_site_choice_reward_accept: "我們將投資建設新設施"
  SP_ROCKET_AND_SUBMARINE_SITE_REMINDER_PROJECT: "為了有效使用$PROJECT|Y$，我們需要建造火箭基地或擁有可以實施導彈打擊的潛艇。"
  SP_ROCKET_SITE_REMINDER_PROJECT: "為了有效使用$PROJECT|Y$，我們需要建造火箭基地。"
- ########################
- ## NAVAL PROJECTS ##
- ########################
  sp_naval_cruiser_submarine: "巡洋潛艇"
  sp_naval_cruiser_submarine_desc: "一種航程更遠的潛艇，設計用於在沒有支援的情況下長距離航行，將是攻擊敵方船隻的理想選擇。"
  sp_naval_cruiser_submarine_free_design: "巡洋潛艇"
@@ -824,9 +767,6 @@
  JAP_sp_naval_submarine_carrier: "I-400級潛水航母"
  sp_naval_submarine_carrier_desc: "我們正開發一種能夠容納併發射多架飛機的新式潛艇，來執行空中偵察外的任務。"
  sp_naval_submarine_carrier_free_design: "潛水航母"
- #################################
- ## NAVAL PROTOTYPE REWARDS ###
- #################################
  sp_naval_cruiser_submarine_unique_reward_a: "襲擊協議"
  sp_naval_cruiser_submarine_unique_reward_a_desc: "倫敦海軍條約的無能使任何關於潛艇甲板武器的實際限制都成為空話。然而，還有一個問題——我們是否應該優先考慮有影響力的武器裝備而不是戰術航程？"
  sp_naval_cruiser_submarine_preference_a: "機動"
@@ -941,9 +881,6 @@
  sp_naval_escort_carrier_preference_a_b: "潛艇"
  sp_naval_escort_carrier_preference_b_b: "無偏好"
  sp_naval_escort_carrier_preference_c_b: "水面艦艇"
- #########################################
- ### NAVAL ADD_EQUIPMENT_BONUS ###
- ########################################
  sp_cruiser_submarine_eq_bonus_range: "巡洋潛艇-延長航程"
  sp_cruiser_submarine_eq_bonus_raiding: "巡洋潛艇-襲擊效率"
  sp_fleet_submarine_eq_bonus_attack: "艦隊潛艇-攻擊導向"
@@ -989,9 +926,6 @@
  sp_naval_submarine_carrier_eq_bonus_range: "潛水航母-延長航程"
  sp_naval_submarine_carrier_eq_bonus_strength: "潛水航母-堅固結構"
  sp_naval_submarine_carrier_eq_bonus_stealth: "潛水航母-低可見度"
- #########################################
- ## GENERIC NAVAL PROTOTYPE REWARDS ###
- #########################################
  sp_naval_generic_reward_scientist_xp_1: "靈感泉湧"
  sp_naval_generic_reward_scientist_xp_2: "創造力的洪流"
  sp_naval_generic_reward_scientist_xp_3: "浴缸中的頓悟！"
@@ -1013,9 +947,6 @@
  sp_naval_generic_reward_armor_tech_3: "未來裝甲展望"
  sp_naval_generic_reward_option_armor_tech_bonus_name: "海軍裝甲實驗研究"
  sp_naval_generic_reward_option_artillery_tech_bonus_name: "海軍火炮實驗研究"
- ######################
- ## AIR PROJECTS ##
- ######################
  sp_air_bouncing_bomb: "彈跳炸彈"
  sp_air_bouncing_bomb_desc: "一種可以在水面上彈跳的炸彈或許是突破大壩防禦的完美工具，在其他情況下也能用得上。"
  sp_air_bouncing_bomb_completion_tt: "解鎖§Y$raid_type_dam_bombing_raid$§!和§Y$raid_type_lock_bombing_raid$§!"
@@ -1045,10 +976,6 @@
  sp_air_helicopter: "直升機"
  sp_air_helicopter_desc: "隨著對直升機的不斷研發，這種擁有懸停在原地的獨特能力的飛行器，可以在在軍事行動中提供關鍵的戰術優勢。"
  JAP_sp_air_helicopter: "Kayaba Ka-1"
- #############################
- ## AIR PROJECT REWARDS ##
- #############################
- #Generic
  sp_air_scientist_xp_generic_reward: "新發現"
  sp_air_scientist_xp_generic_reward_desc: "我們的科學家在最新原型的工作中有了幾項新發現。"
  sp_air_scientist_xp_generic_reward_option: "這很好"
@@ -1064,7 +991,6 @@
  sp_air_generic_discoveries_reward: "新的相關發現"
  sp_air_generic_discoveries_reward_desc: "在研發過程中，我們的研究人員提出了許多可能在其他情況下有用的想法。"
  sp_air_generic_discoveries_reward_option: "有意思"
- #Generic Expanded Rewards
  sp_air_generic_reward_scientist_xp_1: "寶貴的認知"
  sp_air_generic_reward_scientist_xp_2: "加強的理論知識"
  sp_air_generic_reward_scientist_xp_3: "無限的發現"
@@ -1077,7 +1003,6 @@
  sp_air_generic_reward_test_failure_1: "實驗失敗"
  sp_air_generic_reward_test_failure_2: "爆破炸彈"
  sp_air_generic_reward_test_failure_3: "創新災難"
- #Bouncing Bomb
  sp_air_bouncing_bomb_backspin_mechanism_reward: "螺旋逆轉裝置"
  sp_air_bouncing_bomb_backspin_mechanism_reward_desc: "我們的科學家想出了一個巧妙的解決方案來穩定一旦投放的炸彈。該裝置啟動螺旋逆轉，使它保持在目標的軌道上。"
  sp_air_bouncing_bomb_backspin_mechanism_reward_option: "太好了"
@@ -1090,51 +1015,41 @@
  sp_air_bouncing_bomb_type_of_explosives_reward: "炸藥類型"
  sp_air_bouncing_bomb_type_of_explosives_reward_desc: "通過使用鋁末混合炸藥而不是TNT炸藥，我們可以顯著減小炸彈的尺寸，同時保持爆炸威力。"
  sp_air_bouncing_bomb_type_of_explosives_reward_option: "這是有用的"
- #Earthshaker Bomb
  sp_air_earthshaker_bomb_unique_reward: "設計方向"
  sp_air_earthshaker_bomb_unique_reward_desc: "在我們的研發過程中，我們意識到可以利用新發現進一步增強炸彈的破壞力。我們可以專注於提高炸彈的精準度，或增加其破壞力。"
  sp_air_earthshaker_bomb_preference_naval_targetting: "精準是關鍵"
  sp_air_earthshaker_bomb_preference_raw_power: "破壞力"
  sp_air_earthshaker_bomb_preference_both: "為何不全都要？"
- #Intercontinental Bomber
  sp_air_intercontinental_bomber_unique_reward: "遠程投送"
  sp_air_intercontinental_bomber_unique_reward_desc: "為了確保轟炸機能夠跨洲飛行，我們需要決定集中精力在哪一方面以實現最佳效果。"
  sp_air_intercontinental_bomber_preference_bombing_payload: "更大載荷"
  sp_air_intercontinental_bomber_preference_balanced: "小幅改進"
  sp_air_intercontinental_bomber_preference_protection: "更強防護"
- #Mothership
  sp_air_mothership_unique_reward: "空天母艦最佳性能"
  sp_air_mothership_unique_reward_desc: "為了讓空天母艦飛機達到最佳性能，我們可以專注於特定方面來提升它們的作戰能力。問題在於——我們應集中在哪方面？"
  sp_air_mothership_preference_speed_agility: "敏捷和速度"
  sp_air_mothership_preference_reliability: "安全和可靠性"
  sp_air_mothership_preference_strength: "耐用性與更強火力"
- #Jet Engine
  sp_air_jet_engine_unique_reward: "研發優先級"
  sp_air_jet_engine_unique_reward_desc: "我們需要決定是否集中力量讓噴氣引擎更適合戰鬥機或轟炸機，也可以嘗試使其通用化。"
  sp_air_jet_engine_preference_fighter: "戰鬥機"
  sp_air_jet_engine_preference_compromise: "通用引擎"
  sp_air_jet_engine_preference_bomber: "轟炸機"
- #Axial Jet Engine
  sp_air_axial_jet_engine_unique_reward: "研發似曾相識"
  sp_air_axial_jet_engine_unique_reward_desc: "世事周而復始。我們又一次面對這樣的困境——是專注於一種飛機，還是尋求更通用的解決方案？"
  sp_air_axial_jet_engine_preference_fighter: "戰鬥機"
  sp_air_axial_jet_engine_preference_compromise: "通用解決方案"
  sp_air_axial_jet_engine_preference_bomber: "轟炸機"
- #Supersonic Jet
  sp_air_supersonic_jet_unique_reward: "成本考量"
  sp_air_supersonic_jet_unique_reward_desc: "我們認識到超音速噴氣機的潛在成本可能相當驚人。我們可以嘗試降低成本，保持當前預計成本，或全力投入，使用最高質量材料。"
  sp_air_supersonic_jet_preference_cost_reduction: "降低成本"
  sp_air_supersonic_jet_preference_compromise: "保持現狀"
  sp_air_supersonic_jet_preference_cost_increase: "成本無關緊要"
- #Helicopter
  sp_air_helicopter_unique_reward: "安全考量"
  sp_air_helicopter_unique_reward_desc: "這種新裝備將會面臨各種危險，我們擔心其在戰場上的耐用性。解決該問題我們只需注重直升機的……"
  sp_air_helicopter_preference_speed: "速度與機動性"
  sp_air_helicopter_preference_compromise: "普遍安全措施"
  sp_air_helicopter_preference_protection: "增強的裝甲"
- ###########################################
- ### AIR PROJECT EQUIPMENT BONUS NAME ###
- ###########################################
  sp_earthshaker_bomb_naval_targetting: "地震炸彈工程整合-精準"
  sp_earthshaker_bomb_power: "地震炸彈工程整合-增加載荷"
  sp_earthshaker_bomb_both: "地震炸彈工程整合-精準與載荷"
@@ -1156,16 +1071,12 @@
  sp_air_helicopter_speed: "直升機——速度優先"
  sp_air_helicopter_compromise: "直升機——安全優先"
  sp_air_helicopter_protection: "直升機——輕武器火力防護"
- ######################################################
- ### AIR PROJECT TECH BONUS & DESIGN BONUS NAMES ###
- ######################################################
  sp_air_supersonic_jet_fighter_free_design: "超音速小型機身"
  sp_air_jet_tactical_bomber_free_design: "中型機身"
  sp_air_jet_fighter_free_design: "小型機身"
  sp_air_air_equipment_tech_bonus: "專項計劃——飛行器加成"
  sp_air_medium_air_tech_bonus: "專項計劃——中型飛行器加成"
  sp_air_light_air_tech_bonus: "專項計劃——輕型飛行器加成"
- ###### SPECIAL PROJECT TAGS ########
  sp_tag_tank: "坦克項目"
  sp_tag_artillery: "火炮項目"
  sp_tag_surface_ship: "水面艦艇項目"
@@ -1179,7 +1090,6 @@
  sp_tag_rocket: "火箭項目"
  sp_tag_guided_bomb: "制導炸彈項目"
  sp_tag_radar: "雷達工程"
- ###### TRAITS ########
  scientist_trait_genius: "天才"
  scientist_trait_genius_desc: "具有開創性思維的天才，以無與倫比的創新推動科學技術的邊界。這種天賦一代人只會出現一個。"
  scientist_trait_gifted_engineer: "天才工程師"
@@ -1223,12 +1133,9 @@
  scientist_trait_nuclear_warfare_expert_desc: "一位將核物理實際應用於武器開發上的專家，專門研究原子彈設計的背後理論。"
  scientist_trait_nuclear_power_expert: "核能專家"
  scientist_trait_nuclear_power_expert_desc: "一位核物理學上的權威，精通核裂變領域，專注於核電項目。"
- ############# EVENTS #############
- #Nuclear Projects
  sp_nuclear_project_events.1.t: "信息洩露"
  sp_nuclear_project_events.1.desc: "雖然完全是巧合，我們在[FROM.GetNameDef]的特工設法獲取了關於一個明顯的秘密項目的信息。一名參與秘密武器——原子彈開發的工人在一個小型社交聚會上談論了他的工作，而我們的特工也在那裡參加。"
  sp_nuclear_project_events.1.a: "這是有用的"
- ### OLD DEPRECATED STRINGS (Already translated)
  sp_land_generic_reward_scientist_xp_1_desc: "[Character.GetName]取得了突破性進展，加速了項目進展，並鞏固了[Character.GetHerHis]作為先進武器研發先鋒的地位。每一次發現都增強了[Character.GetHerHis]的工程掌控能力，塑造了軍事技術的未來。"
  sp_land_generic_reward_option_scientist_xp: "知識就是力量！"
  sp_land_generic_reward_option_scientist_xp_desc: "[Character.GetName]取得了突破，加快了進度，鞏固了[Character.GetHerHis]作為先進武器先驅的地位。"

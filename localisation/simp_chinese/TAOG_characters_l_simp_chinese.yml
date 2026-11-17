@@ -1,13 +1,4 @@
 ﻿l_simp_chinese:
- #   /$$$$$$ /$$   /$$ /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$  /$$$$$$  /$$$$$$
- #  |_  $$_/| $$$ | $$| $$__  $$ /$$__  $$| $$$ | $$| $$_____/ /$$__  $$|_  $$_/ /$$__  $$
- #    | $$  | $$$$| $$| $$  \ $$| $$  \ $$| $$$$| $$| $$      | $$  \__/  | $$  | $$  \ $$
- #    | $$  | $$ $$ $$| $$  | $$| $$  | $$| $$ $$ $$| $$$$$   |  $$$$$$   | $$  | $$$$$$$$
- #    | $$  | $$  $$$$| $$  | $$| $$  | $$| $$  $$$$| $$__/    \____  $$  | $$  | $$__  $$
- #    | $$  | $$\  $$$| $$  | $$| $$  | $$| $$\  $$$| $$       /$$  \ $$  | $$  | $$  | $$
- #   /$$$$$$| $$ \  $$| $$$$$$$/|  $$$$$$/| $$ \  $$| $$$$$$$$|  $$$$$$/ /$$$$$$| $$  | $$
- #  |______/|__/  \__/|_______/  \______/ |__/  \__/|________/ \______/ |______/|__/  |__/
- # Country Leaders
  INS_sukarno: "蘇加諾"
  INS_a_t_van_starkenborgh_stachouwer: "阿利迪厄斯·恰爾達·範·斯塔爾肯博赫·斯塔豪韋爾"
  INS_bonifacius_cornelis_de_jonge: "博尼法修斯·科內利斯·德容格"
@@ -16,7 +7,6 @@
  INS_tan_malaka: "陳馬六甲"
  INS_mohammad_hatta: "穆罕默德·哈達"
  INS_national_committee: "國民委員會"
- # Advisors - Dutch
  INS_andries_cornelis_dirk_de_graeff: "安德里斯·科內利斯·迪爾克·德赫拉夫"
  INS_charles_welter: "查爾斯·韋爾特"
  INS_christian_willhelm_bodenhausen: "克里斯蒂安·博登豪森"
@@ -28,7 +18,6 @@
  INS_dick_de_hoog: "迪克·德·霍赫"
  INS_soetardjo_kartohadikusomo: "蘇塔爾喬·卡爾托哈迪庫索莫"
  INS_hok_hoei_kan: "簡福輝"
- # Advisors - Republic
  INS_sam_ratulangi: "薩姆·拉圖蘭吉"
  INS_achmad_soebardjo: "艾哈邁德·蘇巴爾佐"
  INS_wirantakusumah_v: "維拉納塔庫蘇馬五世"
@@ -44,7 +33,6 @@
  INS_njono: "約諾"
  INS_setyadjit_soegondo: "塞蒂亞吉特·蘇貢多"
  INS_musso: "慕梭"
- # Generals/MHC - Dutch
  INS_murk_boersta: "穆爾克·布爾斯特拉"
  INS_henri_gerard_winkelman: "亨利·赫拉德·溫克爾曼"
  INS_gerardus_johannes_berenschot: "赫拉爾杜斯·約翰內斯·貝倫斯霍特"
@@ -57,7 +45,6 @@
  INS_dirk_reinhard_adelbert_van_langen: "迪爾克·賴因哈德·阿德爾貝特·範·蘭亨"
  INS_simon_spoor: "西蒙·斯波爾"
  INS_gustave_statius_muller: "古斯塔夫·斯塔蒂烏斯·穆勒"
- # Generals/MHC - Republic
  INS_sudirman: "蘇迪爾曼"
  INS_oerip_soemohardjo: "烏里普·蘇莫哈佐"
  INS_gatot_soebroto: "加托·蘇布羅托"
@@ -72,7 +59,6 @@
  INS_mohammad_nazir_isa: "穆罕默德·納齊爾·伊薩"
  INS_t_b_simatupang: "T·B·西馬圖龐"
  INS_kartosoewirjo: "卡爾托蘇維爾佐"
- # Releasable Leaders
  INS_syarif_kasim: "謝里夫·卡希姆二世"
  INS_iskandar_sjah: "蘇丹穆罕默德·賈比爾·沙阿"
  INS_sultan_muhibuddin: "蘇丹穆罕默德·塔希爾·穆希卜丁"
@@ -80,15 +66,11 @@
  INS_alauddin_syah: "阿拉烏丁·穆罕默德·達烏德·沙二世"
  INS_dewa_geg: "伊達·伊·德瓦·阿貢·格德·奧卡·格格"
  CPS_ratsadanay: "拉察達奈國王"
- # Malaysians
  MAL_onn_jaafar: "翁·嘉化"
  MAL_shenton_thomas: "珊頓·托馬斯"
  MAL_lai_teck: "萊特"
  MAL_ibrahim_hj_yaacob: "依布拉欣·耶谷"
  MAL_winston_tyron: "溫斯頓·泰倫"
- ############
- ### SIAM ###
- ############
  SIA_phraya_songsuradet: "披耶·頌素拉德"
  SIA_plaek_phibunsongkhram: "鑾披汶·頌堪"
  SIA_pridi_banomyong: "比裡·帕儂榮"
@@ -133,9 +115,6 @@
  SIA_prayoon_yuthasastrkosol: "巴允·育他塞哥頌"
  SIA_luang_subhachalasai: "鑾·蘇帕查拉賽"
  SIA_kuang_abhayavongsa: "寬·阿派旺"
- ###################
- #### Australia ####
- ###################
  AST_joseph_lyons: "約瑟夫·萊恩斯"
  AST_billy_hughes: "比利·休斯"
  AST_jack_miles: "傑克·邁爾斯"
@@ -182,9 +161,6 @@
  AST_lawrence_wackett: "勞倫斯·瓦克特"
  AST_uap_advisor_tt: "當前執政黨是§Y澳大利亞聯合黨§!。"
  AST_alp_advisor_tt: "當前執政黨是§Y澳大利亞工黨§!。"
- ###################
- ### New Zealand ###
- ###################
  NZL_bob_semple: "鮑勃·森博"
  NZL_leslie_lefeaux: "萊斯利·勒福"
  NZL_thomas_leech: "托馬斯·利奇"
@@ -193,9 +169,6 @@
  NZL_john_a_lee: "約翰·A·李"
  NZL_bernard_ashwin: "伯納德·阿什溫"
  NZL_vic_wilcox: "維克多·威爾考克斯"
- ################################
- ### Historical Ship Captains ###
- ################################
  GER_gunther_prien: "君特·普里恩"
  USA_slade_cutter: "斯萊德·卡特"
  ENG_frederic_john_walker: "弗雷德里克·約翰·沃克"

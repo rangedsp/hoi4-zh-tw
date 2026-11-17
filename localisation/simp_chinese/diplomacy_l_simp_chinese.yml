@@ -1545,7 +1545,6 @@
  HOA_african_cooperation: "非洲合作"
  Hosting_ETH: "接納埃塞俄比亞流亡政府"
  same_royal_house: "同一王室"
- ##### SWI Absolute Neutrality System ##########
  SWI_mild_breach_of_neutrality: "輕微違反中立"
  SWI_considerable_breach_of_neutrality: "大幅違反中立"
  SWI_grave_breach_of_neutrality: "嚴重違反中立"
@@ -1604,7 +1603,6 @@
  SWI_country_positive_opinion_TT: "對[ROOT.GetNameDef]的評價為正"
  SWI_country_is_angry_TT: "對[ROOT.GetNameDef]的評價差"
  SWI_country_is_happy_TT: "對[ROOT.GetNameDef]的評價良好"
- #DANNES
  ITA_military_cooperation_acceptance: "軍事合作"
  ITA_military_cooperation_rejection: "軍事合作遭拒"
  ITA_recognized_the_empire: "承認意大利帝國"
@@ -1617,14 +1615,11 @@
  DR_CONDITIONAL_SURRENDER_OWN_SURRENDER_LEVEL: "我國投降進度： "
  DR_CONDITIONAL_SURRENDER_MINOR_WAR: "非主要國家衝突： "
  embargo_relation_tt: "禁運將損害兩國間關係。"
- #Fake country rule
  DIPLO_FORBID_REVOKE_ACCESS: "設定規則：£GFX_trigger_no 可以撤銷$TARGET$$TYPE$。"
- #Nordic
  NORDIC_strengthened_ties: "加深紐帶"
  NORDIC_economic_cooperation: "經濟合作"
  NORDIC_promoted_nordic_unity: "推動北歐統一"
  NORDIC_pledged_to_help_fight_against_tyranny: "誓與暴政作鬥爭"
- #Sweden
  refused_GER_transit_request: "拒絕貨運請求"
  refused_GER_communications_request: "拒絕通信請求"
  refused_GER_military_access_request: "拒絕軍事通行請求"
@@ -1654,9 +1649,7 @@
  SWE_unruly_subject: "難以駕馭的屬國"
  SWE_embargoed_us_trade: "遭瑞典禁運"
  GER_SWE_historic_trade_Partners: "貿易協定"
- #Iceland
  ICE_trade_partner: "貿易協定"
- #Norway
  NOR_bought_tanks_from_us: "採購我國坦克"
  NOR_fascist_military_collaboration_opinion: "$NOR_fascist_military_collaboration$"
  NOR_valuable_fascist_partner: "寶貴的法西斯同志"
@@ -1676,7 +1669,6 @@
  NORDIC_allow_more_volunteers: "擴充北歐志願軍上限"
  NORDIC_allow_lendlease: "北歐租借法案"
  NORDIC_allow_volunteers: "北歐志願軍"
- #### DENMARK ####
  DEN_unruly_subject_very_low: "難以駕馭的屬國"
  DEN_unruly_subject_low: "$DEN_unruly_subject_very_low$"
  DEN_unruly_subject_medium: "$DEN_unruly_subject_very_low$"
@@ -1686,14 +1678,11 @@
  DEN_deteriorating_subject_relations: "這會惡化與[DEN.GetNameDef]的關係。"
  DEN_deepening_partnership: "深化夥伴關係"
  DEN_cooperative_subject: "合作附屬國"
- #### FINLAND ####
  FIN_nordic_amity: "北歐友誼"
  FIN_support_for_east_karealian_independence_big: "支持東卡累利阿戰爭"
  FIN_support_for_east_karealian_independence_small: "支持東卡累利阿獨立"
  DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "已停止抵抗國家不可用"
- #### Shared Military Branch ####
  SMB_naval_arms_race: "引發了南美海軍軍備競賽"
- #### ARGENTINA ####
  ARG_british_influences_idea: "在阿根廷的影響"
  ARG_british_influences_idea_desc: "我們在[ARG.GetNameDef]建立了一個有影響力的立足點"
  ARG_soviet_argentine_relations_idea: "蘇聯-阿根廷關係"
@@ -1703,10 +1692,8 @@
  ARG_close_ties_with_america_idea_desc: "[USA.GetNameDef]與[ARG.GetNameDef]關係更為緊密的象徵"
  ARG_embargoed_us: "[ARG.GetNameDefCap]對我們實施了禁運"
  ARG_embargoed_us_desc: "由於[USA.GetNameDef]的施壓，[ARG.GetNameDefCap]對我們實施了禁運。"
- #### RAJ ####
  RAJ_did_not_help_famine: "饑荒時未給予幫助"
  RAJ_did_help_famine: "饑荒時給予幫助"
- #### IRAQ ####
  IRQ_decoupled_from_the_pound: "與英鎊脫鉤"
  IRQ_nationalized_our_oil: "國有化英伊石油公司！"
  IRQ_expanded_anglo_iraqi_oil_company: "擴張英伊石油公司"
@@ -1716,17 +1703,13 @@
  IRQ_better_relations: "致力於地區夥伴關係"
  KUR_wants_our_territory: "拒絕《安卡拉條約》設定的邊界"
  SSB_saadabad_pact_member: "薩德阿巴德條約成員"
- #Belgium
  BEL_embargoed_us: "比利時禁運我們"
  BEL_eu_industrial_investment: "投資了我們的工業"
- #PHI
  PHI_dockworker_infiltration_mod: "碼頭工人滲透工作"
  PHI_decoupled_peso_from_dollar: "比索脫鉤"
  PHI_seized_migrant_property: "沒收移民財產"
  PHI_welcomed_chinese_migrants: "歡迎中國移民"
  PHI_legalized_communist_party: "合法化共產黨"
- #### PFOT ####
- #Czechoslovakia
  CZE_large_contract_purchases: "大額合同採購"
  CZE_working_with_henlein: "與亨萊因合作"
  CZE_renewed_diplomatic_efforts: "重新開展的外交努力"
@@ -1740,8 +1723,6 @@
  CZE_improving_cross_border_rail_connections: "改善跨境鐵路"
  CZE_customs_union_member: "關稅同盟成員"
  CZE_allows_passage_of_soviet_troops: "允許蘇聯軍事通行"
- #Czechoslovakia Opinion Modifiers
  CZE_i_am_agreeable_to_license: "斯柯達和CKD採購合同"
- #INS
  indonesia_usa_rejected_renville_modifier: "拒絕提供幫助"
  indonesia_china_trade_modifier: "華裔印尼僑民"

@@ -31,7 +31,6 @@
  SAU_abdulaziz_ibn_saud: "阿卜杜勒阿齊茲·伊本·沙特"
  FRA_henri_dentz: "亨利·費爾南·登茨"
  LEB_alfred_naqqache: "阿爾弗雷德·納卡什"
- #RAJ#
  RAJ_GOE_j_r_d_tata: "J. R. D.塔塔"
  RAJ_GOE_jawaharlal_nehru: "賈瓦哈拉爾·尼赫魯"
  RAJ_GOE_m_n_roy: "M.N 羅易"
@@ -88,9 +87,6 @@
  RAJ_mirza_khurshid_jah_bahadur: "米爾扎·胡爾希德·賈赫·巴哈杜爾"
  BAN_a_k_fazlul_huq: "A·K·法茲勒·胡克"
  RAJ_abdul_ghaffar_khan: "阿卜杜勒·加法爾·汗"
- ##############
- #### IRAN ####
- ##############
  PER_mohammad_ali_foroughi: "穆罕默德·阿里·福魯吉"
  PER_mohammad_hassan_mirza: "穆罕默德·哈桑·米爾扎"
  PER_ali_dashti: "阿里·達什提"
@@ -136,13 +132,7 @@
  PER_rokneddin_mokhtari: "羅克內丁·莫赫塔裡"
  PER_kazem_hasibi: "卡澤姆·哈西比"
  PER_ahmad_zirakzadeh: "艾哈邁德·齊拉克扎德"
- ##################
- #### GENERALS ####
- ##################
  AFG_abdur_rahim_khan: "阿卜杜勒·拉希姆·汗"
- ##################
- ## AFG Advisors ##
- ##################
  AFG_mahmud_tarzi: "馬哈茂德·塔爾齊"
  AFG_mohammad_hashim_khan: "穆罕默德·哈希姆·汗"
  AFG_abdul_majid_zabuli: "阿卜杜勒·馬吉德·扎布利"
@@ -180,9 +170,6 @@
  AFG_abdul_hadi_dawi: "阿卜杜勒·哈迪·達維"
  BUK_mohammed_alim_khan: "賽義德·米爾·穆罕默德·阿利姆汗"
  BUK_polat_usmon: "波拉特·烏斯蒙·霍扎耶夫"
- ##################
- ###### IRAQ ######
- ##################
  IRQ_yasin_al_hashimi: "亞辛·哈希米"
  IRQ_ghazi_i: "加齊一世"
  IRQ_ghazi_i_desc: "加齊國王於1933年費薩爾一世去世後繼承了王位，儘管哈希姆王朝與英國存在著數十年的聯繫紐帶，但新國王卻以反對英國在伊拉克的影響而聞名於世。懷疑的輿論認為這位年輕的國王正伺機而動，意欲在武力驅逐英國人後，統領大軍盡收鄰近的諸多戰略要地。"

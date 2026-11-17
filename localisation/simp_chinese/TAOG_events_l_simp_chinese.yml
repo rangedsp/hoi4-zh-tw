@@ -1,13 +1,4 @@
 ﻿l_simp_chinese:
- #      /$$$$$$ /$$   /$$ /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$  /$$$$$$  /$$$$$$
- #     |_  $$_/| $$$ | $$| $$__  $$ /$$__  $$| $$$ | $$| $$_____/ /$$__  $$|_  $$_/ /$$__  $$
- #       | $$  | $$$$| $$| $$  \ $$| $$  \ $$| $$$$| $$| $$      | $$  \__/  | $$  | $$  \ $$
- #       | $$  | $$ $$ $$| $$  | $$| $$  | $$| $$ $$ $$| $$$$$   |  $$$$$$   | $$  | $$$$$$$$
- #       | $$  | $$  $$$$| $$  | $$| $$  | $$| $$  $$$$| $$__/    \____  $$  | $$  | $$__  $$
- #       | $$  | $$\  $$$| $$  | $$| $$  | $$| $$\  $$$| $$       /$$  \ $$  | $$  | $$  | $$
- #      /$$$$$$| $$ \  $$| $$$$$$$/|  $$$$$$/| $$ \  $$| $$$$$$$$|  $$$$$$/ /$$$$$$| $$  | $$
- #     |______/|__/  \__/|_______/  \______/ |__/  \__/|________/ \______/ |______/|__/  |__/
- ### INS - Political Events
  INS_political_events.1.t: "[INS.GetNameDef]新任總督"
  INS_political_events.1.desc: "[INS.GetLeader]的五年任期即將結束，因此我們必須決定一位合適的領導人來接替他的位置。威廉明娜女王推薦了阿利迪厄斯·恰爾達·範·斯塔爾肯博赫·斯塔豪韋爾，他作為特命大使和全權公使表現出了巨大的潛力。"
  INS_political_events.1.a: "如女王所願"
@@ -73,7 +64,6 @@
  INS_political_events.19.t: "[HOL.GetName]召回海軍將領赫爾弗裡赫"
  INS_political_events.19.desc: "消息已傳到[1058.GetName]，海軍司令、我們在這些水域最有能力的軍官康拉德·赫爾弗裡赫海軍上將已被召回國。海牙方面稱本土有緊迫需要，幾乎沒有做進一步解釋。他的離去讓這片群島在局勢遠未穩固之時防衛薄弱，據說泗水的軍官室中瀰漫著不滿的氣氛。"
  INS_political_events.19.a: "艦隊灰暗的一天"
- ### INS - Industrial Events
  INS_industrial_events.4.t: "[FROM.FROM.GetName]的預算再分配"
  INS_industrial_events.4.desc: "通過關閉[FROM.FROM.GetName]的橡膠種植園，我們為該地區的新工業項目騰出了預算空間。"
  INS_industrial_events.4.a: "我們會在[FROM.FROM.GetName]建立油井"
@@ -94,21 +84,17 @@
  INS_industrial_events.6.a: "投資城市"
  INS_industrial_events.6.b: "開發外部島嶼"
  INS_industrial_events.6.c: "加強軍工業"
- # Rubber shipment dispatched
  INS_industrial_events.28.t: "橡膠已發貨"
  INS_industrial_events.28.desc: "船隊已經裝載了最後一批橡膠並啟航。我們的買家將得到他們所支付的貨物，我方賬目也將如期收到約定的補償。未來兩年，這筆交易的成本將一直留在我們的資產負債表上，時刻提醒我們大蕭條所迫使我們付出的代價。"
  INS_industrial_events.28.a: "已知悉"
  INS_industrial_events.28.b: "安排另一批貨物"
- # Oil shipment dispatched
  INS_industrial_events.36.t: "石油已發貨"
  INS_industrial_events.36.desc: "油輪已駛離我們的煉油廠，全速駛向買方的港口。補償方案已經達成並將全額收到，但這次出售的負擔將在未來兩年壓制我國經濟。在這蕭條的歲月裡，世界留給我們的條件就是這般殘酷。"
  INS_industrial_events.36.a: "已知悉"
  INS_industrial_events.36.b: "安排另一批貨物"
- ### INS - Volksraad
  INS_volksraad_events.2.t: "[HOL.GetLeader]否決人民議會請願"
  INS_volksraad_events.2.desc: "雖然[INS.GetLeader]批准了請願書，但[HOL.GetLeader]在複審後予以了否決。因此，我們目前無法繼續落實。"
  INS_volksraad_events.2.a: "也許我們可以在未來再次嘗試通過請願"
- # Generic/Reused
  INS_volksraad_events.10.t: "人民議會動議允許學校使用印尼語"
  INS_volksraad_events.10.desc: "[INS.GetLeader]批准了人民議會的請願，同意在[INS.GetNameDef]建立印尼語學校和大學，並遞交[HOL.GetLeader]等待最終批准。"
  INS_volksraad_events.10.a: "人民議會派上用場了"
@@ -116,7 +102,6 @@
  INS_volksraad_events.11.t: "將建立印尼語教育"
  INS_volksraad_events.11.desc: "[HOL.GetLeader]批准並正式授權了請願。一旦最終細節確定，很快請願就會落實。"
  INS_volksraad_events.11.a: "人民議會派上用場了"
- # Individual laws
  INS_volksraad_events.20.t: "人民議會動議允許政府使用印尼語"
  INS_volksraad_events.20.desc: "東印度政府內，包括人民議會，都需要精通荷蘭語，這導致人民議會的許多成員，特別是原住民社區的代表，質疑其民主的有效性。他們提出了一項動議，堅持認為政府職位應儘可能由講印尼語的人擔任。"
  INS_volksraad_events.21.t: "允許政府使用印尼語！"
@@ -143,7 +128,6 @@
  INS_volksraad_events.100.desc: "[INS.GetLeader]已批准人民議會關於允許[INS.GetNameDef]的非荷蘭居民申請教育補貼的請願。該請願已送交[HOL.GetLeader]作最終批准。"
  INS_volksraad_events.101.t: "[INS.GetAdjective]居民現在可以申請教育補貼"
  INS_volksraad_events.101.desc: "[HOL.GetLeader]批准並正式授權了請願。一旦最終細節確定，很快請願就會落實。"
- ### INS - Dutch Interaction Events
  INS_dutch_events.1.t: "[INS.GetNameDefCap]索要海軍指揮權"
  INS_dutch_events.1.desc: "本土淪陷後，[INS.GetNameDef]請求我們將海軍指揮權移交[INS.GetNameDef]。他們認為，在這個前所未有的時期，統一指揮將有助於更好的協調。"
  INS_dutch_events.1.a: "為了更大的利益，我們只能讓步"
@@ -157,7 +141,6 @@
  INS_dutch_events.4.t: "[HOL.GetNameDefCap]建立[HOL.GetName]-[INS.GetName]海軍計劃"
  INS_dutch_events.4.desc: "[HOL.GetNameDefCap]宣佈創建[HOL.GetName]-[INS.GetName]海軍計劃，這是一項旨在重組和擴充我方海上力量的聯合倡議。[HOL.GetAdjective]的專業知識與[INS.GetAdjective]的人力資源將共同構成新的太平洋防禦網絡的支柱。"
  INS_dutch_events.4.a: "向著共同生存邁出的堅實一步"
- ### INS - Netherlands–Indonesia Union Events
  INS_union_events.1.t: "[HOL.GetNameDefCap]請求將政府遷至[1058.GetName]"
  INS_union_events.1.desc: "由於本土淪陷，[HOL.GetNameDef]已通知我方，其政府與王室將遷往[1058.GetName]。他們提到這是出於必要性、延續性，以及需要讓王國在旗幟仍然飄揚之地繼續存在下去的需要。"
  INS_union_events.1.a: "戰爭將在[1058.GetName]繼續下去"
@@ -171,7 +154,6 @@
  INS_union_events.4.t: "[HOL.GetNameDefCap]將武裝部隊遷至[1058.GetName]"
  INS_union_events.4.desc: "首批運輸船已從祖國抵達。船上擠滿了軍官、士兵和我們軍火庫的殘餘物資。不出所料，一些護航隊未能抵達港口。倖存下來的力量將構成我們在[1058.GetName]部隊的骨幹。"
  INS_union_events.4.a: "足以讓旗幟繼續飄揚"
- # INS proposed union
  INS_union_events.5.t: "[INS.GetNameDefCap]提議組建荷蘭-印度尼西亞聯邦"
  INS_union_events.5.desc: "全世界都清楚，戰爭的形勢對我方不利。我們的國家已淪陷，行動基地已東移。[INS.GetName]的部長們向我們提交了一項提議，組建一個由威廉明娜女王領導的聯合聯邦國家，以保證最大程度的合作。雖然似乎沒有人對此提議特別滿意，但這可能是我們生存的關鍵。"
  INS_union_events.5.a: "這是一項我們必須承擔的風險。女王萬歲！"
@@ -182,7 +164,6 @@
  INS_union_events.7.t: "[HOL.GetNameDefCap]拒絕聯邦提議"
  INS_union_events.7.desc: "[HOL.GetNameDef]的議會拒絕了組建聯合聯邦的提議。他們的信息很堅定：合作將繼續，但主權不會共享。"
  INS_union_events.7.a: "無論如何，這也不太可能成功"
- # HOL proposed union
  INS_union_events.8.t: "[HOL.GetNameDefCap]提議組建荷蘭-印度尼西亞聯邦"
  INS_union_events.8.desc: "全世界都清楚，戰爭的形勢對我方不利。[HOL.GetNameDef]已淪陷，他們的行動基地已東移。[HOL.GetAdjective]領導人向我們提交了一項提議，組建一個由威廉明娜女王領導的聯合聯邦國家，以保證最大程度的合作。雖然似乎沒有人對此提議特別滿意，但這可能是我們生存的關鍵。"
  INS_union_events.8.a: "這是必要之舉"
@@ -193,10 +174,8 @@
  INS_union_events.10.t: "[INS.GetNameDefCap]拒絕聯邦提議"
  INS_union_events.10.desc: "[INS.GetNameDefCap]拒絕了聯邦提議。[INS.GetAdjective]人民與領導人認為這無法長期運作，並反對任何放棄權力的提議。"
  INS_union_events.10.a: "無論如何，這也不太可能成功"
- # Flags
  INS_exile_accepted_flag: "正在安置流亡中的[HOL.GetNameDef]"
  INS_hey_btw_you_are_gonna_die_just_know_that_yeah_tt: "§R這會導致遊戲結束。§!"
- # Revolution events
  INS_revolution_events.1.t: "[HOL.GetNameDefCap]採取行動鎮壓共和國"
  INS_revolution_events.1.desc: "不出所料，荷蘭政府對我方的獨立要求作出了回應，向[1058.GetName]派遣了士兵，並通過媒體散佈反共和宣傳。"
  INS_revolution_events.1.a: "我們必須迅速行動"
@@ -227,9 +206,6 @@
  INS_revolution_events.9.desc: "[INS.GetLeader]今天在爪哇發表演講，宣佈新成立的印度尼西亞共和國獨立。雖然我們不承認這個新共和國，但他們的民兵已佔領了領土，我方警察無法治理這些地區。如果我們不認真對待這一局勢，它可能會演變為全面戰爭。"
  INS_revolution_events.9.a: "不可接受！"
  INS_revolution_events.9.b: "這不值得耗費精力，他們既然如此渴望獨立，那就隨他們去吧"
- #INS_revolution_events.10.t: ""
- #INS_revolution_events.10.desc: ""
- #INS_revolution_events.10.a: ""
  INS_revolution_events.11.t: "東印度軍隊成功阻止了民兵的軍事行動"
  INS_revolution_events.11.desc: "一隊共和派民兵發動了一次軍事行動，企圖佔領[?event_target:INS_temp_occupied_state.GetName]。我們在東印度群島英勇的士兵成功將民兵擊退，我們保持對該地區的完全控制。"
  INS_revolution_events.11.a: "[HOL.GetNameDef]的又一次勝利"
@@ -320,7 +296,6 @@
  INS_revolution_events.43.t: "[FROM.GetName]的民兵基地已建立"
  INS_revolution_events.43.desc: "我們在[FROM.GetName]的努力取得了成功，當地民兵領袖確認他們已準備好在時機成熟時採取行動。"
  INS_revolution_events.43.a: "我們必須繼續努力。"
- # Chaos Events
  INS_chaos_events.1.t: "泗水戰役"
  INS_chaos_events.1.desc: "獨立宣言發表後，泗水的局勢變得動盪不安。今天，一群效忠荷蘭的分子在舊有的大和酒店屋頂升起了昔日的殖民旗幟。當地的青年運動成員衝進大樓，撤下那些旗幟，升起了紅白相間的印度尼西亞國旗。這一事件已升級為暴力、無組織的衝突。"
  INS_chaos_events.1.a: "理應如此！"
@@ -337,7 +312,6 @@
  INS_chaos_events.4.a: "副總統哈塔將接任"
  INS_chaos_events.4.b: "社會黨將接管"
  INS_chaos_events.4.c: "廢除共和國，陳馬六甲將帶領我們走向勝利！"
- # Loyalist Events
  INS_loyalist_events.1.t: "[INS.GetLeader]請求調任亨利·溫克爾曼"
  INS_loyalist_events.1.desc: "[INS.GetLeader]已就世界各地持續的衝突和[INS.GetNameDef]所處的危險境地與我們聯繫。[INS.GetLeader]提議將荷蘭皇家東印度陸軍前指揮官亨利·溫克爾曼正式調回[INS.GetNameDef]，以確保殖民地的安全。"
  INS_loyalist_events.1.a: "我們會立即將其調任"
@@ -349,7 +323,6 @@
  INS_loyalist_events.3.desc: "[INS.GetLeader]在[HOL.GetNameDef]與[HOL.GetLeader]進行了會談，很遺憾，亨利·溫克爾曼不會被派往東印度群島，我們只能在沒有他的情況下保護自己。"
  INS_loyalist_events.3.a: "我們必須儘快想出新方案"
  INS_henri_winkelman_tt: "拒絕調任亨利·溫克爾曼"
- # MALAYA CHAIN - Independent Malaya
  INS_loyalist_events.4.t: "[FROM.GetNameDefCap]提議統一"
  INS_loyalist_events.4.desc: "[FROM.GetAdjective]代表團抵達[ROOT.Capital.GetCapitalVictoryPointName]，提議兩國合併。他們列舉了兩國人民共同的馬來傳承，並指出兩國邊界由歐洲殖民政府劃定，而非由這片土地上的人民決定。該提案將解散兩國政府，並改組為一個國家。"
  INS_loyalist_events.4.a: "我們同意"
@@ -360,24 +333,20 @@
  INS_loyalist_events.6.t: "[FROM.GetNameDefCap]拒絕統一"
  INS_loyalist_events.6.desc: "我們的外交官從[FROM.Capital.GetCapitalVictoryPointName]空手而回。[FROM.GetAdjective]政府不願意接受我們的提議。他們並未給出什麼理由，只是將我們的代表團禮送回家。"
  INS_loyalist_events.6.a: "這是他們的損失"
- # MALAYA CHAIN - Subject Malaya (Overlord receives)
  INS_loyalist_events.7.t: "[FROM.GetNameDefCap]要求在[MAL.GetName]舉行全民公投"
  INS_loyalist_events.7.desc: "[FROM.GetNameDefCap]正式要求我們在[MAL.GetName]舉行全民公投，表決是否與他們國家合併。他們的大使對可能的結果直言不諱，表示邊境兩側的馬來人民認為自己屬於同一國家。允許投票幾乎肯定意味著失去[MAL.GetName]。"
  INS_loyalist_events.7.a: "讓人民決定"
  INS_loyalist_events.7.b: "我們不會允許"
- # MALAYA CHAIN - Subject Malaya (MAL receives after overlord agrees)
  INS_loyalist_events.8.t: "[FROM.GetNameDefCap]同意舉行統一全民公投"
  INS_loyalist_events.8.desc: "我們的宗主國已批准[FROM.FROM.GetNameDef]在我國舉行公民投票。[FROM.FROM.GetAdjective]的活動人士已大批抵達，投票將於本月內開始。向人民提出的問題很簡單：我們是否希望加入[FROM.FROM.GetNameDef]，還是希望維持現狀？"
  INS_loyalist_events.8.a: "我們會加入他們"
  INS_loyalist_events.8.b: "我們寧願留下"
- # MALAYA CHAIN - Overlord informed of MAL's choice
  INS_loyalist_events.9.t: "[FROM.GetNameDefCap]投票反對合並"
  INS_loyalist_events.9.desc: "[FROM.GetName]的全民公投結束了。[FROM.GetAdjective]人民決定繼續由我們管理。[FROM.FROM.GetAdjective]活動人士已經離開。"
  INS_loyalist_events.9.a: "意料之中"
  INS_loyalist_events.10.t: "[FROM.GetNameDefCap]投票支持合併"
  INS_loyalist_events.10.desc: "[FROM.GetName]的公投已結束，結果以決定性多數支持與[FROM.FROM.GetNameDef]統一。我們在該地區的行政官員報告稱，這一結果在意料之中。我們有義務尊重這一結果。"
  INS_loyalist_events.10.a: "履行我們許下的承諾。"
- # MALAYA CHAIN - INS receives result
  INS_loyalist_events.11.t: "馬來亞全民公投成功"
  INS_loyalist_events.11.desc: "[MAL.GetName]的人民已投票加入我國。[MAL.GetAdjective]官員正與我國行政當局合作，開始移交權力。馬來世界的版圖上將減少一條邊界。"
  INS_loyalist_events.11.a: "歡迎回家"
@@ -463,60 +432,40 @@
  INS_communist_events.8.t: "[FROM.GetAdjective]宣傳品在[ROOT.GetName]流傳"
  INS_communist_events.8.desc: "源自[FROM.GetAdjective]的傳單和小冊子越來越頻繁地出現在我們的工廠、市場和大學中。它們宣揚階級鬥爭的福音，承諾通過革命實現解放。我們的警方報告稱，這些宣傳在不滿意的人群中找到了一批樂於接受的受眾。材料粗糙但有效，其傳播毫無減緩跡象。"
  INS_communist_events.8.a: "查出是誰在散發這些垃圾！"
- ## Call for Revolution - Main Event (sent to target) ##
  INS_communist_events.1.t: "[ROOT.GetName]的革命"
  INS_communist_events.1.desc: "局勢已惡化到無法挽回的地步。數月來[FROM.GetAdjective]的煽動起了作用，[ROOT.GetName]的共產主義運動已無法通過常規手段遏制。總罷工使城市癱瘓，武裝游擊隊員掌控了數個省份，[FROM.GetAdjective]政府已全力支持革命者。我們的安全部隊捉襟見肘，其忠誠度也不再確定。我們必須現在做出決定：是為國家的生存而戰，還是在更多流血之前接受不可避免的結果。"
  INS_communist_events.1.a: "集結軍隊，我們不會坐以待斃"
  INS_communist_events.1.b: "繼續抵抗只會給人民帶來毀滅"
  INS_communist_events.1.c: "也許給他們一個席位，我們還能控制局面"
- ## Civil War Chosen - sent to Indonesia ##
  INS_communist_events.2.t: "[FROM.GetNameDefCap]選擇戰鬥"
  INS_communist_events.2.desc: "[FROM.GetName]政府拒絕屈服，並已下令武裝部隊以武力鎮壓革命運動。我們在那裡的同志們正在佔領陣地、奪取關鍵據點。鬥爭不會短暫，但[FROM.GetName]人民已做出選擇，我們將確保他們不會孤軍奮戰。"
  INS_communist_events.2.a: "革命在前進"
- ## Surrender - sent to Indonesia ##
  INS_communist_events.3.t: "[FROM.GetNameDefCap]已淪陷"
  INS_communist_events.3.desc: "[FROM.GetName]的舊政府已經投降。面對全面爆發的革命運動，並確知[ROOT.GetNameDef]就站在其背後，他們看不到任何前進的道路，唯有屈服。權力已移交給當地的共產黨，新政府已開始主動聯繫我們尋求指導。又一個民族從舊秩序的桎梏中被解放出來。"
  INS_communist_events.3.a: "全世界勞動人民的偉大勝利"
- ## Civil War in Subject - sent to overlord ##
  INS_communist_events.4.t: "[FROM.GetName]爆發內戰"
  INS_communist_events.4.desc: "在[FROM.FROM.GetNameDef]的支持下武裝和組織起來的共產主義革命者，已在[FROM.GetName]發動公開叛亂。殖民當局已失去對大部分領土的控制，總督報告稱，若無增援，當地駐軍無法恢復秩序。"
  INS_communist_events.4.a: "派出軍隊，[FROM.GetName]是我們的！"
- ## Subject Surrendered - sent to overlord ##
  INS_communist_events.5.t: "[FROM.GetName]落入共產黨之手"
  INS_communist_events.5.desc: "[FROM.GetName]政府未作抵抗便向共產黨叛亂分子投降。總督及其幕僚已被逮捕，我們的國旗被降下，一個革命政府宣告成立。這一切都是由[FROM.FROM.GetNameDef]及其代理人精心策劃的，他們數月來一直在那裡破壞我們的權威。這簡直是盜竊，我們絕不會坐視不管。"
  INS_communist_events.5.a: "這是暴行！"
- # Cooperate with Revolutionaries (sent to target)
  INS_communist_events.9.t: "[FROM.GetAdjective]官員被目擊與異見分子會面"
  INS_communist_events.9.desc: "全國各地都有人發現[FROM.GetAdjective]特工與知名的煽動者和激進領袖為伍。曾經在街角散發傳單的學生組織者，現在正與持有[FROM.GetAdjective]外交文件的人閉門會面。被禁出版物的印刷速度之快，讓警察都來不及沒收；曾經只持續一個下午便偃旗息鼓的抗議活動，現在能讓整個區域停擺數天。這些共產黨人每天都在學習如何更大規模地組織起來，如果我們不迅速採取行動，可能會失去對他們的控制。"
  INS_communist_events.9.a: "馬上清除這些外國代理人！"
- # Spread Anti-Colonialist Sentiment (sent to subject target)
  INS_communist_events.10.t: "[FROM.GetAdjective]言論獲得影響力"
  INS_communist_events.10.desc: "[FROM.GetAdjective]的小冊子一直在軍營和行政部門中流傳，沒收行動收效甚微。它們講述著國家掙脫枷鎖、人民擺脫殖民統治並建立自己家園的故事。如果這些情緒不是那麼切合實際，壓制起來會更容易。即便是忠誠的官員也開始私下發問：我們當前的安排，究竟是為我們的人民服務，還是僅僅為我們的主子服務。"
  INS_communist_events.10.a: "我們必須謹慎行事"
- # /$$   /$$ /$$$$$$$$ /$$      /$$  /$$$$$$
- #| $$$ | $$| $$_____/| $$  /$ | $$ /$$__  $$
- #| $$$$| $$| $$      | $$ /$$$| $$| $$  \__/
- #| $$ $$ $$| $$$$$   | $$/$$ $$ $$|  $$$$$$
- #| $$  $$$$| $$__/   | $$$$_  $$$$ \____  $$
- #| $$\  $$$| $$      | $$$/ \  $$$ /$$  \ $$
- #| $$ \  $$| $$$$$$$$| $$/   \  $$|  $$$$$$/
- #|__/  \__/|________/|__/     \__/ \______/
- ### INS News
  taog_news.1.t: "荷蘭-印度尼西亞聯邦的黎明"
  taog_news.1.desc: "威廉明娜女王昨日在[1058.GetName]出人意料地宣佈成立荷蘭-印度尼西亞聯邦。由於本土遭到佔領，[HOL.GetAdjective]流亡政府與[INS.GetAdjective]當局已達成一致，在王室統領下作為一個國家主體進行管理。兩國官員稱此舉是迫於形勢而非自願選擇，是為了在這兩個大洲上維護王國統一與權威而採取的絕望之舉。"
  taog_news.1.a: "有趣的進展。"
  taog_news.2.t: "印度尼西亞宣佈獨立"
  taog_news.2.desc: "[INS.GetAdjective]的革命領袖[INS.GetLeader]今日在爪哇發表講話，宣佈新成立的印度尼西亞共和國獨立。[HOL.GetNameDef]不承認這個新成立共和國的主權，但共和國民兵已在事實上控制了某些領土。"
  taog_news.2.a: "這可能會引發全球範圍內的重大局勢變化。"
- ############
- ### SIAM ###
- ############
  siam.1.t: "[SIA_phraya_phahon.GetName]捲入醜聞"
  siam.1.desc: "[SIA_phraya_phahon.GetName]被指控以低於市場的價格向官員拋售王家地產，這一醜聞大幅降低了他在人民大會中的合法性。看來[SIA_phraya_phahon.GetName]的影響力即將終結。"
  siam.1.a: "這也許為其他人掃清了障礙？"
- #Spmgsiradet rebellion historical
  siam.2.t: "針對[SIA_plaek_phibunsongkhram.GetName]的第三次暗殺"
- siam.2.desc: "路透社駐曼谷記者的消息透露，這是四年內第三次企圖刺殺暹羅總理（披汶·頌堪先生）的陰謀。\n據悉，上週有人在食物中投毒，頌堪先生及其妻女的健康暫時受到影響。\n英國外交大臣（哈利法克斯勳爵）在致頌堪先生的慰問信中，對這起針對總理生命的懦弱企圖表示震驚，並對其倖免於難感到欣慰。" #https://trove.nla.gov.au/newspaper/article/47990695
+ siam.2.desc: "路透社駐曼谷記者的消息透露，這是四年內第三次企圖刺殺暹羅總理（披汶·頌堪先生）的陰謀。\n據悉，上週有人在食物中投毒，頌堪先生及其妻女的健康暫時受到影響。\n英國外交大臣（哈利法克斯勳爵）在致頌堪先生的慰問信中，對這起針對總理生命的懦弱企圖表示震驚，並對其倖免於難感到欣慰。"
  siam.2.a: "到底會是誰幹的？"
  siam.3.t: "披耶·頌素拉德被流放"
  siam.3.desc: "披耶·頌素拉德被指控為針對[SIA_plaek_phibunsongkhram.GetName]的一次或多次暗殺陰謀的幕後主使，並計劃推翻其政府。政府決定解除披耶·頌素拉德的職務，剝奪其軍銜與頭銜，強制退役且不發放養老金，並將其驅逐出境。\n批評者聲稱這是[SIA_plaek_phibunsongkhram.GetName]清除主要政敵的幌子，但這顯然是誹謗。"
@@ -527,7 +476,6 @@
  siam.5.t: "十八具屍體的叛亂"
  siam.5.desc: "披汶成立了一個特別法庭，對參與叛亂的51人進行審判，其中25人被判處終身監禁，21人被判處行刑隊槍決。在21名死刑犯中，有三人因功勳顯著被赦免，其中包括蘭實親王和披耶·德帕哈薩丁。"
  siam.5.a: "一錘定音。"
- #Songsuradet rebellion alternative
  siam.6.t: "頌素拉德對峙"
  siam.6.desc: "披耶·頌素拉德被指控是針對[SIA_plaek_phibunsongkhram.GetName]的一起或多起暗殺企圖的幕後主使，並策劃了針對其政府的政變。政府意旨解除頌素拉德的指揮權並將其流放。\n然而，忠於頌素拉德的軍頭阻止了對他的逮捕，譴責此次逮捕具有政治動機。政府與頌素拉德的軍事派系目前陷入僵局，雙方均拒絕退讓。"
  siam.6.a: "我們不會讓步。"
@@ -536,15 +484,12 @@
  siam.7.desc: "隨著政府軍與頌素拉德軍事集團之間的緊張對峙持續，政府調查人員開始聽到傳聞，稱海軍已與頌素拉德結盟，其明確意圖是抗衡披汶日益增長的獨裁傾向。\n不僅如此，王室的一些助手報告稱，頌素拉德的代表正與高級親王會面，這加劇了人們對王室也將加入反對派陣營的擔憂。"
  siam.7.a: "我們是政府，我們絕不接受訛詐！"
  siam.7.b: "情況正在失控。我們還是暫且退讓吧。"
- #alt-hist actual rebellion
  siam.8.t: "頌素拉德發動叛亂"
  siam.8.desc: "在獲得了足夠的政治和軍事支持後，頌素拉德軍事集團聯合海軍已有效地佔領了[THIS.GetName]的大片地區。凌晨時分，曼谷郊區響起了槍聲，整個國家似乎正處於政府與頌素拉德之間全面內戰的邊緣。"
  siam.8.a: "政府必將存續。"
- #alt-hist actual rebellion
  siam.9.t: "頌素拉德叛亂的終結"
  siam.9.desc: "叛亂已土崩瓦解。隨著頌素拉德被捕，審判成了唯一的餘興，儘管在此時這僅僅是走個過場。陰謀不僅存在於陸軍和海軍中，王室也牽涉其中——蘭實親王被發現公開支持叛軍。對異見分子進行全面深化清洗流毒已成為必然之舉，而非備選方案。"
  siam.9.a: "是時候重建了。"
- #Attack Indochina
  siam.10.t: "勝利！"
  siam.10.desc: "敵人正在潰敗，我們的勝利已成定局。隨著領土被牢牢掌控，舊帝國主義勢力定在瑟瑟發抖。他們怎能不失敗？這是我們天命所歸的跡象。"
  siam.10.a: "為了[ROOT.GetName]！"
@@ -728,9 +673,6 @@
  siam_dem.5.a: "比裡·帕儂榮應當領導國家。抵抗運動贏得了這一權利。"
  siam_dem.5.b: "寬·阿派旺，各派系均可接受的人選。"
  siam_dem.5.c: "屏·春哈旺將軍，軍隊必須佔有一席之地。"
- ###################
- #### AUSTRALIA ####
- ###################
  AST_election_events.1.t.a: "澳聯黨獲勝！"
  AST_election_events.1.t.b: "工黨獲勝！"
  AST_election_events.1.desc.a: "計票完畢：澳大利亞聯合黨贏得了選舉。\n\n澳大利亞聯合黨將經歷短暫的政府組建期，然後在接下來的三年裡證明公民對其代表的信任是正確的。"
@@ -896,7 +838,6 @@
  AST_diplomatic_events.45.t: "東南亞維持現狀"
  AST_diplomatic_events.45.desc: "[ENG.GetNameDefCap]拒絕了將其東南亞領土移交給我們。儘管如此，控制該地區的吸引力對我們而言依然顯而易見。雖然無法通過請求得手，但我們總有一天能將其收入囊中。"
  AST_diplomatic_events.45.a: "是的，總有一天"
- #AST_diplomatic_events.46.t was removed
  AST_diplomatic_events.47.t: "分擔負擔"
  AST_diplomatic_events.47.desc: "儘管最近脫離了英聯邦，[AST.GetName]仍提出軍事合作。[AST.GetName]聲稱，考慮到[ENG.GetNameDefCap]在全球範圍內分身乏術，共同分擔責任將對其更有利。"
  AST_diplomatic_events.47.a: "我們同意"
@@ -937,9 +878,6 @@
  AST_diplomatic_events.58.t: "維希法國拒絕移交[AST.GetName]領土"
  AST_diplomatic_events.58.desc: "維希法國拒絕將非洲領土移交給我們。然而，這並非請求，而是要求。\n\n我們將奪取他們拒絕給予我們的這片地區，儘管只能訴諸武力。"
  AST_diplomatic_events.58.a: "[AST.GetName]必須擴張，無論通過和平還是武力"
- #AST_diplomatic_events.59 was removed
- #AST_diplomatic_events.60 was removed
- #AST_diplomatic_events.61 was removed
  AST_diplomatic_events.62.t: "反英協定？"
  AST_diplomatic_events.62.desc: "來自[AST.GetName]的外交官向我們提出了一項建立反英同盟的提議。這將意味著他們協助我們從盎格魯人手中收復北愛爾蘭，而我們無需直接介入。\n\n作為回報，如果他們成功，我們將加入他們的派系，並在未來與英國的戰爭發生時協助他們。\n\n雖然與北方統一很有吸引力，但我們必須慎重考慮，我們是否有能力以這種方式與更強大的鄰國為敵，更重要的是，若發生衝突，我們能否取得勝利——否則整個愛爾蘭將再次淪為英國的殖民地。"
  AST_diplomatic_events.62.a: "統一不能等！簽署協定！"
@@ -950,14 +888,13 @@
  AST_diplomatic_events.64.t: "愛爾蘭同意！"
  AST_diplomatic_events.64.desc: "愛爾蘭同意簽署反英協定。"
  AST_diplomatic_events.64.a: "前進，到貝爾法斯特！"
- AST_diplomatic_events.65.t: "[FROM.GetName]提供支援" ### Support for the Chinese Communists - Sends event from AST to PRC offering support
+ AST_diplomatic_events.65.t: "[FROM.GetName]提供支援"
  AST_diplomatic_events.65.desc: "[FROM.GetNameDef]國內[FROM.GetCommunistParty]日益增長的影響力如今初見成效——其代表跨越中國，告知我們有一支[FROM.GetAdjective]支援我方部隊的志願部隊正在集結。此外，這些志願者還帶來了備用裝備，以幫助裝備我方軍隊。"
  AST_diplomatic_events.65.a: "與我們[FROM.GetAdjective]的同志進行合作的良好開端"
- #AST_diplomatic_events.65.b: "They should focus on their own revolution"
- AST_diplomatic_events.66.t: "[FROM.GetName]感謝我們的支援" ### Support for the Chinese Communists - They accept
+ AST_diplomatic_events.66.t: "[FROM.GetName]感謝我們的支援"
  AST_diplomatic_events.66.desc: "[FROM.GetLeader]的代表轉達了他對我們志願者的支持及所提供戰爭物資的感謝。[FROM.GetAdjective]在內戰中積累的豐富經驗，無疑將確保這些資源得到有效利用。"
  AST_diplomatic_events.66.a: "良好的開端"
- AST_diplomatic_events.67.t: "[FROM.GetName]感謝我們的支援" ### Support for the Chinese Communists - They accept
+ AST_diplomatic_events.67.t: "[FROM.GetName]感謝我們的支援"
  AST_diplomatic_events.67.desc: "[FROM.GetLeader]的代表轉達了他對我們志願者的支持及所提供戰爭物資的感謝。[FROM.GetAdjective]在內戰中積累的豐富經驗，無疑將確保這些資源得到有效利用。"
  AST_diplomatic_events.67.a: "良好的開端"
  AST_diplomatic_events.68.t: "澳大利亞的要求"
@@ -1051,7 +988,6 @@
  AST_political_events.11.desc: "在經歷了兩個世紀的英國統治之後，[AST.GetName]終於獲得自由。在政策和改革方面不再受限，許多決策者急於提出自己的想法；其中一項提案已引發公眾爭議。\n\n該提案涉及[AST.GetAdjective]國旗：是否應當更換國旗，以象徵我們最近的分離？"
  AST_political_events.11.a: "應當升起新國旗"
  AST_political_events.11.b: "[AST.GetName]的歷史不會被抹去，我們應當保留現有國旗"
- #AST_political_events.12 is hidden
  AST_political_events.13.t: "新衛隊再度崛起"
  AST_political_events.13.desc: "$AST_new_guard_spirit_desc$"
  AST_political_events.13.a: "只有時間能證明，他們這次會取得多大的成功。"
@@ -1116,7 +1052,6 @@
  INS_limited_war_events.9.t: "[FROM.GetName]意圖粉碎共和國！"
  INS_limited_war_events.9.desc: "敵方指揮部的無線攔截證實了最糟糕的情況。不會有解決方案，不會有剋制的和平，不會回到我們以前的邊境線。那些傀儡和他們的倫敦主子要求共和國徹底投降，試圖粉碎印度尼西亞，讓群島回到我們奮力抵抗的帝國主義靴下。對此，只有一個回覆。"
  INS_limited_war_events.9.a: "印度尼西亞屹立不倒！"
- ### INS - Martial Law Events
  INS_martial_law_events.1.t: "[INS.GetNameDefCap]想加強與我們之間的貿易關係"
  INS_martial_law_events.1.desc: "[INS.GetName]總統已向我們伸出橄欖枝，表達了加強雙方貿易關係的願望，並希望[INS.GetName]在共榮圈中發揮更大作用。[INS.GetName]總統[INS.GetLeader]提出了一項誘人的協議，其中橡膠及其他資源將免稅無費地售予我們，並通過市場管控確保價格低廉。"
  INS_martial_law_events.1.a: "當然！"
@@ -1174,19 +1109,6 @@
  INS_martial_law_events.16.b: "哈達將接管權力"
  INS_martial_law_events.16.c: "卡爾托蘇維爾佐是大眾的選擇！"
  INS_martial_law_events.16.d: "目前需要軍事管理"
- # INS_martial_law_events.17.t: "The Dismantling of [ROOT.GetNameDef]"
- # INS_martial_law_events.17.desc: "The federation is no more. After years of failed experiments in governance and endless instability, we have accepted the truth, with the Dutch driven out and the revolution won, there is no longer any cause forcing us to stand as one. The archipelago will be handed back to its Sultans and local leaders, each free to chart their own course. But before the union is dissolved for good, one question remains: from where shall we govern the days to come? Which throne will we call our own?"
- # INS_martial_law_events.17.a: "Java remains our heart. We stay."
- # INS_martial_law_events.17.b: "Our future is in East Timor."
- # INS_martial_law_events.17.c: "We will rule from Aceh."
- # INS_martial_law_events.17.d: "Show us the other provinces."
- # INS_martial_law_events.18.a: "Bali is where we belong."
- # INS_martial_law_events.18.b: "Papua was always the better place."
- # INS_martial_law_events.18.c: "Pontianak will be our seat."
- # INS_martial_law_events.19.a: "Gowa is from where we will rule."
- # INS_martial_law_events.19.b: "Siak is our new home."
- # INS_martial_law_events.19.c: "We belong in Ternate"
- ### AST - Union Control Events ###
  AST_union_control_events.1.t: "工會內的外國特工"
  AST_union_control_events.1.desc: "情報部門向政府報告了令人不安的消息。澳大利亞的共產主義特工一直在與本地工會領導人聯繫，分發激進文獻，鼓勵工人按照革命路線組織起來。目前，這場運動的規模仍然很小，但安全官員警告說，這只是此類事件的開始。必須在它紮根前作出決定。"
  AST_union_control_events.1.a: "嚴密監視他們。我們暫且等待"
@@ -1203,9 +1125,6 @@
  AST_union_control_events.2.t: "[AST.GetAdjective]支持的煽動者出現在我們街頭"
  AST_union_control_events.2.desc: "澳大利亞共產主義政府的特工已抵達我們的城市。他們毫不躲藏——工廠門口分發著小冊子，公共廣場上發表著演講，澳大利亞特工與本地激進團體之間建立了團結網絡。原有的外國影響網絡似乎在一夜之間重獲活力。這是一場協調一致的運動，政府必須在民眾不滿變得難以收拾之前，決定如何應對。"
  AST_union_control_events.2.b: "令人不安的發展"
- ###########################
- ##### ABDACOM EVENTS ######
- ###########################
  ABDA_events.1.t: "受邀加入新的最高指揮部"
  ABDA_events.1.desc: "[FROM.GetNameDef]建立了太平洋戰區的聯合最高指揮部，並邀請我們加入。這一倡議——被稱為美英荷澳司令部——旨在將在該地區行動的盟國的海、空、陸軍力量集中到一個統一的指揮體系下。加入意味著能與[FROM.GetNameDef]及其他已承諾參與的夥伴進行更緊密的協調合作。我們必須決定是否接受。"
  ABDA_events.1.a: "我們將並肩作戰"

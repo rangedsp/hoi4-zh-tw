@@ -218,7 +218,6 @@
  NO_AWARDABLE_HISTORY_ENTRIES: "沒有有效的歷史記錄可用於授勳"
  SWE_winter_drill_entry: "瑞典冬季演習參與獎"
  GER_eben_emael_entry: "參與德國對埃本·埃馬爾堡壘的突襲"
- ###Medal Names
  star: "戰鬥之星勳章"
  cross: "十字勳章"
  medallion: "特級勳章"
@@ -294,7 +293,7 @@
  ETH_military_medal_democratic_communist: "傑出軍事勳章"
  ETH_gold_medal: "金質勳章"
  ETH_silver_medal: "銀質勳章"
- HISTORY_PROVINCE_LIST_TWO_ITEMS: "$FIRST$和$SECOND$" ## Sentence construction part for two (2) items only
+ HISTORY_PROVINCE_LIST_TWO_ITEMS: "$FIRST$和$SECOND$"
  HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_SEPARATOR: "、"
  HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_LATTER_SEPARATOR: "和 "
  HISTORY_EXPERIENCE_COUNT_TEXT: "軍官經驗：$VALUE|H0$"

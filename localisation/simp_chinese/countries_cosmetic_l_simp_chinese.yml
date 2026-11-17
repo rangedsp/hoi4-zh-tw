@@ -1,7 +1,4 @@
 ﻿l_simp_chinese:
- #INS_rump_java: "Java"
- #INS_rump_java_DEF: "Java"
- #INS_rump_java_ADJ: "Javanese"
  INS_HOL: "荷屬東印度"
  INS_HOL_DEF: "荷屬東印度"
  INS_HOL_autonomy_dominion: "印度尼西亞自治領"
@@ -602,7 +599,7 @@
  GER_german_socialist_union_DEF: "德意志人民聯盟"
  GER_german_socialist_union_communism: "德意志社會主義人民聯盟"
  GER_german_socialist_union_communism_DEF: "德意志社會主義人民聯盟"
- GER_strasserite_state_fascism: "德意志人民國" #was Strasserite State of Germany
+ GER_strasserite_state_fascism: "德意志人民國"
  GER_strasserite_state_fascism_DEF: "德意志人民國"
  GER_strasserite_state_fascism_ADJ: "德意志"
  PRC_proclaimed_communism: "中華人民共和國"
@@ -938,7 +935,7 @@
  GUM_autonomy_collaboration_government_DEF: "$OVERLORDADJ$屬$NONIDEOLOGY$"
  SOL_autonomy_collaboration_government_DEF: "$OVERLORDADJ$屬$NONIDEOLOGY$"
  NAV_autonomy_collaboration_government_DEF: "$OVERLORDADJ$屬$NONIDEOLOGY$"
- COUNTRY_autonomy_collaboration_government: "$OVERLORDADJ$屬$NONIDEOLOGY$" #fallbacks for Collaboration governments
+ COUNTRY_autonomy_collaboration_government: "$OVERLORDADJ$屬$NONIDEOLOGY$"
  COUNTRY_autonomy_collaboration_government_DEF: "$OVERLORDADJ$屬$NONIDEOLOGYDEF$"
  COUNTRY_autonomy_collaboration_government_ADJ: "$OVERLORDADJ$屬$NONIDEOLOGYADJ$"
  united_polynesia_democratic: "太平洋聯邦"
@@ -1573,7 +1570,6 @@
  FIN_grand_finnish_federation: "大芬蘭聯邦"
  FIN_grand_finnish_federation_DEF: "大芬蘭聯邦"
  FIN_grand_finnish_federation_ADJ: "芬蘭"
- #Loc key for Red Finland exists for focus already
  FIN_red_finland_DEF: "紅色芬蘭"
  FIN_red_finlanda_ADJ: "芬蘭"
  FIN_kingdom_of_finland: "芬蘭王國"
@@ -1661,7 +1657,6 @@
  ENE_fascism: "諾德蘭帝國"
  ENE_fascism_DEF: "諾德蘭帝國"
  ENE_fascism_ADJ: "北歐"
- ### SOUTH AMERICA ###
  ARG_military_state_fascism: "阿根廷軍團國"
  ARG_military_state_fascism_DEF: "阿根廷軍團國"
  ARG_military_state_fascism_ADJ: "阿根廷"
@@ -2360,12 +2355,6 @@
  european_union_leader: "歐盟主席國"
  european_union_leader_DEF: "歐盟主席國"
  european_union_leader_ADJ: "歐盟"
- #HOL_european_union_leader: "European President"
- #HOL_european_union_leader_DEF: "the European President"
- #HOL_european_union_leader_ADJ: "Dutch"
- #AUS_european_union_leader: "European President"
- #AUS_european_union_leader_DEF: "the European President"
- #AUS_european_union_leader_ADJ: "Austrian"
  GER_BEL_autonomy_eu_member: "德意志歐盟國"
  GER_BEL_autonomy_eu_member_DEF: "德意志歐盟國"
  GER_BEL_autonomy_eu_member_ADJ: "德國"

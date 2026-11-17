@@ -3,7 +3,6 @@
  o_unternehmen: "行動"
  o_storm: "暴雨"
  o_fox: "狐狸"
- ###Default Adjective
  o_umbral: "暗影"
  o_shadow: "陰影"
  o_sunlight: "日光"
@@ -38,7 +37,6 @@
  o_grey: "灰色"
  o_purple: "紫色"
  o_restless: "焦躁"
- ###Default Noun
  o_scimitar: "彎刀"
  o_sword: "寶劍"
  o_spirit: "魂魄"
@@ -75,7 +73,6 @@
  o_lion: "雄獅"
  o_tiger: "猛虎"
  o_shield: "護盾"
- ###German
  o_barbarossa: "巴巴羅薩行動"
  o_fall_blau: "藍色方案"
  o_fall_rot: "紅色方案"
@@ -100,15 +97,15 @@
  o_birke: "樺樹行動"
  o_tanne_ost: "東方冷杉行動"
  o_tanne_west: "西方冷杉行動"
- o_fruhlingserwachen: "春醒行動" #hungary
- o_konrad: "康拉德行動" #hungary
- o_margarethe: "瑪格麗特行動" #hungary
- o_sudwind: "南風行動" #hungary
- o_eiche: "橡樹行動" #italy
- o_achse: "軸心行動" #italy
- o_alarich: "阿拉里克行動" #italy
- o_scwartz: "施瓦茨行動" #italy
- o_konstantin: "康斯坦丁行動" #italy
+ o_fruhlingserwachen: "春醒行動"
+ o_konrad: "康拉德行動"
+ o_margarethe: "瑪格麗特行動"
+ o_sudwind: "南風行動"
+ o_eiche: "橡樹行動"
+ o_achse: "軸心行動"
+ o_alarich: "阿拉里克行動"
+ o_scwartz: "施瓦茨行動"
+ o_konstantin: "康斯坦丁行動"
  o_wildente: "野鴨"
  o_biene: "蜜蜂"
  o_gneisenau: "格奈森瑙"
@@ -123,24 +120,24 @@
  o_luchs: "山貓"
  o_morgenrote: "黎明"
  o_grunpfeil: "綠箭"
- o_ikarus: "伊卡魯斯行動" #Iceland
- o_herbstreise: "秋季旅行行動" #Scotland
- o_kathleen: "凱瑟琳行動" #Ireland
- o_brandung: "衝浪行動" #Nafrica
- o_skorpion: "天蠍行動" #Nafrica
- o_aida: "阿伊達行動" #Nafrica
- o_capri: "卡普里行動" #Nafrica
- o_theseus: "忒修斯行動" #Nafrica
- o_ochsenkopf: "牛頭行動" #Nafrica
- o_venezie: "威尼斯行動" #Nafrica
- o_fruhlingswind: "春風行動" #Nafrica
+ o_ikarus: "伊卡魯斯行動"
+ o_herbstreise: "秋季旅行行動"
+ o_kathleen: "凱瑟琳行動"
+ o_brandung: "衝浪行動"
+ o_skorpion: "天蠍行動"
+ o_aida: "阿伊達行動"
+ o_capri: "卡普里行動"
+ o_theseus: "忒修斯行動"
+ o_ochsenkopf: "牛頭行動"
+ o_venezie: "威尼斯行動"
+ o_fruhlingswind: "春風行動"
  o_ausladung: "投影行動"
  o_eilbote: "信使行動"
  o_fliederblute: "紫丁香花開行動"
  o_kuckuksei: "杜鵑鳥蛋行動"
- o_beowulf: "貝奧武夫行動" #baltics
- o_doppelkopf: "雙頭行動" #baltics
- o_laura: "勞拉行動" #baltics
+ o_beowulf: "貝奧武夫行動"
+ o_doppelkopf: "雙頭行動"
+ o_laura: "勞拉行動"
  o_haifisch: "鯊魚"
  o_nordwind: "北風"
  o_schlussjagd: "最終狩獵"
@@ -148,21 +145,21 @@
  o_taube: "鴿子"
  o_siegfried: "齊格弗裡德"
  o_westwind: "西風"
- o_edelweiss: "雪絨花行動" #Caucasus
- o_attika: "阿提卡行動" #caucasus
- o_bussard: "禿鷲行動" #Caucasus
- o_herbstlaub: "秋葉行動" #caucasus
- o_herbstzeitlose: "秋番紅花行動" #caucasus
- o_schamil: "沙米爾行動" #caucasus
- o_clausewitz: "克勞塞維茨行動" #caucasus
+ o_edelweiss: "雪絨花行動"
+ o_attika: "阿提卡行動"
+ o_bussard: "禿鷲行動"
+ o_herbstlaub: "秋葉行動"
+ o_herbstzeitlose: "秋番紅花行動"
+ o_schamil: "沙米爾行動"
+ o_clausewitz: "克勞塞維茨行動"
  o_brunhild: "布倫希爾德行動"
  o_krimhilde: "克瑞姆希爾行動"
  o_wikinger: "維京人行動"
- o_gisella: "吉塞拉行動" #Iberia
- o_ilona: "伊洛娜行動" #Iberia
- o_isabella: "伊莎貝拉行動" #Iberia
- o_felix: "費利克斯行動" #Iberia
- o_munchen: "慕尼黑行動" #Bessarabia
+ o_gisella: "吉塞拉行動"
+ o_ilona: "伊洛娜行動"
+ o_isabella: "伊莎貝拉行動"
+ o_felix: "費利克斯行動"
+ o_munchen: "慕尼黑行動"
  o_maus: "老鼠"
  o_derfflinger: "德爾弗林格"
  o_moorbrand: "沼澤火焰"
@@ -170,11 +167,11 @@
  o_blucher: "布呂歇爾"
  o_braunschweig: "布倫瑞克"
  o_bruckenschlag: "修橋"
- o_feuerzauber: "魔火行動" #Leningrad
- o_nordlicht: "北極光行動" #Leningrad
- o_sumpf: "沼澤行動" #Leningrad
+ o_feuerzauber: "魔火行動"
+ o_nordlicht: "北極光行動"
+ o_sumpf: "沼澤行動"
  o_fredericus: "弗雷德里克斯"
- o_gertrud: "格特魯德行動" #turkey
+ o_gertrud: "格特魯德行動"
  o_fischreiher: "蒼鷺"
  o_lichtschlag: "裡希斯拉格"
  o_nordpol: "北極"
@@ -205,7 +202,7 @@
  o_schneeman: "雪人"
  o_sonnenwende: "夏至"
  o_sudwing: "南風"
- o_ostwind: "東風" #fictional below
+ o_ostwind: "東風"
  o_wetzstein: "磨刀石"
  o_oderubung: "奧得演習"
  o_donauubung: "多瑙演習"
@@ -236,7 +233,6 @@
  o_vogelsang: "鳥歌"
  o_winkel: "角度"
  o_zebra: "斑馬"
- ###Soviet Union
  o_operatsiya: "行動"
  o_bagration: "巴格拉季昂行動"
  o_suvorov: "蘇沃洛夫行動"
@@ -266,7 +262,6 @@
  o_strat_offensive_default: "進攻行動"
  o_strat_defensive_default: "防禦指令"
  o_strat_naval_default: "登陸行動"
- ###Japan
  o_ichi: "一"
  o_ni: "二"
  o_san: "三"
@@ -338,14 +333,11 @@
  o_mo: "M O"
  o_ry: "R Y"
  o_mi: "M I"
- ###USA
  o_bold: "大膽"
  o_striking: "驚奇"
  o_cobra: "眼鏡蛇"
- #USA historical
- o_musketeer: "火槍手行動" #Philippines
+ o_musketeer: "火槍手行動"
  o_diplomat: "外交官行動"
- #South Pacific
  o_cartwheel: "馬車輪行動"
  o_chronicle: "編年史行動"
  o_postern: "側門行動"
@@ -354,37 +346,34 @@
  o_cleanslate: "清白行動"
  o_cyclone: "旋風行動"
  o_oboe: "雙簧管行動"
- o_watchtower: "瞭望塔行動" #Guadalcanal
- #central pacific
- o_detachment: "分隊行動" #Iwo Jima
- o_flintlock: "燧發槍行動" #marshall islands
- o_catchpole: "抓鬥行動" #Eniwetok
- o_forager: "覓食者行動" #Marianas
- o_galvanic: "電擊行動" #gilberts
- o_iceberg: "冰山行動" #okinawa
- o_stalemate: "欠行行動" #Peleliu
- o_downfall: "沒落行動" #invasion of Japan
+ o_watchtower: "瞭望塔行動"
+ o_detachment: "分隊行動"
+ o_flintlock: "燧發槍行動"
+ o_catchpole: "抓鬥行動"
+ o_forager: "覓食者行動"
+ o_galvanic: "電擊行動"
+ o_iceberg: "冰山行動"
+ o_stalemate: "欠行行動"
+ o_downfall: "沒落行動"
  o_olympic: "奧林匹克行動"
  o_coronet: "小王冠行動"
  o_majestic: "至尊行動"
- o_cottage: "茅舍行動" #Alaska
+ o_cottage: "茅舍行動"
  o_sandcrab: "沙蟹行動"
- o_causway: "海堤行動" #Taiwan
- o_avalanche: "雪崩行動" #Italy
+ o_causway: "海堤行動"
+ o_avalanche: "雪崩行動"
  o_giant: "巨人行動"
  o_buffalo: "水牛行動"
- o_anvil: "鐵砧行動" #south France
+ o_anvil: "鐵砧行動"
  o_dragoon: "龍騎兵行動"
- o_roundup: "圍捕行動" #France
+ o_roundup: "圍捕行動"
  o_sledgehammer: "大錘行動"
  o_overlord: "霸王行動"
  o_blackstone: "黑石行動"
  o_brushwood: "灌木從行動"
  o_goalpost: "門柱行動"
- ###British
- #Historical
  o_abstention: "棄權行動"
- o_acrobat: "雜技行動" #Nafrica
+ o_acrobat: "雜技行動"
  o_agreement: "合約行動"
  o_daffodil: "水仙行動"
  o_snowdrop: "雪花蓮行動"
@@ -397,8 +386,8 @@
  o_supercharge: "發電機行動"
  o_pugilist: "拳擊手行動"
  o_vulcan: "火神行動"
- o_torch: "火炬行動" #Morroco
- o_jubilee: "銀禧行動" #France
+ o_torch: "火炬行動"
+ o_jubilee: "銀禧行動"
  o_bluecoat: "藍衣行動"
  o_Astonia: "阿斯托尼亞行動"
  o_charnwood: "查恩伍德行動"
@@ -407,35 +396,35 @@
  o_greenline: "綠線行動"
  o_pomegranate: "石榴行動"
  o_totalize: "總計行動"
- o_plunder: "戰利品行動" #Germany
+ o_plunder: "戰利品行動"
  o_varsity: "大學校隊行動"
- o_accolade: "榮譽行動" #East Med
+ o_accolade: "榮譽行動"
  o_exporter: "出口商行動"
  o_mandibles: "下頜行動"
  o_manna: "嗎哪行動"
- o_baytown: "貝敦行動" #Italy
+ o_baytown: "貝敦行動"
  o_slapstick: "鬧劇行動"
  o_chesterfield: "切斯特菲爾德行動"
  o_diadem: "王冠行動"
  o_encore: "安科行動"
- o_husky: "哈士奇行動" #Sicily
+ o_husky: "哈士奇行動"
  o_shingle: "鵝卵石行動"
  o_olive: "橄欖行動"
- o_anakim: "亞衲行動" #India/Burma
+ o_anakim: "亞衲行動"
  o_capital: "都城行動"
  o_dracula: "德古拉行動"
  o_longcloth: "長布行動"
  o_talon: "利爪行動"
  o_thursday: "星期四行動"
- o_krohcol: "克羅科爾行動" #Thailand
+ o_krohcol: "克羅科爾行動"
  o_matador: "鬥牛士行動"
- o_countenance: "贊同行動" #Iran
- o_zipper: "拉鏈行動" #Malaya
+ o_countenance: "贊同行動"
+ o_zipper: "拉鏈行動"
  o_broadsword: "闊劍行動"
- o_fork: "叉子行動" #Iceland
- o_primrose: "報春花行動" #Norway
- o_r4: "R 4" #Norway
- o_infatuate: "迷戀行動" #Netherlands
+ o_fork: "叉子行動"
+ o_primrose: "報春花行動"
+ o_r4: "R 4"
+ o_infatuate: "迷戀行動"
  o_comet: "彗星行動"
  o_market_garden: "市場花園行動"
  o_constellation: "星座"

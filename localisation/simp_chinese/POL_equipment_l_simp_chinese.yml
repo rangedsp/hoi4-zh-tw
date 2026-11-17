@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- #AIR
  POL_fighter_equipment_0: "PZL.11"
  POL_fighter_equipment_0_short: "PZL.11"
  POL_cv_fighter_equipment_0: "PZL.11 艦載型"
@@ -70,7 +69,6 @@
  POL_strat_bomber_equipment_3_short: "馬蜂"
  POL_jet_strat_bomber_equipment_1: "PZL 79 蚊式"
  POL_jet_strat_bomber_equipment_1_short: "蚊式"
- #ARMOR
  POL_gw_tank_equipment: "雷諾 FT"
  POL_gw_tank_equipment_short: "雷諾 FT"
  POL_light_tank_equipment_1: "TKS"
@@ -95,7 +93,6 @@
  POL_super_heavy_tank_equipment_1_short: "河馬"
  POL_modern_tank_equipment_1: "57TP 槍騎"
  POL_modern_tank_equipment_1_short: "槍騎"
- #NAVAL
  POL_submarine_1: "狼級"
  POL_submarine_1_desc: "狼級包括三艘法國為波蘭特製的潛艇，於30年代初入役。他們是基於法國的藍寶石級設計的。他們屬於大型潛艇，排水量近1000噸。裝備550毫米魚雷發射管6個，最大下潛深度80米。"
  POL_submarine_2: "雕級"

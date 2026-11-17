@@ -668,8 +668,6 @@
  USA_cv_nav_bomber_equipment_1_short: "TBD 蹂躪者"
  USA_cv_nav_bomber_equipment_2: "格魯曼 TBF-1C 復仇者"
  USA_cv_nav_bomber_equipment_2_short: "TBF-1C 復仇者"
- #USA_cv_nav_bomber_equipment_3: "Consolidated TBY Sea Wolf"
- #USA_cv_nav_bomber_equipment_3_short: "TBY Sea Wolf"
  USA_CAS_equipment_1: "諾思羅普 A-17"
  USA_CAS_equipment_1_short: "A-17"
  USA_cv_CAS_equipment_2: "道格拉斯 SBD-2 無畏"
@@ -1030,9 +1028,6 @@
  CZE_transport_plane_equipment_2_short: "F.IX-M"
  CZE_transport_plane_equipment_3: "布拉格 E-200"
  CZE_transport_plane_equipment_3_short: "E-200"
- ###Planes###
- #Australia
- #Small Airframe (Fighter)
  AST_fighter_equipment_0: "霍克 惡魔"
  AST_fighter_equipment_0_short: "惡魔"
  AST_fighter_equipment_1: "CAC 維勒威"
@@ -1041,21 +1036,18 @@
  AST_fighter_equipment_2_short: "迴旋鏢"
  AST_fighter_equipment_3: "CAC CA-15"
  AST_fighter_equipment_3_short: "CA-15"
- #Medium Airframe (Heavy Fighter)
  AST_heavy_fighter_equipment_1: "布里斯托爾 布倫海姆 Mk.IF"
  AST_heavy_fighter_equipment_1_short: "布倫海姆 IF"
  AST_heavy_fighter_equipment_2: "布里斯托爾 英俊戰士"
  AST_heavy_fighter_equipment_2_short: "英俊戰士"
  AST_heavy_fighter_equipment_3: "德哈維蘭 蚊"
  AST_heavy_fighter_equipment_3_short: "蚊"
- #Small Airframe (CAS)
  AST_CAS_equipment_1: "CAC 維勒威"
  AST_CAS_equipment_1_short: "維勒威"
  AST_CAS_equipment_2: "CAC CA-4 投槍器"
  AST_CAS_equipment_2_short: "CA-4 投槍器"
  AST_CAS_equipment_3: "CAC CA-11 投槍器"
  AST_CAS_equipment_3_short: "CA-11 投槍器"
- #Medium Airframe (Tactical Bomber)
  AST_tac_bomber_equipment_0: "韋斯特蘭 “麋鹿”"
  AST_tac_bomber_equipment_0_short: "沃皮蒂"
  AST_tac_bomber_equipment_1: "費爾雷 巴特爾"
@@ -1064,21 +1056,18 @@
  AST_tac_bomber_equipment_2_short: "巴爾的摩"
  AST_tac_bomber_equipment_3: "馬丁 巴爾的摩"
  AST_tac_bomber_equipment_3_short: "巴爾的摩"
- #Large Airframe (Strategic Bomber)
  AST_strat_bomber_equipment_1: "維克斯 惠靈頓"
  AST_strat_bomber_equipment_1_short: "惠靈頓"
  AST_strat_bomber_equipment_2: "阿弗羅 蘭開斯特"
  AST_strat_bomber_equipment_2_short: "蘭開斯特"
  AST_strat_bomber_equipment_3: "阿弗羅 林肯"
  AST_strat_bomber_equipment_3_short: "林肯"
- #Small Airframe (Naval Bomber)
  AST_nav_bomber_equipment_1: "洛克希德 哈德遜"
  AST_nav_bomber_equipment_1_short: "哈德遜"
  AST_nav_bomber_equipment_2: "PBY 卡特琳娜"
  AST_nav_bomber_equipment_2_short: "卡特琳娜"
  AST_nav_bomber_equipment_3: "布里斯托 博福特"
  AST_nav_bomber_equipment_3_short: "波弗特"
- #Carrier Airframe (Fighter)
  AST_cv_fighter_equipment_0: "霍克 獵迷"
  AST_cv_fighter_equipment_0_short: "獵迷"
  AST_cv_fighter_equipment_1: "格羅斯特 海鬥士"
@@ -1087,21 +1076,18 @@
  AST_cv_fighter_equipment_2_short: "管鼻燕"
  AST_cv_fighter_equipment_3: "費爾雷 螢火蟲"
  AST_cv_fighter_equipment_3_short: "螢火蟲"
- #Carrier Airframe (CAS)
  AST_cv_CAS_equipment_1: "霍克 魚鷹"
  AST_cv_CAS_equipment_1_short: "魚鷹"
  AST_cv_CAS_equipment_2: "布萊克本 賊鷗"
  AST_cv_CAS_equipment_2_short: "賊鷗"
  AST_cv_CAS_equipment_3: "霍克 海怒"
  AST_cv_CAS_equipment_3_short: "海怒"
- #Carrier Airframe (Naval Bomber)
  AST_cv_nav_bomber_equipment_1: "布萊克本 鯊魚"
  AST_cv_nav_bomber_equipment_1_short: "鯊魚"
  AST_cv_nav_bomber_equipment_2: "布萊克本 大鵬"
  AST_cv_nav_bomber_equipment_2_short: "大鵬"
  AST_cv_nav_bomber_equipment_3: "布萊克本 火把"
  AST_cv_nav_bomber_equipment_3_short: "火把"
- #Jets / Modern
  AST_jet_plane: "德哈維蘭 吸血鬼"
  AST_jet_plane_short: "吸血鬼"
  AST_jet_fighter_equipment_1: "德·哈維蘭 吸血鬼"
@@ -1112,8 +1098,6 @@
  AST_medium_jet_plane_short: "堪培拉"
  AST_jet_tac_bomber_equipment_1: "英國電氣 堪培拉"
  AST_jet_tac_bomber_equipment_1_short: "堪培拉"
- #AST_jet_tac_bomber_equipment_2: "English Electric Canberra"
- #AST_jet_tac_bomber_equipment_2_short: "Canberra"
  AST_jet_strat_bomber_equipment_1: "阿芙羅 火神"
  AST_jet_strat_bomber_equipment_1_short: "伏爾甘"
  AST_transport_plane_equipment_1: "德哈維蘭“特快”"
@@ -1122,7 +1106,6 @@
  AST_transport_plane_equipment_2_short: "C-47 空中列車"
  AST_transport_plane_equipment_3: "阿弗羅 約克 685型"
  AST_transport_plane_equipment_3_short: "阿芙羅 約克"
- #Argentinia
  ARG_heavy_fighter_equipment_3: "I.Ae 30 鷹式 P1"
  ARG_heavy_fighter_equipment_3_short: "鷹式 P1"
  ARG_fighter_equipment_0: "FMA D.21"
@@ -1143,7 +1126,6 @@
  ARG_jet_fighter_equipment_1_short: "箭式 I型"
  ARG_jet_fighter_equipment_2: "FMA I.Ae. 33 箭式 II型"
  ARG_jet_fighter_equipment_2_short: "箭式 II型"
- #Belgium
  BEL_fighter_equipment_0: "費爾雷航空 螢火蟲"
  BEL_fighter_equipment_0_short: "Av-F. 螢火蟲"
  BEL_fighter_equipment_1: "費爾雷航空 魅影"
@@ -1160,7 +1142,6 @@
  BEL_tac_bomber_equipment_2_short: "R-PZL 37"
  BEL_jet_fighter_equipment_2: "SABCA 獵人"
  BEL_jet_fighter_equipment_2_short: "獵人"
- #Bulgarian
  BUL_CAS_equipment_1: "DAR-3 烏鴉 III型"
  BUL_CAS_equipment_1_short: "DAR-3"
  BUL_CAS_equipment_2: "DAR-10"
@@ -1171,12 +1152,10 @@
  BUL_tac_bomber_equipment_2_short: "KB-6"
  BUL_scout_plane_equipment_1: "KB-5 雲雀III型"
  BUL_scout_plane_equipment_1_short: "KB-5"
- #canadian
  CAN_jet_fighter_equipment_1: "德哈維蘭 吸血鬼"
  CAN_jet_fighter_equipment_1_short: "吸血鬼"
  CAN_jet_fighter_equipment_2: "CL 100 卡納克"
  CAN_jet_fighter_equipment_2_short: "CL 100 卡納克"
- #Czech
  CZE_scout_plane_equipment_1: "布拉格 E-60"
  CZE_scout_plane_equipment_1_short: "E-60"
  CZE_scout_plane_equipment_2: "布拉格 K-64"
@@ -1223,7 +1202,6 @@
  CZE_nav_bomber_equipment_3_short: "B-158"
  CZE_jet_fighter_equipment_1: "萊托夫 L-52"
  CZE_jet_fighter_equipment_1_short: "L-52"
- #Romania
  ROM_CAS_equipment_1: "IAR 37"
  ROM_CAS_equipment_1_short: "IAR 37"
  ROM_CAS_equipment_2: "IAR 81"
@@ -1266,8 +1244,6 @@
  ROM_nav_bomber_equipment_2_short: "IAR 114B"
  ROM_nav_bomber_equipment_3: "IAR 117"
  ROM_nav_bomber_equipment_3_short: "IAR 117"
- #Holland
- #herr fokker wins the race, with a single Koolhoven interloper
  HOL_heavy_fighter_equipment_1: "$INS_heavy_fighter_equipment_1$"
  HOL_heavy_fighter_equipment_1_short: "$INS_heavy_fighter_equipment_1_short$"
  HOL_heavy_fighter_equipment_2: "$INS_heavy_fighter_equipment_2$"
@@ -1308,7 +1284,6 @@
  HOL_tac_bomber_equipment_2_short: "福克 T.IX"
  HOL_tac_bomber_equipment_3: "科爾霍芬 F.K.71"
  HOL_tac_bomber_equipment_3_short: "科爾霍芬 F.K.71"
- #Finland
  FIN_fighter_equipment_0: "空軍飛機制造廠 獵鷹"
  FIN_fighter_equipment_0_short: "IVL 獵鷹"
  FIN_fighter_equipment_2: "國家飛機制造廠 風暴"
@@ -1323,14 +1298,12 @@
  FIN_CAS_equipment_1_short: "福克 VL C.X"
  FIN_tac_bomber_equipment_1: "布里斯托爾-VL 布倫海姆"
  FIN_tac_bomber_equipment_1_short: "布倫海姆"
- #Norway
  NOR_fighter_equipment_0: "F.F. 7 隼式"
  NOR_fighter_equipment_0_short: "隼式"
  NOR_nav_bomber_equipment_1: "M.F. 11"
  NOR_nav_bomber_equipment_1_short: "M.F. 11"
  NOR_tac_bomber_equipment_0: "謝勒-福克 C.V"
  NOR_tac_bomber_equipment_0_short: "Kj.-F. C.V"
- #Hungary
  HUN_heavy_fighter_equipment_1: "RMI-3 X/V"
  HUN_heavy_fighter_equipment_1_short: "RMI-3 X/V"
  HUN_heavy_fighter_equipment_2: "DRR 201C"
@@ -1371,14 +1344,12 @@
  HUN_tac_bomber_equipment_2_short: "RMI-13"
  HUN_tac_bomber_equipment_3: "RMI-16 Z/H"
  HUN_tac_bomber_equipment_3_short: "RMI-16"
- #British Raj
  RAJ_fighter_equipment_0: "霍克 雄鹿"
  RAJ_fighter_equipment_0_short: "雄鹿"
  RAJ_fighter_equipment_1: "霍克 魔鬼"
  RAJ_fighter_equipment_1_short: "魔鬼"
  RAJ_cv_fighter_equipment_0: "霍克 魚鷹"
  RAJ_cv_fighter_equipment_0_short: "魚鷹"
- #Spain
  SPR_fighter_equipment_0: "西航 HA-900"
  SPR_fighter_equipment_0_short: "HA-900"
  SPR_fighter_equipment_1: "西航 HA-1000"
@@ -1419,7 +1390,6 @@
  SPR_tac_bomber_equipment_2_short: "CASA 3.318"
  SPR_tac_bomber_equipment_3: "西班牙航空製造 4.181"
  SPR_tac_bomber_equipment_3_short: "CASA 4.181"
- #Sweden
  SWE_CAS_equipment_1: "薩博-諾斯羅普 A-17 8A-1"
  SWE_CAS_equipment_1_short: "薩博 A-17 8A-1"
  SWE_CAS_equipment_2: "薩博 B17"
@@ -1448,12 +1418,10 @@
  SWE_fighter_equipment_2_short: "J 22A"
  SWE_fighter_equipment_3: "薩博 J21"
  SWE_fighter_equipment_3_short: "薩博 J21"
- #switzerland
  SWI_fighter_equipment_0: "德瓦蒂納 D.27"
  SWI_fighter_equipment_0_short: "D.27"
  SWI_tac_bomber_equipment_0: "K+W 圖恩-福克 C.V.-E"
  SWI_tac_bomber_equipment_0_short: "K+W C.V.-E"
- #Turkish planes, all fictional, licence, or fictional licence builds
  TUR_heavy_fighter_equipment_1: "TamTAS 蜜蜂"
  TUR_heavy_fighter_equipment_1_short: "TamTAS 蜜蜂"
  TUR_heavy_fighter_equipment_2: "TamTAS 黃蜂"
@@ -1508,7 +1476,6 @@
  TUR_jet_tac_bomber_equipment_2_short: "MKEK-10"
  TUR_jet_strat_bomber_equipment_1: "MKEK-0 起源"
  TUR_jet_strat_bomber_equipment_1_short: "MKEK-0"
- #Greek planes
  GRE_heavy_fighter_equipment_1: "EAF 紐波爾 夜鷹"
  GRE_heavy_fighter_equipment_1_short: "EAF 夜鷹"
  GRE_heavy_fighter_equipment_2: "EAF 布倫海姆 比斯利"
@@ -1553,7 +1520,6 @@
  GRE_scout_plane_equipment_1_short: "KEA 飛燕"
  GRE_scout_plane_equipment_2: "EAF 泰勒 奧斯特"
  GRE_scout_plane_equipment_2_short: "AOP Mk III型"
- #chinese planes
  CHI_fighter_equipment_0: "廣西航空學校修理廠 廣西三號"
  CHI_fighter_equipment_0_short: "廣西三號"
  CHI_fighter_equipment_1: "中杭廠 隼式"
@@ -1834,7 +1800,6 @@
  PRC_heavy_fighter_equipment_2_short: "JH-2"
  PRC_heavy_fighter_equipment_3: "JH-3"
  PRC_heavy_fighter_equipment_3_short: "JH-3"
- #yugoslavian planes
  YUG_fighter_equipment_0: "阿維亞-伊卡魯斯 BH-33"
  YUG_fighter_equipment_0_short: "BH-33"
  YUG_fighter_equipment_1: "伊卡魯斯 IK-2"
@@ -1942,8 +1907,6 @@
  supersonic_fighter1: "超音速戰鬥機"
  supersonic_fighter_equipment_1: "$supersonic_fighter1$"
  explosive_ammo: "$mega_gun_emplacement$"
- #Indonesia / Dutch East Indies
- #Small Airframe (Fighter)
  INS_fighter_equipment_0: "福克 D.XVII"
  INS_fighter_equipment_0_short: "福克 D.XVII"
  INS_fighter_equipment_1: "福克 D.XXI"
@@ -1954,7 +1917,6 @@
  INS_fighter_equipment_3_short: "福克 D.XXX"
  INS_fighter_equipment_4: "洛克希德 P-80 流星"
  INS_fighter_equipment_4_short: "P-80"
- #Medium Airframe (Heavy Fighter)
  INS_heavy_fighter_equipment_1: "福克G.I伊斯帕諾"
  INS_heavy_fighter_equipment_1_short: "G.I伊斯帕諾"
  INS_heavy_fighter_equipment_2: "福克 G.I 水星"
@@ -1963,7 +1925,6 @@
  INS_heavy_fighter_equipment_3_short: "G.I. 黃蜂"
  INS_heavy_fighter_equipment_4: "P82 雙野馬"
  INS_heavy_fighter_equipment_4_short: "P-82"
- #Small Airframe (CAS)
  INS_CAS_equipment_0: "福克 C.X"
  INS_CAS_equipment_0_short: "福克 C.X"
  INS_CAS_equipment_1: "諾思羅普 A-17"
@@ -1974,7 +1935,6 @@
  INS_CAS_equipment_3_short: "A-26 入侵者"
  INS_CAS_equipment_4: "德哈維蘭 吸血鬼"
  INS_CAS_equipment_4_short: "吸血鬼"
- #Medium Airframe (Tactical Bomber)
  INS_tac_bomber_equipment_0: "馬丁 B-10 WH-1"
  INS_tac_bomber_equipment_0_short: "B-10 WH-1"
  INS_tac_bomber_equipment_1: "福克 T.V"
@@ -1983,7 +1943,6 @@
  INS_tac_bomber_equipment_2_short: "福克 T.IX"
  INS_tac_bomber_equipment_3: "B-25 米切爾"
  INS_tac_bomber_equipment_3_short: "B-25 米切爾"
- #Large Airframe (Strategic Bomber)
  INS_strat_bomber_equipment_0: "福克 F.XVIII"
  INS_strat_bomber_equipment_0_short: "福克 F.XVIII"
  INS_strat_bomber_equipment_1: "波音 B-17 飛行堡壘"
@@ -1992,7 +1951,6 @@
  INS_strat_bomber_equipment_2_short: "B-24 解放者"
  INS_strat_bomber_equipment_3: "波音 B-29 超級堡壘"
  INS_strat_bomber_equipment_3_short: "B-29 超級堡壘"
- #Small Airframe (Naval Bomber)
  INS_nav_bomber_equipment_0: "福克 T.IV"
  INS_nav_bomber_equipment_0_short: "福克 T.IV"
  INS_nav_bomber_equipment_1: "聯合 PBY 卡塔琳娜"
@@ -2001,20 +1959,16 @@
  INS_nav_bomber_equipment_2_short: "福克 T.VIII"
  INS_nav_bomber_equipment_3: "聯合 PB4Y-2 私掠者"
  INS_nav_bomber_equipment_3_short: "PB4Y-2"
- #Scout Plane
  INS_scout_plane_equipment_0: "福克 C.XI"
  INS_scout_plane_equipment_0_short: "福克 C.XI"
  INS_scout_plane_equipment_1: "福克 S.IX"
  INS_scout_plane_equipment_1_short: "福克 S.IX"
  INS_scout_plane_equipment_2: "道尼爾 Do 24"
  INS_scout_plane_equipment_2_short: "道尼爾 Do 24"
- #Transport
  INS_transport_plane_equipment_1: "洛克希德 12型 小厄勒克特拉"
  INS_transport_plane_equipment_1_short: "小伊萊克特拉"
  INS_transport_plane_equipment_2: "洛克希德 18型 北極星"
  INS_transport_plane_equipment_2_short: "北極星"
- #Siam / Thailand
- #Small Airframe (Fighter)
  SIA_fighter_equipment_0: "沃特 V-93S 海盜"
  SIA_fighter_equipment_0_short: "V-93S 海盜"
  SIA_fighter_equipment_1: "柯蒂斯 霍克III型"
@@ -2023,33 +1977,28 @@
  SIA_fighter_equipment_2_short: "Ki-55"
  SIA_fighter_equipment_3: "中島 Ki-43"
  SIA_fighter_equipment_3_short: "Ki-43"
- #Medium Airframe (Heavy Fighter)
  SIA_heavy_fighter_equipment_1: "川崎 Ki-38"
  SIA_heavy_fighter_equipment_1_short: "Ki-38"
  SIA_heavy_fighter_equipment_2: "川崎 Ki-45"
  SIA_heavy_fighter_equipment_2_short: "Ki-45"
  SIA_heavy_fighter_equipment_3: "川崎 Ki-102"
  SIA_heavy_fighter_equipment_3_short: "Ki-102"
- #Small Airframe (CAS)
  SIA_CAS_equipment_1: "三菱 Ki-30"
  SIA_CAS_equipment_1_short: "Ki-30"
  SIA_CAS_equipment_2: "三菱 Ki-51"
  SIA_CAS_equipment_2_short: "Ki-51"
  SIA_CAS_equipment_3: "川崎 Ki-66"
  SIA_CAS_equipment_3_short: "Ki-66"
- #Medium Airframe (Tactical Bomber)
  SIA_tac_bomber_equipment_1: "馬丁 B-10"
  SIA_tac_bomber_equipment_1_short: "馬丁 B-10"
  SIA_tac_bomber_equipment_2: "三菱 Ki-21"
  SIA_tac_bomber_equipment_2_short: "Ki-21"
- #Large Airframe (Strategic Bomber)
  SIA_strat_bomber_equipment_1: "波音 B-17 飛行堡壘"
  SIA_strat_bomber_equipment_1_short: "B-17 飛行堡壘"
  SIA_strat_bomber_equipment_2: "中島 Ki-49"
  SIA_strat_bomber_equipment_2_short: "Ki-49"
  SIA_strat_bomber_equipment_3: "中島 G8N"
  SIA_strat_bomber_equipment_3_short: "G8N"
- #Small Airframe (Naval Bomber)
  SIA_nav_bomber_equipment_1: "道格拉斯 TBD 蹂躪者"
  SIA_nav_bomber_equipment_1_short: "TBD 蹂躪者"
  SIA_nav_bomber_equipment_2: "三菱 G4M"

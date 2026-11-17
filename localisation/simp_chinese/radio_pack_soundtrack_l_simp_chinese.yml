@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
- #SHOULD NOT BE TRANSLATED FROM ENGLISH
- #Allied Radio Channel
  allies_justanotherday: "Just Another Day（尋常往日）"
  allies_longingfortomorrow: "Longing for Tomorrow（憧憬明天）"
  allies_meetingwithcigars: "Meeting With Cigars（雪茄相敬談笑間）"
@@ -9,7 +7,6 @@
  allies_thenightbefore: "The Night Before（子夜時分）"
  allies_thethoughtofyou: "The Thought Of You（君之思念）"
  allies_verylastofgoodbyes: "Very last of Goodbyes（終末永別）"
- #Axis Radio Channel
  axis_enemyshores: "Enemy Shores（敵之濱岸）"
  axis_forthereich: "For The Reich（為了父國）"
  axis_meetthegeneral: "Meeting the General（謁見將軍）"
@@ -20,7 +17,6 @@
  axis_shipsatsea: "Ships At Sea（大洋艦隊）"
  axis_sightoftheenemy: "Sight Of The Enemy（敵之端倪）"
  axis_whenwecomehomeagain: "When We Come Home Again（還鄉之時）"
- #Comintern Radio Channel
  comintern_countrysidestories: "Countryside Stories（鄉間往事）"
  comintern_leavingtheharbor: "Leaving The Harbor（離港起航）"
  comintern_marchfromredsquare: "March From Red Square（受閱紅場）"

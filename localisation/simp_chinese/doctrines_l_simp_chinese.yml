@@ -309,7 +309,6 @@
  defensive_postures_developed_trench_networking: "支撐點網絡"
  defensive_postures_field_emplacements: "交叉火力網"
  defensive_postures_field_construction_training: "步兵工兵訓練"
- #NAVAL DOCTRINES
  GRAND_DOCTRINE_FLEET_IN_BEING: "存在艦隊"
  GRAND_DOCTRINE_FLEET_IN_BEING_DESC: "鉅艦大炮俱樂部——秉持傳統，專注艦炮與重甲，以鋼鐵風暴壓倒併吞沒敵艦。"
  GRAND_DOCTRINE_CONVOY_RAIDING: "貿易封鎖"
@@ -502,7 +501,6 @@
  long_range_submarines_support_the_surface: "主力艦隊支援戰術"
  long_range_submarines_stowage_efficiency: "潛艇積載效率"
  long_range_submarines_deep_water_supremacy: "深海優勢"
- #DOCTRINE UI
  SET_GRAND_DOCTRINE_EFFECT: "啟用$NAME|H$主要學說"
  SET_SUB_DOCTRINE_EFFECT: "啟用$NAME|H$次要學說"
  ADD_MASTERY_EFFECT: "增加$AMOUNT|H0$£doctrine_mastery §H精通度§!"
@@ -557,7 +555,6 @@
  naval_doctrine_cost_factor: "海軍學說花費"
  DOCTRINE_TEMPORARY_COST_REDUCTION: "$NAME|H$：$VALUE|%-0$（剩餘$USES$次可用）"
  DOCTRINE_REWARD_MASTERY_REQUIREMENT: "於£doctrine_mastery $VALUE|H0$精通度解鎖"
- #### AIR DOCTRINES ####
  GRAND_DOCTRINE_STRATEGIC_DESTRUCTION: "戰略破壞"
  GRAND_DOCTRINE_STRATEGIC_DESTRUCTION_DESC: "大規模轟炸敵方腹地深處的工廠、煉油廠和交通基礎設施，從源頭切斷其戰爭潛力。"
  GRAND_DOCTRINE_BATTLEFIELD_SUPPORT: "戰場支援"
@@ -843,7 +840,6 @@
  rangers_2_reward_3: "叢林游擊戰士"
  rangers_2_reward_4: "遊騎兵訓練旅"
  rangers_2_reward_5: "建立遊騎兵學校"
- ### DEFAULT FOCUS TREE TOOLTIP EFFECTS ###
  marine_subdoctrines_default_add_mastery_bonus_effect_tooltip: "為§Y$SUBDOCTRINE_MARINES_1$§!和§Y$SUBDOCTRINE_MARINES_2$§!次要學說添加§G+10.00%§!£doctrine_mastery §Y精通度§!加成，持續§Y240§!天"
  mountaineer_subdoctrines_default_add_mastery_bonus_effect_tooltip: "為§Y$SUBDOCTRINE_MOUNTAINEERS_1$§!和§Y$SUBDOCTRINE_MOUNTAINEERS_2$§!次要學說添加§G+10.00%§!£doctrine_mastery §Y精通度§!加成，持續§Y240§!天"
  paratrooper_subdoctrines_default_add_mastery_bonus_effect_tooltip: "為§Y$SUBDOCTRINE_PARATROOPERS_1$§!和§Y$SUBDOCTRINE_PARATROOPERS_2$§!次要學說添加§G+10.00%§!£doctrine_mastery §Y精通度§!加成，持續§Y240§!天"

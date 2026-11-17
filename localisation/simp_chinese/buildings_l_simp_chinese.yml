@@ -43,7 +43,6 @@
  anti_air_building_desc: "此建築可為所屬地區面臨轟炸機來襲時提供保護，並對敵軍飛行器發動打擊。"
  synthetic_refinery: "合成煉油廠"
  synthetic_refinery_plural: "合成煉油廠"
- #synthetic_refinery_desc: "This building provides the state with +1 £resources_strip|3 and +2 £resources_strip|1."
  synthetic_refinery_desc: "此建築可為所屬地區提供"
  synthetic_refinery_amount: "$VALUE|Y0=$"
  synthetic_refinery_resource: "£resources_strip|$FRAME$"

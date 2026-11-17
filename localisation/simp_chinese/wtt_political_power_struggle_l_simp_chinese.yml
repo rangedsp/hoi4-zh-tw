@@ -97,11 +97,6 @@
  scope_SHX_GetNameDef: "[scope_SHX.GetNameDefCap]"
  scope_XSM_GetNameDef: "[scope_XSM.GetNameDefCap]"
  scope_SIK_GetNameDef: "[scope_SIK.GetNameDefCap]"
- ##  #  #  ## ###  ##  #   #     ###   ##  ### #  # ###     ###  ##   ##  #   ### ### ###   ##
- ## #  # #    #  #  # ## ##     #  # #  #  #  ## #  #       #  #  # #  # #    #   #  #  # #
- ##  #  #   #  #  # # # #     ###  #  #  #  # ##  #       #  #  # #  # #    #   #  ###   #
- ## #  #   #  #  #  # #   #     #    #  #  #  #  #  #       #  #  # #  # #    #   #  #      #
- ##   ##  ##   #   ##  #   #     #     ##  ### #  #  #       #   ##   ##  ###  #  ### #    ##
  loses_political_support_points_15: "失去§R15§!§H政治支持點§!。\n"
  has_politcal_support_points_30: "需要至少§G30§!§H政治支持點§!，我們現擁有[?Root.total_political_support_points|+0]點。"
  has_politcal_support_points_17: "需要至少§G17§!§H政治支持點§!，我們現擁有[?Root.total_political_support_points|+0]點。"
@@ -147,12 +142,6 @@
  WTT_seek_support_from_warlord_chance: "[From.GetNameDefCap]有[?From.support_chance_@ROOT|+%0]的可能性支持我們。[Root.GetWarlordRulingPartyChance][Root.GetWarlordOpinionSupportChance]\n"
  WTT_warlord_chance_ruling_party: "\n相同的執政黨：[?Root.chance_ruling_party|+%0]"
  WTT_warlord_chance_opinion: "\n他們對我們的評價：[?Root.chance_opinion_of_us|+%0]"
- ### #   # ### #  # ###  ##
- ##   # #   ## #  #  #
- ##   # #  ##  # ##  #   #
- ## #  #   #  #  #    #
- ###   #   ### #  #  #  ##
- #Building local support in a state
  wtt_political_organisation.1.t: "來自[state.GetName]的報告"
  wtt_political_organisation.1.desc: "黨在[state.GetName]本地的負責人發來報告稱，當地多數的人民仍然支持我方，經過廣泛的工作後，我方在此地的支持率甚至還有所增加。"
  wtt_political_organisation.1.a: "人民自會明白誰才是勝利者。"
@@ -173,7 +162,6 @@
  wtt_political_organisation.6.desc_not_majority: "[state.GetName]本地的報紙報道稱[From.GetLeader]日前的一系列演說已經吸引了史無前例的聽眾聚集。看起來現在支持[From.GetNameDef]的人數正在不斷擴大，但即便如此，至少目前來說，當地支持[majority_country.GetLeader]的人民仍然佔據主體。"
  wtt_political_organisation.6.desc_has_majority: "[state.GetName]方面已傳來了壞消息，由於日前一系列由[From.GetLeader]發起的演說吸引了大量的聚眾，黨在本地的負責人已身陷囫圇，他們被憤怒的人民不斷質詢有關[state.GetName]所面臨的問題。暫時來說，我方在此地的地位尚且牢固，但情況或許隨時有變。"
  wtt_political_organisation.6.a: "我們得密切關注局勢。"
- #Current leader being mean and removing local support in a state
  wtt_political_organisation.7.t: "來自[state.GetName]的報告"
  wtt_political_organisation.7.desc: "隨著遊行的參與者突遭蒙面暴徒的襲擊，日前在[state.GetName]的遊行示威已經演變成了一場暴力事件。這起暴力事件掃除了敵對勢力的政治力量。可說是達到了打擊對方聲望的目標。\n\n我們雖然沒有直接參與其中，但所要傳達的信息應該已經是十分清楚明白了。"
  wtt_political_organisation.7.a: "這應該能告誡他們少管閒事。"
@@ -194,7 +182,6 @@
  wtt_political_organisation.12.desc_not_majority: "[state.GetName]目前正在經歷著史無前例的暴力政治衝突洗禮，[From.GetLeader]和[majority_country.GetLeader]兩方的支持者正整日沒完沒了地在街頭械鬥互毆。從目前來說，[majority_country.GetLeader]似乎仍然受到當地大部分民眾的支持。"
  wtt_political_organisation.12.desc_has_majority: "[From.GetLeader]的特工日前已經在[state.GetName]掀起了大規模的政治恐怖運動，根據呈遞的報告稱，當地支持我方的民眾正遭到公開騷擾且被誹謗為叛徒，我方黨派的代表被暴打，部分黨派公所還遭到縱火破壞。但即便如此，當地的大部分民眾仍然拒絕向白色恐怖屈服，與我們堅定地站在一起。"
  wtt_political_organisation.12.a: "我們終將獲勝。"
- #Warlord support
  wtt_political_warlord_support.1.t: "[From.GetNameDefCap]謀求我方支持"
  wtt_political_warlord_support.1.desc: "一位[asking_for_support.GetLeader]的代表日前造訪我方，尋求在我等雙方間構建政治上的同盟關係。[asking_for_support.GetLeader]承諾，在其贏得目前的政權鬥爭後將決不會干涉我方的內政。鑑於其他涉事的黨派將毫無疑問視此為背信棄義之舉，因此，在此衝突中參與其中或許將會造成深遠的影響。"
  wtt_political_warlord_support.1.a: "我們將支持他們。"
@@ -238,11 +225,6 @@
  wtt_take_national_leadership.3.t: "[From.GetLeader]拒絕下野"
  wtt_take_national_leadership.3.desc: "儘管絕大多數民眾都支持[new_leader.GetLeader]，但[From.GetLeader]還是拒不移交國民政府主席的職位。隨著聲稱自己決不會屈從於敲詐勒索或向竊國的逆賊投降，[From.GetLeader]已經表明了自己決不主動下野的態度。"
  wtt_take_national_leadership.3.a: "那我們就武裝奪權！"
- ###  ###  ##  ###  ## ###  ##  #  #     #  #  ##  #   # ###  ##
- ## #   #  #  #  #    #  #  # ## #     ## # #  # ## ## #   #
- ## ##  #     #   #   #  #  # # ##     # ## #### # # # ##   #
- ## #   #  #  #    #  #  #  # #  #     #  # #  # #   # #     #
- ###  ###  ##  ### ##  ###  ##  #  #     #  # #  # #   # ### ##
  WTT_national_leadership: "奪取國家領導權"
  WTT_national_leadership_desc: "§W所有中國勢力都可以選取該決議\n[Root.GetHowToUnlockStruggle]§!"
  WTT_unlock_struggle_comchina: "完成§H聯合政府§!國策以開始參與權力鬥爭。"

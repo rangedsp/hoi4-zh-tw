@@ -3408,8 +3408,6 @@
  AAT_germany.3.t: "[FROM.GetName]接受我方提案"
  AAT_germany.3.desc: "[FROM.GetNameDefCap]接受了我們的協議，這無疑將使我們雙方受益。希望這一有利的安排之後還能帶來更多合作。"
  AAT_germany.3.a: "很好"
- #This loc is now used in a different German event for trade deals:
  AAT_germany.1.desc: "[FROM.GetNameDefCap]聯繫我們，提出了一項他們聲稱將有利於兩國經濟的協議。他們的工業需要我們的自然資源，而我們也需要他們的投資來擴大我們的工業。這提議利潤豐厚，但這會是魔鬼的交易嗎？"
- #This loc string is used for when Germany pressures Sweden to give up resource rights:
  AAT_germany.10.desc: "由於[FROM.GetNameDef]及其走狗最近佔領了[144.GetName]，[GER.GetLeader]要求我們與他們進行更多的資源交易，為他們的戰爭機器提供燃料。這項交易並非完全單方面的，而且拒絕它可能會使我們被拖入戰爭中……"
  wtt_xian_incident_warning_8: "§R[CHI.GetNameDef]可能會因此選擇開戰！§!"

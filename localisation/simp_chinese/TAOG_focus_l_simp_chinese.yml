@@ -21,12 +21,10 @@
  INS_big_militia_presence_tt: "宣佈獨立後將由我方民兵控制。"
  INS_prepare_raiding_bases: "準備突襲基地"
  INS_prepare_raiding_bases_desc: "我們將利用我們的間諜網絡，在整個群島秘密建立掩體，確保革命開始時我們已做好打擊準備。"
- # <Joint Tree - Central Milestones>
  INSHOL_dutch_east_indies: "荷屬東印度"
  INSHOL_dutch_east_indies_desc: "該殖民地建立於近500年前，此後經歷了多種形態。世界變化迅速，我們現在的行動將決定荷蘭與印度尼西亞關係的長遠未來。"
  INSHOL_the_war_in_europe: "歐洲戰火"
  INSHOL_the_war_in_europe_desc: "歐洲衝突迅速升級，荷蘭現已捲入戰爭。我們不能再依賴他們保護，必須堅守陣地，否則有被外國勢力征服的風險。"
- # <Joint Tree - Military Equipment Contracts>
  INSHOL_military_equipment_contracts: "軍事裝備合同"
  INSHOL_military_equipment_contracts_desc: "東印度群島是擁有數千萬公民的廣闊群島。我們遠未具備自衛所需的工業產能。然而，我們有足夠的資源來確保與全世界的貿易。通過與世界各地的民主國家簽訂合同，我們的問題可以得到解決。"
  INSHOL_hawk_75a7: "霍克75A-7"
@@ -37,7 +35,6 @@
  INSHOL_purchase_british_artillery_desc: "我們可以將火炮製造外包給英國，從而優先生產其他裝備。"
  INSHOL_produce_own_goods: "生產自有裝備"
  INSHOL_produce_own_goods_desc: "雖然我們可以達成許多有利可圖的貿易協議，但我們不能忘記自己的生產線和軍事工業公司。我們應當補貼這些公司，以減少對外國進口的依賴。"
- # <Joint Tree - East Indies Investments>
  INSHOL_east_indies_investments: "東印度投資"
  INSHOL_east_indies_investments_desc: "好的宗主國應當投資其殖民地的發展。投資東印度群島的經濟發展符合我們的最佳利益，也對殖民地公民有益。"
  INSHOL_east_indies_student_exchange: "東印度學生交換計劃"
@@ -55,7 +52,7 @@
  INSHOL_overallwagen: "多用途戰車"
  INSHOL_overallwagen_desc: "坦克未必是東印度陸軍的最佳解決方案。我們缺乏生產坦克所需的工業實力，且惡劣的地形使其應用受限。我們可以投資為印度尼西亞建造裝甲車以填補這一空白。"
  INSHOL_indonesian_cheap_labor: "印度尼西亞廉價勞工"
- INSHOL_indonesian_cheap_labor_desc: "$CONGO_cheap_labor_desc$" #LL: stealing this to save time, hope you don't mind!
+ INSHOL_indonesian_cheap_labor_desc: "$CONGO_cheap_labor_desc$"
  INSHOL_eastern_development_fund: "東部群島發展基金"
  INSHOL_eastern_development_fund_desc: "我們過於注重對爪哇和蘇門答臘的投資，而忽略了殖民地的大部分土地。我們必須致力於開發東部的基礎設施，為未來的工業化奠定基礎。"
  INSHOL_increase_rubber_taxes: "提高橡膠稅"
@@ -154,7 +151,6 @@
  INSHOL_princely_authority_desc: "一個顧問委員會各得其宜誠然是好事，但那些將自己的名號借予此國創建的蘇丹們，或許還可以借出更多。對於想讓其中某一位的地位超越其餘眾人之上的人，議會將不會橫加阻攔。這些古老的宮廷早已等了好久來回應這個問題。"
  INSHOL_encourage_further_investment: "鼓勵進一步投資"
  INSHOL_encourage_further_investment_desc: "在人民議會商定的條件，目前已暫時解決了政治問題，荷蘭資本也已注意到了這一點。關稅將得到減免，保障將得到延長，阿姆斯特丹與鹿特丹的商會將得到保證：本群島依然開放正常的商貿往來。在舊制度下有利可圖的，在新制度下亦將如此。"
- # <Joint Tree - ABDACOM>
  INSHOL_east_indies_artillery: "東印度群島火炮製造"
  INSHOL_east_indies_artillery_desc: "在爪哇開設火炮製造設施，將減少我軍在軍事行動上對外國貿易的依賴。"
  INSHOL_recall_gerardus_johannes_berenschot: "召回貝倫斯霍特將軍"
@@ -163,7 +159,6 @@
  INSHOL_east_indies_cruiser_manufacturing_desc: "自行製造巡洋艦，而非直接向荷蘭訂購，是組建真正海軍的第一步。考慮到日本的威脅，這一努力十分必要。"
  INSHOL_transfer_of_conrad_helfrich: "將康拉德·赫爾弗裡赫調往東印度群島"
  INSHOL_transfer_of_conrad_helfrich_desc: "直接將海軍將領康拉德·赫爾弗裡赫調往東印度群島，將極大改善該地區的海軍作戰能力。"
- # <Joint Tree - Naval Program>
  INSHOL_naval_program: "荷蘭-印度尼西亞海軍計劃"
  INSHOL_naval_program_desc: "東印度海軍遠落後於其他國家的海軍，甚至落後於某些殖民地海軍。為了確保快速發展，各方最好協助這支新海軍的建設。"
  INSHOL_naval_program_transfer_25_tt: "將我方§Y25%§!的海軍力量移交給[INS.GetNameDef]。"
@@ -177,16 +172,12 @@
  INSHOL_request_naval_control_desc: "[HOL.GetNameDefCap]已經淪陷，無法運作一支完整海軍。我們應在戰爭剩餘時間內接管其海軍。"
  INSHOL_naval_secondchance: "東印度海軍方案"
  INSHOL_naval_secondchance_desc: "儘管[HOL.GetNameDef]拒絕移交海軍控制權，但我們若不想被佔領，仍須保衛太平洋。雖然效果不如他們同意我方提議那樣理想，但我們會找到一個足夠好的替代方案。"
- # <Joint Tree - Netherlands in Exile>
  INSHOL_netherlands_in_exile: "流亡的荷蘭"
  INSHOL_netherlands_in_exile_desc: "王國的悲慘淪陷已成現實。我們不能陷入失敗主義。必須接受已發生的事，專注於我們還能挽救的部分。"
- # INSHOL_relocate_prime_minister: "Relocate the Prime Minister to Java"
  INSHOL_relocate_our_generals: "將陸軍調往爪哇"
  INSHOL_relocate_our_generals_desc: "必須搶在一切太晚之前，將餘下的流亡將領、指揮官及堅持抵抗的士兵，以最高優先級轉移到[1058.GetName]。"
- #INSHOL_relocate_our_soldiers: "Transfer Holdout Soldiers to Java"
  INSHOL_netherlands_indonesia_union: "荷蘭-印度尼西亞聯邦"
  INSHOL_netherlands_indonesia_union_desc: "對許多人而言，[HOL.GetNameDef]與[INS.GetNameDef]組成平等聯盟國家的想法很可笑，但鑑於我們當前的危機，這似乎是最大化維持主權幾率唯一途徑。"
- # <Sukarno Shared Branch - Resistance Buildup>
  INS_underground_revolution: "地下革命"
  INS_underground_revolution_desc: "我們將開始秘密策劃革命，逐步擴大成員數量和民兵活動，直到準備就緒發起打擊。"
  INS_infiltrate_the_media: "滲透媒體"
@@ -215,7 +206,6 @@
  INS_KNIL_Informant_Network_name: "荷蘭皇家東印度陸軍情報網絡"
  INS_sleeper_informant_network_desc: "我們將建立一個遍佈荷蘭皇家東印度陸軍行政機構的情報網絡，使我們能提前獲得敵人的計劃。"
  INS_sleeper_informant_network_tt: "§R當宣佈獨立時：§!\n"
- # <Sukarno Shared Branch - Peoples Security Army>
  INS_the_peoples_security_army: "人民安全軍"
  INS_the_peoples_security_army_desc: "我們的成員（主要是年輕的印度尼西亞人）正變得不耐煩，渴望為獨立事業貢獻力量並戰鬥。我們應建立革命武裝力量，並開始訓練未來的士兵。"
  INS_commander_sudirman: "蘇迪爾曼之軍"
@@ -249,10 +239,8 @@
  INS_add_militia_cap_3_tt: "§Y自由戰士§!師編制上限增加§Y3§!。\n"
  INS_add_3_militia_unit_tt: "創建三個可用於§Y突襲§!的§Y自由戰士§!單位，以增加荷蘭各地區的§G民兵存在§!。"
  INS_add_fully_trained_militia_unit_tt: "創建一個已訓練完成的§Y自由戰士§!單位。\n"
- # <Sukarno Shared Branch - Expand Resistance Membership>
  INS_expand_resistance_membership: "擴招抵抗組織成員"
  INS_expand_resistance_membership_desc: "將整個運動集中於一個基地必然導致失敗。我們將徵召成員組成民兵小組，作為特使派往各地，以提升我們在不同地區的聲望和控制力。"
- # <Central Independence Branch - Militias>
  INS_deploy_the_kris: "蘇拉威西印尼人民服務組織"
  INS_deploy_the_kris_desc: "印尼蘇拉威西人民奉獻力量，印尼文簡稱KRIS，是一個活躍的民兵團體，構成了蘇拉威西和萬鴉老地區民兵的主要力量。我們應招募他們正式加入人民安全軍並肩作戰。"
  INS_assist_the_pemuda: "協助青年軍"
@@ -265,7 +253,6 @@
  INS_recognize_moestopos_batallion_desc: "一位名叫穆斯托波的革命者在泗水自封為“代理國防部長”，並掌控著泗水的民兵力量。他的努力值得正式認可，我們應正式晉升他為人民安全軍少將。"
  INS_darul_islam_focus: "伊斯蘭之家"
  INS_darul_islam_focus_desc: "卡爾托蘇維爾佐的伊斯蘭軍在西爪哇的山丘中已經證明了自己，我們不能讓這樣的戰士游離於我們的隊伍之外。讓他的非正規軍與我們的士兵並肩作戰，而他本人則應獲得應得的軍銜。信徒們很快便會在共和國境內提出他們的訴求。"
- # <Central Independence Branch - Navy>
  INS_just_a_fisherman: "偽裝漁民"
  INS_just_a_fisherman_desc: "在沒有海軍的情況下進行群島戰爭十分艱難，我們無法長期維持。我們將嘗試一個可能天真的策略：派遣民兵偽裝成漁民，乘坐漁船潛入荷蘭控制的港口。"
  INS_a_cheap_navy: "廉價海軍"
@@ -284,7 +271,6 @@
  INS_admiral_mas_pardi_desc: "任何一支優秀的海軍都需要一位海軍上將指揮。馬斯·帕爾迪是顯而易見的人選。"
  INS_akademi_angkatan_laut: "建設海軍學院"
  INS_akademi_angkatan_laut_desc: "我們將建立一所擁有海軍研究設施的海軍學院，同時培養更多成為工程師和海軍將領的公民。"
- # <Central Independence Branch - Militia Logistics>
  INS_pki_militia_tt: "陳馬六甲擁有一支非常強大的民兵力量。然而，他們不僅為印度尼西亞的意志而戰，也為§R共產主義§!和蘇聯的意志而戰。§R最終，他們會以暴力手段反對任何非共產主義政府。§!"
  INS_increase_laskar_funding_tt: "§W每成功滿足一個民兵派系的要求，獲得§!1§Y個軍用§!工廠（最多§G6§!個）"
  INS_subsidize_laskar_armament: "補貼民兵武裝"
@@ -301,7 +287,6 @@
  INS_political_stabilization_desc: "為了結束印度尼西亞眾多政治派系之間的內鬥，我們必須向其他派系做出讓步，以便能專注於正在進行的衝突。我們將建立一個由總統監督的半民主委員會，作為印度尼西亞的議會機構。"
  INS_nationalize: "國有化！"
  INS_nationalize_desc: "我們新獨立的共和國仍受荷蘭統治殘餘的困擾。軍工企業、石油公司、農業公司以及其他許多企業，都直接或間接地與荷蘭掛鉤。為使我們的共和國真正獨立，我們必須建立自己的國家機構，從這些公司手中接管印度尼西亞的資產。"
- # <Vice Presidential Edict - Intro>
  INS_restore_order: "恢復秩序"
  INS_restore_order_desc: "我國局勢日益動盪，若不及時應對，內戰將不可避免。我們必須立即促成全國委員會、總統與民兵領袖之間的談判，以尋求解決方案。"
  INS_vice_presidential_edict: "簽署第十號副總統法令"
@@ -316,7 +301,6 @@
  INS_land_reform_desc: "在我們宣佈獨立之前，荷蘭直接擁有大量土地。我們應將這些土地低價分配給任何能善加利用的印尼人，以鼓勵經濟增長。"
  INS_dominion_of_atjeh: "亞齊自治領"
  INS_dominion_of_atjeh_desc: "亞齊的分離主義運動規模龐大且不斷壯大。沒有必要激化局勢，我們應通過談判達成妥協，讓亞齊在保持大部分自治的同時，仍是印度尼西亞的一部分。"
- # <Vice Presidential Edict - Presidential Balance>
  INS_dissolve_national_party: "解散民族黨"
  INS_dissolve_national_party_desc: "混合體制是為避免混亂而做出的必要妥協。我們不應允許總統以不民主的方式掌握如此大的權力。總統必須被議會罷免，否則我們將永遠無法實現民主。"
  INS_womens_sufferage: "婦女選舉權"
@@ -325,7 +309,6 @@
  INS_women_in_military_desc: "允許女性在軍隊服役，對於確保我們的武裝力量儘可能強大是必要的。"
  INS_fair_election: "公平選舉"
  INS_fair_election_desc: "隨著總統被罷免、革命結束，我們終於可以舉行第一次真正公平、沒有威權影響的選舉。"
- # < Hybrid Politics >
  INS_continue_hybrid_politics: "延續混合政體"
  INS_continue_hybrid_politics_desc: "混合政體是一種必要的惡。雖然最終目標是真正的民主，但印度尼西亞過於年輕和不穩定，無法將所有權力交給人民。總統和議會將繼續相互制衡，確保任何一方都不會過於強大。"
  INS_guided_economy: "指導型經濟"
@@ -342,12 +325,10 @@
  INS_rapid_mobilization_desc: "任何強大的國家都有一支強大的軍隊作為支撐。若想成為能保護自己的區域強國，就必須先大幅提高軍隊的實力。"
  INS_greater_indonesia: "成立大印度尼西亞"
  INS_greater_indonesia_desc: "努山達拉古國曾將馬來世界統一為一個實體、一個民族。既然我們已經將馬來亞從殖民暴政中解放出來，我們就應該像努山達拉先祖那樣，宣告整個馬來世界成為一個統一的國家。"
- # < State Religion >
  INS_secularism: "世俗主義"
  INS_secularism_desc: "印度尼西亞是多民族、多宗教的家園。將宗教與政治混為一談只會引發內鬥，因此我們應該禁止宗教政黨。"
  INS_integrate_sarekat_islam: "整合伊斯蘭聯盟"
  INS_integrate_sarekat_islam_desc: "大的伊斯蘭政黨擁有廣泛的民眾支持。將他們整合進政府符合我們的最大利益。"
- # <Vice Presidential Edict - Sjahrir>
  INS_sjahrirs_continued_tenure: "沙里爾連任"
  INS_sjahrirs_continued_tenure_desc: "總理沙里爾已證明自己是一位偉大的領導者，帶領我們度過了革命，改善了經濟，建立了民主。我們應該讓他連任總理。"
  INS_unity_in_diversity: "求同存異"
@@ -364,14 +345,12 @@
  INS_mixed_economy_system_desc: "印度尼西亞是一個獨特的國家，難以適配傳統的資本主義或共產主義。我們應該建立一種混合經濟體制，兼有資本主義和共產主義的元素。"
  INS_social_democracy: "社會民主主義"
  INS_social_democracy_desc: "自沙里爾的經濟政策實施以來，[INS.GetAdjective]經濟已經大幅增長。我們應該宣佈印度尼西亞是一個完全的社會民主主義國家，並基於社會民主主義原則制定未來的經濟政策。"
- # <Vice Presidential Edict - Sjarifuddin>
  INS_prime_minister_sjarifuddin: "謝里夫丁總理"
  INS_prime_minister_sjarifuddin_desc: "謝里夫丁是領導印度尼西亞的最佳候選人，他的溫和政策允許在共產主義者和社會主義者之間達成妥協。"
  INS_concessions_to_communists: "向共產主義者讓步"
  INS_concessions_to_communists_desc: "印尼共產黨在議會中擁有相當數量的席位，我們應該授予印尼共產黨領導人幾個部長職位以確保穩定。"
  INS_sjarifuddin_focus_2: "自我管理的出口經濟"
  INS_sjarifuddin_focus_2_desc: "我們剛剛獲得了獨立，因而我們必須重新審視我們的出口經濟體系，並對其加以重組，使其不再將荷蘭的利潤納入考量。雖然出口導向型經濟仍有風險，但我們可以使它比過去更可靠。"
- # <Vice Presidential Edict - Hatta>
  INS_prime_minister_hatta: "哈達總理"
  INS_prime_minister_hatta_desc: "被稱為革命宣告者的穆罕默德·哈達，曾擔任蘇加諾的副總統，並通常是兩人中更傾向民主的人。他將成為多數政黨都能妥協接受的合適總理人選。"
  INS_hatta_focus_2: "下一步"
@@ -379,7 +358,6 @@
  INS_hatta_princely_advisors: "整合土邦"
  INS_hatta_princely_advisors_desc: "通過我們共同的多元性，我們建立了團結的原則。我們的國家基於此原則建立，但革命的結束使得這一理念因缺少共同奮鬥而面臨壓力。為防止來自少數群體的怨恨和暴動，我們應設立一個額外的理事會，讓土邦的地方統治者能在國家政治中有直接發言權。"
  INS_prime_minister_tt: "印度尼西亞首次大選已經舉行"
- # < Guided Democracy >
  INS_guided_democracy: "宣佈戒嚴令"
  INS_guided_democracy_desc: "如今已十分清楚，通過組建全國委員會來分權是一個錯誤，只會導致不穩定。我們絕不能讓這種情況繼續下去，否則將面臨又一場內戰。我們必須宣佈戒嚴，暫時接管委員會，直至秩序恢復。"
  INS_centralization: "中央集權"
@@ -425,7 +403,6 @@
  INS_sukarnos_industrialization2_desc: "戰爭是國家的頭等大事，因此每個印尼人為此貢獻力量也是頭等大事。奢侈是敵人，軍工複合體必須發展壯大。"
  INS_japanese_military_lessons: "借鑑日本軍事經驗"
  INS_japanese_military_lessons_desc: "我們應該研究日本的軍事學說，並相應地調整我們自己的軍隊。"
- # < Support Tan Malaka's Coup>
  INS_support_tan_malakas_coup: "支持陳馬六甲政變"
  INS_support_tan_malakas_coup_desc: "蘇加諾宣佈了我們的獨立，但他已證明自己是一個只知折中措施和外交讓步的人。陳馬六甲和他的鬥爭統一陣線的綱領才符合人民的要求：百分之百獨立，不談判，不妥協。如果蘇加諾不能為革命全力戰鬥，那麼革命必須找到一位願意這樣做的領袖。"
  INS_minimum_program: "最低綱領"
@@ -472,7 +449,6 @@
  INS_divert_javanese_education_funding_the_east_desc: "毫無疑問，前殖民統治者只投資於爪哇和資源豐富的蘇門答臘部分地區，而讓殖民地的其餘部分自生自滅。我們可以糾正這一錯誤，從爪哇的教育預算中撥出部分資金，重新分配用於在東部興建新學校。"
  INS_eastern_universities: "東部大學"
  INS_eastern_universities_desc: "通過在東部地區建立新大學，更多公民將有機會接受高等教育，同時鼓勵學生從爪哇前往遠方求學，從而縮小爪哇與[ROOT.GetName]其他地區之間的文化隔閡。"
- # <National Revolution - Reasserting Control>
  INSHOL_revolution_ongoing_tt: "印度尼西亞革命仍在繼續"
  INSHOL_reasserting_control: "重新控制東印度群島"
  INSHOL_reasserting_control_desc: "我們不能袖手旁觀，任由這些機會主義者試圖毀掉我們數百年來的建設成果，同時摧毀我們的基礎設施、毒害年輕人的思想。我們必須採取行動！"
@@ -495,7 +471,6 @@
  INSHOL_flag_will_fly_again: "旗幟將再次飄揚"
  INSHOL_flag_will_fly_again_desc: "荷蘭的旗幟在東印度群島飄揚了數個世紀，我們絕不容許它降下。如果保住這顆王冠上的珠寶需要派遣坦克和轟炸機，那就派過去！"
  INSHOL_flag_will_fly_again_tt: "§Y革命結束後，該民族精神將被移除，規則改動將被還原。§!"
- # <National Revolution - Escalation>
  INSHOL_mass_mobilization: "大規模動員"
  INSHOL_mass_mobilization_desc: "沒有一支裝備精良的軍隊，我們無法贏得這場衝突並粉碎共和國。我們必須重新武裝東印度群島，並將民用部門的資金轉撥給荷蘭皇家東印度陸軍。"
  INSHOL_batavia_storm_operation: "風暴巴達維亞"
@@ -509,7 +484,6 @@
  INSHOL_linggadjati_agreement: "停火協議談判"
  INSHOL_linggadjati_agreement_desc: "事實證明，入侵爪哇困難重重，我們的政府也日益不穩。我們必須後撤並採取守勢，以免整個共和國覆滅。我們應當與荷蘭談判達成局部停火，從而在重回爪哇之前重組我們的部隊。"
  INSHOL_increase_esclation_placeholder_tt: "解鎖一項§Y決議§!，以談判局部停火併§Y增加佔領爪哇的時間限制§!。"
- # <National Revolution - Peace Negotiation>
  INSHOL_seek_foreign_help: "尋求外國援助"
  INSHOL_seek_foreign_help_desc: "一個尚未形成穩定經濟的新生國家，試圖戰勝一個高度工業化的殖民大國，幾乎是不可能完成的任務，這不是什麼秘密。我們應當聯繫其他支持我們事業的國家，看看他們是否願意幫助我們。"
  INSHOL_renville_agreement: "倫維爾協議"
@@ -520,7 +494,6 @@
  INSHOL_end_to_bloodshed_desc: "這場衝突持續太久了，雙方都沒有取得什麼進展，每天都有更多人喪生。沒人希望這種情況繼續下去，是時候與荷蘭領導人在談判桌上討論了。"
  INSHOL_reorganize_colonies: "重組殖民地"
  INS_we_will_need_another_tt: "由於我們已經控制了整個爪哇，因此還需再控制一個除爪哇以外的地區。"
- # Industry Branch - New
  INS_centralize_the_state: "國家集權"
  INS_centralize_the_state_desc: "從蘇門答臘到蘇拉威西，從婆羅洲到邦加，我們的發展計劃為那些曾僅被[1058.GetName]名義上管轄的領土帶來了道路、工廠和機構。這些地區不再是遙遠的省份。它們就是[INS.GetNameDefCap]。"
  INS_centralize_the_state_1_tt: "滿足前提且擁有§Y核心§!的地區："
@@ -546,7 +519,6 @@
  INS_all_in_on_rubber_desc: "橡膠是我們最強的底牌，我們打算好好利用它。每一英畝可用的種植園土地都將轉為橡膠種植，我們的出口機構也將重組，以實現比區域內任何國家都更快、更便宜的運輸。"
  INS_more_market_resources: "戰勝大蕭條"
  INS_more_market_resources_desc: "世界或許深陷經濟危機，但危機為那些敢於抓住機遇的人創造了機會。通過以競爭對手無法匹敵的價格向市場傾銷我們的商品，我們將確保當世界經濟復甦時，印尼商品已遍佈每一個貨架和倉庫。"
- # <Industry Branch - Trade Policy>
  INS_recovering_from_the_great_depression: "從大蕭條中復甦"
  INS_recovering_from_the_great_depression_desc: "大蕭條對[INS.GetNameDef]造成了毀滅性的影響。由於我國經濟以出口為主，世界各地的保護主義政策重創了我們。隨著全球貿易似乎有望重新開放，我們必須尋找新市場，並努力重建我們的舊貿易路線。"
  INS_first_come_first_serve: "先到先得"
@@ -570,7 +542,6 @@
  INS_expand_sea_routes_desc: "我國自然資源豐富，但我們的採掘業過於專業化，且缺乏開採某些稀有礦物（如鉻和鎢）所需的基礎設施。如果我們想提高軍事生產能力，就需要從其他地方進口這些礦物。為了充分利用我們不斷增長的貿易網絡，我們需要提高商船隊的運力。"
  INS_ship_contracts: "確保船舶合同"
  INS_ship_contracts_desc: "為了在戰爭期間維持我們的貿易航線，建設一支海軍是必要的。我們可以利用新建立的貿易關係來獲得海軍合同。"
- # <Industry Branch - Sumatra>
  INS_developing_sumatra: "開發蘇門答臘"
  INS_developing_sumatra_desc: "蘇門答臘是群島上資源最豐富的島嶼，但基礎設施極其落後，以至於開採的資源有很大一部分甚至無法運抵巴達維亞。交通運輸依賴於由土路和互不連通的鐵路線拼湊而成的網絡，完全不足以支持我們對這個島嶼的計劃。我們不能讓這種情況繼續下去。"
  INS_sumatra_railway: "蘇門答臘鐵路"
@@ -583,7 +554,6 @@
  INS_pontianak_to_balikpapan_desc: "在加里曼丹修建鐵路的設想已被詳細討論過，但島嶼中心惡劣且大部分未經勘探的地形讓這成為一項艱難的任務。唯一的解決方案是沿海岸修建一條U形鐵路。這不會便宜，但從長遠來看，它會收回成本。"
  INS_develop_sulawesi: "開發蘇拉威西"
  INS_develop_sulawesi_desc: "蘇拉威西位於群島的中心，戰略位置重要。我們應該修建道路、電力和通信設施，以確保它能在戰爭期間作為軍事樞紐。"
- # <Industry Branch - Bangka Project>
  INS_the_bangka_project: "邦加項目"
  INS_the_bangka_project_desc: "邦加-勿里洞島嶼雖小，但由於其鋁土礦儲量，是印度尼西亞經濟的基石。我們需要在邦加-勿裡洞修建道路、港口和鐵路，以確保我們能從這些島嶼豐富的礦產資源中獲得全部收益。"
  INS_aluminium_factory: "邦加檳榔鋁廠"
@@ -605,7 +575,6 @@
  INS_not_industry_desc: "爪哇是我們國家跳動的心臟，是我們大部分人口的家鄉和政府的所在地。在我們真正開始在這個島嶼實現工業化之前，我們必須首先打好基礎。土地勘測、區域劃分和場地清理將確保工廠建成後，它們被建在能發揮最大效益的地方。"
  INS_construction_focus: "工業繁榮"
  INS_construction_focus_desc: "外國資本正在湧入，出口收入不斷攀升，多年來首次有真正的資金可以投資於國內工業。我們必須抓住時機，在條件對我們有利的時候進行建設。"
- # <Industry Branch - Java>
  INS_developing_java: "擴建爪哇基礎設施"
  INS_developing_java_desc: "爪哇無疑是群島上工業化程度最高的島嶼，也是我們大部分財富的來源。然而，由於人口增長，巴達維亞等某些城市變得越來越擁擠。我們應該通過建造新的住宅、商業區、有軌電車、火車和工廠來擴建這些城市，以容納不斷增長的人口。"
  INS_prioritize_sugar_economy: "優先發展製糖經濟"
@@ -624,7 +593,6 @@
  INS_spend_profits_on_military_desc: "隨著我們的新奎寧協議最終敲定，我們有了一個機會：利用我們的額外收入在日惹和三寶壟建造和維護新的武器工廠，從而顯著改善我們的軍事力量。"
  INS_end_to_bloodshed_tt: "戰爭將會結束，並根據當前的佔領情況劃定新的邊界。爪哇、蘇門答臘和婆羅洲將被目前在各自區域擁有最大控制權的一方§Y吞併§!。"
  HOL_british_light_support: "[ENG.GetNameDefCap]已同意協助革命"
- # Escalation
  INS_escalation_has_1_tt: "戰局態勢等級高於§Y1§!級"
  INS_escalation_has_2_tt: "戰局態勢等級高於§Y2§!級"
  INS_escalation_has_3_tt: "戰局態勢等級高於§Y3§!級"
@@ -651,9 +619,7 @@
  indonesia_trading_with_us_modifier: "貿易協定"
  indonesia_opposing_us_modifier: "貿易反對派"
  indonesia_trading_with_enemy_modifier: "與日本貿易"
- # <Military Branch - Modernize our Army>
  INS_revolution_ended_tt: "民族革命已結束"
- # <Empower the Volksraad>
  INS_the_jewel_in_the_crown: "王冠上的明珠"
  INS_the_jewel_in_the_crown_desc: "東印度群島是荷蘭殖民王冠上最璀璨的明珠，我們打算保持這一地位。通過人民議會，我們的聲音能夠傳達到海牙。"
  INSHOL_java: "$HOL_java$"
@@ -804,10 +770,8 @@
  INS_focus_time_reduce_fokker_tt: "§Y$INSHOL_east_indies_fokker_division$§!將使此國策所需時間減少35天。"
  INS_focus_time_reduce_tjarda_tt: "§Y$INS_governor_general_tjarda$§!將使此國策所需時間減少35天。"
  INS_focus_time_reduce_pki_tt: "§Y$INS_utilize_tan_malakas_militia$§!將使此國策所需時間減少35天。"
- # War
  INS_war_ongoing_tt: "當前天數：[?INS_has_gotten_invasion_event:days|Y0]"
  INS_has_gotten_invasion_event: "印度尼西亞已遭入侵"
- # Revolution tt
  INS_tan_malaka_coup_tt: "印尼共產黨民兵將停止策劃革命。"
  INS_add_revolution_point_tt: "獲得§Y1§!名額外民兵特使。"
  INS_no_more_political_chaos_tt: "政治混亂事件將停止觸發。"
@@ -815,7 +779,6 @@
  INS_is_noncore_but_indonesian_trigger_tt_NOT: "不是印度尼西亞的核心地區"
  INS_soetardjo_petition_supported_tt: "蘇塔爾喬請願書已獲得人民議會支持"
  INS_soetardjo_petition_against_tt: "蘇塔爾喬請願書導致人民議會分裂"
- # HOL
  HOL_obtain_foreign_colonial_investments_taog: "$HOL_obtain_foreign_colonial_investments$"
  HOL_obtain_foreign_colonial_investments_taog_desc: "$HOL_obtain_foreign_colonial_investments_desc$"
  HOL_the_western_possessions_taog: "$HOL_the_western_possessions$"
@@ -847,9 +810,6 @@
  HOL_taog_guarantee_colonial_loyalty: "保證殖民地忠誠"
  HOL_taog_guarantee_colonial_loyalty_desc: "東印度的民族主義高漲，顯然又一場革命正在醞釀。雖然我們在1927年面對的那場革命被輕易鎮壓，但情報顯示，這次我們面對的或許是準備充分得多的革命者。如果我們對蘇塔爾喬的和平民族主義運動作些讓步，或許能將平民的注意力從革命引向蘇塔爾喬？"
  HOL_taog_guarantee_colonial_loyalty_tt: "§W確保[INS.GetNameDef]不會發生革命。§!\n[INS.GetNameDefCap]將試圖和平宣佈獨立。可以通過§Y$INSHOL_industrialized_colony$§!國策來阻止，這需要在殖民地投入大量資金。"
- ################
- ###   SIAM   ###
- ################
  SIA_the_khana_ratsadon: "人民黨"
  SIA_the_khana_ratsadon_desc: "人民黨終結了專制，開啟了通向憲政的道路。它的遺產曾被爭奪、被背叛、被血洗，但它依然是建設現代[SIA.GetName]的基石。"
  SIA_the_khana_ratsadon_tt: "\n§Y人民黨§!開始活躍。\n\n§Y人民黨§!是[ROOT.GetName]的執政黨，分為§Y軍方派系§!和§Y文官派系§!。\n\n§Y文官派系§!通常傾向於支持民主政策，注重民用工業；而§Y軍方派系§!通常傾向於支持法西斯政策以及工業軍事化。\n\n我們的選擇會影響他們對我們的支持度，帶來不同的加成或減益。\n如果他們變得叛逆，可能會嘗試發動政變。\n\n不同的支持狀態為：§Y叛逆§!、§Y反對§!、§Y中立§!、§Y略微支持§!和§Y全力支持§!"
@@ -1329,11 +1289,9 @@
  SIA_a_race_against_time_desc: "我們的海軍過時、經費不足，對現代戰爭毫無準備。必須立刻將資金轉投向造船、改裝、岸防和海軍訓練。時鐘走得遠比我們的船塢更快。"
  SIA_a_race_against_time_tt: "民族精神效果結束後，我們將獲得："
  SIA_a_race_against_time_tt2: "持續§Y280§!天"
- #Tech
  the_thunder_at_our_gates_artillery: "門前驚雷"
  SIA_siamese_tankettes: "暹羅超輕型坦克"
  SIA_siamese_tankettes_desc: "我們的陸軍已熟悉所裝備的輕型小坦克，提升了可靠性，並降低了戰場維護成本。"
- #Ideas
  idea_SIA_the_army_of_siam: "暹羅陸軍"
  idea_SIA_the_army_of_siam_tt: "§Y$idea_SIA_the_army_of_siam$§!追加效果："
  idea_SIA_the_thunder_at_our_gates: "門前驚雷"
@@ -1354,7 +1312,6 @@
  idea_SIA_british_tank_studies_desc: "$idea_SIA_german_tank_studies_desc$"
  jungle_tanks_tt: "啟用§Y叢林坦克§!\n§Y所有坦克師（叢林）§!：\n進攻：§G+15%§!\n移動：§G+15%§!"
  jungle_heavy_tanks_tt: "啟用§Y叢林重型坦克§!\n§Y重型、超重型和現代坦克師（叢林）§!：\n進攻：§G+15%§!\n移動：§G+15%§!"
- #Factions
  SIA_increase_military_approval_tt: "§G小幅§!增加§Y軍政派§!支持度"
  SIA_increase_military_approval_2_tt: "§G大幅§!增加§Y軍政派§!支持度"
  SIA_increase_military_approval_3_tt: "§G巨幅§!增加§Y軍政派§!支持度"
@@ -1399,12 +1356,10 @@
  generic_or_tt: "或者：\n"
  SIA_a_land_war_in_asia: "一場亞洲陸戰"
  idea_SIA_land_war_in_asia: "亞洲陸戰"
- # Alternative Communist Focus
  SIA_the_peoples_war_in_asia: "亞洲人民戰爭"
  SIA_the_peoples_war_in_asia_desc: "反對[JAP.GetAdjective]帝國主義的鬥爭不僅是國家間的較量，更是一場工人、農民和士兵反抗外來統治的戰爭。通過與中國的共產主義力量站在一起，[ROOT.GetNameDef]投身於一場遍及亞洲的更廣泛的人民戰爭。"
  SIA_peoples_war_in_asia_idea: "亞洲人民戰爭"
  SIA_peoples_war_in_asia_idea_desc: "支撐這場戰爭的不僅是正規部隊。地方委員會、游擊嚮導和農民補給隊如今都在戰場為軍隊服務。每個村莊都成為一座兵站，每條道路都可能是一次伏擊，每次撤退都是一次將敵人引向更深內陸的機會。"
- # Alternative Nationalist Focus
  SIA_national_defense_in_asia: "亞洲國防"
  SIA_national_defense_in_asia_desc: "亞洲的防衛需要紀律、等級體系與共同的戰略目標。通過與中國的民族主義政府站在一起，[ROOT.GetNameDef]加入了一個決心以有組織的軍隊和協調統一的指揮來抵抗[JAP.GetAdjective]擴張的聯盟。"
  SIA_national_defense_in_asia_tt: "§Y[ROOT.GetNameWithFlag]§!支持統一戰線的民族主義力量。\n添加§Y$SIA_national_defense_in_asia_idea$§!，給予：\n $MODIFIER_ARMY_ORG_FACTOR$：§G+5%§!\n $MODIFIER_PLANNING_SPEED$：§G+10%§!\n $MODIFIER_MAX_PLANNING$：§G+10%§!\n $MODIFIERS_ARMY_DEFENCE_FACTOR$：§G+5%§!"
@@ -1509,9 +1464,6 @@
  idea_SIA_bomber_procurement_program_desc: "精簡的合同與授權生產已使我們的戰術轟炸機機隊成本大幅下降，不過這些優惠條件僅在當前合同有效期內維持。"
  SIA_mio_trait_japanese_air_mission_unlock_tt: "為§Y航空工程局§!解鎖§Y日本技術使團§!特質"
  SIA_mio_trait_american_procurement_unlock_tt: "為§Y航空工程局§!解鎖§Y美國採購渠道§!特質"
- ##########
- #### AUSTRALIA ####
- ###################
  effects_of_event_tt: "\n§Y事件效果§!："
  AST_war_is_coming: "戰爭將至"
  AST_war_is_coming_desc: "在過去的三十年裡，我們接連面對各種挑戰，而現在似乎又有一場最終的考驗即將到來，它將再次檢驗澳大利亞民主制度的力量。前總理比利·休斯對此十分明確，並警告說——無論我們是否願意——戰爭即將來臨。如果我們忽視這一判斷，那將是極其不負責任的行為。"
@@ -1864,7 +1816,6 @@
  AST_free_healthcare_policy_desc: "我們的人民理應免於疾病和傷害，而萬一不幸發生，他們也不應像在其他社會那樣因厄運而淪落赤貧。我們將提供普遍享有的醫療、醫院和醫生——因為健康的人民才是生產力充沛的人民。"
  AST_the_publics_australia: "公眾的澳大利亞"
  AST_the_publics_australia_desc: "我們已拋棄舊秩序，建成了一個為多數人而非少數人存在的國家。工業、勞動和資源如今服務於全體人民。這就是人民的澳大利亞。平等、團結、牢不可破。"
- # 'Cominwealth' over 'Commonwealth' is intentional
  AST_the_australian_commonwealth: "澳大利亞聯邦"
  AST_the_australian_commonwealth_desc: "不列顛曾聲稱在英聯邦擁有領導地位，但其願景已遭資本主義利益腐化。我們將奪取這一角色，引領各國走向共同的社會主義烏托邦。"
  AST_union_control_commonwealth: "解鎖§Y工會控制§!決議。\n允許在新西蘭、馬來西亞、緬甸以及最終在印度進行共產主義滲透。"
@@ -1977,7 +1928,6 @@
  AST_immediate_rights_desc: "[AST.GetName]內任何人口群體均不受聯邦管制，任何傳統也不得限制公民權利的授予。通過制定我們自己的公民法案，並擺脫我國人口僅系英國臣民的概念，澳大利亞人的權利將不再是有條件的。"
  AST_diverse_army: "多元化軍隊"
  AST_diverse_army_desc: "保衛國家的行為不僅是特權，更是權利。每一位自願的澳大利亞人都應能參軍入伍，每一位有抱負的士兵都應能在行伍中晉升。"
- ### RIGHT VS LEFT CAMPAIGN ###
  AST_bg_empty_text_tt: "在民主黨派間平衡選票，並解鎖黨派專屬的國策群。\n\n完成國策§Y$AST_war_is_coming$§!進行解鎖。"
  AST_right_vs_left_campaign_title_text: "民主選舉"
  AST_expected_election_winner_text: "§Y預期勝者§!"
@@ -2167,9 +2117,6 @@
  AST_conscription_level_allowed_all_adults_serve_tt: "解鎖下一級的§Y徵兵法案§!，可啟用§Y所有成人服兵役§!"
  AST_conscription_level_allowed_scraping_the_barrel_tt: "解鎖下一級的§Y徵兵法案§!，可啟用§Y榨乾他們§!"
  AST_conscription_law_so_far: "[CONSCRIPTION_LAW_SO_FAR]"
- ############
- ### MISC ###
- ############
  add_random_stat_to_general_tt: "為該將領添加1額外隨機技能點"
  generic_unlock_industrial_concern_tt: "可作為工業企業： \n"
  NZL_rail_standardization_tt: "§Y[?NZL_train_var]§!單位的§Y$NZL_train_equipment_1$§!添加到國家儲備中。"
@@ -2227,38 +2174,28 @@
  AST_ireland_anti_british_pact_offer_accept_tt: "如果他們接受："
  AST_through_the_barricades_tt: "如果§Y[ENG.GetNameDef]§!擁有至少§Y10%§!共產主義支持度，那麼戰爭開始時§Y[132.GetCapitalVictoryPointName]§!的碼頭工人會發動起義支持我們！"
  AST_end_the_kingdom_ireland_join_tt: "由於[IRE.GetName]簽署了反英條約，他們會在我們對[ENG.GetNameDef]宣戰時加入我們一方。"
- ###########################
- ##### FABDA BRANCH ########
- ###########################
- # Root
  ABDA_abdacom: "建立美英荷澳司令部"
  ABDA_abdacom_desc: "隨著敵對勢力在東南亞和太平洋地區迅速推進，該地區的盟軍必須作為一個整體行動以阻止他們。通過建立一個聯合最高指揮部，我們可以整合資源，協調海軍資產，並形成統一戰線對抗敵人。"
- # Tier 1 - country-locked
  ABDA_fortress_singapore: "新加坡要塞"
  ABDA_fortress_singapore_desc: "新加坡是我們在該地區防禦戰略的關鍵。加強其防禦工事並部署重兵把守，將為美英荷澳司令部的更大規模的行動爭取關鍵時間，並阻止敵人取得快速的戰略勝利。"
  ABDA_corps_expeditionnaire: "法國遠東遠征軍"
  ABDA_corps_expeditionnaire_desc: "法屬印度支那位於美英荷澳聯合司令部防禦圈的北翼。通過派遣遠征軍積極參與作戰行動，[FRA.GetNameDef]將為其殖民部隊提供至關重要的人力資源和作戰經驗，以此支援聯合司令部的整體力量。"
  ABDA_maintain_strategic_flexibility: "保持戰略靈活性"
  ABDA_maintain_strategic_flexibility_desc: "美國絕不能將其兵力過度投入任何單一戰區。通過謹慎管理我們的戰略儲備，我們可確保美國的工業與軍事力量能在太平洋上任何最需要的地方發揮效能。"
- # Tier 2
  ABDA_the_malay_barrier: "馬來屏障"
  ABDA_the_malay_barrier_desc: "從馬來亞經[INS.GetNonIdeologyName]延伸的一系列島嶼形成了一道天然防禦屏障。美英荷澳司令部的部隊必須利用這一地理條件，建立協調的海陸防禦以遲滯敵軍推進。"
  ABDA_develop_naval_infrastructure: "發展海軍基建"
  ABDA_develop_naval_infrastructure_desc: "太平洋上的持續海軍行動需要基地、燃料庫和維修設施。投資於我們的港口和錨地基礎設施，將延伸美英荷澳司令部的海軍的活動範圍和續航能力。"
- # Tier 3
  ABDA_unified_naval_command: "統一海軍指揮"
  ABDA_unified_naval_command_desc: "在陸地防禦已建立、基礎設施就位的情況下，美英荷澳司令部現在可將所有海軍力量統一於一個指揮之下。標準化的信號、共享的情報以及協調的巡邏路線，將成倍增強戰區每一艘艦艇的效能。"
- # Tier 4
  ABDA_ship_a_day_sinking_quotas: "每日擊沉指標"
  ABDA_ship_a_day_sinking_quotas_desc: "橫跨太平洋的敵方補給線是其戰略弱點。通過為我們的潛艇和水面艦隊設定積極且協調的擊沉噸位指標，美英荷澳司令部可在後勤上拖垮敵人，迫使他們轉入防禦。"
  ABDA_naval_procurement: "海軍採購"
  ABDA_naval_procurement_desc: "已遭受的損失迫切需要補充。美英荷澳司令部的協調採購計劃將優先建造最適合太平洋戰區的驅逐艦、潛艇和巡邏艦，確保我們的聯合艦隊能與敵人的擴張相匹敵。"
  ABDA_keep_trade_open: "保持貿易暢通"
  ABDA_keep_trade_open_desc: "[INS.GetNonIdeologyName]的橡膠和石油對同盟國的戰爭努力至關重要。美英荷澳司令部必須保衛承載這些重要資源的海上通道，保護護航船隊免遭敵人攔截，保持貿易暢通，流向我們的工業。"
- # Tier 5 - capstone
  ABDA_expand_the_command: "擴大司令部"
  ABDA_expand_the_command_desc: "美英荷澳司令部已證明了其價值。現在我們必須在此基礎上再接再厲，將成員資格擴展至同盟國內該地區的其他國家，並深化我們的研究與情報共享，以領先於敵人。"
- # Tooltips
  ABDA_basic_available_trigger_tt: "未與任何美英荷澳司令部成員國交戰"
  ABDA_spirit_tooltip: "修正§Y美英荷澳最高司令部§!："
  abdacom_member: "美英荷澳司令部成員"

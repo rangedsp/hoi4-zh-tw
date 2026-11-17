@@ -90,13 +90,14 @@ async function convertFolder() {
    // Write content to the output folder
    await fs.writeFile(
     outputPath,
-    outputDoc.toString({
-     defaultKeyType: "PLAIN",
-     defaultStringType: "QUOTE_DOUBLE",
-     doubleQuotedAsJSON: true,
-     indent: 1,
-     lineWidth: 0,
-    }),
+    "\uFEFF" +
+     outputDoc.toString({
+      defaultKeyType: "PLAIN",
+      defaultStringType: "QUOTE_DOUBLE",
+      doubleQuotedAsJSON: true,
+      indent: 1,
+      lineWidth: 0,
+     }),
     "utf-8",
    );
    console.log(`✅ Converted: ${filename}`);

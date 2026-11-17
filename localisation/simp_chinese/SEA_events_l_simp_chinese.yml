@@ -1,7 +1,4 @@
 ﻿l_simp_chinese:
- ###################
- ###### JAPAN ######
- ###################
  SEA_japan.1.t: "二二六事件"
  SEA_japan.1.desc: "以“帝國精神受到威脅”為由，大日本帝國陸軍中忠於皇道派的年輕軍官組織了政變，旨在清洗政府與軍隊領導層中反對其軍國主義與“天皇直接統治”思想的人。他們已包圍多名高級官員住宅，並佔領了東京高官的宅邸。然而，儘管叛軍希望天皇支持他們，陛下依然保持沉默。此事件將如何發展？"
  SEA_japan.1.a: "現在就終結這場鬧劇！"
@@ -10,7 +7,7 @@
  JAP_kodoha_coup_will_succeed_tt: "皇道派將控制陸軍省、帝國飯店、國會大廈以及皇宮。其關鍵暗殺目標多人已被證實死亡："
  SEA_japan.1.c: "必須管束軍方！"
  JAP_kodoha_coup_will_fail_non_historically_tt: "我們將宣佈戒嚴，並嘗試通過東京警視廳特勤部隊鎮壓叛亂，儘量減少軍方介入清算皇道派。報告稱傷亡較小，但部分目標已被證實死亡："
- SEA_japan.1.d: "必須管束軍方！" # Intentional
+ SEA_japan.1.d: "必須管束軍方！"
  SEA_japan.1.e: "人民必須認識到自己正被全面操控！"
  SEA_japan.2.t: "高砂義勇隊"
  SEA_japan.2.desc: "總督報告敵人已經登陸，同時報告山地各區的招募點擠滿了人。至於高砂族是出於對天皇的忠誠、出於多年教育教給他們的忠誠，還是僅僅因為這是他們的島嶼、而入侵者正站在上面，他不敢妄加斷言。他只提到：他們自帶刀具前來，穿行於我們自己的部隊稱之為無法通過的地形，而且他們的人數比我們可配發的步槍還多。"
@@ -523,7 +520,6 @@
  SEA_japan_popup_events.3.t: "切腹辯論"
  SEA_japan_popup_events.3.desc: "在今日眾議院帝國議會的全體會議上，立憲政友會議員濱田國松對陸軍大臣寺內壽一及其軍事派系不斷擴張的權力發起猛烈抨擊。當寺內大臣指責濱田藐視軍方權威、侮辱軍隊榮譽時，濱田當即針鋒相對地回應：“請查閱會議記錄。若其中確有侮辱軍隊之言辭，我將切腹向閣下謝罪；若無此等言論，則請閣下自行切腹。”此言一齣，寺內頓時怒不可遏，在議席上怒視濱田，議會現場隨即陷入混亂，憤怒的咆哮聲充斥整個議院大廳。"
  SEA_japan_popup_events.3.a: "這是一場災難！"
- ### KODOHA EVENTS ###
  SEA_japan_popup_events.4.t: "說服天皇"
  SEA_japan_popup_events.4.desc: "天皇陛下對昭和維新的理想及新軍政府的建立顯得興致索然。他很可能仍受統制派操控，但若始終不願與我們同心，恐怕只能考慮擁立其弟雍仁親王即位。我們是該“勸請”陛下共襄大事，還是順其自然更為妥當？"
  SEA_japan_popup_events.4.a: "我們必須不惜一切代價爭取他的支持！"
@@ -722,22 +718,17 @@
  SEA_japan_popup_events.54.t: "中途島慘敗"
  SEA_japan_popup_events.54.desc: "自從日本人開始試圖將其太平洋防禦圈擴張至更偏遠的環礁，他們的艦隊已再次游弋至珍珠港附近。然而，敵人不知道的是，我們的密碼破譯人員已經確定了他們計劃進攻中途島的地點和時間，使我們得以設下伏擊。太平洋艦隊司令在日本人到達之前就已派遣弗蘭克·傑克·弗萊徹率一支大部隊前往中途島區域。然而，儘管我們盡了最大努力，我們的艦隊仍然不是他們的對手，幾個小時內，戰鬥的走向就已經確定。這或許就是敵人迫使我們太平洋艦隊屈服的轉折點。"
  SEA_japan_popup_events.54.a: "一場前所未有的災難！"
- ### BORDER INCIDENT EVENTS ###
- # Event for MON
  SEA_border_incidents_events.1.t: "我軍前往塔烏蘭"
  SEA_border_incidents_events.1.desc: "一隊不足100人的[ROOT.GetAdjective]陸軍士兵在六名蘇聯顧問的帶領下開始前往爭議地區[MAN.GetAdjective]村莊塔烏蘭。雖然[JAP.GetAdjective]軍隊尚未出現在該地區，但他們隨時可能到達並擊退我們。值得為這個村莊冒險嗎，還是說我們應該更加謹慎？"
  SEA_border_incidents_events.1.a: "這個村子屬於我們！"
  SEA_border_incidents_events.1.b: "我們必須命他們立即撤退！"
- # Event for JAP or MAN
  SEA_border_incidents_events.2.t: "塔烏蘭事件"
  SEA_border_incidents_events.2.desc: "一隊不足100人的[MON.GetAdjective]陸軍士兵在蘇聯顧問的帶領下佔領了爭議地區[MAN.GetAdjective]村莊塔烏蘭。看來不打一仗他們是不會撤退的，而我們若想完全控制[761.GetName]也必須打上這一仗。"
  SEA_border_incidents_events.2.a: "命令軍隊立刻出動！"
  SEA_border_incidents_events.2.b: "不值得動手……"
- # Event for MAN if overlord JAP decided to engage in the conflict
  SEA_border_incidents_events.3.t: "塔烏蘭事件"
  SEA_border_incidents_events.3.desc: "一隊不足100人的[MON.GetAdjective]陸軍士兵在蘇聯顧問的帶領下佔領了爭議地區[MAN.GetAdjective]村莊塔烏蘭。看來不打一仗他們是不會撤退的，而我們若想完全控制[761.GetName]也必須打上這一仗。我們的宗主國[JAP.GetNameDef]已下令立即行動，關東軍認為這種局面就是對天皇本人的侮辱。"
  SEA_border_incidents_events.3.a: "準備進攻！"
- ### THE TAURAN INCIDENT BORDER WAR ###
  SEA_border_incidents_events.4.t: "[FROM.GetAdjective]軍隊準備進攻塔烏蘭"
  SEA_border_incidents_events.4.desc: "對邊境村莊塔烏蘭的爭奪激化了我們與[FROM.GetNameDef]的緊張局勢，看起來他們現在正派兵前往該地區準備攻擊我們的駐軍。我們必須準備好戰至最後一人，將入侵者趕出[ROOT.GetAdjective]的神聖領土！"
  SEA_border_incidents_events.4.a: "風暴正在凝聚"
@@ -757,7 +748,6 @@
  SEA_border_incidents_events.8.desc: "在我們佔領塔烏蘭村後，[FROM.GetAdjective]部隊似乎已經撤退，沒有重返的跡象。意識到繼續進攻將徒勞無功，[JAP.GetAdjective]軍方承認該村莊位於[ROOT.GetAdjective]境內。"
  SEA_border_incidents_events.8.a: "太好了"
  if_they_back_down_or_lose_a_border_conflict_tt: "如果他們退讓或輸掉邊境衝突："
- ### STRIKE SOUTH EVENTS ###
  SEA_imperial_influence_events.500.t: "海軍派系請命南征"
  SEA_imperial_influence_events.500.desc: "[ROOT.GetLeader]剛收到海軍總部簽署的信函，稱他們對東印度群島資源的需求現已達到緊要關頭，要求立即開始全面實施“南方打擊”計劃。雖然可以對此置之不理，但一味拖延恐非良策。"
  SEA_imperial_influence_events.500.a: "必須迅速做好準備！"
@@ -765,7 +755,6 @@
  SEA_imperial_influence_events.501.t: "海軍軍官憤然辭職"
  SEA_imperial_influence_events.501.desc: "因未能在海軍總部規定時間內執行“南方打擊”計劃，向[ROOT.GetLeader]施壓的海軍軍官均已辭職。"
  SEA_imperial_influence_events.501.a: "何等卑鄙的行為！"
- ### TOKKO EVENTS ###
  SEA_japan_tokko_arrest_events.1.t: "人民陣線事件"
  SEA_japan_tokko_arrest_events.1.desc: "特高課已發現威脅國內穩定的因素。似乎有一些社會主義和共產主義組織企圖破壞社會秩序。一份逮捕名單已經擬定，其中包括多名共產黨高層成員，如荒畑寒村、江田三郎、美濃部亮吉、向坂逸郎、佐佐木更三、鈴木茂三郎、高野實，以及山川均。"
  SEA_japan_tokko_arrest_events.1.a: "好消息"
@@ -775,7 +764,7 @@
  SEA_japan_tokko_arrest_events.2.a: "外國間諜罪有應得！"
  SEA_japan_tokko_arrest_events.2.b: "儘量不要激怒[ENG.GetAdjective]"
  JAP_cox_incident_tt: "多名涉嫌間諜活動的[ENG.GetAdjective]公民將被逮捕"
- SEA_japan_tokko_arrest_events.3.t: "合作社事件" # or Kyōsakusha
+ SEA_japan_tokko_arrest_events.3.t: "合作社事件"
  SEA_japan_tokko_arrest_events.3.desc: "特高課再度發現威脅國內穩定的因素。滿鐵調查部多名成員已被關東軍憲兵隊二次逮捕，他們涉嫌在殖民地散佈反日與共產主義宣傳。調查顯示，這些人還使用本土明令禁止的馬克思主義方法進行社會研究與分析。這一陰謀可能牽涉甚廣，應該如何處置？"
  SEA_japan_tokko_arrest_events.3.a: "將此事交由關東軍處理"
  SEA_japan_tokko_arrest_events.3.b: "我們必須立即實施大規模逮捕！"
@@ -798,17 +787,12 @@
  SEA_japan_tokko_arrest_events.8.desc: "滿鐵調查部多名成員已被關東軍憲兵隊二次逮捕，罪名是涉嫌散佈反日及共產主義宣傳。[JAP.GetNameDefCap]指示我們妥善處理此事，但不會直接干預。應該如何處理這一局面？"
  SEA_japan_tokko_arrest_events.8.a: "遵照指令，立即展開大規模逮捕！"
  SEA_japan_tokko_arrest_events.8.b: "壓住此事，反正這對我們有利"
- #####################################
- ##### IMPERIAL INFLUENCE EVENTS #####
- #####################################
  SEA_imperial_influence_events.1.t: "內部權力鬥爭爆發"
  SEA_imperial_influence_events.1.desc: "[ROOT.GetNameDef]內部各派系爆發激烈權力鬥爭，各方都試圖爭取[GetImperialInfluenceRulerTitle]的支持，將[GetImperialInfluenceGenderHimHer]拉攏至己方陣營。每個人都在思考的問題是：[GetImperialInfluenceRulerTitle]最終會青睞哪個派系，又會忽視哪個派系？"
  SEA_imperial_influence_events.1.a: "忽視陸軍派系"
  SEA_imperial_influence_events.1.b: "忽視海軍派系"
  SEA_imperial_influence_events.1.c: "忽視財閥派系"
  SEA_imperial_influence_events.1.d: "忽視文官政府派系"
- #FACTION DEMANDS
- #Options
  SEA_imperial_influence_events.00.a: "[GetNameImperialInfluenceDemandOptions]"
  SEA_imperial_influence_demand_event_option_1: "路遙知馬力"
  SEA_imperial_influence_demand_event_option_2: "大道如砥"
@@ -831,7 +815,6 @@
  SEA_imperial_influence_failure_event_option_8: "明日愁來明日憂"
  SEA_imperial_influence_failure_event_option_9: "七轉八起，百折不撓"
  SEA_imperial_influence_failure_event_option_10: "因果報應"
- #Army
  SEA_imperial_influence_events.100.t: "陸軍派系失去影響力"
  SEA_imperial_influence_events.100.desc: "陸軍派系試圖增強對[GetImperialInfluenceRulerTitle]的影響力，但由於自身能力不足未能成功。這使他們顏面盡失、威望下降，影響力也隨之減弱。"
  SEA_imperial_influence_events.110.t: "陸軍派系尋求擴大軍備生產"
@@ -848,7 +831,6 @@
  SEA_imperial_influence_events.160.desc: "陸軍提出了他們的要求。看來他們試圖增強坦克生產以及對[GetImperialInfluenceRulerTitle]的影響力，因此要求我們建造更多的坦克來滿足他們的擴張需求。他們願意表現出一些耐心，但不會永遠等下去。"
  SEA_imperial_influence_events.161.t: "陸軍派系要求提高火炮產量"
  SEA_imperial_influence_events.161.desc: "陸軍提出了他們的要求。看來他們試圖增強火炮生產以及對[GetImperialInfluenceRulerTitle]的影響力，因此要求我們建造更多的火炮來滿足他們的擴張需求。他們願意表現出一些耐心，但不會永遠等下去。"
- #Navy
  SEA_imperial_influence_events.200.t: "海軍派系失去影響力"
  SEA_imperial_influence_events.200.desc: "海軍派系試圖增強對[GetImperialInfluenceRulerTitle]的影響力，但由於自身能力不足未能成功。這使他們顏面盡失、威望下降，影響力也隨之減弱。"
  SEA_imperial_influence_events.210.t: "海軍派系尋求擴大船塢生產"
@@ -863,7 +845,6 @@
  SEA_imperial_influence_events.241.desc: "海軍提出了他們的要求。看起來他們試圖擴大生產能力和對[GetImperialInfluenceRulerTitle]的影響力，因此要求我們建造更多的海軍船塢來提高產出。他們願意表現出一些耐心，但不會永遠等下去。"
  SEA_imperial_influence_events.242.t: "海軍派系要求提高戰列艦產量"
  SEA_imperial_influence_events.242.desc: "海軍提出了他們的要求。看來他們試圖增強戰列艦的生產以及對[GetImperialInfluenceRulerTitle]的影響力，因此要求我們建造更多的戰列艦來滿足他們的擴張需求。他們願意表現出一些耐心，但不會永遠等下去。"
- #Zaibatsu
  SEA_imperial_influence_events.300.t: "財閥派系失去影響力"
  SEA_imperial_influence_events.300.desc: "財閥派系試圖增強對[GetImperialInfluenceRulerTitle]的影響力，但由於自身能力不足未能成功。這使他們顏面盡失、威望下降，影響力也隨之減弱。"
  SEA_imperial_influence_events.310.t: "財閥派系尋求發展基礎工業"
@@ -874,7 +855,6 @@
  SEA_imperial_influence_events.330.desc: "財閥領袖已提出要求。他們要求調整國家經濟戰略，將更多資金投入工業聯合企業。儘管表面以強化經濟為名，實則企圖加強對[GetImperialInfluenceRulerTitle]的控制與影響力。他們願意表現出一些耐心，但不會永遠等下去。"
  SEA_imperial_influence_events.340.t: "財閥派系要求僱傭工業企業"
  SEA_imperial_influence_events.340.desc: "財閥領袖已提出要求。他們希望至少有一家企業能獲得[GetImperialInfluenceRulerTitle]的直接合同，從而掌控國家工業化進程與發展方向。他們願意表現出一些耐心，但不會永遠等下去。"
- #Government
  SEA_imperial_influence_events.400.t: "文官政府失去影響力"
  SEA_imperial_influence_events.400.desc: "文官政府試圖增強對[GetImperialInfluenceRulerTitle]的影響力，但由於自身能力不足未能成功。這使他們顏面盡失、威望下降，影響力也隨之減弱。"
  SEA_imperial_influence_events.420.t: "文官政府派系要求政治任命"
@@ -901,7 +881,6 @@
  SEA_japan_air_accidents_events.04.a: "他逃過了我們的追捕"
  JAP_yamamoto_removed_from_high_command_tt: "$JAP_isoroku_yamamoto$不再屬於[JAP.GetAdjective]最高指揮部"
  JAP_yamamoto_survives_tt: "$JAP_isoroku_yamamoto$繼續擔任指揮官，並因這場劫難而更加睿智"
- ## NEWS EVENTS
  SEA_japan_news_events.01.t: "[JAP.GetLeader]發聲反對軍部干預"
  SEA_japan_news_events.01.desc: "\n[JAP.GetLeader]在近日一場激烈演說中指出，陸軍內部皇道派近期發動了未遂的政變，軍方此次行為已逾越底線。他進一步宣稱：“如果說邊緣勢力屢次實施暗殺及顛覆政府的行徑尚不足懼，他們現在已企圖利用此事件擴張自身權力，將國家從人民手中奪走。絕不容許此事繼續發生！”\n\n看來，[JAP.GetNameDef]國內可能正醞釀著衝突。"
  SEA_japan_news_events.01.a: "我們必須迴歸大正時代的做法！"
@@ -913,10 +892,6 @@
  SEA_japan_news_events.03.t: "仰光的陷落"
  SEA_japan_news_events.03.d: "日軍在緬甸的攻勢仍在持續，仰光於近期淪陷。為英屬緬甸的首府，這座城市具有極其重要的戰略意義，其失守可能會成為當前緬甸戰役中的一個決定性因素。\n\n據報道，殖民地總督在將自己的行李從總督府督運至卡車車隊時，被日軍先頭部隊俘獲，但這一消息尚未得到證實。"
  SEA_japan_news_events.03.a: "反對帝國主義的又一次勝利！"
- #########################
- ### NATIONALIST CHINA ###
- #########################
- # Requesting Soviet aid
  SEA_china.1.t: "[FROM.GetNameDefCap]尋求我們的支持"
  SEA_china.1.desc: "我們收到了來自[FROM.GetNameDef]的請求，對方希望我們提供物資支援。儘管[FROM.GetLeader]過去曾發表過對我們質疑的言論，但這或許是將該地區的外國利益與我們捆綁在一起的契機。"
  SEA_china.1.a: "我們會支持他們"
@@ -927,7 +902,6 @@
  SEA_china.3.t: "[FROM.GetNameDefCap]拒絕我們的請求"
  SEA_china.3.desc: "不出所料，我們向[FROM.GetNameDef]提出的支援請求被拒絕了。儘管我們原本也沒抱多大希望，但還是期待過他們至少能認同[JAP.GetNameDef]對全亞洲構成的威脅。但顯然，我們錯判了形勢。"
  SEA_china.3.a: "我們能期待些什麼"
- # Requesting American/Allied aid
  SEA_china.4.t: "[FROM.GetNameDefCap]尋求我們的支持"
  SEA_china.4.desc: "我們收到了來自[FROM.GetNameDef]的[FROM.GetLeader]發來的請求，對方希望我們在其與[JAP.GetNameDef]的衝突中獲得資金和物資支援。這條消息並非通過無線電臺或外交人員傳達，而是由$CHI_soong_mei_ling$夫人作為特使親自趕赴我國，她在[ROOT.GetName]各地巡訪期間已吸引了大量民眾關注。雖然牽制住[JAP.GetNameDef]本就對我們有利，但我們或許也能借助此次巡訪的聲勢從中獲益。"
  SEA_china.4.a: "我們會支持他們"
@@ -940,20 +914,16 @@
  SEA_china.6.t: "[FROM.GetNameDefCap]拒絕我們的請求"
  SEA_china.6.desc: "我們向[FROM.GetNameDef]發出的求助已得到回覆，他們選擇拋棄我們。不會有支援，也不會有任何資金。我們再次獨自面對侵略者，就像過去多次經歷過的那樣。我們必須勝利——因為若我們失敗，將無人能講述我們的故事。"
  SEA_china.6.a: "為國家存亡而戰！"
- ### Warlord - Invitation to Join Faction
  SEA_china.7.t: "來自[FROM.GetName]的邀請"
  SEA_china.7.desc: "[FROM.GetName]中央政府已邀請[ROOT.GetName]加入他們的陣營。他們談到了民族團結和作為一個整體抵抗外國侵略的必要性。儘管意識形態分歧依然存在，但面對日益增長的威脅，合作可能值得考慮。"
  SEA_china.7.a: "我們將並肩作戰。"
  SEA_china.7.b: "我們不會用獨立換取承諾。"
- ### SEA_china.8 - Acceptance
  SEA_china.8.t: "[FROM.GetName]接受了邀請"
  SEA_china.8.desc: "[FROM.GetLeader]同意了我們的提議。[FROM.GetNameDefCap]會加入我們的陣營，在團結民族、保衛民族對抗外敵的鬥爭中與我們並肩作戰。這是中華大統一的重要一步。"
  SEA_china.8.a: "團結使我們更強大。"
- ### SEA_china.9 - Rejection
  SEA_china.9.t: "[FROM.GetName]拒絕了提議"
  SEA_china.9.desc: "[FROM.GetLeader]拒絕加入我們的陣營，理由是需要維護地區獨立和政治自治。雖然很遺憾，但這一決定反映了國家內部持久的分歧。"
  SEA_china.9.a: "他們會後悔的。"
- # Joining the Allies
  SEA_china.10.t: "[FROM.GetNameDefCap]請求加入我們"
  SEA_china.10.desc: "我們收到了[FROM.GetNameDef]的提議，他們希望[FROM.GetFactionName]全體成員加入[ROOT.GetFactionName]。若我們接受，潛在敵人將減少，而我們的地位將進一步強化。問題在於，他們的意圖是否可信，是否會企圖取代我們。"
  SEA_china.10.a: "我們人多力量大"
@@ -965,11 +935,9 @@
  SEA_china.12.desc: "[FROM.GetFactionName]的領導人拒絕了我們的聯合提議。這原本是為世界帶來和平與穩定的機會，但遺憾的是有些人反對這樣做。"
  SEA_china.12.a: "令人沮喪"
  SEA_china.12.b: "我們的路我們自己走"
- # Chiang gets killed
  SEA_china.13.t: "[CHI.GetLeader]遇刺"
  SEA_china.13.desc: "我們偉大的領袖[CHI.GetLeader]在途中遭攔停後，於車內遭槍擊。據稱槍手是單獨行動，但由於其在抓捕過程中被當場擊斃，任何潛在的同謀都將逍遙法外。黨內已開始物色接班人選。"
  SEA_china.13.a: "真是悲劇"
- # Giving away Subject
  SEA_china.14.t: "[FROM.GetName]將控制權移交[JAP.GetNameDef]"
  SEA_china.14.desc: "為了安撫[JAP.GetNameDef]，絕望的中央政府給了他們對我們的宗主權。我們完全不敢相信新政府能做出這種卑鄙行為。"
  SEA_china.14.a: "木已成舟……"
@@ -977,7 +945,6 @@
  SEA_china.15.t: "我們獲得[FROM.GetNameDef]的控制權"
  SEA_china.15.desc: "為了安撫我們部隊中的鷹派，[CHI.GetName]已將[FROM.GetName]的控制權移交給了我們。看來近期內不會有衝突了。"
  SEA_china.15.a: "很好。"
- # Informing Japan
  SEA_china.16.t: "[From.GetName]給予我們駐港權"
  SEA_china.16.desc: "為了安撫我們不要進攻，[From.GetName]給予了我們駐港權。關東軍決定暫時收手。"
  SEA_china.16.a: "好極了！"
@@ -987,35 +954,28 @@
  SEA_china.18.t: "[From.GetName]給予我們資源開採權"
  SEA_china.18.desc: "為了安撫我們不要進攻，[From.GetName]給予了我們資源開採權。關東軍決定暫時收手。"
  SEA_china.18.a: "好極了！"
- ### Chinese Nine-Power Treaty Crisis ###
  SEA_china.19.t: "[CHI.GetName]要求廢除九國公約"
  SEA_china.19.desc: "今天，我國外交部收到了[CHI.GetNameDef]的正式信函，稱《九國公約》限制了[CHI.GetAdjective]的主權，必須立即廢除。[CHI.GetLeader]堅持認為該條約是被迫簽署，併發誓無論我們是否同意，都要恢復完全獨立。"
  SEA_china.19.a: "同意北京方面的要求"
  SEA_china.19.b: "拒絕廢除條約"
  SEA_china.19_tt: "§R我們將加入中國對日的戰爭！§!"
- # FROM accepts Beijing’s demand without reservation ---
  SEA_china.20.t: "[FROM.GetName]放棄九國公約"
  SEA_china.20.desc: "[FROM.GetNameDefCap]已確認立即退出九國公約。他們承認該條約已經過時，[CHI.GetAdjective]的主權必須不受阻礙。"
  SEA_china.20.a: "一場大快人心、一錘定音的勝利。"
- # China reacts to refusal
  SEA_china.21.t: "[FROM.GetName]違抗北京"
  SEA_china.21.desc: "[FROM.GetNameDefCap]拒絕廢除九國公約，稱這將影響太平洋地區脆弱的力量平衡。這對任何正常人來說都是侮辱，更別提帝國主義小丑耀武揚威的時代已經結束了。我們必須決定是繼續施壓還是撤離外交鬥場。"
  SEA_china.21.a: "繼續施壓"
  SEA_china.21.b: "暫時讓步"
- # Beijing escalates; target nation must respond
  SEA_china.22.t: "[CHI.GetName]進一步施壓"
  SEA_china.22.desc: "北京加大籌碼了。內閣就如何回應這一陡增的壓力爭論不斷。以禁運反擊之可能重創貿易，或許該讓[CHI.GetName]從其義務中解脫。"
  SEA_china.22.a: "對[CHI.GetName]實施禁運"
  SEA_china.22.b: "什麼也不做"
- #FROM enacts a blockade against China ---
  SEA_china.23.t: "[FROM.GetName]對我們實施禁運"
  SEA_china.23.desc: "[FROM.GetAdjective]政府宣佈對我們實施禁運，作為對我國拒絕《九國公約》的懲罰。[FROM.GetNameDef]的港務局長拒絕了每一艘中國商船。國內媒體譴責這一措施是經濟扼殺，這是早已過去的帝國主義時代的垂死掙扎。"
  SEA_china.23.a: "我們不會被嚇倒"
- #FROM yields to Chinese pressure and scraps the treaty ---
  SEA_china.24.t: "[FROM.GetName]廢除九國公約"
  SEA_china.24.desc: "來自[FROM.GetNameDef]的電報送達南京，確認其退出九國公約。在[FROM.GetAdjective]外交官承認中國不再受協議約束的同時，他們的河道巡邏隊正為遠航做準備。人們聚集在外交部大門前，傾聽著廣播宣告又一項不平等條約的結束。"
  SEA_china.24.a: "國家主權的勝利"
- # China requests Armor MIO
  SEA_china.25.t: "中國請求裝甲專家"
  SEA_china.25.desc: "[FROM.GetNameDefCap]向我們提出請求，希望我們的裝甲部隊專家協助他們轉向更現代化的作戰模式。我們可以派遣主要製造商之一的顧問團，或者直接拒絕他們的請求。"
  SEA_china.25.a: "$morozov_design_bureau$"
@@ -1025,11 +985,9 @@
  SOV_accepted_Morozov: "[SOV.GetNameDefCap]派遣了$morozov_design_bureau$的團隊。"
  SOV_accepted_Astrov: "[SOV.GetNameDefCap]派遣了$astrov_design_bureau$的團隊。"
  SOV_accepted_OKMO: "[SOV.GetNameDefCap]派遣了$okmo$的團隊。"
- # Answering yes
  SEA_china.26.t: "[SOV.GetNameDefCap]答覆"
  SEA_china.26.desc: "我們現在已收到[SOV.GetNameDef]的答覆，他們同意派遣一組專家過來。他們應該很快就會抵達，屆時我們將著手安排他們加強我們的坦克部隊。"
  SEA_china.26.a: "我們向著勝利進軍"
- # Answering no
  SEA_china.27.t: "[SOV.GetNameDefCap]答覆"
  SEA_china.27.desc: "遺憾的是，[SOV.GetNameDef]已決定不提供我們所需的援助。儘管我們不清楚對方拒絕這一小小請求的原因，但看來我們必須另尋他法了……"
  SEA_china.27.a: "他們會後悔的"
@@ -1038,7 +996,6 @@
  SEA_china.28.a: "我們別無選擇"
  the_game_will_end_for_us: "§R這將導致遊戲結束！§!"
  SEA_china.28.b: "絕不！"
- # Zhang Xueliang getting thrown in jail
  SEA_china.29.t: "$CHI_zhang_xueliang$的命運"
  SEA_china.29.desc: "為了國家的自由，$CHI_zhang_xueliang$過分熱忱，嚴重越權行事。通常情況下，這是無法接受的，但我們所處的並非尋常時期。儘管[ROOT.GetLeader]要求我們將其囚禁，但[CHI_zhang_xueliang.GetName]的能力或許能派上用場。"
  SEA_china.29.a: "把他關進監獄！"
@@ -1151,10 +1108,6 @@
  SEA_china_democratic.20.b: "這其中必有貓膩！"
  SEA_china_misc.1.t: "$CHI_retreat_to_taiwan$"
  SEA_china_misc.1.desc: "$CHI_retreat_to_taiwan_desc$"
- #######################
- ### COMMUNIST CHINA ###
- #######################
- #Tooltips
  PRC_gains_more_faction_inluence_tt: "[PRC.GetName]陣營影響力增強"
  SEA_PRC_request_aid.1.t: "[FROM.GetName]請求武器"
  SEA_PRC_request_aid.1.desc: "鑑於我們過去頻繁支持[FROM.GetNameDef]，他們再次請求我們提供裝備。這次請求可能與最近結束的長征有關，這場行動讓他們在人力和物資上都損失慘重。"
@@ -1310,7 +1263,6 @@
  SEA_PRC_faction_events.74.t: "[FROM.GetNameDefCap]拒絕加入[PRC.GetFactionName]"
  SEA_PRC_faction_events.74.desc: "儘管收到這一提議，[FROM.GetLeader]仍宣佈[FROM.GetNameDef]拒絕[PRC.GetNameDef]提出的加入新成立的[PRC.GetFactionName]的邀請，並表示[FROM.GetAdjective]民眾更傾向於維持現狀。"
  SEA_PRC_faction_events.74.a: "他們已經做出了決定"
- ## New Fourth Army Incident
  SEA_PRC_fourth_army_incident.1.t: "盟友動盪"
  SEA_PRC_fourth_army_incident.1.desc: "我方指揮官報告稱，與[PRC.GetNameDef]的協同關係已引發一些小規模衝突。據稱，代表[PRC.GetNameDef]的指揮官多次表現出對我軍命令的遲疑，甚至有明令不遵之舉，對我方部隊的行動造成潛在威脅。"
  SEA_PRC_fourth_army_incident.1.a: "[PRC.GetNameDefCap]應該管好他們的部隊"
@@ -1339,7 +1291,6 @@
  SEA_PRC_fourth_army_incident.8.t: "[FROM.GetName]拒絕道歉"
  SEA_PRC_fourth_army_incident.8.desc: "針對我方在新四軍事件後提出的行動要求，[FROM.GetNameDef]表現出不願承認過錯的態度。這顯然是對支援其作戰的我方部隊的不信任，甚至可以說是近乎毫不掩飾的敵意。"
  SEA_PRC_fourth_army_incident.8.a: "我們現在承受不起衝突的代價"
- #no b option here, reuses 5.b
  SEA_PRC_fourth_army_incident.8.c: "這需要立即作出回應"
  SEA_PRC_fourth_army_incident.9.t: "[FROM.GetName]讓步"
  SEA_PRC_fourth_army_incident.9.desc: "儘管我們未作道歉，[FROM.GetNameDef]已表示不願就新四軍事件進一步升級衝突，不過他們肯定會記住這件事。"
@@ -1350,7 +1301,6 @@
  SEA_PRC_fourth_army_incident.11.t: "[FROM.GetLeader]為誤傷事件致歉"
  SEA_PRC_fourth_army_incident.11.desc: "針對新四軍事件後我方提出的要求[FROM.GetLeader]採取行動一事，[FROM.GetLeader]已正式致函我方領導層表示歉意，承諾將盡力指示其指揮官在面對有關命令的分歧時採取不同處理方式。"
  SEA_PRC_fourth_army_incident.11.a: "這樣就行了"
- #no b option here, reuses 65.b
  SEA_PRC_fourth_army_incident.12.t: "[FROM.GetName]接受致歉"
  SEA_PRC_fourth_army_incident.12.desc: "針對我方致[FROM.GetNameDef]領導層的致歉函，對方雖態度勉強，仍認為此舉足以作為“新四軍事件”的了結之法。"
  SEA_PRC_fourth_army_incident.12.a: "現在，我們都能把注意力放在更緊迫的事上"
@@ -1543,7 +1493,7 @@
  SEA_PRC_zhang_guotao_events.1.a: "儘管張國燾手握軍隊，但黨反對其合法性主張"
  SEA_PRC_zhang_guotao_events.1.b: "也許他說得有點道理？"
  SEA_PRC_zhang_guotao_events.2.t: "來自$PRC_zhang_guotao$的電報"
- SEA_PRC_zhang_guotao_events.2.desc: "紅四方面軍的$PRC_zhang_guotao$致電，稱他與部隊即將抵達[ROOT.Capital.GetName]。他們的長征比$PRC_mao_zedong$的隊伍足足多走了一年，必然筋疲力盡。或許正因如此，$PRC_zhang_guotao$再次強調無意挑戰黨的現有領導。" #will arrive soon, drops his claims (for now) etc.
+ SEA_PRC_zhang_guotao_events.2.desc: "紅四方面軍的$PRC_zhang_guotao$致電，稱他與部隊即將抵達[ROOT.Capital.GetName]。他們的長征比$PRC_mao_zedong$的隊伍足足多走了一年，必然筋疲力盡。或許正因如此，$PRC_zhang_guotao$再次強調無意挑戰黨的現有領導。"
  SEA_PRC_zhang_guotao_events.2.a: "歡迎張國燾與他的部隊——但必須嚴加監視"
  SEA_PRC_zhang_guotao_events.2.b: "我們不能信任他——公開譴責$PRC_zhang_guotao$，並拒絕他進入根據地"
  PRC_reject_guotao_tt: "§R這將使你無法選擇§!§Y$PRC_the_unwilling_diarchy_focus$§!§R國策及後續分支§!"
@@ -1566,17 +1516,14 @@
  SEA_PRC_zhang_guotao_events.7.t: "$PRC_zhang_guotao$退出共產黨"
  SEA_PRC_zhang_guotao_events.7.desc: "$PRC_zhang_guotao$已宣佈脫離中國共產黨，他聲稱與中央委員會和$PRC_mao_zedong$的關係無法修復，且對黨感到失望。"
  SEA_PRC_zhang_guotao_events.7.a: "兩架馬車是個錯誤——他不能被信任"
- #######################
- ### THE Philippines ###
- #######################
- SEA_PHI_political_events.1.t: "[FROM.GetName]提議簽署貿易協議" #Japan gets request for trade connection (from PHI to JAP)
+ SEA_PHI_political_events.1.t: "[FROM.GetName]提議簽署貿易協議"
  SEA_PHI_political_events.1.desc: "為減少對[USA.GetAdjective]貿易的依賴，[FROM.GetNameDef]已向我方提出新的貿易協定提案。與其類似，此舉或許也能讓我們減少對少數幾個貿易伙伴的依賴。"
- SEA_PHI_political_events.1.a: "對於我們所需的資源來說，擁有其他供應渠道至關重要" ## Agree to trade
- SEA_PHI_political_events.1.b: "我們還有其他考慮中的貿易伙伴人選" ## Reject Trade
+ SEA_PHI_political_events.1.a: "對於我們所需的資源來說，擁有其他供應渠道至關重要"
+ SEA_PHI_political_events.1.b: "我們還有其他考慮中的貿易伙伴人選"
  SEA_PHI_political_events.2.t: "日本簽署貿易協議"
  SEA_PHI_political_events.2.desc: "我們與[FROM.GetNameDef]提出的貿易協議得到了其政府的積極回應。他們的熱情為我們尋找新貿易伙伴的工作開了個好頭。"
  SEA_PHI_political_events.2.a: "好消息"
- SEA_PHI_political_events.3.t: "[FROM.GetName]提議簽署新貿易協議" ## These are Siam, Malaya and Dutch East Indies. They get this event from PHI
+ SEA_PHI_political_events.3.t: "[FROM.GetName]提議簽署新貿易協議"
  SEA_PHI_political_events.3.desc: "隨著獨立路徑的確立，[FROM.GetNameDef]已向我們提交了一份兩國貿易協定的草案。他們提出的協議將使進口我國資源對他們更具吸引力，而此前貿易伙伴的選擇可能基於[USA.GetAdjective]的利益，而非[FROM.GetAdjective]自身的利益。"
  SEA_PHI_political_events.3.a: "這將給我們帶來競爭優勢"
  SEA_PHI_political_events.3.b: "他們會得到和其他人一樣的價格"
@@ -1586,21 +1533,20 @@
  SEA_PHI_political_events.5.t: "[FROM.GetName]拒絕貿易協議"
  SEA_PHI_political_events.5.desc: "我們與[FROM.GetNameDef]達成貿易協議的合理提議遭到了拒絕。看來，與其他貿易伙伴的交易或地緣政治方面的考量，讓他們做出了有損於我們雙方利益的行為。"
  SEA_PHI_political_events.5.a: "我們會找其他人購買資源"
- SEA_PHI_political_events.6.t: "[FROM.GetName]提供支援" ### Support for the Chinese Communists - Sends event from PHI to PRC offering support
+ SEA_PHI_political_events.6.t: "[FROM.GetName]提供支援"
  SEA_PHI_political_events.6.desc: "[FROM.GetNameDef]國內[FROM.GetCommunistParty]日益增長的影響力如今初見成效——其代表跨越中國，告知我們有一支[FROM.GetAdjective]支援我方部隊的志願部隊正在集結。此外，這些志願者還帶來了備用裝備，以幫助裝備我方軍隊。"
  SEA_PHI_political_events.6.a: "與我們[FROM.GetAdjective]的同志進行合作的良好開端"
- #SEA_PHI_political_events.6.b: "They should focus on their own revolution"
- SEA_PHI_political_events.7.t: "[FROM.GetName]感謝我們的支援" ### Support for the Chinese Communists - They accept
+ SEA_PHI_political_events.7.t: "[FROM.GetName]感謝我們的支援"
  SEA_PHI_political_events.7.desc: "[FROM.GetLeader]的代表轉達了他對我們志願者的支持及所提供戰爭物資的感謝。[FROM.GetAdjective]在內戰中積累的豐富經驗，無疑將確保這些資源得到有效利用。"
  SEA_PHI_political_events.7.a: "良好的開端"
- SEA_PHI_political_events.9.t: "[FROM.GetName]提議出售艦船以換取軍事裝備" ### Request a trade with JAP / USA - convoys for weapons. This is from PHI to JAP/USA
+ SEA_PHI_political_events.9.t: "[FROM.GetName]提議出售艦船以換取軍事裝備"
  SEA_PHI_political_events.9.desc: "作為對一批[PHI_GetTradedEquipment]的交換，[FROM.GetNameDef]提議向我們派遣一支商船和運輸船隊。"
  SEA_PHI_political_events.9.a: "非常划算的交易。"
  SEA_PHI_political_events.9.b: "我們需要那些裝備"
- SEA_PHI_political_events.10.t: "[FROM.GetName]同意購買艦船" ## JAP/USA Accepts trade
+ SEA_PHI_political_events.10.t: "[FROM.GetName]同意購買艦船"
  SEA_PHI_political_events.10.desc: "依照我方提議，[FROM.GetNameDef]已向我們運送一批[PHI_GetTradedEquipment]，以交換正駛向[FROM.GetAdjective]港口的商船和運輸船。"
  SEA_PHI_political_events.10.a: "我們互利共贏"
- SEA_PHI_political_events.11.t: "[FROM.GetName]拒絕貿易提議" ## JAP/USA rejects trade
+ SEA_PHI_political_events.11.t: "[FROM.GetName]拒絕貿易提議"
  SEA_PHI_political_events.11.desc: "遺憾的是，[FROM.GetNameDef]拒絕向我們提供[PHI_GetTradedEquipment]以交換我方部分船隻。"
  SEA_PHI_political_events.11.a: "或許他們願意拿出一些其他裝備來交換。"
  SEA_PHI_political_events.12.t: "美國干預的威脅結束"
@@ -1621,60 +1567,55 @@
  SEA_PHI_political_events.16.t: "[USA.GetName]發出抗議聲明"
  SEA_PHI_political_events.16.desc: "因我們近期的政府與外交政策變化，[USA.GetAdjective]政府發來一封抗議信，譴責我們的舉措。不過考慮到他們此前在南美洲的干涉行動，這已算是輕描淡寫的反應了。"
  SEA_PHI_political_events.16.a: "這已是當前局勢下最好的結果了"
- SEA_PHI_political_events.17.t: "我們新的領導層" ## Pick a new country leader, the communist coup
+ SEA_PHI_political_events.17.t: "我們新的領導層"
  SEA_PHI_political_events.17.desc: "趁著美國對菲律賓國民政府監管不力的時機，菲律賓共產黨迅速介入填補了這一權力真空，當選的黨員們呼籲立即採取果斷行動——他們認為只有自己具備這樣的執行力。儘管其他團體仍有一定影響力，但共產主義派別已迅速崛起。\n\n然而如今，我們必須確定究竟該由誰來領導這個政黨，帶領國家走向那冉冉升起的紅色黎明。"
  SEA_PHI_political_events.17.a: "任命埃萬赫利斯塔，我們需要激進的領導"
  SEA_PHI_political_events.17.b: "任命桑托斯，以採取更具理性的策略"
- SEA_PHI_political_events.18.t: "[FROM.GetName]希望加入共產國際" ## Event to SOV - PHI wants to join Comintern
+ SEA_PHI_political_events.18.t: "[FROM.GetName]希望加入共產國際"
  SEA_PHI_political_events.18.desc: "我們一直饒有興致地關注著[PHI.GetNameDef]國內農民、工廠工人和漁民群體的崛起，如今他們已向我們伸出外交橄欖枝，表示有意加入共產國際。我們該如何回應？"
- SEA_PHI_political_events.18.a: "歡迎[FROM.GetName]加入共產國際" ## Yes, they may join
+ SEA_PHI_political_events.18.a: "歡迎[FROM.GetName]加入共產國際"
  SEA_PHI_political_events.18.b: "拒絕他們"
- SEA_PHI_political_events.19.t: "[FROM.GetName]拒絕加入共產國際" ## Event to PHI - Soviet refuses
+ SEA_PHI_political_events.19.t: "[FROM.GetName]拒絕加入共產國際"
  SEA_PHI_political_events.19.desc: "我們派往[SOV.GetNameDef]的代表團剛剛返回，但他們帶來了壞消息——我們加入共產國際的申請已被拒絕。至少目前，我們只能獨自對抗黑暗的浪潮。"
  SEA_PHI_political_events.19.a: "今天的世界似乎有點暗淡"
- SEA_PHI_political_events.20.t: "道格拉斯·麥克阿瑟受命前往菲律賓" ## Event to USA - MacArthur going to PHI
+ SEA_PHI_political_events.20.t: "道格拉斯·麥克阿瑟受命前往菲律賓"
  SEA_PHI_political_events.20.desc: "[USA.GetLeader]總統已將道格拉斯·麥克阿瑟召回現役並派其指揮新成立的、駐紮在菲律賓的美國遠東軍。總統做出這一任命是因為麥克阿瑟曾在菲律賓以軍事顧問的身份工作多年，熟知當地防衛情況。\n\n為了讓他更好地指揮當地軍隊，我們將無法控制他。不過，我們可以在需要其才能時將其召回。然而，我們應當仔細考慮這一決定，因為他的離開可能被視為美國對菲律賓興趣的消退，以及在此關鍵時刻放棄在太平洋彼岸的職責。"
  SEA_PHI_political_events.20.a: "祝好運，將軍！"
- SEA_PHI_political_events.21.t: "道格拉斯·麥克阿瑟抵達菲律賓" ## Event to PHI - MacArthur has arrived
+ SEA_PHI_political_events.21.t: "道格拉斯·麥克阿瑟抵達菲律賓"
  SEA_PHI_political_events.21.desc: "好消息！[USA.GetLeader]總統已指派道格拉斯·麥克阿瑟將軍指揮美國遠東陸軍。我們對麥克阿瑟非常熟悉，他退休期間曾在這裡擔任了多年的軍事顧問，他的任命和復役明確表明[USA.GetNameDef]認真地承擔了對我們國防的責任。\n \n抵達馬尼拉後，他立即著手從[USA.GetNameDef]獲得資源，併發誓要與勇敢的菲律賓人民共同對抗敵人，直到最後一刻。"
  SEA_PHI_political_events.21.a: "歡迎來到菲律賓，將軍！"
- SEA_PHI_political_events.30.t: "菲律賓方面請求調派艾森豪威爾" ## Event to USA - Eisenhower going to PHI
+ SEA_PHI_political_events.30.t: "菲律賓方面請求調派艾森豪威爾"
  SEA_PHI_political_events.30.desc: "美國遠東陸軍最高統帥道格拉斯·麥克阿瑟已請求調派其親信德懷特·戴維·艾森豪威爾為其服務。當麥克阿瑟擔任陸軍總司令時，艾森豪威爾已經在其手下服役，顯然這位老將軍看到了他的潛力。我們也認為艾森豪威爾是美國陸軍中一顆冉冉升起的新星，在這樣一個活躍的軍區工作可以為他積累很多經驗。\n\n艾森豪威爾本人強調，他不認為這是一項長期任命，並打算這兩年跟隨麥克阿瑟學習並擔任參謀，之後返回美國為我們服務。"
  SEA_PHI_political_events.30.a: "麥克阿瑟和艾森豪威爾共事？當然！"
- SEA_PHI_political_events.30.b: "不行，艾森豪威爾在這裡更重要" #PHI needs a no explainer
- SEA_PHI_political_events.31.t: "德懷特·D·艾森豪威爾抵達菲律賓" ## Event to PHI - Eisenhower has arrived
+ SEA_PHI_political_events.30.b: "不行，艾森豪威爾在這裡更重要"
+ SEA_PHI_political_events.31.t: "德懷特·D·艾森豪威爾抵達菲律賓"
  SEA_PHI_political_events.31.desc: "麥克阿瑟將軍的請求得到批准，德懷特·D·艾森豪威爾將被調任到菲律賓！我們很幸運有這樣一顆冉冉升起的新星加入我們，這進一步證明了美國有多注重對我們的保護。我們已明確得知，這是一項大約兩年的短期任命，然而，也許有一種辦法可以將他留在菲律賓。"
  SEA_PHI_political_events.31.a: "歡迎來到菲律賓！"
- SEA_PHI_political_events.40.t: "曼努埃爾·奎松遇刺！" ## Assassination of Quezon
+ SEA_PHI_political_events.40.t: "曼努埃爾·奎松遇刺！"
  SEA_PHI_political_events.40.desc: "曼努埃爾·奎松今日下午三點在盧內塔公園向支持者發表演講時遇刺身亡。槍手仍在逃，但據推測與與薩克達爾黨有關。與此同時，出於國家安全考慮，國民議會已關閉。憲兵大量進駐馬尼拉，街道已清空。全國籠罩著一種令人不安的寂靜，人民屏息等待事情後續發展。"
  SEA_PHI_political_events.40.a: "民主的火炬熄滅了。"
  SEA_PHI_political_events.40.b: "警察局長艾森豪威爾會出手介入！"
  PHI_eisenhower_steps_in_tt: "§G艾森豪威爾將嘗試挫敗法西斯分子的陰謀§!"
- SEA_PHI_political_events.41.t: "薩克達爾派流亡者歸來" ## Assassination of Quezon
+ SEA_PHI_political_events.41.t: "薩克達爾派流亡者歸來"
  SEA_PHI_political_events.41.desc: "阿爾特米奧·裡卡特帶領一隊配備各式日本武器的追隨者從流亡處歸來，宣稱已找到並逮捕了刺殺曼努埃爾·奎松的兇手，同時承諾將與憲兵隊合作，在總統遇刺導致的危機期間維持秩序。鑑於薩克達爾派深受質疑，他承諾與統一黨合作以獲取合法性，從而儘快加速從美國獨立的進程。作為回應，憲兵隊已撤出馬尼拉，明面上的理由是為了避免局勢升級；與此同時，美國駐軍已進入高度戒備狀態，但尚未採取任何行動。"
  SEA_PHI_political_events.41.a: "獨立越來越近了。"
- #Artemio Ricarte, returning from exile with a cadre of followers armed with a variety of Japanese arms have claimed to have found and apprehended the assassin, and are now promising to work together with the constabulary in order to retain order during the crisis caused by the murder of the president. In the mean time, the National Assembly has been closed for reasons of national security."
- SEA_PHI_political_events.42.t: "爭奪領導權" #Fascist Choose New Leader Aguinaldo, Ricarte or Laurel
+ SEA_PHI_political_events.42.t: "爭奪領導權"
  SEA_PHI_political_events.42.desc: "我們既然已經確立了對菲律賓的控制，且局勢開始趨於穩定，現在是時候讓執行委員會召開會議，決定國家的最終權力歸屬。目前有三個候選人可供選擇。\n\n埃米利奧·阿奎納多，反抗西班牙革命的英雄，長期以來一直支持菲律賓獨立，並曾公開表示，在美國統治下，菲律賓人民不過是美國出口商品的消費市場，甚至因連美國公民的身份都無法獲得而被視為賤民。\n\n阿特米奧·裡卡爾特，在對抗西班牙和美國的戰爭中擔任菲律賓軍隊的指揮官，後因拒絕向美國佔領者宣誓效忠而被流放。他對祖國的熱愛從未減退，即使在日本生活期間，仍致力於推動我們最終的獨立事業。\n\n何塞·勞雷爾，作為更溫和的選擇，這位最高法院法官曾接受國際教育，並與日本官員有家族聯繫，因此可能非常適合在菲律賓與日本之間建立紐帶，從而為我們的獨立事業創造條件。"
  SEA_PHI_political_events.42.a: "阿奎納多曾領導過我們的獨立事業。"
  SEA_PHI_political_events.42.b: "裡卡爾特擁有我們事業所需的不屈不撓的決心。"
  SEA_PHI_political_events.42.c: "勞雷爾的關係非常深厚。"
  PHI_laurel_help: "§Y何塞·勞雷爾§!將提高在§Y確保日本擔保§!中獲得日本支持的概率"
- SEA_PHI_political_events.43.t: "圍攻國民議會" #Eisenhower Steps In, Calls in MacArthur
+ SEA_PHI_political_events.43.t: "圍攻國民議會"
  SEA_PHI_political_events.43.desc: "阿特米奧·裡卡爾特結束流亡生涯後，率領一支裝備日本各式武器的追隨者隊伍高調歸來，宣稱已查獲並逮捕了刺殺曼努埃爾·奎松的真兇。然而警方負責人艾森豪威爾立即予以駁斥，指出這不過是收買來頂罪的貧苦農民。\n\n為表達抗議，該組織隨即向國民議會進發，意圖強行伸張正義，並衝入了議會建築群。在入口處爆發的交火中，兩名無辜群眾遭流彈擊中。美方支持的警衛部隊被指控為開槍方，艾森豪威爾鑑於局勢緊張可能惡化，不得不下令警力撤出該區域。\n\n儘管他全力維穩，但隨著薩克達爾黨叛亂分子從周邊地區乘巴士趕來煽動，聚集的暴民規模不斷擴大，幾乎完全壓制了警方力量。萬般無奈之下，艾森豪威爾只得向美國駐軍[MessageToMac]發出緊急增援請求。"
  SEA_PHI_political_events.43.a: "現在只能仰仗[MacOrGarrison]了。"
  PHI_message_to_mac: "的道格拉斯·麥克阿瑟將軍"
  PHI_macarthur: "麥克阿瑟"
  PHI_american_garrison: "美國駐軍"
- SEA_PHI_political_events.44.t: "軍事緊急狀態" #MacArthur announces military emergency
+ SEA_PHI_political_events.44.t: "軍事緊急狀態"
  SEA_PHI_political_events.44.desc: "[MacOrGarrison]做出的反應迅速而猛烈。為確保萬無一失，菲律賓師全體被調往馬尼拉，騎兵率先衝鋒，步兵緊隨其後，刺刀上膛。在遭遇更頑固的抵抗時，催淚瓦斯被用於清場。面對壓倒性的武力震懾，薩克達爾黨民兵被迫放棄路障，潰不成軍地撤離城市。\n\n儘管法西斯政變的初步威脅已被挫敗，但局勢仍可能升級為全面內戰。為此，[MacOrEisenhower]宣佈進入軍事緊急狀態，實施戒嚴，並行使獨裁權力以維持政府穩定運轉。"
  SEA_PHI_political_events.44.a: "一切都是為了捍衛自由與民主！"
  PHI_eisenhower: "艾森豪威爾"
  PHI_declare_military_emergency_tt: "這將解鎖極左路線的國策分支。"
- #43 - Eisenhower Steps In
- #44 - Fighting in the Streets
- #45 - +Mac Declare Military Emergency
- #46 - -Mac Declare Military Emergency
  SEA_PHI_political_events.45.t: "[FROM.GetName]尋求獨立支持"
  SEA_PHI_political_events.45.desc: "[FROM.GetAdjective]政府已同我方接洽，提出了從[USA.GetNameDef]治下爭得獨立的計劃。這些計劃尚未動員部署，但他們請求當[PHI.GetNameDef]真正要求獨立時，我們能支持其訴求，並在訴求遭拒時加入他們一方進行戰鬥。"
  SEA_PHI_political_events.45.a: "這將擴大我們的影響力"
@@ -1780,9 +1721,6 @@
  SEA_PHI_political_events.71.desc: "[FROM.GetNameDefCap]已決定拒絕我們的統一提案。儘管對方表示重視我們的同盟關係，但仍認為此舉過於激進。"
  SEA_PHI_political_events.71.a: "那麼，或許我們之間的分歧比我們想像的要大。"
  SEA_PHI_political_events.71.b: "我們必須堅持"
- #######################
- ####### Generic #######
- #######################
  GetOppositionPartySupportersName_democratic: "共和派"
  GetOppositionPartySupportersName_communism: "共產派"
  GetOppositionPartySupportersName_fascist: "法西斯派"
@@ -1798,7 +1736,6 @@
  GetOppositionPartyName_fascist: "[ROOT.GetFascistParty]"
  GetOppositionPartyName_neutrality: "[ROOT.GetNeutralParty]"
  GetOppositionPartyName_backup: "反對派"
- #SEA_generic_events.1 is hidden
  SEA_generic_events.2.t: "[GetOppositionPartyName]組織罷工"
  SEA_generic_events.2.desc: "某地工廠的[GetOppositionPartyAdjective]派工人短暫停工，抗議要求改善工作條件和擴大政治自由。儘管規模有限，此次罷工確實體現了[GetOppositionPartyName]的支持度。"
  SEA_generic_events.2.a: "把他們解僱換掉"
@@ -1806,7 +1743,6 @@
  SEA_generic_events.3.t: "[GetOppositionPartySupportersName]抗議軟弱的政府"
  SEA_generic_events.3.desc: "據報道，[GetOppositionPartyName]的支持者在首都舉行遊行示威，批評政府效率低下，似乎打算推動一個更加集權的政府。"
  SEA_generic_events.3.a: "他們很幸運有這個權利"
- #SEA_generic_events.3.b: ""
  SEA_generic_events.4.t: "[GetOppositionPartySupportersName]干擾政府會議"
  SEA_generic_events.4.desc: "一小群[GetOppositionPartyName]支持者最近發動了一場規模有限但聲勢不小的抗議擾亂了政府會議。雖然沒造成什麼危害，但類似事件的日益普遍反映了人們對反對派的支持。"
  SEA_generic_events.4.a: "譴責他們的行動"
@@ -1822,7 +1758,6 @@
  SEA_generic_events.7.t: "[GetOppositionPartyName]組織大規模集會"
  SEA_generic_events.7.desc: "[GetOppositionPartyAdjective]黨派今日舉行集會，據報參與規模堪比[ROOT.GetRulingParty]的集會。我們只能期望本方支持者不會認同他們的訴求。"
  SEA_generic_events.7.a: "基於他們的訴求組織我方集會"
- #SEA_generic_events.7.b: ""
  SEA_generic_events.8.t: "[GetOppositionPartySupportersName]捲入街頭衝突"
  SEA_generic_events.8.desc: "[GetOppositionPartyName]的支持度今日引發事端，其部分支持者與政府及[ROOT.GetRulingParty]支持者發生衝突，最終警方不得不介入。儘管只是局部事件，但這仍反映出當前緊張的政治氛圍。"
  SEA_generic_events.8.a: "我們可藉此譴責[GetOppositionPartyName]"
@@ -1857,9 +1792,6 @@
  SEA_generic_events.15.desc: "據悉，由[GetOppositionPartyName]組織的局部大規模抗議因有人向警方投擲物品導致開火回應，最終演變為流血事件。儘管此事並非政府或[GetOppositionPartySupportersName]的過錯，但仍引發對國家穩定性的嚴重關切。"
  SEA_generic_events.15.a: "譴責地方黨派官員"
  SEA_generic_events.15.b: "歸咎於抗議者"
- #######################
- ####### WARLORDS ######
- #######################
  SEA_warlords.1.t: "劉湘之死"
  SEA_warlords.1.desc: "隨著劉湘的去世和中央政府日益增大的壓力，越來越明顯的事實是[ROOT.GetNameDef]可能即將解散。然而有人認為，他的死亡並非巧合，而是一場暗殺，他們願意繼續抗爭，哪怕這會激怒中央政府。"
  SEA_warlords.1.a: "[ROOT.GetNameDefCap]已經完成了使命。"
@@ -2142,7 +2074,6 @@
  SEA_warlords.100.t: "[XIC.GetName]背叛了[ROOT.GetLeader]"
  SEA_warlords.100.desc: "一份緊急報告從[XIC.GetNameDef]傳來，稱[XIC.GetLeader]已將部隊撤出[1032.GetName]，任由[PRC.GetNameDef]的部隊湧入該地區並將其據為己有。[XIC.GetName]成立的全部意義本是遏制並消滅[PRC.GetName]——而非助長其勢力。"
  SEA_warlords.100.a: "這種背叛不可容忍！"
- #Tooltips
  SIC_can_lead_to_war_with_china_tt: "§R這可能會導致與中央政府的進一步衝突！§!"
  SIK_locks_good_focus_tt: "§R我們未能統一新疆§!"
  SIK_failed_campaign_tt: "[SIK.GetLeader]未能驅逐國民黨勢力"
@@ -2150,9 +2081,6 @@
  TSR_recieve_pp_warlord: "一旦他們履行協議，我們將獲得100政治點數"
  TSR_recieve_manpower_warlord: "一旦他們履行協議，我們將獲得5000人力"
  TSR_recieve_equipment_warlord: "一旦他們履行協議，我們將獲得1000步兵裝備"
- #############
- ##MANCHUKUO##
- #############
  tsr_manchukuo.1.t: "領導權問題"
  tsr_manchukuo.1.desc: "在滿洲國的帝國體制中，皇帝職位始終是一塊心病。在總理張景惠和關東軍的統治下，國家實際上形同共和國，皇帝權力極其微弱，幾乎只是象徵性的傀儡。不過，這一切或許都能改變，一些關東軍軍官認為，國家要繁榮昌盛，皇位必須牢牢掌握在皇帝手中。但也有人認為溥儀軟弱無能、不可信賴，更希望皇位能落到他那位接受過日本教育的弟弟溥傑手中。"
  tsr_manchukuo.1.a: "我們應該維持現狀"

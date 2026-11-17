@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ###### AUSTRIAN CHARACTERS ######
  AUS_ernst_rudiger_starhemberg: "恩斯特·呂迪格·施塔爾亨貝格"
  AUS_johann_koplenig: "約翰·科普萊尼希"
  AUS_edmund_glaise_horstenau: "埃德蒙·格萊塞-霍斯特瑙"
@@ -62,7 +61,6 @@
  AUS_wilhelm_ergert: "威廉·埃爾格特"
  AUS_johann_jacob_reverta: "約翰·雅各布·雷韋爾塔"
  AUS_friedrich_mandl: "弗里德里希·曼德爾"
- ##### HUNGARIAN CHARACTERS ####
  HUN_bela_kun: "庫恩·貝拉"
  HUN_joseph_august_von_habsburg: "約瑟夫·奧古斯特·馮·哈布斯堡"
  HUN_istvan_horthy: "霍爾蒂·伊什特萬"
@@ -121,7 +119,6 @@
  HUN_franz_anton_bach: "弗朗茨·安東·巴施"
  SOV_alexander_rado: "亞歷山大·勞多"
  HUN_hermann_goring: "$GER_hermann_goring$"
- ###### VARIOUS HABSBURG CHARACTERS #######
  HUN_vasyl_vyshyvanyi: "瓦西里·維希瓦尼·馮·哈布斯堡"
  HUN_yevhen_konovalets: "葉夫根·米哈伊洛維奇·科諾瓦列茨"
  HUN_andriy_melnyk: "安德里·阿塔納索維奇·梅利尼克"
@@ -132,7 +129,6 @@
  LBV_robert_von_habsburg: "羅伯特·馮·哈布斯堡"
  TTS_ferdinand_pius: "費迪南德·皮烏斯·波旁-兩西西里"
  TOS_joseph_ferdinand_von_habsburg: "約瑟夫·斐迪南·馮·哈布斯堡-洛林"
- ###### GEORGIAN CHARACTERS #####
  GEO_noe_zhordania: "諾伊·佐達尼亞"
  GEO_kandid_charkviani: "卡基德·查克維尼"
  GEO_george_bagration: "吉奧爾基·巴格拉季昂-穆赫拉涅利"
@@ -140,7 +136,6 @@
  GEO_shalva_maglakelidze: "沙爾瓦·馬格拉凱利澤"
  GEO_grigol_robakidze: "格里戈爾·羅巴基澤"
  GEO_ioseb_jughashvili: "約瑟夫·朱加什維利"
- ###### ALBANIAN CHARACTERS #####
  ALB_wilhelm_of_wied: "威廉·維德親王"
  ALB_king_zog: "索古一世"
  ALB_enver_hoxha: "恩維爾·霍查"
@@ -152,11 +147,9 @@
  ALB_fiqri_dine: "菲契裡·迪內"
  ALB_midhat_frasheri: "邁扎特·弗拉舍裡"
  ALB_jocelyn_percy: "喬斯林·珀西爵士"
- ####### CZECH CHARACTERS ######
  CZE_paul_thummel: "保羅·圖梅爾"
  SIL_jozsef_kozdon: "約瑟夫·科茲東"
  SIL_alexander_hochberg: "亞歷山大·霍赫貝格"
- ###### EAST EUROPEAN CHARACTERS #####
  IA_olga_taratuta: "奧爾加·塔拉圖塔"
  SOV_yan_chernyak: "揚·切爾尼亞克"
  UKR_mykhailo_omelianovych_pavlenko: "米哈伊洛·帕夫連科"
@@ -179,7 +172,6 @@
  SOV_vasily_flug: "瓦西里·弗盧格"
  SOV_boris_shteifon: "鮑里斯·施泰豐"
  SOV_ursula_kuczynski: "烏爾蘇拉·庫琴斯基"
- ###### BALKAN CHARACTERS #####
  CRO_ante_pavelic: "安特·帕韋利奇"
  CRO_vladko_macek: "弗拉德科·馬切克"
  CRO_joseph_francis: "約瑟夫·弗朗茨·馮·哈布斯堡"
@@ -188,10 +180,8 @@
  MNT_blazo_dukanovic: "布拉若·久卡諾維奇"
  MNT_blazo_jovanovic: "布拉若·約萬諾維奇"
  MNT_kristo_popovic: "克爾斯托·波波維奇"
- ### COSSACKS ###
  KUB_ivanis_vasily_nikolaevich: "伊萬尼斯·瓦西里·尼古拉耶維奇"
  DON_vladimir_sidorin: "弗拉基米爾·西多林"
- ##### BELGIAN CHARACTERS #####
  BEL_emile_vanderveld: "埃米爾·王德威爾得"
  BEL_henri_de_man: "亨利·德曼"
  BEL_achille_van_acker: "阿希爾·範阿克"
@@ -224,7 +214,6 @@
  BEL_august_borms: "奧古斯特·博姆斯"
  BEL_fernand_verstraete: "費爾南·韋斯特拉特"
  BEL_jozef_raskin: "約瑟夫·瑪麗亞·拉斯金"
- ##### LUXEMBOURGISH+ CHARACTERS #####
  LUX_joseph_bech: "約瑟夫·伯克"
  LUX_charles_marx: "夏爾·馬克思"
  LUX_damian_kratzenberg: "達米安·克拉岑貝格"
@@ -236,7 +225,6 @@
  LUX_felix_of_luxembourg: "費利克斯·盧森堡親王"
  FRA_georges_valois: "喬治·瓦盧瓦"
  FRA_marcel_deat: "馬塞爾·戴亞"
- ##### CONGOLESE CHARACTERS #####
  COG_pierre_ryckmans: "皮埃爾·裡克曼斯"
  COG_joseph_kasa_vubu: "約瑟夫·卡薩-武布"
  COG_cyrille_adoula: "西里爾·阿杜拉"
@@ -269,7 +257,6 @@
  COG_eugene_jungers: "歐仁·容格斯"
  COG_auguste_tilkens: "奧古斯特·蒂爾肯斯"
  POL_jan_zumbach: "揚·祖姆巴赫"
- ##### VARIOUS AFRICAN CHARACTERS #####
  KAT_moise_tshombe: "莫伊茲·卡奔達·衝伯"
  BRD_mwambutsa_iv: "姆瓦姆布扎四世·班吉里森傑"
  RWA_mutara_rudahigwa: "穆塔拉三世·魯達希瓜"
@@ -277,17 +264,14 @@
  GHA_kwame_nkrumah: "弗朗西斯·誇梅·恩克魯瑪"
  BAR_yeta_iii: "耶塔三世"
  SOK_siddiq_abubakar: "西迪克·阿布巴卡爾三世"
- #### BRITISH CHARACTERS ####
  SOV_kim_philby: "金·菲爾比"
- #### JAPANESE CHARACTERS ####
  JAP_john_semer_farnsworth: "約翰·塞默爾·法恩斯沃思"
  JAP_patrick_vaughan_heenan: "帕特里克·沃恩·希南"
  JAP_ignatius_timothy_trebitsch_lincoln: "伊格內修斯·蒂莫西·特雷比奇-林肯"
  JAP_yoshiko_kawashima: "川島芳子"
  JAP_takeo_yoshikawa: "吉川猛夫"
- ##### GERMAN CHARACTERS #####
- GER_werner_von_blomberg: "維爾納·馮·勃洛姆堡" #Field Marshal
- GER_vincenz_muller: "文岑茨·穆勒" #Communist Field Marshal
+ GER_werner_von_blomberg: "維爾納·馮·勃洛姆堡"
+ GER_vincenz_muller: "文岑茨·穆勒"
  GER_oswald_lutz: "奧斯瓦爾德·盧茨"
  GER_walther_nehring: "瓦爾特·內林"
  GER_rolf_carls: "羅爾夫·卡爾斯"
@@ -381,7 +365,6 @@
  GER_eva_braun: "愛娃·布勞恩"
  UBD_sophie_buxhoeveden: "索菲·布克斯赫韋登"
  GER_hans_vogel: "漢斯·福格爾"
- #### VARIOUS SCIENTISTS ####
  USA_william_francis_gibbs: "威廉·弗朗西斯·吉布斯"
  USA_leslie_skinner: "萊斯利·斯金納"
  USA_edward_curtis_wells: "愛德華·柯蒂斯·韋爾斯"
@@ -429,5 +412,4 @@
  BEL_auguste_piccard: "奧古斯特·皮卡爾"
  HUN_laszlo_varga: "沃爾高·拉斯洛"
  HUN_asboth_oszkar: "奧斯卡·奧什博特"
- #### CATALONIAN CHARACTERS ####
  CAT_lluis_companys: "路易·孔帕尼斯·霍韋爾"

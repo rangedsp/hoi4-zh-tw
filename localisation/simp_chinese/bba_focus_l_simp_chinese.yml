@@ -1,7 +1,4 @@
 ﻿l_simp_chinese:
- #Opinion modifiers
- ### Ethiopia
- #triggers
  has_war_escalation_level_1_tt: "戰局態勢至少為1"
  has_war_escalation_level_2_tt: "戰局態勢至少為2"
  has_war_escalation_level_3_tt: "戰局態勢至少為3"
@@ -17,14 +14,11 @@
  league_of_nations_is_active_tt: "國際聯盟仍有效力且尚未介入。"
  is_or_will_be_jimma_tt: "是$jimma$"
  is_or_will_be_gojjam_tt: "是$gojjam$"
- #global flags
  second_italo_ethiopian_war_flag: "第二次意埃戰爭正在進行"
  ETH_selassie_left_flag: "$ETH_haile_selassie$已離開埃塞俄比亞"
- #Tech bonuses
  ETH_university_bonus: "[ROOT.Capital.GetCapitalVictoryPointName]大學電子學研究"
  ETH_new_weapons_and_tactics_bonus: "新型武器與戰術研究"
  ETH_shipbuilding_bonus: "[ETH.GetAdjective]造船業"
- #Focuses
  ecole_militaire_haile_selassie_1er: "海爾·塞拉西一世軍事學院"
  holeta_military_academy: "霍萊塔軍事學院"
  every_league_of_nations_member_tt: "所有國際聯盟成員國："
@@ -440,9 +434,6 @@
  ETH_demand_DJI_desc: "隨著[AFA.GetName]的解放，我們治下存在著大量的阿法爾人。然而，由於[FRA.GetAdjective]對[DJI.GetName]的佔領，阿法爾人民事實上遭到了分裂。通過主張將阿法爾人民從帝國主義的統治下解放出來，我們也許能獲得阿法爾人民的認可與忠誠，並藉此獲得一個戰略港口。"
  ETH_the_rif: "解放裡夫"
  ETH_the_rif_desc: "許多正在西班牙爭權奪利的法西斯分子都曾是在北摩洛哥鎮壓裡夫共和國的士兵。通過與[SPC.GetName]的密切聯繫，我們將在曾身為他們殖民地的土地上推動去殖民化。如果他們是我們真正的同志，就一定會同意。倘若不是，我們同樣也知道該對殖民主義做什麼。"
- #ETH_social_reforms: "Social Reforms"
- #ETH_social_reforms_desc: "Without the threat of a common enemy to unite us, we often find ourselves divided due to historic, cultural and religious grievances. We need a wave of social reforms to overcome these divisions so that we can remain united and continue the process of building a better [ETH.GetName]."
- #ETH_social_reforms_tt: "Unlock anarcho-communist social reform decisions."
  ETH_communal_education: "公共教育"
  ETH_communal_education_desc: "確保[ETH.GetNameDef]中的每個社群都能夠通過學校和圖書館接受教育，是提升人民生活水準至關重要的一步。"
  ETH_african_wildfire: "非洲之火"
@@ -672,7 +663,6 @@
  ETH_seize_assets_default_desc: "作為[ETH.GetName]最富有的那一批人，貴族可以輕鬆地通過古早時期的法律漏洞來逃稅，這對我們的經濟沒有任何正面意義。我們需要從貴族那裡徵收合適的稅款，並將其用於帝國的工業化發展。"
  ETH_tax_exemption_default_title: "擴大免稅"
  ETH_seize_assets_default_title: "向貴族徵稅"
- #ITALY
  ITA_italian_highways_bba: "意大利高速公路"
  ITA_italian_highways_bba_desc: "古羅馬人修建了全世界絕無僅有的道路網，但如今，那些日耳曼暴發戶以為自己的高速公路遠超我們所建造的一切。我們將證明他們是錯的。"
  ITA_develop_libya: "開發利比亞"
@@ -1624,10 +1614,6 @@
  ITA_novus_ordo_forts_tt: "在完全控制的利比亞地區邊境添加最多§Y10級陸上要塞§!。"
  ITA_novus_ordo_create_units_tt: "在擁有且控制的利比亞地區創建§Y[ROOT.GetFlag][ROOT.GetAdjective]§!單位："
  ITA_novus_ordo_irregular_troops_tt: "創建§Y5個$infantry$師§!。"
- ######################################################################
- ################     SWITZERLAND FOCUS TREE     ######################
- ######################################################################
- #########   Historical ####################
  SWI_swiss_guiding_principles: "瑞士指導原則"
  SWI_swiss_guiding_principles_desc: "[ROOT.GetNameDefCap]有大陸上最悠久的民主制度，然而，它正面臨被歐陸各處尋求變革的急促步伐踐踏的風險。我們應該延續由“宣誓同盟”和1848年憲法奠基的事業，還是踏上展現在我們面前的嶄新道路？"
  SWI_increase_defense_budget: "增加國防預算"
@@ -1760,7 +1746,6 @@
  SWI_support_active_militias_continuous_focus_desc: "我們的公民已全副武裝並被部署到地方民兵部隊，其他人的職責就是盡最大努力支持他們，這樣我們才能阻擋聯邦的敵人。"
  SWI_rig_infrastructure_to_blow_TT: "當一個我們的核心地區被敵人奪取時，所有§Y基礎設施§!、§Y鐵路§!、§Y補給中心§!和§Y要塞§!將完全受損。§Y軍用§!和§Y民用工廠§!將會部分受損。"
  SWI_create_anti_tank_template_TT: "創建一個§Y瑞士反坦克民兵§!編制"
- ##### Submit to Germany #####
  SWI_closer_ties_with_germany: "與[SWI_get_fascist_neighbor_cap]交好"
  SWI_closer_ties_with_germany_desc: "在我們的北方有一位強大且危險的鄰居。如果想保全我們的國家，與他們之間保持良好的關係也許是一個不錯的主意。所以接近他們以改善關係，並同時保持我方的中立立場是至關重要的。"
  SWI_panoramaheim_branch: "“全景屋”"
@@ -1829,7 +1814,6 @@
  SWI_expand_federal_police_intelligence_desc: "潛藏在陰影裡的敵人可能會以任何形式現身，甚至會扮成我們的民眾。這就是為什麼聯邦警察情報局必須要有方法碾碎這些異議者，無論他們身藏何處。"
  SWI_martial_law: "戒嚴令"
  SWI_martial_law_desc: "應付某些情況需要手術刀一般的細緻和精準，不過此時非彼時，[ROOT.GetNameDef]需要的是一把既能抵禦外敵，又能制服國民的重錘。"
- ####### Weapons Industry Sub Branch #######
  SWI_expand_weapons_industry: "發展武器工業"
  SWI_expand_weapons_industry_desc: "我們貧弱的軍事工業的能力不足以支撐一場全面戰爭。現代戰爭由最後耗盡彈藥的人取勝，所以我們必須確保我們能更快、更持久地製造戰爭裝備。"
  SWI_swiss_armored_divisions: "瑞士裝甲師"
@@ -1852,7 +1836,6 @@
  SWI_air_production_desc: "設計出能飛行的飛機只是解決問題的第一步。下一步則是製造出足夠多的飛機，讓我們的飛行員能隨時進入天空，與地面和空中的敵人交戰。"
  SWI_mountaneer_paratroopers: "山地傘兵"
  SWI_mountaneer_paratroopers_desc: "[ROOT.GetNonIdeologyName]的壯麗山峰舉世聞名，我們的許多人民亦將大山看作自己的家鄉。我們可以利用這個優勢來訓練一些精英傘兵，他們可以從敵人的空域上空降，並把[ROOT.GetNameDef]的旗幟插到外國山峰上。"
- ####### Allied/Aggrocratic #######
  SWI_purchase_american_planes: "[SWI_purchase_democratic_planes_title]"
  SWI_purchase_american_planes_usa: "購買美國飛機"
  SWI_purchase_american_planes_other: "從民主國家購買飛機"
@@ -1987,7 +1970,6 @@
  SWI_militias_turned_into_regulars: "公民民兵已實現職業化"
  SWI_old_switzerland_TT: "\n§Y當戰爭結束時：§!\n"
  SWI_viable_fascist_in_europe: "存在合適的歐洲§Y法西斯國家§!"
- #Horn of Africa
  HOA_develop_capitalstate: "開發[Root.Capital.GetName]"
  HOA_develop_capitalstate_desc: "我們需要加快工業化的進程，藉此改善民生並加強對[ROOT.GetNameDef]的保護。因此，我們將在[ROOT.Capital.GetCapitalVictoryPointName]周邊地區開展投資，將其打造為國家的工業核心。"
  HOA_the_state_bank_of_name: "[ROOT.GetNameDef]國家銀行"

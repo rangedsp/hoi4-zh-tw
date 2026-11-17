@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ####### JAPAN #######
  JAP_military_power_balance: "軍種對立"
  JAP_imperial_army_side: "帝國陸軍"
  JAP_imperial_navy_side: "帝國海軍"
@@ -12,7 +11,6 @@
  JAP_imperial_navy_medium_control_range: "強大的海軍影響力"
  JAP_imperial_navy_high_control_range: "主導的海軍影響力"
  JAP_imperial_navy_total_control_range: "海軍完全掌控"
- ####### PEOPLE'S REPUBLIC OF CHINA ########
  PRC_communist_power_struggle: "中央委員會的權力鬥爭"
  PRC_bop_left_side: "毛澤東"
  PRC_bop_right_side: "二十八個半布爾什維克"

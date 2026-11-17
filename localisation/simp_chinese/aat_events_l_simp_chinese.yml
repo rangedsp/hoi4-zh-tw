@@ -1,7 +1,4 @@
 ﻿l_simp_chinese:
- #########
- #NORDIC SHARED #
- ########
  AAT_nordic_shared.1.t: "[FROM.GetName]邀請我們加入[NORDIC_get_alliance_name]"
  AAT_nordic_shared.1.desc_faction_member: "[FROM.GetNameDefCap]希望我們的聯盟更進一步，並在多個層面上深化合作。他們認為軍事聯盟只是邁向更強大、更統一的北歐地區的第一步。"
  AAT_nordic_shared.1.desc_non_faction_member: "[FROM.GetNameDefCap]正在努力在北歐所有國家之間建立深度合作。他們想要創建[NORDIC_get_alliance_name]並邀請我們加入他們的行列。"
@@ -49,9 +46,6 @@
  AAT_nordic_cooperation.9.desc: "儘管我們的目標是在平等的基礎上與[FROM.GetName]交易，但他們已經通知我們，他們對這樣的安排不感興趣。\n\n我們總是可以再試一次，或者尋找另一個北歐兄弟國家。"
  AAT_nordic_cooperation.9.a: "真是莫名其妙。"
  NORDIC_escalation_hostility_reason: "協防北歐諸國"
- #########
- #NORWAY #
- ########
  AAT_norway.1.t: "法西斯分子騷擾[NOR_lev_trotsky.GetName]"
  AAT_norway.1.desc: "在這位頗具爭議的革命家與他的房東外出去釣魚的時候，與民族統一黨關係密切的法西斯分子闖入了康拉德·克努森的家，這正是托洛茨基居住的地方。\n\n這些盜賊試圖尋找任何可以幫助除掉這位流亡的共產主義者的罪證，但幸運的是，在他們找到任何重要物品之前，克努森的女兒約迪斯嚇走了他們。"
  AAT_norway.1.a: "必須讓他遠離麻煩"
@@ -911,7 +905,6 @@
  AAT_Sweden_communism__7_tt_1: "這會使我們與同盟國結盟。"
  AAT_Sweden_communism__7_tt_2: "這會使我們與德國人結盟。"
  AAT_Sweden_communism.7.c: "實際上，斯大林主義也許並不是一個壞主意"
- #### DENMARK ####
  denmark_political_events.1.t: "不信任動議"
  denmark_political_events.1.desc: "[DEN.GetLeader]領導層最近受到了嚴厲的審查和批評。國會要求首相下臺。"
  denmark_political_events.1.a: "不信任投票"
@@ -962,7 +955,6 @@
  denmark_political_events.11.t: "君主派運動"
  denmark_political_events.11.desc: "[ROOT.GetNameDef]出現了一些腐朽的東西！好不容易有了一個人民執政、為人民服務的政府，但並不是所有人都滿意。一場自稱愛國者的運動如雨後春筍般湧現，團結在過時的君主制制度背後。他們正在獲得一些支持，但似乎並不構成威脅。至今還沒有。"
  denmark_political_events.11.a: "回到你來的陰影裡去!"
- #Occupation Events
  denmark_occupation_event.1.t: "戰或亡"
  denmark_occupation_event.1.desc: "儘管我們已經明確宣佈保持中立，但戰爭已經來到[DEN.GetNameDef]。如果我們及早屈服投降，也許還能保護人民免受戰爭的恐怖。這樣，我們就可以獲得有利的讓步，繼續半獨立地開展行動。"
  denmark_occupation_event.1.a: "我們贏不了這一戰"
@@ -1028,7 +1020,6 @@
  denmark_occupation_event.112.t: "[FROM.GetNameDefCap]拒絕我們的忠誠"
  denmark_occupation_event.112.desc: "[FROM.GetLeader]不明智地拒絕了[ROOT.GetLeader]，拒絕了我們的忠誠，削弱了我們的能力和不斷增長的力量。如果我們想重新獲得自由，那麼就只剩下一個選擇：戰爭。"
  denmark_occupation_event.112.a: "我們會教會他們什麼是謙卑！"
- #Resistance Events
  denmark_resistance_event.1.t: "[DEN.GetNameDefCap]尋求我方支持"
  denmark_resistance_event.1.desc: "我們收到了[DEN.GetNameDef]發來的絕密消息，稱其正在暗中結交盟友，以便時機來臨時支持獨立，並從[?DEN.DEN_overlord_nation.GetNameDef]手中奪回主權。我們要在這場衝突中站隊嗎？"
  denmark_resistance_event.1.a: "為了自由的[DEN.GetNameDef]！"
@@ -1234,7 +1225,6 @@
  denmark_overlord_events.48.t: "[FROM.GetNameDefCap]拒絕被吞併"
  denmark_overlord_events.48.desc: "[FROM.GetLeader]給我們發了一封簡短的電報，裡面只有一個詞——“永不”。看來他們不需要我們的全力保護。"
  denmark_overlord_events.48.b: "他們力量微弱，不是我們的對手！"
- #Rearmament Events
  denmark_protection_event.1.t: "[FROM.GetNameDefCap]提出互不侵犯條約"
  denmark_protection_event.1.desc: "今天上午，我們接待了[FROM.GetAdjective]政府的特使，提出與他們簽訂互不侵犯條約。選擇簽署這項協議將意味著與[FROM.GetAdjective]發展更緊密的夥伴關係。"
  denmark_protection_event.1.a: "我們將簽署該項條約"
@@ -1324,7 +1314,6 @@
  denmark_protection_event.202.t: "空軍演習"
  denmark_protection_event.202.desc: "面對戰爭，重要的是讓空軍做好應對可能發生的一切的準備。通過進行這些演習，我們的飛行員將做好充分準備，在需要時保衛[DEN.GetNameDef]的天空。"
  denmark_protection_event.202.a: "太好了！"
- #Conquest Events
  denmark_expansion_event.1.t: "[FROM.GetNameDefCap]要求合併"
  denmark_expansion_event.1.desc: "[DEN.GetAdjective]政府向我們發出最後通牒，要求[ICE.GetNameDef]屈服並納入他們的國家組織。我們必須小心，因為我們的反應可能決定[ICE.GetNameDefCap]作為一個主權國家的未來，或者在最壞的情況下，讓我們更接近戰爭。"
  denmark_expansion_event.1.a: "我們別無選擇，只能接受"
@@ -1472,7 +1461,6 @@
  denmark_expansion_event.801.desc: "我們已經收到了[FROM.GetAdjective]政府關於我們提供適當保護的答覆，他們高興地接受了我們的全面保護！"
  denmark_expansion_event.802.t: "[FROM.GetNameDefCap]拒絕我們的保護"
  denmark_expansion_event.802.desc: "我們已經收到了[FROM.GetAdjective]政府關於我們提供適當保護的答覆，遺憾的是，他們拒絕屈服。他們遲早會發現這是一個多麼愚蠢的錯誤。"
- #Fascist Events
  denmark_fascist_event.1.t: "[FROM.GetNameDefCap]尋求我們的支持"
  denmark_fascist_event.1.desc: "今天上午，我們迎來了一個來自[FROM.GetAdjective]法西斯黨的代表團，他們尋求我們的支持，試圖在他們的國家獲得權力。如果我們給予他們援助，那麼這將意味著又有一個國家可能會成為我們事業中值得尊敬的盟友。"
  denmark_fascist_event.1.a: "我們會支持他們掌權！"
@@ -1494,7 +1482,6 @@
  denmark_fascist_event.22.t: "[FROM.GetNameDefCap]拒絕我方提案"
  denmark_fascist_event.22.desc: "儘管我們盡了最大的努力來表現禮貌，[FROM.GetAdjective]政府還是決定將他們的技術留給自己。這太不幸了，畢竟如果我等團結如一，聯合的技術能力本可以比現在更進一步。"
  denmark_fascist_event.22.a: "行吧，別到處亂說就成"
- #Trade Events
  denmark_trade_deal.1.t: "[FROM.GetNameDefCap]提出貿易協議"
  denmark_trade_deal.1.desc: "一個丹麥代表團同我方進行了會見，並提出一個貿易建議。丹麥生產大量的食品，而我們在過去食品需要大量依賴進口。他們最近將其國內貨幣克朗貶值，使他們的農產品更具競爭力。這項貿易協議可以證明對我們都有很大的好處，因為它可以保證我們人民的食品供給，並加強我們的軍隊補給鏈條。"
  denmark_trade_deal.1.a: "這能帶來好處。"
@@ -1551,11 +1538,9 @@
  denmark_events.666.desc: "長久以來，我國的存在感江河日下，我們都料想往日輝煌已是一去不還。我們打消了所有復興的夢想，未曾回心轉意——直到現在。我們正面臨一個嶄新的黃金時代！我們的實力和影響力與日俱增，是時候宣告大丹麥的成立了。"
  denmark_events.666.a: "讓我們的榮光照耀世界！"
  denmark_events.666.b: "這似乎有點多餘了……"
- #Iceland
  iceland_events.1.t: "丹麥遭到攻擊"
  iceland_events.1.desc: "[?ICE.overlord_attacker.GetAdjective]軍隊對丹麥發動了攻擊。[ROOT.getName]已經發表了一份中立聲明，並希望這能得到各方的尊重。\n由於國王缺席，$ICE_sveinn_bjornsson$被宣佈出任攝政，並迅速接管了[ROOT.GetName]的內政外交。當然，這是局勢穩定、世界和平前的臨時措施，但現如今，無論從哪個方面來講，[ROOT.GetName]都在履行都作為主權國家的職責了。"
  iceland_events.1.a: "我們將繼續關注這個臨時狀態"
- #News Events
  aat_news.1.t: "冰島宣佈中立"
  aat_news.1.desc: "冰島阿爾庭議會發表聲明，宣佈冰島在丹麥和[?ICE.overlord_attacker.GetName]之間的衝突中保持中立。\n議會同時宣佈，由於沒有國王，將由$ICE_sveinn_bjornsson$出任攝政；與此同時，$ICE_sveinn_bjornsson$還將負責冰島的外交政策。聲明指出，這項措施是臨時性的。一旦衝突結束，冰島將恢復與丹麥的戰前關係。不過，至少在那一天到來之前，冰島在事實上已經獨立了。"
  aat_news.1.a: "中立救不了丹麥"
@@ -1656,9 +1641,6 @@
  iceland_events.26.t: "我國石油枯竭！"
  iceland_events.26.desc: "我們的海上煉油廠報告說，[ICE.GetName]附近已經找不到石油了。油田已經乾涸，預計今後不會再發現石油或天然氣區，繼續運行只會浪費資源。"
  iceland_events.26.a: "好吧，事實就是事實……"
- ###############
- ### FINLAND ###
- ###############
  AAT_finland_motti.01.t: "[FROM.GetAdjective]柴堆戰術"
  AAT_finland_motti.01.desc: "[FROM.GetAdjective]軍隊已開始在[FROM.FROM.GetName]地區實施柴堆戰術。柴堆戰術是一種極具破壞性的戰術，使用此戰術的[FROM.GetAdjective]軍隊將包圍敵軍並切斷其補給，使其無力迎擊。這使侵入部隊在面對[FROM.GetAdjective]的攻勢時十分脆弱，因此若要挺進芬蘭，我們必須迅速採取應對措施，以防敵人佔據上風。"
  AAT_finland_motti.01.a: "保持警惕，準備戰鬥！"
@@ -1717,7 +1699,6 @@
  AAT_finland_diplomacy.01.desc: "[FROM.GetNameDef]外交官日前與我國接洽，出於互保和繁榮的目的提議兩國統一。這意味著兩國政府、軍隊和工業將合二為一，以更強大、更團結的陣線對抗那些可能威脅我等安全的敵人。\n\n在這個國際局勢不穩定的時刻，聯合起來或有一定的益處，但最終究竟如何，仍須我們來敲定。"
  AAT_finland_diplomacy.01.a: "聽起來真是個好主意！"
  AAT_finland_diplomacy.01.b: "合作不非得虧掉自治"
- #I couldn't get option b to appear in testing
  AAT_finland_diplomacy.01.c: "沒興趣"
  AAT_finland_diplomacy.02.t: "[FROM.GetAdjective]-[ROOT.GetAdjective]聯盟"
  AAT_finland_diplomacy.02.desc: "我國外交官從[FROM.capital.GetCapitalVictoryPointName]之行凱旋，帶來了一個好消息：[FROM.GetName]同意建立一個更統一的陣線來共抗大敵，因此接受了我方提出的結盟提議。\n\n該國政府官員已經在前往我國首都的路上，來為新領土的順利合併保駕護航。"
@@ -1992,9 +1973,6 @@
  AAT_finland_the_white_death.12.desc: "有報告稱，海耶在戰鬥中被敵方士兵發射的爆炸性子彈擊中身亡。遺體已被我方獵兵成功回收，並已運回首都。[FIN.GetNameDef]人民將永遠懷念他。"
  AAT_finland_the_white_death.12.a: "願他的靈魂與古代英雄們同在"
  generic_could_lead_to_tt: "可能導致："
- ###################
- ### NEWS EVENTS ###
- ###################
  aat_news.100.t: "[FIN.GetAdjective]繼續戰爭"
  aat_news.100.desc: "在上次與[SOV.GetAdjective]政府的戰爭失敗後，[FIN.GetAdjective]人民如今已完成動員並準備收復失去的領土，同時將[FIN.GetAdjective]和[KAR.GetAdjective]族人從外國壓迫中解放出來，傳承[FIN.GetAdjective]獨立戰爭和援助親屬民族戰爭的精神。"
  aat_news.100.desc.2: "在[SOV.GetAdjective]政府發出最後通牒、迫使他們割讓[146.GetName]之後，[FIN.GetAdjective]人民如今已完成動員並準備收復失去的領土，同時將[FIN.GetAdjective]和[KAR.GetAdjective]族人從外國壓迫中解放出來，傳承[FIN.GetAdjective]獨立戰爭和援助親屬民族戰爭的精神。"
@@ -2014,9 +1992,6 @@
  aat_news.777.t: "波羅的海帝國的成立"
  aat_news.777.desc: "在成功征服了波羅的海的大部分地區之後，[From.GetOldAdjective]政府現在開始加大對新徵服領土的整合力度。結果，在政府的明確支持下，為了團結人民支持政府，泛民族主義的宣傳有所增加。\n\n[FROM.GetOldAdjective]領導人[FROM.GetLeader]發表講話，講述[FROM.GetOldNameDef]如何做到了其他國家沒有做到的事情，並將波羅的海置於自己的統治之下。[FROM.GetSheHeCap]在演講結束時宣佈了“[From.GetNameDef]”的成立。"
  aat_news.777.a: "統御波羅的海！"
- #######################
- ###  NARVIK EVENTS  ###
- #######################
  AAT_britain_narvik.1.t: "[SWE.GetAdjective]礦場遭到炸燬"
  AAT_britain_narvik.1.desc: "我們成功把[SWE.GetAdjective]礦場炸上了天，打劫掉了[GER.GetNameDef]最重要的進口渠道之一。儘管這麼做的主要動機是履行援助[FIN.GetName]的承諾，但我們從沒想過直面[SOV.GetNameDef]的威光。這對我們的主要敵人而言無疑是天大的打擊，但[SWE.GetNameDefCap]從來都算不上我們真正的敵人，現在該想的是下一步如何操作。"
  AAT_britain_narvik.1.a: "金盆洗手，撒腿跑路"
@@ -2031,18 +2006,11 @@
  AAT_britain_narvik.4.t: "[ENG.GetName]撤出[SWE.GetName]"
  AAT_britain_narvik.4.desc: "[ENG.GetName]宣佈其在[SWE.GetName]的戰略目標已經實現，現在正在撤出軍隊。該國政府反覆申明，其對[SWE.GetAdjective]國家不是真正的敵人，其在[SWE.GetName]的特別軍事行動純粹是為了捍衛民主事業。[GER.GetAdjective]和[SWE.GetAdjective]大使館都遞交了抗議信，[GER.GetAdjective]方面認為[ENG.GetName]在戰區侵略第三方國家的行徑有悖中立宣言，[SWE.GetAdjective]則直接抨擊[ENG.GetAdjective]政府打著援助[FIN.GetName]的旗號，背地裡做的是利己的勾當，唯一受傷的[SWE.GetAdjective]士兵的生命。"
  AAT_britain_narvik.4.a: "怎麼說都簡直駭人聽聞！"
- ######################
- ### GENERIC EVENTS ###
- ######################
- ### MIO EVENTS ###
  AAT_MIO_events.2.t: "$CZE_skoda_works$投資"
  AAT_MIO_events.2.desc: "$CZE_skoda_works$的實業家們渴望投資，但他們的錢只夠投給公司內的三個分支之一。因此，他們得在艦船、坦克和火炮裝備間做出優先級選擇。"
  AAT_MIO_events.2.a: "投資$CZE_skoda_shipyards$"
  AAT_MIO_events.2.b: "投資$CZE_skoda_armor$"
  AAT_MIO_events.2.c: "投資$CZE_skoda_artillery$"
- ######################
- ### AMERICA EVENTS ###
- ######################
  AAT_USA_events.01.t: "[USA.GetNameDefCap]佔領格陵蘭"
  AAT_USA_events.01.desc: "作為[USA.GetAdjective]新的格陵蘭巡邏隊項目的一部分，[USA.GetLeader]政府宣佈佔領格陵蘭島。他們承諾，一旦世界局勢恢復平穩下來，就將格陵蘭島交還給我們。"
  AAT_USA_events.01.a: "至少有借有還……"

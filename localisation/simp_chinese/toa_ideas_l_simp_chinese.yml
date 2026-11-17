@@ -379,8 +379,6 @@
  BRA_tax_haven_desc: "針對企業的低稅收和稅務漏洞導致越來越多的跨國公司遷往巴西。我們從他們那裡得到一些稅收總比什麼都沒有好。"
  BRA_nationalized_banks: "國有銀行"
  BRA_nationalized_banks_desc: "通過將銀行國有化，我們可以加強對經濟中貨幣供應的控制，並將資金從股東口袋中重新分配到工人手中。"
- #BRA_court_the_military_ideaa: "Courting the Military"
- #BRA_court_the_military_ideaa_desc: "We can not maintain our grip on power without the established influence and resources of the military. At least for the time being, we must try to keep them on our side."
  BRA_collaboration_with_the_church: "與教會合作"
  BRA_collaboration_with_the_church_desc: "教會對許多巴西人來說至關重要。通過與他們協商政策，我們可以獲得他們對我們政府的廣泛支持。"
  BRA_atheist_state: "無神論國家"
@@ -580,7 +578,6 @@
  ARG_united_workers_idea_desc: "工人是社會主義革命的中堅力量。無產階級團結起來，反對資本主義在[ARG.GetNameDef]蔓延的腐敗和欺詐。"
  ARG_agrarian_reforms_idea: "土地改革"
  ARG_agrarian_reforms_idea_desc: "$ARG_support_the_farmers_decisions_desc$"
- #GUAY
  idea_GUAY_stewards_of_the_south: "南方的管理者"
  idea_GUAY_father_of_the_nation_urg: "國父：何塞·赫瓦西奧·阿蒂加斯"
  idea_GUAY_father_of_the_nation_par: "國父：弗朗西斯科·索拉諾·洛佩斯"
@@ -615,7 +612,6 @@
  idea_PAR_the_aftershock_of_the_tripple_alliance_instant_desc: "如果控制§Y福莫薩§!和§Y蓬塔波朗§!則將被移除"
  idea_PAR_industrialization_effort: "工業化努力"
  idea_GUAY_the_tag_economic_miracle: "[ROOT.GetAdjective]經濟奇蹟"
- #Legacy Content
  USA_monroe_doctrine_idea: "門羅主義"
  USA_monroe_doctrine_idea_desc: "美國長期以來一直承諾保護西半球不受殖民列強的外部干涉，這意味著任何對我們領土的入侵都可能意味著美國將來援助我們。然而，如果我們的政治路線不再與美國一致，我們可能會發現自己不受保護。"
  USA_monroe_doctrine_enforcer: "門羅主義執行者"

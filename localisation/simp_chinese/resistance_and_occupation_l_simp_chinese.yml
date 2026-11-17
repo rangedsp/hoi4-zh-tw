@@ -175,11 +175,8 @@
  FOREIGN_SUPPORT_TOOLTIP: "其他國家提供的人力。"
  FOREIGN_SUPPORT_IN_GARRISON: "$NUMBER|H*$於駐軍："
  FOREIGN_SUPPORT_IN_RESERVE: "$NUMBER|H*$被儲存："
- #disabled for now
  OCCUPATION_STATE_OCCUPATION_INFO: ""
  OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE: ""
- #OCCUPATION_STATE_OCCUPATION_INFO: "The state has a resistance from $COUNTRY|H$"
- #OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE: "There is no resistance in the state"
  non_core_controller: "無核心的控制者"
  non_core_controller_desc: "這個地區被無核心的國家控制"
  independent_rule: "獨立治理"

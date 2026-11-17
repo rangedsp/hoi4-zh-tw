@@ -1,12 +1,10 @@
 ﻿l_simp_chinese:
- #Shortcuts
  CZE_military_path_shortcut: "武裝部隊"
  CZE_economic_path_shortcut: "經濟"
  CZE_diplomacy_path_shortcut: "外交"
  CZE_fort_path_shortcut: "防禦工事"
  CZE_skoda_priority_shortcut_name: "斯柯達優先事項"
  CZE_political_path_shortcut: "政治"
- # Č does show when scrolling through focuses, but not in the detailed focus view title (does work in the description though)
  CZE_coalition_building: "建立聯合政府"
  CZE_coalition_building_desc: "選舉後形成的聯合政府若想有效運作，必須加強其成員間的團結。隨著揚·馬利彼得近期辭去總理職務，聯合政府為鞏固自身支持基礎將面臨更大壓力。"
  CZE_merge_the_paramilitaries: "整合準軍事組織"
@@ -66,8 +64,6 @@
  CZE_no_compromise_with_the_sdp_cooldown_flag: "已完成國策§Y$CZE_contact_henlein$§!"
  CZE_no_compromise_with_the_sdp_cooldown_flag_tt: "當前天數：[?CZE_no_compromise_with_the_sdp_cooldown_flag:days|Y0]"
  CZE_no_compromise_with_the_sdp_focus_warning_tt: "如果我們完成了§Y$CZE_contact_henlein$§!，需要等待§Y350§!天后才能選擇該§Y國策§!。"
- # CZE_economic_integration: "Economic Integration"
- # CZE_economic_integration_desc: "Why stop at a customs union? Economic integration will further grow our economies and ensure our future is an affluent one for all members."
  CZE_form_a_federation: "組建聯邦"
  CZE_form_a_federation_desc: "中歐聯邦夢想不再遙遠。我們可以建立它，成為民主巨人，具備抵禦列強，並獨立發展的力量！"
  CZE_bend_the_bars: "$ITA_bend_the_bars$"
@@ -629,7 +625,6 @@
  CZE_usurp_the_mantle_desc: "隨著我們王國的疆域從波羅的海延伸至亞得里亞海，並統治著昔日區域強權奧地利的領土，我們現在可以宣稱自己是神聖羅馬帝國的合法繼承者。"
  CZE_austro_hungary_puppets: "所有國策所需的§Y附屬國§!"
  CZE_decrease_autonomy_tier: "所有§Y$autonomy_dominion$§!或§Y$autonomy_puppet$§!附屬國失去一級自治度。"
- #Exile Focus
  CZE_prepare_for_exile: "準備流亡"
  CZE_prepare_for_exile_desc: "國家應秘密協助政治領袖流亡海外，並建立流亡政府。"
  CZE_joins_government_in_exile_tt: "加入§Y流亡政府§!"
@@ -643,13 +638,10 @@
  CZE_contact_the_czech_and_slovak_legion_desc: "勇敢的[ROOT.GetAdjective]人已逃往[POL.GetNameDef]與[FRA.GetNameDef]繼續為一個自由的[CZE.GetName]而戰，我們應與這些部隊取得聯繫並協調行動。”"
  CZE_skoda_priority_shortcut_finder: "斯柯達優先事項"
  CZE_skoda_priority_shortcut_finder_desc: "這就是目前斯柯達的優先事項"
- #Decision unlock TT
  CZE_decision_unlock: "解鎖決議："
  CZE_demand_regime_change_tt: "$CZE_decision_unlock$§Y要求政權更迭§!"
  CZE_propose_unification_tt: "$CZE_decision_unlock$§Y邀請國家加入捷克斯洛伐克聯盟§!"
  CZE_integrate_nation_tt: "$CZE_decision_unlock$§Y整合國家§!"
- ###############################################
- #Germany
  GER_integrate_czech_manufacturers: "整合捷克製造商"
  GER_integrate_czech_manufacturers_desc: "波希米亞的工業蘊含著豐富的製造技術與資源。將捷克製造商整合進我們的生產體系，將極大提升軍備工業。此舉合情合理。"
  GER_integrate_czech_manufacturers_no_aat_tt: "§G啟用§!§Y設計公司§!：\n§Y$CZE_skoda_works_german_organization$§!，§Y$CZE_bohmische_mahrische_maschinenfabrik_ag_german_organization$§!，§Y$CZE_zlin_aircraft_organization$§!，和§Y$CZE_ceska_zbrojovka_uhersky_brod_organization$§!"

@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ### EQUIPMENT MODULE CATEGORIES ###
  EQ_MOD_CAT_ship_light_battery_TITLE: "速射炮"
  EQ_MOD_CAT_ship_sub_snorkel_TITLE: "通氣管"
  EQ_MOD_CAT_ship_torpedo_TITLE: "魚雷發射器"
@@ -43,7 +42,6 @@
  EQ_MOD_CAT_ship_escort_deck_space_TITLE: "機庫"
  EQ_MOD_CAT_ship_submarine_deck_space_TITLE: "潛艇機庫"
  EQ_MOD_CAT_ship_seaplane_tender_TITLE: "水上飛機母艦"
- ### EQUIPMENT MODULE SLOTS ###
  EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE: "主炮"
  EQ_MOD_SLOT_fixed_ship_secondaries_slot_TITLE: "副炮"
  EQ_MOD_SLOT_fixed_ship_anti_air_slot_TITLE: "防空炮"
@@ -61,7 +59,6 @@
  EQ_MOD_SLOT_mid_3_custom_slot_TITLE: "中段自選裝備3"
  EQ_MOD_SLOT_rear_1_custom_slot_TITLE: "艦尾自選裝備1"
  EQ_MOD_SLOT_rear_2_custom_slot_TITLE: "艦尾自選裝備2"
- ### EQUIPMENT MODULES ###
  ship_light_battery_1: "85mm速射炮"
  ship_light_battery_1_short: "輕型炮組1"
  ship_light_battery_1_desc: "一種相對小些的火炮，用於驅逐艦和其他小型船隻。"
@@ -380,7 +377,6 @@
  ship_armor_ice_carrier_deck_3: "冰複合材料跑道"
  ship_armor_ice_carrier_deck_3_desc: "所用材料和方法能夠提供最佳的結構韌性，並減少天氣對船舶運營的影響。"
  SHIP_DESIGNER_MODULE_SELECTION: "§H模塊槽位：§! $NAME$\n選擇一個模塊："
- ### Nation Specific Modules
  ENG_ship_light_battery_1: "4.7英寸/45 MK.I後膛炮"
  ENG_ship_light_battery_2: "4.7英寸 MK.IX 速射炮（搭配Mk. XIV中央樞軸炮塔）"
  ENG_ship_light_battery_3: "4.7英寸 MK.XI 速射炮（搭配Mk.XX炮塔）"
@@ -779,7 +775,6 @@
  ITA_ship_armor_bc_2: "250mm主裝甲/100mm甲板裝甲"
  ITA_ship_armor_bb_3: "330mm主裝甲/130mm甲板裝甲"
  ITA_ship_armor_bc_3: "295mm主裝甲/162mm甲板裝甲"
- #ITA_ship_armor_cruiser_2: "24mm Belt/20mm Deck"
  ITA_ship_armor_cruiser_1: "70mm主裝甲/50mm甲板裝甲"
  ITA_ship_armor_cruiser_2: "100mm主裝甲/50mm甲板裝甲"
  ITA_ship_armor_cruiser_3: "150mm主裝甲/70mm甲板裝甲"

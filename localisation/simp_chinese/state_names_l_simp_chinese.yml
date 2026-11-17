@@ -68,7 +68,7 @@
  STATE_43: "北匈牙利"
  STATE_44: "中阿爾巴尼亞"
  STATE_45: "伏伊伏丁那"
- YUG_STATE_45: "巴奇卡" #was Vojvodina
+ YUG_STATE_45: "巴奇卡"
  HUN_STATE_45: "德爾維德克"
  STATE_46: "蒙特尼亞"
  STATE_47: "阿提卡"
@@ -249,7 +249,7 @@
  SWE_STATE_149: "瓦薩"
  STATE_150: "庫奧皮奧"
  STATE_151: "東瑞士阿爾卑斯"
- STATE_152: "上奧地利" #was Upper Austria
+ STATE_152: "上奧地利"
  AUS_STATE_152: "上奧地利"
  GER_STATE_152: "上奧地利"
  BAY_STATE_152: "上奧地利"
@@ -257,11 +257,11 @@
  AUS_STATE_153: "蒂羅爾"
  GER_STATE_153: "蒂羅爾"
  BAY_STATE_153: "蒂羅爾"
- STATE_154: "特蘭蒂薩" #was Alföld
+ STATE_154: "特蘭蒂薩"
  HUN_STATE_154: "蒂薩圖爾"
  POL_STATE_154: "扎齊桑斯基地區"
  ROM_STATE_154: "西克里沙納"
- STATE_155: "北外多瑙" #was Transdanubia
+ STATE_155: "北外多瑙"
  STATE_156: "卡拉布里亞"
  STATE_157: "阿布魯佐"
  STATE_158: "皮埃蒙特"
@@ -325,7 +325,7 @@
  STATE_197: "尼古拉耶夫"
  SOV_STATE_197: "尼古拉耶夫"
  STATE_198: "文尼察"
- STATE_199: "赫梅利尼茨基" #Was Khmelnytskyi
+ STATE_199: "赫梅利尼茨基"
  STATE_200: "扎波羅熱"
  UKR_STATE_200: "扎波羅熱"
  STATE_201: "日托米爾"
@@ -415,7 +415,7 @@
  STATE_275: "德蘭士瓦"
  STATE_276: "南安大略"
  STATE_277: "墨西哥城"
- STATE_278: "布宜諾斯艾利斯" #Was Pampas
+ STATE_278: "布宜諾斯艾利斯"
  STATE_279: "聖地亞哥"
  STATE_280: "馬託格羅索"
  STATE_281: "馬爾代夫"
@@ -423,7 +423,7 @@
  STATE_283: "甘肅"
  STATE_284: "惠靈頓"
  STATE_285: "新南威爾士"
- STATE_286: "南安南" #was Southern Indochina, then Champa
+ STATE_286: "南安南"
  VIN_STATE_286: "南中部"
  STATE_287: "塔克拉瑪干"
  STATE_288: "馬圭"
@@ -431,15 +431,15 @@
  STATE_290: "西屬非洲"
  STATE_291: "巴格達"
  STATE_292: "內志"
- STATE_293: "北也門" #Was Yemen
- STATE_294: "馬斯喀特" #Was Oman
+ STATE_293: "北也門"
+ STATE_294: "馬斯喀特"
  STATE_295: "利奧波德維爾"
  STATE_296: "葡屬幾內亞"
  STATE_297: "赤道幾內亞"
  STATE_298: "利比里亞"
  STATE_299: "福克蘭群島"
  ARG_STATE_299: "馬爾維納斯群島"
- STATE_300: "蒙得維的亞" #was uruguay
+ STATE_300: "蒙得維的亞"
  STATE_301: "巴拉圭"
  STATE_302: "拉巴斯"
  STATE_303: "利馬"
@@ -474,10 +474,10 @@
  330_non_monarchist_name: "大庫倫"
  STATE_331: "紐芬蘭"
  STATE_332: "拉布拉多"
- STATE_333: "沙撈越" #Was North Borneo
+ STATE_333: "沙撈越"
  STATE_334: "西加里曼丹"
  STATE_335: "西爪哇"
- STATE_336: "吉隆坡" #was Singapore, then Malaya
+ STATE_336: "吉隆坡"
  STATE_337: "法羅群島"
  STATE_338: "格洛斯特"
  STATE_339: "伊茲密爾"
@@ -587,7 +587,7 @@
  STATE_442: "白沙瓦"
  STATE_443: "信德"
  STATE_444: "南俾路支斯坦"
- STATE_445: "錫比" #was Quetta
+ STATE_445: "錫比"
  STATE_446: "蘇伊士"
  STATE_447: "亞歷山大"
  STATE_448: "的黎波里"
@@ -646,15 +646,15 @@
  STATE_501: "聖保羅"
  STATE_502: "南里奧格蘭德"
  STATE_503: "聖卡塔琳娜"
- STATE_504: "蓬塔波朗" #Was Iguaçú
+ STATE_504: "蓬塔波朗"
  STATE_505: "戈亞斯"
  STATE_506: "安托法加斯塔"
  STATE_507: "麥哲倫"
  STATE_508: "圖庫曼"
  STATE_509: "南查科"
- STATE_510: "美索不達米亞" #Was Mesopotamia
+ STATE_510: "美索不達米亞"
  STATE_511: "門多薩"
- STATE_512: "里奧內格羅" #Was Patagonia
+ STATE_512: "里奧內格羅"
  STATE_513: "特萊姆森"
  STATE_514: "阿爾及利亞沙漠"
  STATE_515: "南撒哈拉"
@@ -672,14 +672,14 @@
  STATE_526: "沖繩"
  JAP_STATE_527: "平安-黃海"
  STATE_527: "平安-黃海"
- STATE_528: "北九州" #was Kyushu
- STATE_529: "山陽" #was Chugoku
+ STATE_528: "北九州"
+ STATE_529: "山陽"
  STATE_530: "四國"
  STATE_531: "關西"
  STATE_532: "東海道"
- STATE_533: "北東北" #was Tohoku
- STATE_534: "甲信越" #was Hokuriku
- STATE_535: "北陸" #was Koshinetsu
+ STATE_533: "北東北"
+ STATE_534: "甲信越"
+ STATE_535: "北陸"
  STATE_536: "北海道"
  STATE_537: "南薩哈林"
  JAP_STATE_537: "樺太"
@@ -746,22 +746,21 @@
  STATE_598: "江蘇"
  STATE_599: "廣西"
  STATE_600: "江西"
- STATE_601: "昌都" #Xikang
- TIB_STATE_601: "西康" #Xikang
+ STATE_601: "昌都"
+ TIB_STATE_601: "西康"
  STATE_602: "湖南"
  STATE_603: "貴州"
  STATE_604: "青海"
  STATE_605: "四川"
  STATE_606: "安徽"
  STATE_607: "河南"
- STATE_608: "北平" #renamed to Beijing later
- #HBC_STATE_608: "Beiping"
+ STATE_608: "北平"
  JAP_STATE_608: "北京"
  STATE_609: "冀東"
  STATE_610: "熱河"
  state_610_modern_name: "熱河"
- STATE_611: "察哈爾" #was South Chahar
- STATE_612: "錫林郭勒" #was Chahar
+ STATE_611: "察哈爾"
+ STATE_612: "錫林郭勒"
  STATE_613: "上海"
  STATE_614: "河北"
  STATE_615: "山西"
@@ -771,13 +770,13 @@
  STATE_619: "莎車"
  STATE_620: "湖北"
  STATE_621: "綏遠"
- STATE_622: "陝北" #Was Shaanxi
+ STATE_622: "陝北"
  STATE_623: "呂宋"
  STATE_624: "中央群島"
- STATE_625: "東米沙鄢" #was Samar
+ STATE_625: "東米沙鄢"
  STATE_626: "巴拉望"
- STATE_627: "達沃" #was Mindanao
- STATE_628: "西米沙鄢" #was Cebu
+ STATE_627: "達沃"
+ STATE_628: "西米沙鄢"
  STATE_629: "夏威夷"
  STATE_630: "約翰斯頓環礁"
  STATE_631: "中途島"
@@ -813,13 +812,13 @@
  STATE_656: "科威特"
  STATE_657: "比羅比詹"
  STATE_658: "阿布扎比"
- STATE_659: "南也門" #was Aden
+ STATE_659: "南也門"
  STATE_660: "赤道非洲"
  STATE_661: "的黎波里塔尼亞"
  STATE_662: "蘇爾特"
  STATE_663: "昔蘭尼加"
  STATE_664: "南斯洛伐克"
- HUN_STATE_664: "上匈牙利" #was Abaúj-Torna
+ HUN_STATE_664: "上匈牙利"
  STATE_665: "加貝斯"
  STATE_666: "北博滕"
  STATE_667: "西努沙登加拉"
@@ -871,8 +870,8 @@
  STATE_712: "科科斯群島"
  STATE_713: "凱爾蓋朗群島"
  STATE_714: "黑龍江"
- STATE_715: "遼北" #Was Liaoning
- STATE_716: "遼寧" #Was Loatung
+ STATE_715: "遼北"
+ STATE_716: "遼寧"
  STATE_717: "松江"
  STATE_718: "斯坦利維爾"
  STATE_719: "納塔爾"
@@ -880,7 +879,7 @@
  STATE_721: "東帝汶"
  POR_STATE_721: "葡屬帝汶"
  STATE_722: "佩察莫"
- STATE_723: "坎特伯雷" #Was South Island
+ STATE_723: "坎特伯雷"
  STATE_724: "南暹羅"
  STATE_725: "瑙魯"
  STATE_726: "薩摩亞"
@@ -893,7 +892,7 @@
  STATE_732: "帕米爾"
  STATE_733: "安達曼"
  STATE_733_shaheed: "沙希德"
- STATE_734: "聖克魯斯群島" #Was Nendo
+ STATE_734: "聖克魯斯群島"
  STATE_735: "薩伏依"
  STATE_736: "濱海區"
  STATE_737: "俾斯麥群島"
@@ -1140,7 +1139,7 @@
  STATE_939: "阿馬帕"
  STATE_940: "阿克里"
  STATE_941: "托坎廷斯"
- STATE_942: "瓜波雷" #can be renamed to Rondônia later
+ STATE_942: "瓜波雷"
  942_rondonia_name: "朗多尼亞"
  STATE_943: "聖埃斯皮裡圖"
  STATE_944: "巴拉那"
@@ -1160,14 +1159,14 @@
  STATE_958: "聖路易斯和拉潘帕"
  STATE_959: "洛斯安第斯"
  STATE_960: "聖胡安和拉里奧哈"
- STATE_961: "亞馬遜" #impassables
- STATE_962: "亞馬遜" #impassables
- STATE_963: "亞馬遜" #impassables
- STATE_964: "亞馬遜" #impassables
- STATE_965: "亞馬遜" #impassables
- STATE_966: "亞馬遜" #impassables
- STATE_967: "亞馬遜" #impassables
- STATE_968: "亞馬遜" #impassables
+ STATE_961: "亞馬遜"
+ STATE_962: "亞馬遜"
+ STATE_963: "亞馬遜"
+ STATE_964: "亞馬遜"
+ STATE_965: "亞馬遜"
+ STATE_966: "亞馬遜"
+ STATE_967: "亞馬遜"
+ STATE_968: "亞馬遜"
  STATE_969: "里奧布朗庫"
  STATE_970: "德巴爾"
  ALB_STATE_970: "迪勃拉"
@@ -1175,7 +1174,7 @@
  STATE_971: "北多布羅加"
  STATE_972: "南蘇臺德"
  GER_STATE_972: "波希米亞森林"
- STATE_973: "巴奇-基什孔" #was Bács-Bodrog
+ STATE_973: "巴奇-基什孔"
  STATE_974: "南外多瑙"
  STATE_975: "布爾根蘭"
  HUN_STATE_975: "奧爾維德克"
@@ -1257,7 +1256,7 @@
  JAP_STATE_1031: "忠清-全羅"
  STATE_1031: "忠清-全羅"
  STATE_1032: "延安"
- STATE_1033: "南路" #was Fangchenggang
+ STATE_1033: "南路"
  STATE_1034: "蘇州"
  STATE_1035: "南京"
  STATE_1036: "武漢"
@@ -1299,8 +1298,8 @@
  STATE_1066: "交趾支那"
  FRA_STATE_1066: "交趾支那"
  STATE_1067: "馬德望"
- SIA_STATE_1067: "披汶頌堪" #If Phibun is in power
- SIA_STATE_1067_ALT: "內柬埔寨" #If Phibun is not in power
+ SIA_STATE_1067: "披汶頌堪"
+ SIA_STATE_1067_ALT: "內柬埔寨"
  STATE_1068: "巴塞"
  SIA_STATE_1068: "佔巴塞"
  STATE_1069: "瀾滄"

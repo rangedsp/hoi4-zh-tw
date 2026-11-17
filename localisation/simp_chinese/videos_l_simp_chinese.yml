@@ -1,7 +1,4 @@
-﻿# === [LocEditor:OrphanedFile] File contains only orphaned keys ===
-l_simp_chinese:
-
-# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+﻿l_simp_chinese:
  HOW_TO_PLAY: "遊戲教學"
  DISABLE_ALERTS: "關閉視頻播放的提示"
  MORE_VIDEOS: "更多視頻"

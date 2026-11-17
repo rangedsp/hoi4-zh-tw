@@ -240,7 +240,6 @@
  SOV_paranoia_tooltip_stalin_default: "$SOV_iosif_stalin$（$stalin_political_paranoia$）：§R+1%§!"
  SOV_paranoia_tooltip_stalin_advanced: "$SOV_iosif_stalin$（$stalin_political_paranoia$）：§R+2%§!"
  SOV_paranoia_tooltip_stalin_undermined: "$SOV_iosif_stalin$（$stalin_authority_undermined$）：§R+2%§!"
- #SOV_paranoia_tooltip_beriya: "$SOV_lavrenty_beriya$ ($beriya_political_paranoia$): §R+2%§!" # -> Only if Beriya cannot be both NKVD chief and country leader at the same time, and we add the country leader trait
  SOV_paranoia_tooltip_nkvd_yagoda: "$SOV_genrikh_yagoda$（$head_of_the_nkvd$）：§R+1%§!"
  SOV_paranoia_tooltip_nkvd_yezhov: "$SOV_nikolay_yezhov$（$head_of_the_nkvd$）：§R+2%§!"
  SOV_paranoia_tooltip_nkvd_beriya: "$SOV_lavrenty_beriya$（$head_of_the_nkvd$）：§R+2%§!"
@@ -730,7 +729,6 @@
  SOV_planning_uprising_in_state: "滲透[FROM.GetName]"
  SOV_planning_uprising_in_siberia: "§W滲透§!西伯利亞§W區域內的§![FROM.GetName]"
  SOV_planning_uprising_in_far_east: "§W滲透§!俄屬遠東§W區域內的§![FROM.GetName]"
- #SOV_planning_uprising_in_siberia_desc: "By extending our influence to [FROM.GetName], we can increase the extent of the area we "
  SOV_planning_uprising_in_urals: "§W滲透§!烏拉爾§W區域內的§![FROM.GetName]"
  SOV_planning_uprising_in_northern: "§W滲透§!北方各州§W區域內的§![FROM.GetName]"
  SOV_planning_uprising_in_ukraine: "§W滲透§!烏克蘭§W區域內的§![FROM.GetName]"
@@ -745,7 +743,6 @@
  SOV_dismiss_the_counter_revolution_desc: "通過公開譴責所謂的反革命言論，我們應該能夠將內務部的注意力從我們的特工身上轉移開。然而，這也意味著我們可能會失去一些對我們的譴責行為信以為真的潛在支持者。"
  SOV_dismiss_the_counter_revolution_tt: "以犧牲未來的穩定和減少軍事支持為代價，減少政治偏執度"
  SOV_dismiss_cd_tt: "\n這項決議可以在§Y60日§!後再次使用。"
- #SOV_state_alignment_timer: "WIP: Setting up cells in [?SOV_aligning_state.GetName]"
  SOV_is_opposition_state_tt: "此地區已存在反對派據點"
  SOV_is_unaligned_state_tt: "該地區目前中立"
  SOV_is_unaligned_state_tt_NOT: "該地區目前不是中立"

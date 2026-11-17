@@ -158,7 +158,6 @@
  south_american_news.60.t: "[BRA.GetAdjective]軍方發動政變"
  south_american_news.60.desc: "儘管總統$BRA_getulio_vargas$試圖爭取軍方各派系和整合主義運動的支持，但前者對困境中的總統的改革步伐的失去了耐心，並已經自行採取行動。在一次迅速的軍事行動中，全國主要基礎設施和通訊設施被控制，部隊衝入里約熱內盧的卡特泰宮，抓捕了$BRA_getulio_vargas$。\n\n雖然在軍事統治下國家的日常政治將發生什麼變化還有待觀察，但可以肯定的一點是，新政府將對人民中的任何共產主義異見採取強硬立場。"
  south_american_news.60.a: "巴西會得到和平嗎？"
- #### Chile #####
  CHL_political_events.1.t: "[CHL.GetNameDefCap]提議一同加盟"
  CHL_political_events.1.desc: "[CHL.GetNameDef]的[CHL.GetLeader]提議一同申請加入同盟國，這樣可以保護我們的水域和土地，同時又不撕裂我們彼此的親密盟友關係，或破壞我們兩國之間的相互關係。接受他們的要求也許是明智的選擇。"
  CHL_political_events.1.a: "我們看不出這有什麼害處"
@@ -337,9 +336,6 @@
  CHL_political_events.47.desc: "[CHL.GetName]已經與[FROM.GetName]達成了協議。他們已經使[FROM.GetName]相信，只有軸心國才有未來。我們只需要將他們的接受的內容簽字蓋章。"
  CHL_political_events.47.a: "簽字並蓋章"
  CHL_political_events.47.b: "目前不行。"
- #CHL_political_events.98.t: "[FROM.GetName] joins the Axis"
- #CHL_political_events.98.desc: "Thanks to a proposal handed over by their Hispanic brothers in [CHL.GetNameDef], [FROM.GetLeader] of [FROM.GetNameDef] has decided to join our faction to help us make a stronger future, and fight against our every enemy. We are stronger together!"
- #CHL_political_events.98.a: "Sehr Gut"
  CHL_political_events.48.t: "[FROM.GetName]不加入軸心國"
  CHL_political_events.48.desc: "可悲的是，儘管我們向他們真摯地呼籲，[FROM.GetLeader]和他們的人民還是認定沒有我們他們會過得更好，並且沒有詳細說明他們為什麼會做出這個決定。我們暫時不會與[FROM,GetNameDef]聯合。"
  CHL_political_events.48.a: "那我們就只能自己單幹了"
@@ -565,7 +561,6 @@
  CHL_political_events.99.t: "[GER.GetName]接受新成員加入軸心國"
  CHL_political_events.99.desc: "[GER.GetName]已接受該提議。這是強者統治的新時代，也是我們政府的一次外交勝利。"
  CHL_political_events.99.a: "走向未來！"
- #### Brazil ####
  JUNO_brazil_events.10.t: "[FROM.FROM.GetName]的小型整合主義者集會"
  JUNO_brazil_events.10.desc: "儘管為最近的[FROM.FROM.GetName]集會做了大量的計劃，但這次集會卻相當平淡無奇。預期的支持者人群並沒有出現，那些到達的人是一群對黨的綱領知之甚少或根本不瞭解的人。許多旁觀者似乎只是對我們穿制服的成員在他們的街道上游行感到困惑。"
  JUNO_brazil_events.10.a: "令人尷尬的小事"
@@ -926,7 +921,6 @@
  south_american_news.52.desc: "隨著世界再次陷入全球衝突，里約熱內盧市決定暫停著名的年度狂歡節慶祝活動。和平成為遙遠的記憶，目前還不清楚慶祝活動何時會回來。然而，許多人更擔心的是，戰爭是否也會波及[BRA.GetNonIdeologyName]本土。"
  south_american_news.52.a: "這是我們所有人的悲傷時刻"
  south_american_news.52.b: "這樣頹廢的表演不容錯過"
- ### Argentina ###
  ARG_political_events.1.t: "軍隊開始反對我們了！"
  ARG_political_events.1.desc: "今天早上，黎明時分，八千名士兵從布宜諾斯艾利斯的軍事基地“五月營地”出發，向總統府玫瑰宮進軍。他們在阿圖羅·羅森和佩德羅·巴勃羅·拉米雷斯的領導下，兩位將軍要求[FROM.GetLeader]下臺，並將[FROM.GetName]的行政管理權移交給軍隊。我們要麼接受他們的最後通牒，要麼準備擊退他們。"
  ARG_political_events.1.a: "我們無能為力"
@@ -1173,7 +1167,6 @@
  ARG_news_events.3.t: "[ARG.GetAdjective]共產主義革命"
  ARG_news_events.3.d: "[ARG.GetNonIdeologyName]持續不斷的騷亂已於近日失控，致使內戰爆發。在曾經流亡海外的羅多爾福·吉奧爾迪的領導和[ARG.GetAdjective]國會中眾多左傾成員的支持下，共產主義者脫離了政府，試圖控制全國並施行激進的改革。該區域的許多人擔心，共產主義[ARG.GetNonIdeologyName]將引發一場席捲南美大陸的多米諾效應。"
  ARG_news_events.3.a: "悲劇就這樣發生了。"
- #GUAY
  JUNO_guay_events.1.t: "軍官支持政府"
  JUNO_guay_events.1.desc: "軍官們已表達對執政政府的支持。安撫策略奏效了，看來投入軍隊的資金還有一些額外的好處。"
  JUNO_guay_events.1.a: "太好了"

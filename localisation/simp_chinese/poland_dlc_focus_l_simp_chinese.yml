@@ -427,7 +427,6 @@
  polish_legionary: "波蘭軍團"
  democratic_restorationist: "重建民主人士"
  POL_annexation_refused: "拒絕吞併"
- #NSB -> No MTG focus fallbacks (duplicates)
  POL_expand_polish_intelligence_no_mtg: "$POL_expand_polish_intelligence$"
  POL_expand_polish_intelligence_no_mtg_desc: "$POL_expand_polish_intelligence_desc$"
  POL_the_long_push_home_no_mtg: "$POL_the_long_push_home$"

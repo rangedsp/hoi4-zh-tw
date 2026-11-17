@@ -33,7 +33,6 @@
  DEN_annexation_medium_range: "干預性宗主國影響"
  DEN_annexation_high_range: "專斷性宗主國干涉"
  DEN_annexation_max_range: "全面宗主國掌控"
- ### FINLAND ###
  FIN_power_balance: "公眾信任"
  FIN_bad_side: "[FIN.GetLeader]§R公眾信任低§!"
  FIN_good_side: "[FIN.GetLeader]§G公眾信任高§!"

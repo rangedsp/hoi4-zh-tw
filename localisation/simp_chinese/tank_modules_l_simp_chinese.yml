@@ -1,10 +1,8 @@
 ﻿l_simp_chinese:
- ### EQUIPMENT MODULE ROLE PERMISSIONS ###
  MODULE_ALLOW_ROLE: "§G允許§!$ROLE|H$定位"
  MODULE_ALLOW_ROLE_BUT_OTHER_FORBID: "§G允許§!$ROLE|H$定位，但$FORBIDDING_MODULE|H$模塊§R禁用§!了這個定位"
  MODULE_FORBID_ROLE: "§R禁用§!$ROLE|H$定位"
  MODULE_ALLOWED_ROLE_IS_FORBIDDEN_BY_ANOTHER_MODULE: "定位$ROLE|H$是£trigger_yes£按模塊$ALLOWING_MODULE|H$但是£trigger_no£按模塊$FORBIDDING_MODULE|H$\n\n"
- ### EQUIPMENT MODULE CATEGORIES ###
  EQ_MOD_CAT_tank_engine_type_TITLE: "引擎類型"
  EQ_MOD_CAT_tank_armor_type_TITLE: "裝甲類型"
  EQ_MOD_CAT_tank_suspension_type_TITLE: "履帶式懸掛"
@@ -22,7 +20,6 @@
  EQ_MOD_CAT_tank_radio_module_TITLE: "無線電"
  EQ_MOD_CAT_tank_secondary_turret_TITLE: "副炮塔"
  EQ_MOD_CAT_tank_non_tracked_suspension_type_TITLE: "無履帶懸掛"
- ### EQUIPMENT MODULE SLOTS ###
  EQ_MOD_SLOT_main_armament_slot_TITLE: "主要武器"
  EQ_MOD_SLOT_turret_type_slot_TITLE: "炮塔"
  EQ_MOD_SLOT_suspension_type_slot_TITLE: "懸掛"
@@ -32,7 +29,6 @@
  EQ_MOD_SLOT_special_type_slot_2_TITLE: "特殊功能"
  EQ_MOD_SLOT_special_type_slot_3_TITLE: "特殊功能"
  EQ_MOD_SLOT_special_type_slot_4_TITLE: "特殊功能"
- ### EQUIPMENT MODULES ###
  tank_gasoline_engine: "汽油引擎"
  tank_gasoline_engine_desc: "在相同發動機尺寸下，使用汽油的發動機會跑得更快，但更容易著火。"
  tank_diesel_engine: "柴油引擎"

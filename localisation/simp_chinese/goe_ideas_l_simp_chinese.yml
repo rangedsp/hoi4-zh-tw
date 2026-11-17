@@ -112,7 +112,6 @@
  IRQ_anglo_iraqi_oil_company: "英伊石油公司利潤"
  IRQ_export_economy_idea: "出口經濟"
  IRQ_armed_tribes_idea: "武裝部落"
- #IRQ_royal_army_modifier: "[IRQ_royal_army_modifier_key]"
  IRQ_royal_army_modifier: "國民軍隊"
  IRQ_royal_army_modifier_IRQ: "伊拉克皇家陸軍"
  IRQ_royal_army_modifier_KUR: "庫爾德陸軍"
@@ -162,18 +161,11 @@
  IRQ_state_company_for_cement_idea: "[ROOT.GetAdjective]水泥集團"
  IRQ_state_company_of_cotton_industries_idea: "國有棉紡企業"
  IRQ_shia_resistance_modifier: "叛逆的自治部落"
- #TRAITS
  independence_activist: "獨立活動家"
  anti_colonial_humanist: "反殖民人文主義者"
  sikh_activist: "錫克教活動家"
  all_india_muslim_league_leader: "全印穆斯林聯盟領袖"
  exiled_dissident: "流亡的反對派"
- ##############
- #### IRAN ####
- ##############
- ################
- #### TRAITS ####
- ################
  museum_curator: "博物館館長"
  feminist_minister: "女權主義大臣"
  dynasty_founder: "王朝的開創者"
@@ -189,22 +181,13 @@
  PER_deposed_shah_trait: "被廢黜的沙阿"
  PER_disinherited_heir_trait: "被剝奪繼承權的繼承人"
  PER_rightful_king_trait: "正統國王"
- #################################
- #### NATIONAL SPIRIT TOOLTIPS ###
- #################################
  PER_modify_iranian_airforce_ns_intro: "§Y$PER_airforce_modifier$§!追加效果："
  PER_modify_special_forces_ns_intro: "§Y$PER_special_units_division_idea$§!追加效果"
- ####################################
- #### MANUFACTURERS AND CONCERNS ####
- ####################################
  PER_national_bank_iran: "伊朗國家銀行"
  PER_iranian_oil_company: "伊朗國家石油公司"
  PER_tehran_armor_manufacturer: "德黑蘭裝甲"
  PER_bofors: "博福斯"
  PER_qorkhaneh: "戈爾哈內赫"
- ##########################
- #### STARTING SPIRITS ####
- ##########################
  PER_anglo_iranian_oil_ns: "英伊石油公司"
  PER_anglo_iranian_oil_ns_desc: "當時在馬斯吉德蘇萊曼發現了大量石油資源後，公司於1909年由[ENG.GetNameDef]成立，原名為英波石油公司。然而，[PER.GetNameDefCap]的許多人認為，這家公司正在榨取我國的資源和勞動力，同時卻沒有兌現其當初承諾的諸多義務。"
  PER_rural_feudalism_ns: "農村封建制度"
@@ -221,9 +204,6 @@
  PER_azerbaijan_resistance_idea_desc: "[PER.GetNameDefCap]的部分領土曾屬於阿塞拜疆人。因此，當地有大量對我們的統治不滿的阿塞拜疆人。在過去幾年間，我們的政府鎮壓了[PER.GetNameDef]該地區的一些叛亂，但反抗情緒仍然存在。"
  PER_kurdistan_resistance_idea: "庫爾德抵抗組織"
  PER_kurdistan_resistance_idea_desc: "[PER.GetNameDefCap]的部分領土曾屬於庫爾德人。因此，當地有大量對我們的統治不滿的庫爾德人。在過去幾年間，我們的政府鎮壓了[PER.GetNameDef]該地區的一些叛亂，但反抗情緒仍然存在。"
- ############################
- #### INDUSTRIAL SPIRITS ####
- ############################
  PER_modernizing_iran_idea: "現代化倡議"
  PER_modernizing_iran_idea_desc: "[PER.GetNameDef]想要與世界上的強國並列，現代化是至關重要的。該倡議將表明我們改善國家基礎設施，承諾提高公民生活水平的決心。"
  PER_a_modern_iran_idea: "現代化的伊朗"
@@ -246,9 +226,6 @@
  PER_metropolitan_iran_idea_desc: "我們成功地將[PER.GetAdjective]的現代都市的範圍擴展到了德黑蘭之外。由於我們努力發展現代化，城市蓬勃發展、經濟繁榮。這無疑是值得慶祝的偉大成就！"
  PER_oil_baron_idea: "[PER.GetAdjective]石油大亨"
  PER_oil_baron_idea_desc: "我們的國家絕對是在石油中游泳，特別是在成功擺脫[ENG.GetAdjective]對我們資源的控制後。我們該如何利用這筆財富？把它留給自己吧。"
- ##########################
- #### MILITARY SPIRITS ####
- ##########################
  PER_future_of_war_idea: "戰爭的未來"
  PER_future_of_war_idea_desc: "坦克無疑已經成為現代戰爭的象徵。集中資源發展裝甲技術，我們為參與現代戰爭做好了萬全準備。"
  PER_military_excellency_idea: "[PER.GetAdjective]的卓越軍事"
@@ -278,9 +255,6 @@
  PER_coastal_fortifications_idea: "岸防計劃"
  PER_coastal_fortifications_idea_desc: "我們的海軍一直以來並非最強項，因此，為了防止[PER.GetNameDef]遭受海上入侵，我們必須實施岸防計劃，確保在任何衝突期間都能保障海岸線的安全。"
  PER_state_local_defensive_dynamic_modifier: "本土防禦措施"
- ###################################
- #### IMPERIAL NATIONAL SPIRITS ####
- ###################################
  PER_legacy_of_greatness_modifier: "偉業的遺產"
  PER_legacy_of_greatness_modifier_desc: "巴列維王朝將自己塑造為了註定將帶領[PER.GetNameDef]走向偉大的皇族。雖然他們的改革不受一些人歡迎，但毫無疑問，他們給這個國家帶來的根本性變化將影響世界其他國家今後對我們的看法。"
  PER_state_atheism_idea: "完全世俗化"
@@ -338,9 +312,6 @@
  PER_resist_gharbzadegi_idea: "抵制西方毒化"
  PER_resist_gharbzadegi_idea_desc: "過度西化是我們偉大國家的一大禍患。我們不應該迎合殖民者的幻想，而應該努力建立一個足以獨立維繫的民主國家。"
  PER_clash_of_titans_idea: "泰坦之爭"
- #####################################
- #### HISTORICAL NATIONAL SPIRITS ####
- #####################################
  PER_stand_with_giants_modifier: "與巨人比肩"
  PER_stand_with_giants_modifier_desc: "自從登上權力巔峰以來，禮薩·沙阿·巴列維始終致力於推動[PER.GetNameDef]的現代化，使其與世界列強比肩而立。在[PER.GetNameDef]，一系列社會、經濟和政治改革的序幕已經拉開，並將隨著我們的進步而不斷深化。"
  PER_persian_german_trade_idea: "波斯-德意志貿易商會"
@@ -364,16 +335,12 @@
  PER_enemy_war_reparations_idea: "戰爭賠款"
  PER_enemy_war_reparations_idea_desc: "由於在[PER.GetNameDef]的軍事行動失敗，我們現在必須付出巨大的代價。儘管並不理想，但我們應該能在兩年內完成賠款。"
  PER_opposition_cell: "反對組織活躍"
- #misc
  PER_idea_comintern_research_collaboration: "[ROOT.GetFactionName]科研合作"
  PER_idea_comintern_research_collaboration_desc: "[ROOT.GetAdjective]的科學家將由頂尖的[SOU.GetAdjective]專家親自授課，隨後將所學帶回國內，依照[SOU.GetAdjective]的模式重建我們的國家。"
  PER_idea_one_for_all_all_for_one: "我為人人，人人為我"
  PER_idea_one_for_all_all_for_one_desc: "我們必須不遺餘力，確保每一位[ROOT.GetAdjective]公民隨時準備保衛[ROOT.GetNameDefCap]。唯有如此，我們才能在“帝國博弈”後保有對抗世界強權的希望，維護我們的主權與身份認同。"
  PER_idea_reject_foreign_dominance: "[ROOT.GetAdjective]的團結"
  PER_idea_reject_foreign_dominance_desc: "在外部強權虎視眈眈之際，我們不會屈服。我們將堅守陣地，戰鬥到底。[ROOT.GetAdjective]的主權與認同將不惜一切代價生存下去。"
- #########
- ##INDIA##
- #########
  idea_RAJ_accelerating_independence_movement: "加速的獨立運動"
  idea_RAJ_boycott_british_made_goods: "抵制[ENG.GetAdjective]商品"
  idea_RAJ_literacy_effort_1: "掃盲工作"
@@ -560,9 +527,6 @@
  RAJ_congress_construction_effort_ns: "國會-重視建設"
  RAJ_congress_war_propaganda_ns: "國會-戰爭宣傳"
  RAJ_construction_safety_regulation_ns: "工程建設安全標準"
- ###########################
- ##### SHARED SAADABAD #####
- ###########################
  SSB_saadabad_pact: "薩德阿巴德條約"
  SSB_saadabad_pact_desc: "與中東其他國家的一項互不侵犯條約，此條約可能為未來更深層次、更強有力的合作奠定基礎。\n\n§R對任何薩德阿巴德條約成員國發動進攻性戰爭將永久失去該民族精神§!"
  SSB_saadabad_trade_agreement: "薩德阿巴德貿易協定"

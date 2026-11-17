@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- #### ICELAND ####
  ICE_drilling_for_oil_off_shore: "開採近海油氣"
  ICE_drilling_for_oil_off_shore_repeat_tt: "§Y180§!日後可再次執行此決議"
  no_more_oil_tt: "§R已找到所有石油§!"
@@ -35,7 +34,6 @@
  ICE_incite_communist_uprising_ni_desc: "只需要一點小小的推動，我們就能讓北愛爾蘭工人們在[119.GetCapitalVictoryPointName]揭竿而起並宣佈自[119.owner.capital.GetCapitalVictoryPointName]政府獨立。"
  ICE_uprising_ni_tt: "§Y[119.owner.GetName]§!：[119.owner.GetCommunistParty]支持度大於[?ICE.communism_support_needed|%Y0]"
  ICE_incite_communist_uprising_ni_tt: "§Y[WLS.GetName]§!在[119.GetName]發動針對§Y[119.owner.GetName]§!的獨立戰爭"
- #NORWAY
  NOR_democratic_preparation_decisions_category: "建設祖國"
  NOR_democratic_preparation_decisions_category_desc: "若要與全世界競爭，我們年輕的國家仍需奮起直追。數十年的怠慢與數年的大蕭條使我們的工業狀況慘不忍睹，我們必須齊心協力才可補闕拾遺。\n\n不幸的是，這要以我們的軍事準備度和防禦能力為代價。不過我們相信，完全與無武裝的中立能展示我們的善意，並讓敵人們可以安心地忽略我們的領土。\n\n\n[NOR.GetName]總髮展度：[?NOR.NOR_country_preparedness]/30"
  NOR_historical_deploy_prep_decisions_category: "風暴將至"
@@ -142,22 +140,10 @@
  NOR_foment_resistance_in_state_desc: "[FROM.GetName]的子民心懷反抗之精神，正在與敵人鬥爭到底。僅需外部使點力，他們就能起到決定性的作用。"
  NOR_support_rebellion: "支持[FROM.GetName]反抗"
  NOR_support_rebellion_desc: "我等在[FROM.GetName]的抵抗組織工作已見成效，當地民眾已準備開始採取行動，造壓迫者的反。讓他們開戰罷——義軍烽火燃起之時，我等大舉還鄉之日。"
- #SWEDEN
  SWE_hygenic_housing_mission: "推廣衛生住房政策"
  SWE_hygenic_housing_mission_tt: "擁有§Y衛生住房§!修正地區的一個隨機毗鄰地區獲得§Y衛生住房§!修正。\n該任務自動重複，直到所有核心地區都擁有§Y衛生修正§!"
  SWE_work_projects_for_the_unemployed_decision: "失業者復工項目"
  SWE_work_projects_for_the_unemployed_rapid_implementation: "迅速實施失業人員迴歸生產工作的項目"
- #SWEDEN
- #SWE_rearnament_system: "Rearmament"
- #SWE_time_to_rearnament_discussions: "Time until the government rearmament committee convenes"
- #SWE_rearnament_discussions_are_active: "The rearmament committee is currently convening"
- #SWE_set_army_budget: "Set Army Budget"
- #SWE_set_air_budget: "Set Air Budget"
- #SWE_set_navy_budget: "Set Navy Budget"
- #remind_me_about_rearnament_decisions: "[GetLoc_remind_me_about_rearmanent]"
- #remind_me_about_rearnament_desc: "Governing is an arduous task with many responsibilities and conflicting priorities. Every leader needs aides to help in effective governance; for example we can task one of them to remind us when the next Rearmament committee is convening, should we need it"
- #SWE_reminderLocNotActive: "Have my assistant remind me when the committee convenes"
- #SWE_reminderLocActive: "Do not have my assistant remind me when the committee convenes"
  improve_radiotjanst: "改進廣播電臺"
  pervert_radiotjanst_parent: "廣播電臺聯合"
  pervert_radiotjanst_communism: "$pervert_radiotjanst_parent$[SWE.GetCommunistParty]"
@@ -293,7 +279,6 @@
  SWE_hungershield_mission: "公眾騷亂"
  SWE_coax_nordic_defense_council_cat: "勸誘北歐國家加入北歐防務理事會"
  SWE_coax_countries_that_rejected: "勸誘[FROM.GetName]加入北歐防務理事會"
- ### NORDIC ###
  NORDIC_cooperation_decisions_category: "北歐合作"
  NORDIC_cooperation_decisions_category_desc: " #TODO_NORDIC \n\n衝突規模：§Y[?GLOBAL.NORDIC_conflict_scale|1]§!/[?GLOBAL.NORDIC_conflict_scale_max] - [NORDIC_get_war_scale]\n\n - [NORDIC_get_current_participation_level]"
  NORDIC_promote_nordic_unity: "推動北歐統一"
@@ -328,8 +313,6 @@
  NORDIC_decision_risky_war_participation_desc: "TODO_NORDIC"
  NORDIC_decision_dangerous_war_participation: "$NORDIC_dangerous_war_participation$"
  NORDIC_decision_dangerous_war_participation_desc: "TODO_NORDIC"
- #### DENMARK ####
- #BALANCE OF POWER
  DEN_balance_of_power_category: "$DEN_balance_of_power$"
  DEN_short_reset_time_tt: "此項行動可在§Y[?DEN_short_reset_time]§!日後反覆進行"
  DEN_medium_reset_time_tt: "此項行動可在§Y[?DEN_medium_reset_time]§!日後反覆進行"
@@ -376,7 +359,6 @@
  DEN_bop_landstorm_desc: "風暴已在我國四遭開始醞釀，是時候重新設立國家衝鋒隊來保家衛國了。這種部隊質量談不上上乘，但或許將是我等最後一道防線。"
  DEN_bop_hold_a_military_parade: "£BoP_right_texticon 舉行閱兵式"
  DEN_bop_hold_a_military_parade_desc: "舉行一場閱兵式將讓民眾更加確信我們有能力保衛[ROOT.GetNameDef]。毫無疑問，看到積極向上的軍隊後，民眾的鬥志與決心都會更上一層。"
- #OCCUPATION BOP
  DEN_bop_occupation_criticize_collaboration: "£BoP_right_texticon 批評合作政策"
  DEN_bop_occupation_criticize_collaboration_desc: "[ROOT.GetNameDef]對[?DEN.DEN_overlord_nation.GetNameDef]的這種不光彩的投降和不倫不類的合作，簡直就是在浪費紙！"
  DEN_bop_occupation_strikes: "£BoP_right_texticon 秘密協調罷工"
@@ -413,7 +395,6 @@
  DEN_bop_occupation_allow_fascism_desc: "我們的法西斯主義宗主國並不喜歡我國在[ROOT.GetNameDef]國內查禁其意識形態。再次為法西斯主義宣傳開綠燈，是為符合我們的最佳利益的選擇。"
  DEN_bop_occupation_allow_democratism: "£BoP_left_texticon 放任民主政黨"
  DEN_bop_occupation_allow_democratism_desc: "定期舉行選舉是公民之間相互信任的標誌，也是一國之力量所在。禁止民主選舉乃是我國之恥辱。"
- #RESISTANCE
  DEN_resistance_category: "丹麥抵抗運動"
  DEN_resistance_category_desc: "我們必須反抗佔領軍，重獲自由！唯經共同努力方能實現，因此我們必須堅定不移地朝著解放[ROOT.GetNameDef]的共同目標前進。"
  DEN_seek_foreign_support_decision: "尋求[FROM.GetNameDef]支持"
@@ -421,7 +402,6 @@
  DEN_buy_allied_weapons_decision: "採購盟國武器"
  DEN_seek_danish_brigades_host: "為丹麥旅尋找東道主"
  DEN_buy_foreign_destroyers: "購買外國驅逐艦"
- #OVERLORD DECISIONS
  DEN_overlord_category: "丹麥保護國"
  DEN_overlord_category_desc: "我們已允許丹麥以特殊保護國的形式保有一定的自主權。不過，我們還是要盯牢他們，因為想接受我們保護，就得盡一些分內之事。"
  DEN_annex_denmark: "吞併[DEN.GetNameDef]"
@@ -436,7 +416,6 @@
  DEN_demand_troops: "請求丹麥部隊"
  DEN_overlord_requests_the_return_of_the_faroes: "$DEN_request_the_return_of_the_faroes$"
  DEN_overlord_requests_greenland_back: "$DEN_request_greenland_back$"
- #DECISIONS
  DEN_trade_deal_category: "丹麥貿易協議"
  DEN_increase_trade_with_denmark: "提高對[DEN.GetName]貿易"
  DEN_increase_trade_with_denmark_desc: "如果擴大與[DEN.GetName]的現存貿易協議，我們將獲益匪淺。"
@@ -515,7 +494,6 @@
  DEN_return_occupied_territory_category_desc: "外國勢力聲稱要保護我們的領土不受一切戰爭的侵害，直到我們從敵對侵略所造成的“骯髒的奴役中解放”。那麼，現在是時候請他們歸還島嶼了。"
  DEN_request_the_return_of_the_faroes: "要求歸還法羅群島"
  DEN_request_greenland_back: "請求交還格陵蘭"
- ### FINLAND ###
  FIN_balance_of_power_category: "$FIN_power_balance$"
  FIN_motti_tactics_category: "柴堆戰術"
  FIN_motti_tactics_category_desc: "柴堆戰術包括包夾、斷絕敵軍單位，其目的在於癱瘓其後勤和通信線路。\n實施此等戰術亟需在國防軍計劃與訓練上精心打點，確保其在戰場上能夠發揮作用。利用完善好柴堆戰術，我們將得以超越敵軍，在他們最難受的地方進行打擊。"
@@ -689,19 +667,15 @@
  FIN_integrate_leningrad_desc: "[195.GetName]可能以俄族為主，但在英格利亞共和國的計劃面前，無所謂，無所畏懼。"
  FIN_request_an_armistice_with_moscow: "請求與莫斯科方面停戰"
  FIN_request_to_switch_sides_in_the_war: "停戰換跳槽"
- #Narvik Crisis
  ENG_narvik_crisis_cat: "納爾維克危機"
  ENG_narvik_crisis: "啟動R4計劃"
  ENG_narvik_crisis_blow_up_mines: "破壞[SWE.GetAdjective]礦井"
  ENG_explode_the_swedish_iron_ore_mine: "R4計劃"
  ENG_explode_the_swedish_iron_ore_mine_tt: "在國際和國內反應過來之前，我們只有有限的時間破壞瑞典的鐵礦。如果做不到這一點，那就是一場恥辱的軍事失敗。"
- #NORTH SEA EMPIRE
  form_north_sea_category: "重建北海帝國"
  form_north_sea_category_desc: "鑑於我們已盡數掌控克努特大帝的疆域，是時候重建古老的丹法區，復興北海帝國之魂了。我們將再次主宰海浪，我們將統治所有相中之地。"
  form_north_sea_empire: "重建北海帝國"
- #Baltic Sea Empire
  form_baltic_sea_empire_category: "建立波羅的海霸權"
  form_baltic_sea_empire_category_desc: "長久以來，在波羅的海建立霸權統治一直是我們的主要目標之一。為了控制這片海洋，我們經歷了許多戰爭，尤其是和瑞典。鑑於我們終於實現這雄心壯志，是時候建立屬於[ROOT.GetAdjective]人的波羅的海霸權了。"
  form_baltic_sea_empire: "建立波羅的海霸權"
- #THE UNITED STATES OF AMERICA
  USA_initiate_the_greenland_patrol: "成立格陵蘭巡邏隊"

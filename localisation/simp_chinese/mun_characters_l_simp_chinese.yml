@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ## CZECHOSLOVAKIA ##
  CZE_milan_hodza: "米蘭·霍賈"
  CZE_emil_hacha: "埃米爾·哈查"
  CZE_karel_schwarzenberg: "卡雷爾六世·施瓦岑貝格"
@@ -66,29 +65,23 @@
  CZE_dominik_cipera: "多米尼克·奇佩拉"
  CZE_sergej_ingr: "謝爾蓋·因格爾"
  CZE_louis_eugene_faucher: "路易-歐仁·福謝"
- #Scientists
  CZE_alexej_surin: "阿列克謝·蘇林"
  CZE_antonin_husnik: "安東寧·胡斯尼克"
  CZE_georg_placzek: "格奧爾格·普拉切克"
- #Division commanders - due to technical limitations they cant be put on divisions and then turned into commanders
  CZE_ruml_bedrich: "魯姆爾·貝德日赫"
  CZE_josef_janacek: "約瑟夫·亞納切克"
  CZE_karel_kutlvasr: "卡雷爾·庫特爾瓦什爾"
  CZE_emil_fiala: "埃米爾·菲亞拉"
- #CZE Character Related Flags
  CZE_released_from_prison: "已被從監獄釋放"
  CZE_unlock_zdenko_hudecek_flag: "§Y$CZE_zdenko_hudecek$§!已被召回現役"
- ## SLOVAKIA ##
  SLO_karol_smidke: "卡羅爾·什米德克"
  SLO_jan_ursiny: "揚·烏爾西尼"
  SLO_stefan_jurech: "斯特凡·尤雷赫"
  SLO_julius_thorzo: "尤利烏斯·圖爾佐"
  SLO_augustin_malar: "奧古斯丁·馬拉爾"
- ## CARPATHO-UKRAINIAN ##
  RUT_augustin_voloshyn: "奧古斯丁·沃洛申"
  RUT_vasil_bilak: "瓦西爾·比拉克"
  RUT_sergei_fedorovich_efremov: "謝爾蓋 · 葉夫列莫夫"
  RUT_vasily_zakharovich_filonovich: "瓦西里·菲洛諾維奇"
- ## REICHSPROTEKTORAT BOHMEN-MAHREN ##
  RKH_erich_friderici: "埃裡希·弗朗茨"
  RKH_jaroslav_eminger: "雅羅斯拉夫·埃明格"

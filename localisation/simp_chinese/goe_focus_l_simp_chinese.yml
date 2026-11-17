@@ -1,7 +1,4 @@
 ﻿l_simp_chinese:
- ############
- #####RAJ####
- ############
  RAJ_take_over_administrative_rights: "接管行政權力"
  RAJ_take_over_administrative_rights_desc: "為了優雅地退出該地區，[ENG.GetAdjective]政府已開始將行政職務外包給我們的公司職員。"
  RAJ_the_return_of_the_east_india_company: "東印度公司歸來"
@@ -28,8 +25,6 @@
  RAJ_mineral_exploitation_institute_desc: "最近的採礦發展未能達到我們的預期產量。看來我們需要投資進行更高質量的地質調查項目，以更準確地評估自然資源的潛在收益。"
  RAJ_establish_the_reserve_bank_of_india: "建立印度儲備銀行"
  RAJ_establish_the_reserve_bank_of_india_desc: "為了保護我們的經濟免受衝擊，我們將建立一個儲備銀行，負責控制貨幣流通。"
- #RAJ_separate_electorates: "Separate Electorates"
- #RAJ_demand_free_votes: "Demand Free Votes"
  RAJ_all_india_kisan_sabha: "全印農民協會"
  RAJ_all_india_kisan_sabha_desc: "印度農村的農民和佃戶長期以來受到了剝削。是時候讓他們組織起來，集體表達自己的訴求了。"
  RAJ_haripura_session_of_the_indian_national_congress: "第二次哈里普拉會議"
@@ -101,7 +96,6 @@
  RAJ_red_in_the_shadows_desc: "在帝國衰落的混亂中，革命力量正在集結，暗中破壞舊秩序。紅旗的升起預示著即將到來的清算——這一清算將重塑印度及世界的未來。"
  RAJ_red_in_the_shadows_tt: "解鎖滲透英國政府並影響獨立運動轉向親共立場的決議，降低完成§Y$RAJ_royal_indian_navy$§!的條件"
  has_swayed_bose_to_communism: "斯威·博斯已轉向共產主義"
- #RAJ_red_in_the_shadows_tt: "We will turn Communist upon gaining independence and avoid Partition. Pakistan will be released, gaining [ENG.GetAdjective] support to counter further communist influence."
  RAJ_seek_domestic_allies: "尋求國內盟友"
  RAJ_seek_domestic_allies_desc: "前進聯盟無法單獨實現其願景。通過在各個政治派別中尋求盟友，我們可以團結革命思想家，動員更廣泛的支持，凝聚領導力量，將印度推向真正的獨立。"
  RAJ_protest_against_the_howell_monument: "抗議霍爾韋爾紀念碑"
@@ -112,8 +106,6 @@
  RAJ_appoint_soviet_friendly_government_desc: "為確保莫斯科的持久支持，我們將建立完全忠於蘇聯意識形態的政府。他們的忠誠將為我們的新國家贏得經濟援助、軍事合作和意識形態一致性。"
  RAJ_appoint_german_friendly_government: "任命親德政府"
  RAJ_appoint_german_friendly_government_desc: "將我們的政府與[GER.GetNameDef]結盟將加強與歐洲新興強權的聯繫。此類政府將優先推動工業增長、軍事現代化，並堅決反對布爾什維主義。"
- #RAJ_post_war_independence: "Post War Independence"
- #RAJ_post_war_independence_desc: ""
  RAJ_ban_untouchability_once_and_for_all: "徹底廢除達特利制度"
  RAJ_ban_untouchability_once_and_for_all_desc: "達特利制度是我們社會的汙點，在需要團結時卻造成分裂。通過廢除這種做法，我們肯定了每位印度人的尊嚴，並朝著建立一個公正、包容的國家邁出決定性的一步。"
  RAJ_a_tiger_unchained: "破鐐猛虎"
@@ -247,7 +239,6 @@
  RAJ_azad_hind_dlc_tt: "我們會獲得："
  RAJ_azad_hind_dlc_tt_2: "§R內戰§!的前§Y120§!天"
  RAJ_give_me_blood_and_i_will_grant_you_freedom_tt: "會發起民主主義支持者與我們之間的獨立內戰\n高於§Y65%§!或§Y85%抵抗度§!的所有地區會在內戰中支持我們，並根據最高抵抗度給予我們1或2個師。\n其他地區會支持民主派。"
- ###
  RAJ_infiltrate_aden_tt: "當獨立戰爭開始時在§Y[659.GetName]§!、§Y[906.GetName]§!、§Y[658.GetName]§!、§Y[765.GetName]§!、§Y[422.GetName]§!和§Y[656.GetName]§!徵召民兵攻擊[ENG.GetName]佔領區。"
  RAJ_go_into_hiding_tt: "鮑斯將逃離監禁，開始他的旅程，並在內戰開始時返回"
  RAJ_war_taxes_tt: "解鎖決議，交戰的每個國家都可以使我們提高戰爭稅。"
@@ -575,7 +566,6 @@
  RAJ_authoritarianship_desc: "強大的中央權力將為我們的新國家確保和平、公正與穩定。"
  RAJ_the_sun_sets: "日落"
  RAJ_the_sun_sets_desc: "帝國的時代正在終結。隨著[ENG.GetAdjective]控制力的減弱，我們將加速其衰落。帝國的太陽終將落山，而我們將從它的陰影中崛起。"
- ### Mughal Empire ###
  RAJ_great_depression_price_controls: "大蕭條時期的價格管制"
  RAJ_great_depression_price_controls_desc: "大蕭條對次大陸打擊沉重。我們將盧比與英鎊掛鉤並實施各種價格管制，有望穩定局勢。"
  RAJ_look_to_the_past: "回顧過去"
@@ -590,7 +580,7 @@
  RAJ_the_mughal_uprising: "莫臥兒起義"
  RAJ_the_mughal_uprising_desc: "北部的邊遠地區是擺脫英國人的絕佳位置。\n當地領袖在人們心中點燃了關於輝煌過去的火焰，那時莫臥兒王朝統治這片土地，人們可以自由追尋自己的命運。\n真主保佑，我們也將如此。"
  RAJ_the_mughal_uprising_tt: "我們會脫離§Y英屬印度§!，並§R發動獨立戰爭§!。"
- RAJ_the_mughal_uprising_tt2: "我們將擁有內戰結束時我們控制的所有地區" #separate into two if I need to remove it later
+ RAJ_the_mughal_uprising_tt2: "我們將擁有內戰結束時我們控制的所有地區"
  6_month_timer_mughal_tt: "我們將有§Y255§!天時間贏得戰爭，否則下放政府會提出停火。"
  RAJ_reform_the_agricultural_system: "改革農業系統"
  RAJ_reform_the_agricultural_system_desc: "印度的糧食體系長期以來一直受到疏忽、管理不善和剝削的困擾。隨著莫臥兒帝國的復興，我們必須確保沒有任何一個臣民再次忍受飢餓。通過投資灌溉體系、將農業現代化、打破貪婪地主的把控，我們將把印度建設成一個豐饒的土地，使饑荒成為往昔的遺物。"
@@ -707,14 +697,12 @@
  RAJ_deathblow_to_imperial_remnants_desc: "[PAK.GetName]充當了英國人的代理人，後者向絕境中的他們輸送了大量資源，以抗衡不斷上升的共產主義浪潮。我們將最終結束這一爭鬥。"
  RAJ_the_revolutionary_army_marches_desc: "我們的軍隊懷揣著使命前進，為了革命，為了印度，為了普通百姓。"
  RAJ_threaten_princes_desc: "王公們要麼屈服於我們的要求，要麼面對他們反抗的後果。"
- #EIC feedback stuff
  RAJ_look_to_the_future: "展望未來"
  RAJ_look_to_the_future_desc: "要想控制價格混亂，我們需要展望未來，而不是回望過去。我們需要實施一系列穩定措施。"
  RAJ_lobby_parliment: "遊說議會"
  RAJ_lobby_parliment_desc: "在私營投資者的支持下，我們將遊說議會，宣稱私有化是防止全球經濟再次崩潰的唯一保障。出售英屬印度的部分資產不僅是戰略，更是帝國穩定的象徵。"
  RAJ_lobby_parliment_tt: "我們將開始建立東印度公司"
  RAJ_industrialists_joined_eic_tt: "已完成國策§Y$RAJ_lobby_parliment$§!"
- #bye
  RAJ_orchestrate_train_robberies: "人民的鐵路"
  RAJ_orchestrate_train_robberies_tt: "鐵路國策現在將為§Y印度鐵路§!精神追加效果：\n每完成一個鐵路國策\n工廠產出：§G+[?RAJ_railway_default_increase_tt]%§!\n鐵路建設速度：§R[?RAJ_railway_default_decrease_tt]%§!\n補給中心建設速度：§R[?RAJ_railway_default_decrease_tt]%§!\n基礎設施建設速度：§R[?RAJ_railway_default_decrease_tt]%§!\n\n每個現有的已完成的鐵路國策將自動轉換以計入這一變化。"
  RAJ_accept_russian_muhajir_money: "接受俄羅斯穆哈吉爾資金"
@@ -977,9 +965,6 @@
  RAJ_empower_provincial_authorities_chances_tt: "§Y$RAJ_investments_from_local_leaders$§!將均衡分配側重於§Y民用工業§!、§Y軍事工業§!與§Y防禦性基礎設施§!。"
  RAJ_his_majestys_loyal_government_break_free_tt: "要實現徹底獨立，我們必須完成三項核心國策：§Y$RAJ_the_dominion_of_india$§!、§Y$RAJ_keep_calm_and_carry_on$§!和§Y$RAJ_holding_the_gates_of_india$§!。"
  RAJ_loyalist_branch_capstone_focuses_become_free_tt: "完成三項核心國策§Y$RAJ_the_dominion_of_india$§!、§Y$RAJ_keep_calm_and_carry_on$§!和§Y$RAJ_holding_the_gates_of_india$§!後將§G不再限制變更自治等級為§!§Y自由§!。"
- ############
- #####RAJ####
- ############
  AFG_expand_telegraph_network: "擴展電報網絡"
  AFG_expand_telegraph_network_desc: "[ROOT.GetNonIdeologyName]在許多經濟指標上已經落後於鄰國。現代化經濟的第一步是通過擴展電報網絡，改善城市與鄰國之間的通信。"
  AFG_increase_agricultural_exports: "增加農業出口"
@@ -1492,12 +1477,6 @@
  AFG_hold_elections: "舉行選舉"
  AFG_hold_elections_desc: "隨著國內局勢趨於平靜，我們終於有機會舉行[AFG.GetNonIdeologyName]的首次自由選舉。"
  AFG_hold_elections_tt: "§Y即將舉行的選舉事件將允許我們選擇新的國家領導人。§!"
- ################
- ##### IRAN #####
- ################
- ##############
- ### EXTRAS ###
- ##############
  GRE_byz_unified_flag: "拜占庭"
  PER_middle_east_protectorate_faction: "中東保護國"
  PER_first_warning_flag: "伊斯蘭革命第一次警告"
@@ -1514,9 +1493,6 @@
  PER_non_lethal_takeover: "和平政變"
  PER_pahlavis_deposed_flag: "巴列維王朝被廢黜"
  PER_pahlavis_exiled_flag: "巴列維王朝流亡"
- ######################
- ### RESEARCH BONUS ###
- ######################
  PER_tank_specialization_bonus: "[PER.GetAdjective]坦克專精"
  PER_infantry_equipment_bonus: "加強步兵武器"
  PER_support_technology_bonus: "加強步兵支援"
@@ -1532,9 +1508,6 @@
  PER_embrace_industrial_powers_bonus: "接納工業強國"
  PER_increase_education_funding_bonus: "增加教育經費"
  PER_tech_share_bonus: "科技合作"
- ################
- ### TOOLTIPS ###
- ################
  PER_clergy_upset_tt: "§R選擇此國策可能會激怒宗教界。如果穩定性下降到危險水平，你的國家可能爆發革命、引起內戰！§!"
  PER_clergy_happy_tt: "§G選擇此國策將安撫宗教界，他們將不再認為有反抗你的必要。§!"
  PER_clergy_revolt_tt: "§R選擇此國策將導致針對你的革命，使你陷入內戰！§!"
@@ -1576,9 +1549,6 @@
  PER_territory_demands_tt: "這將向目標國家發送要求，命令他們§Y交出§!邊境領土。如果我們的軍隊§Y更強大§!，他們更有可能接受我們的要求。"
  PER_reinstate_qajars_tt: "將觸發恢復卡扎爾王朝對[PER.GetNameDef]的統治的§Y事件§!鏈。"
  PER_republic_of_mahabad_tt: "會將[KUR.GetNameDef]釋放為§Y馬哈巴德共和國§!"
- ######################
- ##### INDUSTRIAL #####
- ######################
  PER_democratic_shortcut: "政治：\n民族陣線"
  PER_neutral_shortcut: "政治：\n巴列維王朝"
  PER_industry_shortcut: "經濟"
@@ -1656,9 +1626,6 @@
  PER_deal_with_eitc_desc: "東邊的鄰國似乎忙得不可開交。[RAJ.GetNonIdeologyName]已重建東印度公司，成為一個覆蓋全國的超級公司。在石油壟斷問題上與他們及石油輸出國組織其他成員達成協議，將是明智之舉。"
  PER_a_modern_iran: "現代伊朗"
  PER_a_modern_iran_desc: "經過所有這些現代化努力之後，我們終於可以說，我們自豪而堅定地屹立在世界各國面前。"
- ################
- ##### ARMY #####
- ################
  PER_restructure_army: "重組軍隊"
  PER_restructure_army_desc: "經過與俄羅斯在卡扎爾王朝統治下的漫長戰爭，我們的軍隊已被削弱。在當今世界局勢下，讓我們的軍隊恢復昔日輝煌是明智之舉。"
  PER_expand_imperial_guard: "加強帝國衛隊"
@@ -1727,9 +1694,6 @@
  PER_negotiate_with_america_desc: "[USA.GetNameDefCap]在原子技術發展方面已成為全球領先者。這些創新對於我們保持競爭力至關重要。我們應派遣外交使團，請求其協助開發我們自己的核計劃。"
  PER_establish_nuclear_program: "建立[PER.GetAdjective]核計劃"
  PER_establish_nuclear_program_desc: "[GER.GetNameDef]和[USA.GetNameDef]在原子秘密的探索上已持續多年。通過獲得[USA.GetAdjective]盟友的研究資料和技術支持，我們正式建立了自己的核計劃。"
- ####################
- ##### AIRFORCE #####
- ####################
  PER_establish_airforce: "建立空軍"
  PER_establish_airforce_desc: "[PER.Adjective]帝國空軍於1920年由禮薩沙阿·巴列維正式創立。如今，戰爭的陰雲籠罩全球，我們必須鞏固國家在天空中的作戰能力，以確保[PER.GetNameDef]在未來幾十年的安全。"
  PER_pilot_training: "飛行員訓練計劃"
@@ -1760,9 +1724,6 @@
  PER_anti_air_development_desc: "我們的城市工廠已成為敵方轟炸機的目標，他們試圖破壞我們的經濟和工業進步。我們應投入資源開發防空襲措施，保護關鍵設施。"
  PER_anti_air_research: "防空武器研究計劃"
  PER_anti_air_research_desc: "目前的防空武器已逐漸落後。我們需要加大研究力度，開發能夠更有效保護國家的新技術，抵禦空中威脅。"
- ################
- ##### NAVY #####
- ################
  PER_establish_the_navy: "建立海軍"
  PER_establish_the_navy_desc: "和空軍一樣，[PER_GetAdjective]帝國海軍是在禮薩·沙·巴列維推翻卡扎爾王朝後建立的。如今，我們已認識到加強海軍的重要性，以確保對北部和南部邊界海域有更好的控制。"
  PER_officers_to_italy: "派遣軍官赴意大利受訓"
@@ -1785,9 +1746,6 @@
  PER_merchant_navy_desc: "海上資源運輸對[PER.GetNameDef]的生存至關重要。因此，建立一支專業的商船隊以支持我們的軍事活動顯得尤為重要。"
  PER_expert_raiders: "精銳突擊艦"
  PER_expert_raiders_desc: "確保己方海上貿易安全固然重要，但在戰爭時期，主動出擊破壞敵方補給線則是摧毀其經濟功能的關鍵。我們應專注於利用海軍力量襲擊敵方運輸船隊。"
- ##################
- #### IMPERIAL ####
- ##################
  PER_the_pahlavi_imperium: "巴列維帝國"
  PER_the_pahlavi_imperium_desc: "自1925年禮薩·沙·巴列維推翻卡扎爾王朝以來，他一直是[PER.GetNameDef]的掌舵者。在國家面臨另一場世界性衝突的十字路口時，這位偉大的沙阿必須做好準備，應對任何可能席捲我們榮耀的[PER.GetAdjective]大地的風暴。"
  PER_forced_secularization: "強制世俗化"
@@ -1899,9 +1857,6 @@
  PER_spoils_of_war_desc: "我們在戰爭中的努力沒有被盟友忽視，他們樂意接受[PER.GetNameDef]在戰後獲得周邊地區的領土。這是攫取戰利品的大好機會。"
  PER_middle_east_protectorate: "在中東建立保護國"
  PER_middle_east_protectorate_desc: "隨著戰爭結束，我們成功控制了環繞[PER.GetNameDef]的一些國家。作為宗主國，我們有責任保護這些國家免受其他侵略者的威脅。如果有人試圖奪走這些土地，就讓他們試試看吧。"
- ##################
- ### HISTORICAL ###
- ##################
  PER_stand_with_giants: "與巨人比肩"
  PER_stand_with_giants_desc: "世界正處於刀刃之上，歐洲的強國之間醞釀著衝突。在這桶火藥慢慢點燃時，我們必須準備好將[PER.GetNameDef]提升到可以與世界巨人比肩的高度，成為一個經得起時間考驗的現代化和進步的社會。"
  PER_saadabad_treaty: "薩德阿巴德條約"
@@ -2206,9 +2161,6 @@
  PER_reinstate_qajars_desc: "卡扎爾王朝是[PER.GetNameDef]在巴列維家族統治前的最後一個王朝。1925年禮薩·沙·巴列維本人廢黜該王朝後，其王位繼承人穆罕默德·哈桑·米爾扎一直流亡於[ENG.GetNameDef]。由於巴列維家族無力維護好[ENG.GetAdjective]在[PER.GetNameDef]的利益，或許是時候恢復卡扎爾王朝，以期取悅我們的新宗主。"
  PER_secularize_the_state: "世俗化國家"
  PER_secularize_the_state_desc: "自我們開始推行西化以來，[PER.GetNameDef]的宗教人士便一直不斷抵制。伊斯蘭教仍是我們的國教，但為了向西方世界證明我們有能力與之比肩，現在是我們將宗教與國家分離、走上現代化道路的時候了。"
- ################
- ##### IRAQ #####
- ################
  IRQ_decouple_from_the_pound: "與英鎊脫鉤"
  IRQ_decouple_from_the_pound_desc: "我們的貨幣仍然與英鎊掛鉤，這嚴重限制了我們推行符合自身需求的經濟政策。我們必須打破這一束縛，建立自己的貨幣管理機構，確保我國自主控制第納爾。"
  IRQ_construct_the_kut_barrage: "修建庫特水壩"
@@ -2370,8 +2322,6 @@
  IRQ_fligerfuhrer_irak_desc: "面對[ENG.GetAdjective]的強大軍力，我們的軍隊幾乎毫無勝算。然而，我們的盟友或許能夠提供先進的飛機和飛行員，讓我們扭轉戰局。"
  IRQ_commander_of_the_faithful: "信士的長官"
  IRQ_commander_of_the_faithful_desc: "既然我們已承擔起統一阿拉伯人民的使命，我們應該儘可能招募他們來支持我們的事業。阿卜德·伊拉赫認為自己有資格繼承侯賽因·本·阿里·哈希姆的頭銜，並任命自己為信士的長官。"
- #IRQ_retire_radical_officers: "Retire Radical Officers"
- #IRQ_retire_radical_officers_desc: "The armed forces are rife with anti-[ENG.GetAdjective] and pan-arab radicals who wish to force a confrontation. We must retire them from their roles before they find an opportunity to undermine our rule."
  IRQ_increase_anglo_iraqi_economic_ties: "強化英伊經濟聯繫"
  IRQ_increase_anglo_iraqi_economic_ties_desc: "如果我們不利用與[ENG.GetAdjective]建立的密切經濟聯繫就太蠢了。"
  IRQ_raf_levies_focus: "英國皇家空軍徵召"
@@ -2548,9 +2498,6 @@
  IRQ_invite_oil_mission: "邀請石油顧問團"
  IRQ_invite_oil_mission_desc: "我們的籌碼是黑色黃金——而我們新結識的朋友正急需這些資源。戰爭局勢朝有利的方向發展，現在的小小讓步可能在未來帶來更大的收益。"
  IRQ_invite_oil_mission_ctt: "我們將向§Y[GER.GetNameDef]§!提供§Y[676.GetName]§!地區的§Y石油§!開採權以換取："
- ###########################
- ##### SHARED SAADABAD #####
- ###########################
  SSB_the_saadabad_pact: "薩德阿巴德條約"
  SSB_the_saadabad_pact_desc: "與鄰國保持友好，我們不會有什麼損失，反而會有所得。簽訂一項正式的友好條約的想法已被提出多次，現在是我們採取行動，確保這份友誼被寫入條約的時候了。"
  SSB_military_cooperation: "軍事合作"

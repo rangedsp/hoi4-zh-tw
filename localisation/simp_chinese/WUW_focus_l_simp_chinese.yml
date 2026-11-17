@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ### AUSTRO-HUNGARIAN JOINT FOCUS TREE ###
  HABSBURG_is_subject_puppeteer_faction_leader_or_member_trigger_tt: "是§Y[AUS.GetNameDef]§!或§Y[HUN.GetNameDef]§!，且擁有任意§Y奧匈帝國代表國§!為附屬國；或是兩國之一的附屬國；或是§Y[AUS.GetNameDef]§!或§Y[HUN.GetNameDef]§!且為陣營領導者；或是與兩國處於同陣營中的任意§Y奧匈帝國代表國§!。"
  HABSBURG_is_originator_country: "§Y[ROOT.GetName]§!是§Y發起國家§!"
  HABSBURG_part_of_something_bigger: "不可分割、不可分離"
@@ -74,7 +73,6 @@
  HABSBURG_an_empire_not_just_in_name_desc: "我們的聯邦將實實在在屹立千年。如今，沒有什麼能阻擋我們通往未來。要讓人們知道，多瑙河地區是世界上最富饒、最令人讚歎的地區!"
  HABSBURG_an_empire_not_just_in_name_no_puppets_tt: "所有擁有該§Y共享國策樹§!的附屬國會獲得："
  HABSBURG_joint_ft_unlock_tt: "解鎖奧匈§Y共享國策樹§!"
- ### HUNGARIAN FOCUS TREE ###
  generic_skip_one_line_tt: " \n"
  wuw_HUN_announce_the_gyor_program_tt: "解鎖§Y傑爾計劃投資§!決議，允許額外投資並擴建§Y[ROOT.GetAdjective]軍火工業§!"
  gyordshadtest_division_mech_tt: "獲得兩個§Y機械化§!單位"
@@ -630,7 +628,6 @@
  wuw_HUN_hold_territorial_referendums_tt: "解鎖決議§Y在失去的領土舉行公投§!，以嘗試再次獲取它們"
  wuw_HUN_sailing_the_danube: "航行多瑙河"
  wuw_HUN_sailing_the_danube_desc: "偉大的多瑙河長期以來一直是我國的命脈，我們無論是運輸貨物還是調動軍隊，我們都有著悠久而自豪的航行傳統。因此，我們應該投資於我們的內河海軍，並確保我們在內河上的航運能夠儘可能順利地繼續運作。"
- ### AUSTRIAN FOCUS TREE ###
  AUS_totalitarian_safety: "極權主義的安全"
  AUS_totalitarian_safety_desc: "1933年，為了我們國家的安全，恩格爾伯特·陶爾斐斯將[AUS.GetNameDef]引入了其當前的政治狀態。完全廢除議會的這一決定在我們人民中引起了爭議，但我們確信這是保護我們安全所必需的。陶爾斐斯已經離開了我們，但為了我們自己的安全，我們應該繼續這一道路。"
  AUS_clamp_down_on_dnsap: "打擊德意志國家社會主義工人黨"
@@ -1171,7 +1168,6 @@
  AUS_coastal_defence_forts_desc: "我們在海上的活動只是決定我們成功幾率的一部分。另一部分是我們的海岸線，以及其防禦工事的完備性。幾個佈置得當的海岸堡壘能夠挫敗最周密的入侵計劃。"
  AUS_naval_efficiency: "[ROOT.GetAdjective]海軍效率"
  AUS_naval_efficiency_desc: "通過辛勤工作和奉獻，我們已經重建了一個相當規模的海軍力量。我們的成功激勵了我們的水手和船塢工人，我們應該利用這一優勢，向卓越邁進！"
- ### BELGIAN FOCUS TREE ###
  BEL_perpetual_neutrality: "永久中立"
  BEL_perpetual_neutrality_desc: "在世界大戰時，由於我們成為了主要戰場，我國被夷為廢墟。這種情況決不能再次發生。因此，我們將宣佈，[BEL.GetNameDef]會成為一個獨立且永久中立的國家，對所有其他國家保持同樣的中立。"
  BEL_independent_neutral_and_loyal: "獨立、中立和忠誠"
@@ -1559,7 +1555,6 @@
  BEL_convoy_protection_duties_desc: "在極大的危險和需要時，給商船配備武器並提供炮兵和海軍補給以保護自身是可以接受的。這樣，那些獵捕我們商人的人將會發現，獵物突然間有了尖牙。"
  BEL_maritime_phoenix: "海上鳳凰"
  BEL_maritime_phoenix_desc: "從無到有，我們的艦隊已經開花結果。我們的船塢被工業的火光照亮，新船不斷從船臺上下水，我們的戰略利益正在被飄揚著[ROOT.GetAdjective]旗幟的艦隊實現。"
- ### Belgium Focus Tooltip Loc ###
  BEL_government_resigns_complete_national_unity_tt: "§R在政府辭職事件中選擇民族團結政府將完成該國策。§!"
  BEL_government_resigns_complete_vandervelde_tt: "§R在政府辭職事件中選擇王德威爾得少數派將完成該國策。§!"
  BEL_royal_intervention_complete_janson_tt: "§R在王室干預事件中選擇讓松將完成該國策。§!"
@@ -1584,7 +1579,6 @@
  BEL_eddy_blondeel_tt: "§Y艾迪·布隆戴爾§!成為一名§Y將領§!"
  BEL_scars_of_ww1_ns_fake_tt: "陸軍師組織度：§R-15%§! \n可徵募人口係數：§R-15%§! \n戰爭支持度：§R-30%§! \n§Y軍用工廠§! 建設速度：§R-20%§!"
  BEL_corruption_ns_fake_tt: "每日政治點數獲取：§R-0.25§!\n穩定度：§R-20%§!\n建設速度：§R-20%§!\n每日法西斯主義支持率：§G+0.10%§!"
- ### CONGO SHARED FOCUS TREE ###
  CONGO_belgian_congo: "比屬剛果"
  CONGO_belgian_congo_desc: "該殖民地於1908年建立，當時剛果自由邦被比利時政府吞併，擺脫了比利時王室的剝削。比屬剛果仍然是比利時殖民核心政策上的寶石。"
  CONGO_expand_villages: "擴建村莊"
@@ -2042,7 +2036,6 @@
  COG_german_east_africa_desc: "我們必須推進到德屬東非的舊領土，使它們再次回到我們的懷抱！"
  COG_german_south_west_africa: "德屬西南非洲"
  COG_german_south_west_africa_desc: "我們必須推進到德屬西南非洲的舊領土，使它們再次回到我們的懷抱！"
- ### CONGO TOOLTIPS ###
  CONGO_bakwanga_mine_tt: "解鎖決議§Y擴建礦井§!"
  CONGO_kasai_secessionist_state_tt: "如果爆發針對我們宗主國的§Y獨立戰爭§!，我們會在§Y[888.GetName]§!獲得2支擁有5個營的§Y步兵§!單位"
  CONGO_kasai_secessionist_state_2_tt: "如果剛果爆發§Y獨立戰爭§!，他們會在§Y[888.GetName]§!獲得2支擁有5個營的§Y步兵§!單位"
@@ -2099,7 +2092,6 @@
  COG_south_to_lake_malawi_tt: "解鎖決議§Y整合馬拉維和贊比西亞-莫桑比克§!"
  COG_invite_german_kasierist_exiles_tt: "§Y卡爾·弗里德里希·戈爾德勒§!、§Y保羅·馮·萊托·福爾貝克§!和§Y阿爾弗雷德·胡根貝格§!前往非洲加入我們"
  COG_colonial_administration_tt: "解鎖在§Y中非§!§Y整合地區§!的決議"
- ### GERMAN FOCUS TREE ###
  FOCUS_ICON_SET_HISTORICAL_KEY_FOCUS: "歷史重點國策"
  GER_prioritize_economic_growth: "經濟增長優先"
  GER_prioritize_economic_growth_desc: "多年疏忽的財政政策幾乎毀了我們的經濟。我們必須製造拖拉機而不是坦克，分發鏟子而不是步槍，優先發展經濟而不是擴大軍工產業！"
@@ -2142,7 +2134,7 @@
  GER_kdf_wagen_factories_neutral: "威廉汽車廠"
  GER_kdf_wagen_factories_volkswagen: "大眾汽車廠"
  GER_kdf_wagen_factories_desc: "[GetKDFFactoriesText]"
- GER_kdf_wagen_factories_autarky_text: "$GER_kdf_wagen_desc$" #old loc
+ GER_kdf_wagen_factories_autarky_text: "$GER_kdf_wagen_desc$"
  GER_kdf_wagen_factories_economic_growth_text: "隨著新的[GetAutobahnName]建成，我們必須讓它們裝滿汽車。為了成為一個真正繁榮和現代化的經濟體，我們需要建設工廠來生產這些汽車，同時創造就業機會。"
  GER_expand_the_reichsautobahn_south: "擴建南部[GetAutobahnName]"
  GER_expand_the_reichsautobahn_south_desc: "向南擴建高速公路網絡將刺激該區域的經濟增長和發展。它還能快速向阿爾卑斯山運送部隊，加強我們的軍事能力。"
@@ -2155,11 +2147,11 @@
  GER_build_the_rur_dam: "建造魯爾水壩"
  GER_build_the_rur_dam_desc: "修建魯爾大壩不僅僅是一項工程壯舉——它是對未來的投資。大壩不僅將促進該地區的經濟發展，還將助力我們的工業努力和生產產出。"
  GER_trade_deal_with_sweden: "與瑞典的貿易協議"
- GER_trade_deal_with_sweden_desc: "$GER_swedish_trade_agreement_desc$" #old loc
+ GER_trade_deal_with_sweden_desc: "$GER_swedish_trade_agreement_desc$"
  GER_the_four_year_plan: "四年計劃"
- GER_the_four_year_plan_desc: "$GER_four_year_plan_desc$" #old loc
+ GER_the_four_year_plan_desc: "$GER_four_year_plan_desc$"
  GER_autarky_efforts: "自給自足的努力"
- GER_autarky_efforts_desc: "$GER_autarky_desc$" #old loc
+ GER_autarky_efforts_desc: "$GER_autarky_desc$"
  GER_gain_autarkic_economy_lock_free_trade_tt: "§R鎖定§!§Y$free_trade$§!和§Y$export_focus$§!。獲得§Y$autarkic_economy$§!。"
  GER_improve_trade_relations_tt: "提升與現有和未來的§Y陣營成員§!的§Y貿易影響力§!"
  GER_institute_price_controls: "實施價格控制"
@@ -2167,12 +2159,12 @@
  GER_unlock_price_controls_decision_tt: "解鎖決議：§Y$GER_price_controls_cat$§!，可以降低§Y$MODIFIER_CONSUMER_GOODS_FACTOR$§!"
  GER_industrial_consumer_goods_factor_limit_tt: "§Y[GetIndustrialModifier]§!的$MODIFIER_CONSUMER_GOODS_FACTOR$§R低於§!§Y90%§!"
  GER_establish_the_reichswerke: "建立$GER_reichswerke$"
- GER_establish_the_reichswerke_desc: "$GER_hermann_goring_werke_desc$" #old loc
+ GER_establish_the_reichswerke_desc: "$GER_hermann_goring_werke_desc$"
  GER_unlock_reichswerke_tt: "解鎖工業企業§Y$GER_reichswerke$§!"
  GER_seize_foreign_industries: "兼併外國工業"
  GER_seize_foreign_industries_desc: "通過將外國工業整合到我們的經濟中，我們確保了支持我們戰爭努力和生產的重要資源。"
  GER_coal_liquefaction: "煤液化"
- GER_coal_liquefaction_desc: "$GER_coal_liquidization_desc$" #old loc
+ GER_coal_liquefaction_desc: "$GER_coal_liquidization_desc$"
  GER_subsidize_hoesch_benzin: "資助霍施-本欽公司"
  GER_subsidize_hoesch_benzin_desc: "曾經有句話說，軍隊靠胃部行軍，但現代軍隊依賴燃料。為了維持我們的軍事能力，我們必須加大合成燃料的生產力度。"
  GER_establish_buna_werke: "建立布納工廠"
@@ -2202,7 +2194,6 @@
  GER_totaler_krieg: "總體戰"
  GER_totaler_krieg_desc: "為了取得全面勝利，我們必須動員全社會，把全面戰爭帶到敵人家門口。[ROOT.GetNameDef]是時候起來了，讓風暴爆發吧！"
  GER_gain_totaler_krieg_remove_total_mob_tt: "§R移除§!§Y$tot_economic_mobilisation$§!。獲得§Y$totaler_krieg_economy$§!。"
- #ARMY
  GER_develop_modern_maneuver_warfare: "發展現代機動戰術"
  GER_develop_modern_maneuver_warfare_desc: "我們必須認識到現代戰爭的演變性質，並開發一種新的戰術，強調步兵與新技術的整合，以最大限度地提高我們在戰場上的軍事效能。"
  GER_fortify_the_vaterland: "加固祖國"
@@ -2251,7 +2242,7 @@
  GER_uranverein: "鈾俱樂部"
  GER_uranverein_desc: "我們的國家必須在原子能研究方面走在前列，併為我們自己利用這一潛力。我們擁有一些地球上最聰明的頭腦去追求這一目標，成為世界的毀滅者。"
  GER_adopt_new_panzer_doctrine: "採納新的裝甲作戰學說"
- GER_adopt_new_panzer_doctrine_desc: "$GER_army_innovation_desc$" #old loc
+ GER_adopt_new_panzer_doctrine_desc: "$GER_army_innovation_desc$"
  GER_panzer_troops_school: "裝甲部隊學校"
  GER_panzer_troops_school_desc: "裝甲師將在任何現代衝突中發揮關鍵作用，我們必須確保我們的裝甲部隊處於軍事創新的前沿。通過嚴格的訓練和專家指導，我們將培養出勝利所需的精銳裝甲部隊。"
  GER_advanced_panzer_research: "先進坦克研究"
@@ -2260,15 +2251,14 @@
  GER_expand_kummersdorfs_capacity_desc: "我們必須引領裝甲戰車的發展並推動創新，以確保我們在戰場上的主導地位。通過在庫默斯多夫的設施研究敵方坦克設計並利用尖端技術，我們將開創超越所有競爭對手的先進技術。"
  GER_combined_arms: "聯合兵種"
  GER_combined_arms_desc: "科技的快速發展改變了戰爭的方式，這是我們應該利用的。我們將堅持兵種並舉的原則，制定步兵、裝甲和空中支援同步化的綜合戰略，打造一支強大的戰鬥力量，確保其至高無上的地位。"
- #LUFTWAFFE
  GER_expanding_the_luftwaffe: "擴張空軍"
- GER_expanding_the_luftwaffe_desc: "$air_innovation_desc$" #old loc
+ GER_expanding_the_luftwaffe_desc: "$air_innovation_desc$"
  GER_aeronautical_research_institute: "航空研究所"
  GER_aeronautical_research_institute_desc: "自從大戰以來，空戰的重要性和複雜性不斷增長，而由於凡爾賽條約禁止我們組建空軍，我們在飛機發展上一直落後。為了解決這個問題，我們必須建立航空研究所，開發創新的機身、引擎和武器，以確保空中優勢。"
  GER_dive_bombers: "俯衝轟炸機"
- GER_dive_bombers_desc: "$GER_tactical_air_effort_desc$" #old loc
+ GER_dive_bombers_desc: "$GER_tactical_air_effort_desc$"
  GER_tactical_bombers: "戰術轟炸機"
- GER_tactical_bombers_desc: "$GER_strategic_air_effort_desc$將我們國界以外的每個工廠夷為平地，確保只有我們能夠部署有效的軍事力量。" #Old and new loc
+ GER_tactical_bombers_desc: "$GER_strategic_air_effort_desc$將我們國界以外的每個工廠夷為平地，確保只有我們能夠部署有效的軍事力量。"
  GER_uralbomber_program: "烏拉爾轟炸機計劃"
  GER_uralbomber_program_desc: "一旦我們能夠開發出能飛往烏拉爾山脈的飛機，幾乎任何潛在的敵人都將在我們的攻擊範圍之內，從而實現勝利。"
  GER_aerodynamic_research_institute: "空氣動力研究所"
@@ -2300,7 +2290,7 @@
  GER_establish_night_fighter_squadrons: "建立夜間戰鬥機中隊"
  GER_establish_night_fighter_squadrons_desc: "作為我們保衛祖國的下一步行動，我們應該創建夜間戰鬥機中隊（Nachtjagdgeschwader）。使用機載雷達將使它們在白天和夜晚都能有效地保持我們的天空不受敵人侵擾。"
  GER_torpedobomber: "魚雷轟炸機"
- GER_torpedobomber_desc: "$naval_air_effort_desc$" #old loc
+ GER_torpedobomber_desc: "$naval_air_effort_desc$"
  GER_establish_carrier_groups: "建立航母戰鬥群"
  GER_establish_carrier_groups_desc: "為了建立一支無與倫比的航母艦隊，我們必須訓練我們的飛行員在這些甲板上起降。我們的飛機將統治海洋和陸地的天空！"
  GER_rocketry_innovations: "火箭創新"
@@ -2309,13 +2299,12 @@
  GER_amerikabomber_desc: "我們必須全力以赴，實現掌控天空的雄心壯志，並創造一種遠程飛機，能夠通過打擊敵方領土深處的目標或穿越大西洋，向所有人表明，在我們的打擊範圍內沒有人是安全的。"
  GER_war_with_american_country_tt: "與一個§Y美洲§!國家交戰"
  GER_unlocks_statue_of_liberty_raid_tt: "與§Y[USA.GetNameWithFlag]§!交戰時，解鎖對§Y自由女神像§!的§Y空襲§!"
- #KRIEGSMARINE
  GER_strengthen_the_kriegsmarine: "加強[GetStrengthenKriegsmarineName]"
  GER_strengthen_kriegsmarine_fascism: "德國海軍"
  GER_strengthen_kriegsmarine_neutrality: "帝國海軍"
  GER_strengthen_kriegsmarine_democratic: "德國海軍部隊"
  GER_strengthen_kriegsmarine_communism: "人民海軍"
- GER_strengthen_the_kriegsmarine_desc: "$GER_naval_rearmament_desc$" #old loc
+ GER_strengthen_the_kriegsmarine_desc: "$GER_naval_rearmament_desc$"
  GER_expand_kriegsmarinewerft: "擴建[GetKriegsmarinewerftName]"
  GER_expand_kriegsmarinewerft_fascism: "海軍造船廠"
  GER_expand_kriegsmarinewerft_neutrality: "帝國海軍造船廠"
@@ -2326,7 +2315,7 @@
  GER_construct_aircraft_carriers_desc: "任何一個值得尊重的現代海軍都必須擁有航空母艦。這些船隻將越來越重要，以主宰海洋，因此為了不落後於我們的敵人，我們必須啟動一項雄心勃勃的航母建造計劃。"
  GER_carrier_variants_tt: "根據§Y$early_ship_hull_carrier$§!、§Y$basic_ship_hull_carrier$§!或§Y$ship_hull_carrier_2$§!技術，製造航母§Y衍生型號§!和§Y生產線§!。當前效果：\n"
  GER_grosskampfschiff_construction: "大型戰艦建造"
- GER_grosskampfschiff_construction_desc: "$GER_pride_of_the_modern_germany_desc$" #old loc
+ GER_grosskampfschiff_construction_desc: "$GER_pride_of_the_modern_germany_desc$"
  GER_high_seas_fleet: "公海艦隊"
  GER_high_seas_fleet_desc: "我們的雄心壯志不應小於使[ROOT.GetNameDef]成為一個真正的全球列強。為此，我們需要復興高海艦隊，這支艦隊曾幾乎與英國皇家海軍在海洋上的統治地位相匹敵。"
  GER_unlock_trade_interdiction_tt: "解鎖§Y$GER_trade_interdiction$§!國策。"
@@ -2431,7 +2420,7 @@
  GER_expand_the_truppenschulen_desc: "為了跟上對專業軍官日益增長的需求，我們的軍校分支需要大幅擴張。為我們的軍官候選人提供最好的培訓將確保我們在戰場上的成功。"
  GER_demonstration_of_military_achievements: "軍事成果展示"
  GER_demonstration_of_military_achievements_desc: "我們的歷史充滿了偉大的軍事成就。通過承認我們的部隊目前取得的成就將是這些偉大的軍事成就中的另一項，我們可以提高士氣，進一步增加他們對我們的忠誠。"
- GER_demonstration_of_military_achievements_trigger: "必須滿足以下條件之一：\n   擁有超過§Y2§!個附屬國\n   在§Y歐洲§!擁有超過§Y19§!個被佔領地區" #TODO_Danne make these numbers into a variable!
+ GER_demonstration_of_military_achievements_trigger: "必須滿足以下條件之一：\n   擁有超過§Y2§!個附屬國\n   在§Y歐洲§!擁有超過§Y19§!個被佔領地區"
  GER_country_leader_change_blocks_progress_demonstration_military_achievement_tt: "§R在完成§Y$GER_demonstration_of_military_achievements$§!後更換國家領導人將阻礙完成§Y$GER_an_invincible_army$§!和§Y$GER_the_supreme_leader$§!§!"
  GER_an_invincible_army: "不可戰勝的德國軍隊"
  GER_an_invincible_army_desc: "我們的軍隊在戰場上取得了眾多成就和勝利，經由此我們向世界證明，不管敵人的煽動者怎麼說，[ROOT.GetAdjective]軍隊確實是無敵的！"
@@ -2486,7 +2475,7 @@
  GER_influence_the_benelux_desc: "貝內盧克斯地區對我們繼續的戰爭努力具有重要意義，但也因為它們的工業能力和地理位置。雖然我們可能輕易征服它們，但為什麼不把它們爭取我們這一邊呢？"
  GER_operation_weserubung: "$GER_weserubung$"
  GER_operation_weserubung_desc: "$GER_weserubung_desc$"
- GER_utilize_the_nordliche_gesellschaft: "利用北方聯盟" #was Befriend Scandinavia
+ GER_utilize_the_nordliche_gesellschaft: "利用北方聯盟"
  GER_utilize_the_nordliche_gesellschaft_desc: "斯堪的納維亞一向保持中立。如果我們能通過外交手段獲得他們所擁有的資源，就沒有必要再開闢一個戰線。因此，我們應該利用阿爾弗雷德·羅森伯格的北方協會，這個旨在加強德國-北歐文化和政治合作的組織，以便對北歐國家說好話。"
  GER_form_rome_berlin_axis: "建立羅馬-柏林軸心"
  GER_form_rome_berlin_axis_desc: "$GER_italy_ally_desc$"
@@ -2575,7 +2564,6 @@
  GER_war_against_communism_tt: "獲得對世界上任何§Y共產主義§!國家的§Y吞併§!戰爭目標。當前效果："
  GER_war_against_european_communism_tt: "對任何§Y歐洲§!§Y共產主義§!國家獲得§Y吞併§!戰爭目標。當前目標："
  GER_crossing_the_atlantic_dockyards_tt: "在[ROOT.GetNameWithFlag]完全控制的歐洲沿海省份增加§Y2個$dockyard$§!，每建造一個船塢將移除§Y1個$arms_factory$§!。\n（效果最多作用於[?crossing_the_atlantic_max_states_for_dockyards|Y0]個省份，優先選擇擁有至少1個$arms_factory$的沿海省份）"
- #INNER CIRCLE
  GER_inner_circle_member_title: "全國領導"
  GER_ascension_of_todt: "$GER_inner_circle_member_title$托特"
  GER_ascension_of_todt_desc: "作為一名擁有軍事經驗的優秀工程師，弗裡茨·托德已經證明自己是元首的得力顧問。如果給予他相對的行動自由，我們相信他能對[ROOT.GetNameDef]發揮很大作用。"
@@ -2643,7 +2631,6 @@
  GER_tend_to_the_future_of_germany: "展望德國的未來"
  GER_tend_to_the_future_of_germany_desc: "現在德國已經成功地從納粹手中拯救出來，我們必須展望新的前景，並決定國家未來的發展方向。為了團結、正義和自由！"
  GER_tend_to_the_future_of_germany_tt: "任何§Y分離主義叛亂§!的企圖都將被成功規避。"
- #COMMUNISM
  GER_start_the_proletarian_revolution: "發動無產階級革命"
  GER_start_the_proletarian_revolution_desc: "我們希望在第一次內戰後，工人的聲音能被更多人聽到。然而，情況似乎並非如此。無產階級值得更好的待遇，只有讓他們奮起反抗，我們才能最終將權力交給支持無產階級的人們，一勞永逸。"
  GER_start_the_proletarian_revolution_civil_war_tt: "如果該任務超時，將會導致§R內戰§!！"
@@ -2723,7 +2710,7 @@
  GER_liberate_italy_desc: "[ITA.GetAdjective]人長期以來在[ITA.GetLeader]的統治下飽受苦難。曾幾何時，他們是我們之前政府的盟友，而現在我們已經變得更好，理應將他們一起帶上這條路！"
  GER_the_end_to_fascist_europe: "法西斯歐洲的終結"
  GER_the_end_to_fascist_europe_desc: "即使在這個時候，歐洲仍然有一些國家處於法西斯統治之下。我們深知這給人民帶來的壓力，因此我們必須確保這些國家立即獲得解放！"
- GER_bypass_end_to_fascist_europe_tt: "沒有： 任意其他國家：\n   首都：位於§Y歐洲§!\n   當前執政黨是§Y法西斯主義§!。" #The indentations are there so the tt looks correct
+ GER_bypass_end_to_fascist_europe_tt: "沒有： 任意其他國家：\n   首都：位於§Y歐洲§!\n   當前執政黨是§Y法西斯主義§!。"
  GER_war_against_fascism_tt: "獲得針對§Y歐洲§!任何§Y法西斯§!國家的§Y吞併§!戰爭目標（尚未被[GER.GetNameDef]獲得戰爭目標的國家）。當前效果："
  GER_red_europe: "紅色歐洲"
  GER_red_europe_desc: "我們不能僅僅把鼓勵工人拿起武器、舉起紅旗的努力侷限於我們的鄰國。我們必須將無產階級革命傳播到整個歐洲！"
@@ -2793,7 +2780,6 @@
  GER_factories_for_resources: "資源換工廠"
  GER_factories_for_resources_desc: "在[ROOT.GetNameDef]，我們有大量的民用工業可以更好地利用。我們知道[SOV.GetNameDef]在某些地區相對欠發達，而這些地區恰好通常富含寶貴的資源。提出將一些工業遷移以換取這些資源，可能會為我們帶來豐厚的機會。"
  GER_factories_for_resources_tt: "解鎖§Y決議§!，允許將工業設施遷移至§Y[SOV.GetNameWithFlag]§!，以換取資源。"
- #NON-ALIGNED/DEMOCRATIC
  GER_monarchist_sentiment: "君主主義情緒"
  GER_monarchist_sentiment_desc: "人民想要君主制，這正是他們將得到的。雖然具體的政府形式尚未確定，但很明顯德國人民需要他們的皇帝歸來。"
  GER_the_monarchy_compromise_ww: "$GER_the_monarchy_compromise$"
@@ -3068,7 +3054,6 @@
  GER_assassinate_mussolini_ww_desc: "時機已到，必須確保終結[ITA.GetAdjective]法西斯主義的關鍵人物。德國人將暗殺該領袖，隨後[ITA.GetAdjective]的保王派將一舉奪取政權。"
  GER_prepare_italian_coup_ww: "策劃[ITA.GetAdjective]政變"
  GER_prepare_italian_coup_ww_desc: "如果陷入法西斯主義的泥潭，意大利必將覆滅。我們將向[ITA.GetAdjective]保皇派提出一項由我們支持的政變提議。"
- #TOOLTIPS
  GER_unlock_influence_countries_tt: "解鎖決議：§Y$GER_influence_countries_cat$§!"
  GER_middle_eastern_trade_tt: "解鎖決議：§Y$GER_middle_eastern_trade_cat$§!"
  GER_allied_trade_tt: "解鎖決議：§Y$GER_mitteleuropa_allied_trade_cat$§!"

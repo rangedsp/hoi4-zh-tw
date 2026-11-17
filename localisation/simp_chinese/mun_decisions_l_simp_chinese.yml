@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
- ###### CZECHOSLOVAKIA ######
  CZE_sudeten_promise_mission: "蘇臺德承諾"
  CZE_sudeten_promise_mission_desc: "通過在蘇臺德地區支持準軍事組織，我們承諾幫助他們脫離[CZE.GETNAME]並加入我們。違背這一承諾將引發政治反彈。"
  CZE_recall_zdenko_hudecek: "撤回§Y$CZE_zdenko_hudecek$§!"
@@ -47,7 +46,6 @@
  CZE_the_autonomous_bloc_demands: "自治集團的要求"
  CZE_the_rut_demands: "[RUT.GetAdjective]的要求"
  CZE_the_rut_demands_desc: "在滿足了自治集團的要求後，支持烏克蘭獨立的$RUT_augustin_voloshyn$也提出了同樣的訴求。"
- ###DIPLOMACY DECISIONS###
  CZE_escalate_involvement_in_soviet_civil_war: "進一步介入蘇聯內戰"
  CZE_escalate_border_war: "升級[CZE.GetAdjective]-[66.owner.GetAdjective]邊境衝突"
  CZE_white_peace_silesia_owner: "與[66.owner.GetName]達成和平協議"
@@ -58,7 +56,6 @@
  CZE_spread_the_revolution_category: "輸出革命"
  CZE_integrate_nation: "整合[FROM.GetNameDef]"
  CZE_propose_unification: "邀請[FROM.GetName]加入[ROOT.GetNameDef]"
- #CZE_integrate_nation: "Integrate [FROM.GetName]"
  CZE_central_european_federation: "中歐聯邦"
  CZE_form_the_european_federation: "組建歐羅巴聯盟"
  CZE_central_european_federation_desc: "我們與鄰國之間的共同點遠多於分歧。成立一個民主聯邦，或許是保住中歐多元制度在當前重重威脅下延續下去的唯一方式。"
@@ -70,7 +67,6 @@
  CZE_form_the_european_federation_YUG_tt: "獲取部分南斯拉夫地區的核心"
  CZE_demands_aus_joins_us: "要求[AUS.getname]加入我們的聯邦"
  CZE_demands_hun_joins_us: "要求[HUN.getname]加入我們的聯邦"
- ###FORT DECISIONS###
  CZE_the_second_fortification_program_category: "防禦工事計劃"
  CZE_the_second_fortification_program_category_desc: "我國不甚理想的邊境線已成為緊迫的國家安全問題。周邊國家已經明確表示，他們有意按照對自己有利的方式重新劃分我國邊界。繼續加強邊境防禦，將使得任何潛在的敵人在攻擊我們之前再三思量。"
  CZE_fate_of_the_ro: "防禦工事委員會的命運"
@@ -94,7 +90,6 @@
  CZE_fortify_the_hungarian_border_with_73_desc: "匈牙利的收復失地主義始終威脅著我國，在兩國邊境修建防禦工事體系將有助於保障我們的安全。"
  CZE_fortify_the_polish_border_with_72: "鞏固對波邊防"
  CZE_fortify_the_polish_border_with_72_desc: "波蘭人的侵略野心永無止境，但願通過構築完善的要塞邊防體系能讓他們知難而退，另外尋找其他更易得手的目標。"
- ###### ARMY READINESS BALANCE OF POWER ######
  CZE_bop_ready_for_anything: "£GFX_power_balance_texticon 為一切做好準備"
  CZE_bop_ready_for_anything_tt: "沒有民族精神"
  CZE_bop_no_divided_nation_tt: "沒有民族精神§Y$CZE_a_divided_nation_dynamic_modifier$§!"
@@ -128,8 +123,6 @@
  CZE_seize_rail_lines: "£BoP_right_texticon 奪取鐵路"
  CZE_field_exercises: "£BoP_right_texticon 戰場演習"
  CZE_field_exercises_desc: "沒有什麼比在前線訓練更有價值了。"
- ###### SKODA WORKS ######
- ###SKODA MARKET/SELLING/OFFICE DECISIONS###
  CZE_skoda_focus_category: "[ROOT.GetAdjective]的武器銷售"
  CZE_skoda_select_spain_group: "在西班牙的武器銷售"
  CZE_skoda_select_country: "選擇[FROM.controller.GetName]用於出售決議"
@@ -149,7 +142,6 @@
  CZE_get_weapon_sales_idea_tt: "這批產能將在稍後移交至[ROOT.GetNameDef]。若當前武器銷售情況充足，則這批產能將改為儲備起來，並在更長時期內逐步分配使用。"
  CZE_weapon_sale_refusal_tt: "觸發事件“§Y[?global.CZE_selling_country.GetName]拒絕提議§!”"
  CZE_get_event_fake: "觸發事件“$EVENT_T|Y$”。"
- ### SKODA PRIORITY FOCUS INLAY GUI TOOLTIPS ###
  CZE_industry_focus_title_text: "斯柯達優先事項"
  CZE_skoda_focus_category_tt: "斯柯達公司涵蓋了幾乎所有的軍工領域，這為資源轉移提供了極大的靈活性。\n\n$CZE_skoda_optimization_tier_tt$"
  CZE_skoda_optimization_tier_header: "£GFX_prod_eff_cap §W優化\n等級：§!"
@@ -158,22 +150,18 @@
  CZE_skoda_ui_plane_focus_tt: "§Y飛機重心§!"
  CZE_skoda_ui_tank_focus_tt: "§Y坦克重心§!"
  CZE_skoda_ui_naval_focus_tt: "§Y海軍重心§!"
- ### SKODA FOCUS SELECTION TOOLTIPS ###
  CZE_skoda_ui_no_focus_selected_tt: "§Y重工業重心§!\n\n[SkodaGetIndustryFocusIdeaEffects]"
  CZE_skoda_ui_infantry_focus_selected_tt: "§Y步兵重心§!\n\n[SkodaGetInfantryFocusIdeaEffects]"
  CZE_skoda_ui_plane_focus_selected_tt: "§Y飛機重心§!\n\n[SkodaGetPlaneFocusIdeaEffects]"
  CZE_skoda_ui_tank_focus_selected_tt: "§Y坦克重心§!\n\n[SkodaGetTankFocusIdeaEffects]"
  CZE_skoda_ui_naval_focus_selected_tt: "§Y海軍重心§!\n\n[SkodaGetNavalFocusIdeaEffects]"
  CZE_skoda_ui_naval_focus_unavailable_tt: "§Y海軍重心§!\n\n£GFX_trigger_no 已完成國策§Y重啟艦炮生產§!"
- ### SKODA OPTIMIZATION TIER TOOLTIPS ###
- CZE_skoda_optimization_tier_tt: "切換£GFX_CZE_skoda_text_icon §Y斯柯達優先事項§!重心會重置£GFX_prod_eff_cap §Y優化等級§!至§R1§!級。一些§Y國策§!會需要我們處於特定的£GFX_CZE_skoda_text_icon §Y斯柯達優先事項§!重心才能完成。這些國策會根據優先級以圖標標出。" #do not swap 2 months to 60 days, for performance reasons its not actually always exactly 2 months
+ CZE_skoda_optimization_tier_tt: "切換£GFX_CZE_skoda_text_icon §Y斯柯達優先事項§!重心會重置£GFX_prod_eff_cap §Y優化等級§!至§R1§!級。一些§Y國策§!會需要我們處於特定的£GFX_CZE_skoda_text_icon §Y斯柯達優先事項§!重心才能完成。這些國策會根據優先級以圖標標出。"
  CZE_skoda_optimization_tier_var_text: "§G[?skoda_optimization_tier]§!"
  CZE_skoda_optimization_tier_hover_tt: "£GFX_CZE_skoda_text_icon §Y斯柯達優先事項§!的修正會§Y乘以§!當前的£GFX_prod_eff_cap §Y優化等級§!\n\n當我們保持£GFX_CZE_skoda_text_icon §Y斯柯達優先事項§!重心不變時，£GFX_prod_eff_cap §Y優化等級§!會逐漸提高\n\n當前§W優化等級§!上限：[?skoda_max_optimization_tier|G0]"
  CZE_skoda_set_sptimization_tier_to_one_tt: "將§Y優化等級§!§W設置§!§W為§!§R1§!\n\n"
- ###### SLOVAKIA ######
  SLO_revenge_of_the_radical_wing: "激進派的復仇"
  SLO_HUN_test_SLO_in_71_decision: "在[71.getname]測試[SLO.getname]"
  SLO_HUN_test_SLO_in_71_decision_desc: "以邊境調整為藉口攻擊[71.Getname]的[SLO.getname]陣地，是檢驗我軍作戰能力的絕佳機會。"
  SLO_little_war_warning_mission: "$PRC_border_wars_cat$"
- ###### REICHSPROTEKTORAT BOHMEN-MAHREN ######
  RKH_legtimatize_the_protektorat: "使[RKH.getnamedef]合法化"

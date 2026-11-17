@@ -347,7 +347,6 @@
  RULE_BERMONDT_POL_AI_DESC: "波蘭AI將讓帕維爾·貝蒙德·阿瓦洛夫加冕為國王並且嘗試加入軸心國。"
  RULE_OPTION_HISTORICAL_CHI_AI_DESC: "中國AI會盡可能遵循史實事件鏈。"
  RULE_OPTION_ALTERNATE_CHI_AI_DESC: "中國AI會沿著國策樹的相關路徑，嘗試攘外必先安內，對日開戰前統一軍閥並鞏固國內權力。"
- #SEA
  RULE_OPTION_HISTORICAL_SEA: "史實"
  RULE_OPTION_HISTORICAL_SEA_DESC: "中國AI會盡可能遵循史實事件鏈。"
  RULE_OPTION_FASCIST_SEA: "法西斯主義"
@@ -674,7 +673,6 @@
  RULE_OPTION_ICE_COMMUNIST: "共產主義"
  RULE_OPTION_ICE_COMMUNIST_AI_DESC: "冰島AI會廢除君主制，並在冰島建立一個共產主義國家。"
  RULE_HISTORICAL_NOR_AI_DESC: "挪威將試圖保持民主並在德國入侵時與同盟國一同抵抗，且淪陷後將作為流亡政府繼續戰鬥。"
- ### SOUTH AMERICA ###
  CHL_AI_BEHAVIOR: "@CHL 智利"
  RULE_HISTORICAL_CHL_AI_DESC: "AI智利會強化民主制度，選擇支持社會民主主義政策，同時維持權力平衡，並且只會在被拖入全球性的鬥爭時參與其中。"
  RULE_OPTION_CHL_COMMUNIST: "智利社會主義共和國"
@@ -814,7 +812,6 @@
  RULE_OPTION_MACARTHUR_PHI_AI_DESC: "菲律賓政府倒臺後，一位軍事人物將挺身而出並領導該國對抗所有侵略者。"
  RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_SUDETENLAND_TOOLTIP: "該國家永遠不可被釋放。"
  RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_RUTHENIA_TOOLTIP: "該國家永遠不可被釋放。"
- #AST_AI_BEHAVIOR: "@AST Australia"
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL: "史實"
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL_DESC: "一個根基牢固但不夠穩定的民主制度，給了澳大利亞向外眺望更廣闊世界的基礎，併為即將到來的風暴做好準備。"
  RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "法西斯主義者潘克赫斯特-沃爾什"

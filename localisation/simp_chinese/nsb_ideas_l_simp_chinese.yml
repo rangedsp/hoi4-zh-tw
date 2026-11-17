@@ -665,7 +665,6 @@
  SOV_fascist_womens_movement_idea_desc: "[ROOT.GetAdjective]的婦女挺立在民族主義運動之中。我們英勇戰士的母親、妻子與女兒們，已經組織了起來，為偉大斗爭做好了準備。"
  SOV_the_true_tsars_idea: "真正的沙皇"
  SOV_the_true_tsars_idea_desc: "沙皇乃是[ROOT.GetNameDef]的正統領袖。團結在沙皇身邊，比起各種參差不齊的外人或意識形態，更能為我們的事業吸引支持者。"
- #Dynamic Modifiers
  SOV_defend_moscow: "保衛莫斯科"
  SOV_increased_metals_production: "擴大金屬生產"
  SOV_invaders_must_die: "入侵者必死無疑"

@@ -1,14 +1,10 @@
 ﻿l_simp_chinese:
- #COUNTRY
  can_not_access_market_closed_economy: "擁有§Y封閉經濟§!"
- #FINLAND
- #Designers
  FIN_outokumpu: "奧托昆普"
  FIN_tampella: "坦佩拉"
  FIN_pohjolan_voima: "北方電力公司"
  FIN_nokia: "諾基亞"
  FIN_valtionrautatiet: "芬蘭國家鐵路公司"
- #National Spirits
  FIN_finnish_army: "芬蘭陸軍"
  FIN_finnish_army_desc: "作為其民族自豪感和獨立傳承的體現，芬蘭陸軍是一支令人畏懼的力量，在經年累月的對抗外部侵略的鬥爭中練就了一支悍勇之師。芬蘭士兵具備堅定的決心，以保衛家園為己任，是熟練的射手和堅韌不拔的戰士，隨時準備接受哪怕是最艱難的敵人的考驗。儘管資源有限，芬蘭陸軍代表了一種頑強不屈的精神，不會輕易被打敗。"
  FIN_finnish_navy: "芬蘭海軍"
@@ -92,8 +88,6 @@
  FIN_anti_soviet_sentiment_desc: "該地區人民對[SOU.GetNameDef]心懷怨恨，要麼認為其不過沙俄的改頭換面，要麼將其當作對傳統價值觀的威脅。"
  FIN_confederation_of_finno_russian_republics_dm: "芬俄共和國聯盟"
  FIN_confederation_of_finno_russian_republics_dm_desc: "$FIN_confederated_finno_russian_republics$"
- #NORWAY - National Spirits
- #Ideas
  NOR_complacent_cabinet_ns: "自鳴得意的內閣"
  NOR_complacent_cabinet_ns_desc: "約翰·尼高斯沃爾成功組建了一個穩定的政府，這可不是一件小事。他和他的內閣似乎以為已經抵達了終點，可他們不知道，這其實是漫漫長路的開始。"
  NOR_obsolete_armed_forces_ns_1: "過時的武裝部隊"
@@ -131,7 +125,6 @@
  NOR_communist_education_centers_ns_1_desc: "國外同志建立了這一系列中心，是為[NOR.GetAdjective]為實現[NOR.GetNonIdeologyName]做好準備的前沿陣地。"
  NOR_crumbling_fortifications_ns: "殘破的要塞"
  NOR_crumbling_fortifications_ns_desc: "從某些方面來講，稱之為要塞實在是過譽了。這些設施不僅尚在封存，就算啟用也難以應付現代戰爭。"
- #Allied Democratic
  NOR_reduced_workers_rights_ns: "工人權利減少"
  NOR_reduced_workers_rights_ns_desc: "面對即將來臨的戰爭和災厄，我國已暫時限制工人們的權利。希望在戰爭結束時他們能理解我們必須做出的犧牲。"
  NOR_investing_in_norway_ns: "正在投資挪威"
@@ -140,7 +133,6 @@
  NOR_improved_training_ns_desc: "新的訓練計劃能讓我們更快地將士兵送上戰場，同時還能教會他們生存和消滅敵人所需的一切知識，以及各種各樣的技能。"
  NOR_flexible_officers_academy_spirit: "靈活的軍官"
  NOR_flexible_officers_academy_spirit_desc: "新一代軍官將帶領[NOR.GetAdjective]軍隊取得勝利，因為他們可以從塵封的書籍以及和平時期的古代史教授那裡學到更多東西。"
- #Fascist Path
  NOR_contested_leadership_ns: "有爭議的領導權"
  NOR_contested_leadership_ns_desc: "[get_NOR_contested_leadership_ns_desc]"
  NOR_contested_leadership_ns_desc_ger: "無論吉斯林想靠政變謀取什麼，[GER.GetNameDef]早就設計好征服[NOR.GetNonIdeologyName]後要扶持的政府。實際上帝國內部幾乎沒人認為吉斯林能勝任，除了希特勒本人似乎格外青睞這個[NOR.GetAdjective]小暴君。"
@@ -163,7 +155,6 @@
  NOR_crush_hitler_ns_desc: "很少有政權能像希特勒那樣殘暴不仁。我們不能讓這個瘋子在我們的眼皮底下橫行霸道。讓我們迅速果斷地行動，去對付那位“元首”及[GER.GetNonIdeologyName]。"
  NOR_liberate_finland_ns: "解放芬蘭"
  NOR_liberate_finland_ns_desc: "顯然，[FIN.GetName]的工人需要被解放。他們不是為了自己或芬蘭同胞，而是為了地主和工業家而勞作。讓我們幫助同志解放這片土地，讓他們將自己的勞動奉獻給革命。"
- #Monarchist Path
  NOR_king_haakon_vii_ns: "哈康七世國王"
  NOR_king_haakon_vii_ns_desc: "作為13世紀以來第一位[NOR.GetAdjective]君主，哈康七世國王是民主的典範。在全民公決之後，他才接受了王位，然後將[NOR.GetName]的統治權交給了顧問和其他高階貴族。"
  NOR_new_high_king: "新的至高王"
@@ -172,7 +163,6 @@
  NOR_norwegian_regency_desc: "攝政王佩德·安克爾·韋德爾-亞爾斯貝格宣佈，他僅打算執行他的國王哈康七世的意願和命令。因此，他尋求與鄰近的斯堪的納維亞君主國和解。"
  NOR_second_north_sea_empire: "北海第二帝國"
  NOR_second_north_sea_empire_desc: "攝政王佩德·安克爾·韋德爾-亞爾斯貝格宣佈，他打算恢復挪威的昔日榮光，並表示一個新的挪威帝國崛起只是時間問題。"
- #Dynamic Modifiers
  NOR_independent_norway_dmod: "獨立的挪威"
  NOR_independent_norway_dmod_desc: "自1905年以來從瑞典手中獨立以來，我國並取得了長足的進步。現在，我們有責任實現先輩的[NOR.GetNonIdeologyName]之夢。"
  NOR_army_air_force_dmod: "陸軍航空隊"
@@ -185,7 +175,6 @@
  NOR_administrative_council_dmod_desc: "我國現在處於佔領當局的控制下，當局的人們只負責處理一些芝麻大小的事，重大決策都得由遠方的法西斯宗主國作出。"
  NOR_kingdom_of_norway_dmod: "$NOR_the_kingdom_of_norway$"
  NOR_kingdom_of_norway_dmod_desc: "民主的門面有什麼意義？大議會不復，王國可以在王的仁慈以及彼澤·安克爾·韋德爾-亞爾斯貝格攝政的鐵拳之下繁榮昌盛。"
- #State Modifiers
  NOR_prep_his_dmod_1: "發展中"
  NOR_prep_his_dmod_1_desc: "我們正努力將這裡從落後地區發展至擁有小型民用工廠。"
  NOR_prep_his_dmod_2: "發達"
@@ -201,17 +190,13 @@
  NOR_prep_fasc_dmod_3: "$NOR_prep_fasc_dmod_1$"
  NOR_royal_defenses: "王室防衛"
  NOR_royal_defenses_desc: "謹遵王廷旨意，該地區重點建造於捍衛王國之必要的防衛設施。"
- #Concerns
  NOR_aat_norsk_hydro: "$NOR_norsk_hydro$"
  NOR_folks_hydro: "人民水電站"
- ##SWEDEN
- #Ideas #CUT
  SWE_army_rearnament_value: "陸軍重整：[SWE_rearmament_status_text_army]（[?SWE.folkhemmet_army_part]/[?SWE.folkhemmet_max_constituent_parts]）"
  SWE_navy_rearnament_value: "海軍重整：[SWE_rearmament_status_text_navy]（[?SWE.folkhemmet_navy_part]/[?SWE.folkhemmet_max_constituent_parts]）"
  SWE_air_rearnament_value: "空軍重整：[SWE_rearmament_status_text_air]（[?SWE.folkhemmet_air_part]/[?SWE.folkhemmet_max_constituent_parts]）"
  SWE_folkhemmet_intactness_value: "§Y人民之家狀態：§![SWE_folkhemmet_status_text]（[?SWE.folkhemmet_intactness]/[?SWE.folkhemmet_max_intactness]）"
  SWE_folkhemmet_system_desc: "全世界每一天都在滑向全球衝突的深淵，瑞典現在左右為難：是否應當以福利系統為代價重整軍備，還是冒著毫無準備地進入未來衝突的風險去保持原樣。"
- #SWE_folkhemmet_status_text: "[SWE_folkhemmet_status_text]"
  SWE_folkhemmet_intactness_intact: "§G完整無瑕§!"
  SWE_folkhemmet_intactness_eroding: "§Y風雨剝蝕§!"
  SWE_folkhemmet_intactness_gone: "§R千瘡百孔§!"
@@ -221,7 +206,6 @@
  SWE_rearmament_1_text: "§Y低資助§!"
  SWE_rearmament_0_text: "§Y無資助§!"
  SWE_folkhemmet_pdx_tooltip: "每一年我們都可以設定[SWE.GetnameDef]的再武裝或去武裝政策。我們越是讓社會朝著再武裝方向推進，§Y戰爭支持度§!、§Y軍用工廠§!及§Y船塢§!建設速度的加成就會越強，而§Y穩定度§!以及§Y民用工廠§!的建設速度則會減弱。\n0點§Y完整值§!的§Y人民之家§!會異化為自身的反面，民用加成為§R負§!，軍事加成為§G正§!。\n\n軍備重整委員會開會期間，我們可以自由改變政策；但一旦委員會閉會，敲定出的方案就會鎖定至下一年。"
- #SWE_folkhemmet_intactness_abolished: "§RAbolished§!"
  SWE_hungershield: "飢餓之盾"
  SWE_hungershield_instant_desc: "如果穩定度低於§Y68%§!，瑞典有發生罷工或騷亂的風險。§Y達成下列條件之一時將被移除：§!\n含通過貿易獲得，總計已擁有的民用工廠超過§Y45§!座\n不含通過貿易獲得，總計已建成的民用工廠超過§Y14§!座\n移除後獲得§G120§!§Y政治點數§!"
  SWE_severe_lack_of_ammunition: "極度缺乏彈藥"
@@ -230,7 +214,6 @@
  SWE_folkhemmet_desc: "多年來，$SWE_per_albin_hansson$和社會民主黨人推出了一系列被稱為“Folkhemmet”，即“人民之家”的改革浪潮。改革以犧牲軍事預算為代價，為大眾創造了社會保障網絡、改進了住房並增加了教育機會。雖然許多人強烈支持這些改革，但那些更富裕或更崇尚軍國主義的人卻對這些改革不屑一顧。"
  SWE_folkhemmet_communism: "$SWE_folkhemmet$"
  SWE_folkhemmet_communism_desc: "多年來，社會民主黨人推出了一系列被稱為“Folkhemmet”，即“人民之家”的改革浪潮。改革以犧牲軍事預算為代價創造了社會保障網絡、改進了住房並增加了教育機會。鑑於工人專政已經建立，我們可以趁機發展這一政策。"
- #SWE_folkhemmet_desc: "We are able to pick rearmament policies that affect these values using the rearmament system"
  SWE_historical_trade_with_Germany: "與[GER.GetnameDef]的傳統貿易關係"
  SWE_formation_flying_idea: "編隊飛行"
  SWE_marauder_bombers_idea: "掠奪者轟炸機"
@@ -353,7 +336,6 @@
  SWE_gateway_to_peace_decision_tt: "\n控制§Y列寧格勒§!將迫使[SOV.GetName]與我國和[FIN.GetName]達成無條件和平，否則其將面臨嚴重的後果。"
  SWE_escaping_the_mainland: "逃離大陸"
  SWE_hedgehog_of_the_baltic: "波羅的海的刺蝟"
- #ICELAND
  ICE_the_icelandic_economy_modifier: "冰島經濟"
  ICE_the_icelandic_economy_modifier_desc: "冰島的經濟在世界大戰期間因為我國隔絕於世而飽受打擊。然後大蕭條再度給予了重大打擊，而且儘管歐洲大陸稍有恢復，冰島的經濟仍然沒有起色。但也許某一天，我們可以震驚世界……"
  ICE_the_icelandic_economy_modifier_tt: "§Y$ICE_the_icelandic_economy_modifier$§!追加效果："
@@ -389,13 +371,10 @@
  ICE_professional_army_idea_desc: "冰島軍隊由最勇敢、最堅強的人組成，隨時準備不惜一切代價保衛冰島國家。"
  ICE_civil_defence_organization: "民防組織"
  ICE_civil_defence_organization_desc: "每一位冰島公民都隨時準備為保護國家、援助人民或拯救基礎設施而竭盡全力。"
- #### DENMARK ####
- #DESIGNERS
  DEN_aalborg_portland: "奧爾堡·波特蘭"
  DEN_danske_stalvalsevaerket_ns: "丹麥鋼鐵廠"
  DEN_designer_can_be_improved_tt: "完成國策§Y$DEN_aalborg_portland_cement_plant$§!將使該設計商獲得強化。"
  DEN_improved_designer_tt: "此設計商已得到強化"
- #NATIONAL SPIRITS
  DEN_industrial_capability_dynamic_modifier: "丹麥工業能力"
  DEN_light_market_regulation_research_bonus: "$DEN_industrial_capability_dynamic_modifier$"
  DEN_industrial_capability_dynamic_modifier_light_regulation: "$DEN_industrial_capability_dynamic_modifier$"
@@ -422,8 +401,8 @@
  DEN_danish_licensing_ns: "貿易協定"
  DEN_danish_licensing_ns_desc: "在這個世界上，國與國之間的交易和貿易是必不可少的，因此擁有密切的貿易伙伴是一件好事。這項交易將使兩國受益，並加強我們之間的聯繫。"
  DEN_danish_licensing_ns_no_DOD_desc: "$DEN_danish_licensing_ns_desc$"
- DEN_overlord_licensing_ns_desc: "$DEN_danish_licensing_ns_desc$" #TODO_DANNE; Refine if there is time
- DEN_overlord_licensing_ns_no_DOD_desc: "$DEN_danish_licensing_ns_desc$" #TODO_DANNE; Refine if there is time
+ DEN_overlord_licensing_ns_desc: "$DEN_danish_licensing_ns_desc$"
+ DEN_overlord_licensing_ns_no_DOD_desc: "$DEN_danish_licensing_ns_desc$"
  DEN_war_preparations_dynamic_modifier: "戰爭準備"
  DEN_war_preparations_dynamic_modifier_desc: "做好準備才能渡過難關。我們必須加強原材料和其他物資的儲備，以備不時之需，並讓本國工業做好打仗的準備。"
  DEN_rule_the_north_sea: "統治北海"
@@ -473,7 +452,6 @@
  DEN_flyvevabnet_dynamic_modifier_improved_desc: "$DEN_flyvevabnet_dynamic_modifier_desc$"
  DEN_flyvevabnet_dynamic_modifier_max_improved: "$DEN_flyvevabnet_dynamic_modifier$"
  DEN_flyvevabnet_dynamic_modifier_max_improved_desc: "$DEN_flyvevabnet_dynamic_modifier_desc$"
- #STATE MODIFIERS
  DEN_development_projects_state_modifier: "工業發展項目"
  DEN_development_projects_state_modifier_desc: "工業部門需要擴大規模，開發更具成本效益的工藝和產品。我們要在這裡投入資源，讓工業蓬勃發展，幫助本地區經濟增長。"
  DEN_development_projects_mainland_state_modifier: "$DEN_development_projects_state_modifier$"
@@ -484,12 +462,10 @@
  DEN_home_guard_state_modifier_desc: "這個地區的地方軍已經部署，他們可以有效減緩敵人的前進步伐。"
  DEN_pan_scandinavianism_modifier: "泛斯堪的納維亞主義精神"
  DEN_pan_scandinavianism_modifier_desc: "泛斯堪的納維亞主義熱情席捲了這個地區，增強了人們的決心和奉獻精神。"
- ###### NORDIC SHARED IDEAS ######
  NORDIC_to_arms_against_tyranny_ns: "武裝反抗暴政"
  NORDIC_to_arms_against_tyranny_ns_desc: "暴政的魔爪威脅到了北歐鄰國之獨立自主，我國必須盡到捍衛的責任，並做好準備，以免今天是鄰國，下一個就輪到我們。"
  NORDIC_the_nordic_march_ns: "北歐進軍"
  NORDIC_the_nordic_march_ns_desc: "儘管周遭鄰國尚未意識到這一點，但其所謂之暴政實乃變革之風。舊制度焚燬殆盡，新秩序涅槃崛起，而我們則是新北歐秩序的領頭人。"
- ###### NORDIC JOINT IDEAS #######
  NORDIC_joint_army_originator_ns: "[NORDIC_get_adjective]陸軍指揮官"
  NORDIC_joint_army_member_ns: "[NORDIC_get_adjective]陸軍"
  NORDIC_command_ns: "[NORDIC_get_adjective]指揮"
@@ -525,9 +501,7 @@
  NORDIC_airforces_dmod_naval_TT: "[NORDIC_GetNavalAircraftBonus]"
  NORDIC_airforces_dmod_naval_originator_TT: "§Y海軍轟炸機§!：\n    $MODIFIER_NAVAL_STRIKE$：§G+15.00%§!\n    $MODIFIER_AIR_RANGE$：§G+25.00%§!\n   §Y$cv_small_plane_airframe$§!：\n    $MODIFIER_AIR_AGILITY$：§G+15.00%§!\n    $MODIFIER_AIR_RANGE$：§G+25.00%§!\n"
  NORDIC_airforces_dmod_naval_member_TT: "§Y海軍轟炸機§!：\n    $MODIFIER_NAVAL_STRIKE$：§G+10.00%§!\n    $MODIFIER_AIR_RANGE$：§G+15.00%§!\n   §Y$cv_small_plane_airframe$§!：\n    $MODIFIER_AIR_AGILITY$：§G+10.00%§!\n    $MODIFIER_AIR_RANGE$：§G+15.00%§!\n"
- #STATE MODIFIERS
  NORDIC_efficient_resource_extraction: "高效資源開採"
  NORDIC_military_industry_hub_leader_dmod: "軍工樞紐"
  NORDIC_military_industry_hub_member_dmod: "$NORDIC_military_industry_hub_leader_dmod$"
- ### AMERICAN IDEAS ###
  USA_greenland_patrol_idea: "格陵蘭巡邏隊"

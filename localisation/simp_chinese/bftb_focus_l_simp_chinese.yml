@@ -1159,7 +1159,7 @@
  BUL_total_war_wargoal_expires_tt: "戰爭目標截止時限：§R180日§!"
  BUL_the_eastern_front_join_war_tt: "§Y[ROOT.GetNameDefCap]§!加入到其盟友對抗§Y[SOV.GetNameDef]§!的戰爭中"
  BUL_the_third_bulgarian_empire_tt: "在三處被保加利亞收復並核心化的歷史領土地區當中添加§G1§!個建築位、§Y1座民用工廠§!以及§Y1級基礎設施§!。"
- BUL_has_abolished_monarchy_tt_NOT: "尚未廢除保加利亞君主制" #the trigger is never used in its = yes state
+ BUL_has_abolished_monarchy_tt_NOT: "尚未廢除保加利亞君主制"
  BUL_tsar_boris_is_dead_flag: "鮑里斯三世沙皇已去世"
  BUL_historical_bulgarian_claim_flag: "是保加利亞的歷史宣稱"
  BUL_join_the_tripartite_pact_tt: "如果[ROOT.GetNameDef]被納入陣營，其盟友將會移交所控制的經陣營領導者批准的保加利亞宣稱地區。"

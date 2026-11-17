@@ -323,8 +323,6 @@
  JUNO_army_modernization_initiative: "陸軍現代化倡議"
  JUNO_armor_modernization_initiative: "裝甲部隊現代化倡議"
  JUNO_naval_academy_random_admirals_tt: "最多§Y3§!名隨機選擇的海軍將領將獲得§G+1§!協同技能"
- #JUNO_naval_academy_cost_reduction_tt: "$navy_spirit_category_type_cost_factor$ §G-10%§!"
- #### Chile #####
  CHL_expand_mining_prospection_tt: "在每個已經生產其中一種礦產資源的核心地區增產§Y4£resources_strip|5 §Y$state_resource_steel$§!、£resources_strip|6 §Y$state_resource_chromium$§!、£resources_strip|4 §Y$state_resource_tungsten$§!或£resources_strip|2 §Y$state_resource_aluminium$§!§!。\n當前效果："
  CHL_skip_one_line_tt: " \n"
  chilean_trade_deals_opinion_modifier: "有利的貿易協定"
@@ -421,7 +419,6 @@
  CHL_prop_up_gustavo_ross: "支持古斯塔沃·羅斯"
  CHL_prop_up_gustavo_ross_desc: "古斯塔沃·羅斯是阿圖羅·亞歷山德里最重要的學生，他最希望此人贏得即將到來的總統選舉。因此，亞歷山德里應該確保讓公眾知道這一點，並嘗試通過各種各樣的宣傳將羅斯塑造成他的精神繼承人。"
  CHL_inflation_control_by_the_central_bank: "智利中央銀行控制通貨膨脹"
- #CHL_inflation_control_by_the_central_bank_desc: "The Banco Central de Chile was founded by president Arturo Alessandri in 1925. We should task them with making sure that inflation stays on a level that is currently desired, so that the budget can be distributed as desired, and the populace be kept as happy as possible."
  CHL_inflation_control_by_the_central_bank_desc: "智利中央銀行由總統阿圖羅·亞歷山德里於1925年創立。我們應該命他們控制通貨膨脹，以支持智利的長期經濟發展，並防止螺旋上升的物價對經濟和政治造成損害。"
  CHL_construct_the_estadio_nacional: "建設國家體育場"
  CHL_construct_the_estadio_nacional_desc: "亞歷山德里為恢復經濟和人民信任所做的最大努力是開展公共工程，他的代表作是國家體育場，一座宏偉的國家級體育比賽場館，這是他領導國家能力的偉大展示。"
@@ -816,7 +813,6 @@
  CHL_work_on_the_pan_american_highway: "泛美高速公路項目"
  CHL_work_on_the_pan_american_highway_desc: "在近年來舉行的各種泛美會議上，我們一致同意與北美和南美的兄弟國家合作，幫助連接南北美兩大洲，完成泛美公路項目。"
  working_on_the_pan_american_highway: "泛美高速公路正在動工"
- #### Brazil ####
  BRA_defense_spending: "增加防衛開支"
  BRA_defense_spending_desc: "世界局勢已經被點燃，沒有國家可以長久地獨善其身。因此，我們應當增加國防開支。無論是生產我們武器的工廠還是建設新的防禦工事，我們都將確保巴西的安全直至最後一刻！"
  BRA_natal_naval_base: "建造帕納米林機場"
@@ -1265,7 +1261,6 @@
  BRA_south_american_research_cooperation: "拉丁美洲研究委員會"
  BRA_south_american_research_cooperation_desc: "眾所周知，相比於我們的競爭對手，我們拉丁美洲的工業和大學並沒有獲得同樣水平的資金支持。然而，通過聯合研究機構進行合作，我們可以避免重複工作，並加快整個地區的創新步伐。"
  BRA_south_american_tech_sharing_group_tt: "如果陣營中的南美洲成員國同意加入："
- ### ARGENTINA ###
  ARG_preparation_for_the_elections: "選舉的準備工作"
  ARG_preparation_for_the_elections_desc: "阿古斯丁·佩德羅·胡斯托的任期即將結束，[ARG.GetName]即將迎來一位新總統。雖然正式的政府候選人是羅伯托·瑪麗亞·奧爾蒂斯，但由馬塞洛·托爾誇托·德阿爾韋亞爾領導的反對黨仍然有機會為更民主的[ARG.GetName]而戰。這次選舉的先例已經設定，現在剩下的就是看看它會如何發展。"
  ARG_roberto_maria_ortiz: "羅伯托·瑪麗亞·奧爾蒂斯"
@@ -1624,7 +1619,6 @@
  ARG_nationalist_faction: "法西斯同盟"
  ARG_communist_faction: "南美國際"
  ARG_democratic_faction: "門羅聯盟"
- #GUAY#
  GUAY_disperse_military_power: "分散軍方勢力"
  GUAY_disperse_military_power_desc: "為了確保我們政府內閣的未來，我們需要確保軍隊不能奪取政權。"
  GUAY_nationalize_foreign_owned_companies: "將外資公司國有化"

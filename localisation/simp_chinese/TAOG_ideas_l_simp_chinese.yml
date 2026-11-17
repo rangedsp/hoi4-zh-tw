@@ -1,12 +1,4 @@
 ﻿l_simp_chinese:
- #   /$$$$$$ /$$   /$$ /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$  /$$$$$$  /$$$$$$
- #  |_  $$_/| $$$ | $$| $$__  $$ /$$__  $$| $$$ | $$| $$_____/ /$$__  $$|_  $$_/ /$$__  $$
- #    | $$  | $$$$| $$| $$  \ $$| $$  \ $$| $$$$| $$| $$      | $$  \__/  | $$  | $$  \ $$
- #    | $$  | $$ $$ $$| $$  | $$| $$  | $$| $$ $$ $$| $$$$$   |  $$$$$$   | $$  | $$$$$$$$
- #    | $$  | $$  $$$$| $$  | $$| $$  | $$| $$  $$$$| $$__/    \____  $$  | $$  | $$__  $$
- #    | $$  | $$\  $$$| $$  | $$| $$  | $$| $$\  $$$| $$       /$$  \ $$  | $$  | $$  | $$
- #   /$$$$$$| $$ \  $$| $$$$$$$/|  $$$$$$/| $$ \  $$| $$$$$$$$|  $$$$$$/ /$$$$$$| $$  | $$
- #  |______/|__/  \__/|_______/  \______/ |__/  \__/|________/ \______/ |______/|__/  |__/
  idea_INS_volksraad: "人民議會"
  idea_INS_volksraad_desc: "人民議會是荷蘭於1918年依據“倫理政策”體系設立的議會機構，旨在建立一個半民主體制，以代表群島內各個少數民族與文化群體。儘管其在理論上是民主性質的，但總督與荷蘭王室擁有無條件的否決權。"
  INS_volksraad_custom_tt: "允許你僱傭§Y人民議會顧問§!\n允許你使用§Y人民議會決議§!"
@@ -133,9 +125,6 @@
  INS_pancasila_achieved_idea: "$INS_pancasila_achieved$"
  INS_all_toward_the_war_effort_idea: "$INS_all_toward_the_war_effort$"
  INS_inter_province_trade_idea: "$INS_indonesian_inter_province_trade_agreement$"
- ############
- ### SIAM ###
- ############
  idea_SIA_civilian_full_support: "文治派：§G全面支持§!"
  idea_SIA_civilian_full_support_desc: "文官派堅定地支持政府。行政人員和技術管理貢獻其專業知識，推動發展。"
  idea_SIA_civilian_slight_support: "文治派：輕度支持"
@@ -289,12 +278,8 @@
  idea_SIA_unwavering_civilian_support_desc: "隨著軍方派系解散，合法性問題得以解決，文官政府再無挑戰者。擺脫軍隊干涉之後，比裡和他的技術官僚們以舊政府從未能企及的熱情，全身心投入到治國理政之中。"
  idea_SIA_unified_khana_ratsadon: "統一的人民黨"
  idea_SIA_unified_khana_ratsadon_desc: "軍方派與文官派之間的舊日紛爭業已終結。隨著人民黨兩派終於同心同德，政府得以發揮出前所未有的統一行動力。軍人、行政官員與實業家如今已融為一體。"
- ###################
- #### AUSTRALIA ####
- ###################
  AST_electrical_engineer_hidden_idea: "$AST_florence_v._mckenzie$"
  AST_electrical_engineer_electronics_modifier_tt: "$electronics$研究速度：§G+15%§!"
- #### IDEAS ####
  AST_great_depression_taog_spirit_fake: "$AST_great_depression_taog_spirit$"
  AST_citizen_army_spirit_fake: "$AST_citizen_army_spirit$"
  AST_war_is_coming_spirit_fake: "$AST_war_is_coming_spirit$"
@@ -328,8 +313,8 @@
  AST_british_military_construction_aid_idea_tt: "§Y2§!地圖外§Y$industrial_complex$§!"
  AST_country_party_influence_uap: "鄉村黨影響力"
  AST_country_party_influence_alp: "鄉村黨影響力"
- AST_country_party_influence_uap_tt: "§Y澳大利亞聯合黨§!的選票每日增加§Y+0.02%§!" #Edit on_daily_AST /AND/ AST_country_party_support_uap /AND/ ideas on_add on_remove if changed
- AST_country_party_influence_alp_tt: "§Y澳大利亞工黨§!的選票每日增加§Y+0.02%§!" #Edit on_daily_AST /AND/ AST_country_party_support_alp /AND/ ideas on_add on_remove if changed
+ AST_country_party_influence_uap_tt: "§Y澳大利亞聯合黨§!的選票每日增加§Y+0.02%§!"
+ AST_country_party_influence_alp_tt: "§Y澳大利亞工黨§!的選票每日增加§Y+0.02%§!"
  AST_anti_fascist_measures: "反法西斯措施"
  AST_anti_fascist_measures_desc: "法西斯主義尚未深入澳大利亞，民主力量希望它保持這種狀態。英聯邦調查處將監視和拘留所有可疑分子，以防止任何法西斯團體獲得影響力。"
  ABDA_corps_expeditionnaire_spirit: "遠征軍"
@@ -381,7 +366,6 @@
  AST_mount_isa_mines_ic_tt: "§Y$AST_mount_isa_mines_ic$工業企業§!的效果已增強"
  AST_nationalizing_spirit: "國有化進行中"
  AST_communist_ideals: "共產主義理想"
- #### NATIONAL SPIRITS #####
  AST_war_is_coming_spirit: "戰爭將至"
  AST_war_is_coming_spirit_tt: "§Y$AST_war_is_coming_spirit$§!追加效果："
  AST_british_war_cabinet_spirit: "英國戰時內閣"
@@ -432,7 +416,6 @@
  AST_scrap_iron_flotilla_taog_idea: "廢鐵艦隊"
  AST_cruising_for_a_bruising_idea: "自討苦吃"
  AST_strike_from_down_under_idea: "來自南半球的打擊"
- #### SCRIPTED GUI ####
  AST_cabinet_trust_state_1_idea: "極低內閣信任度"
  AST_cabinet_trust_state_1_tt: "§Y極低內閣信任度§!\n政治點數獲取：§R-20%§!\n穩定度：§R-30.00%§!\n戰爭支持度：§R-15.00%§!"
  AST_cabinet_trust_state_2_idea: "低內閣信任度"
@@ -443,13 +426,11 @@
  AST_cabinet_trust_state_4_tt: "§Y高內閣信任度§!\n政治點數獲取：§R-12%§!\n穩定度：§R-15.00%§!\n戰爭支持度：§R-7.00%§!"
  AST_cabinet_trust_state_5_idea: "極高內閣信任度"
  AST_cabinet_trust_state_5_tt: "§Y極高內閣信任度§!\n政治點數獲取：§R-10%§!\n穩定度：§R-10.00%§!\n戰爭支持度：§R-5.00%§!"
- #Not showing fake idea effects in Cabinet Trust gui window, if mission has been completed and actual ideas have been removed = {
  AST_cabinet_trust_effects_1: "[GET_AST_CABINET_TRUST_EFFECTS_1]"
  AST_cabinet_trust_effects_2: "[GET_AST_CABINET_TRUST_EFFECTS_2]"
  AST_cabinet_trust_effects_3: "[GET_AST_CABINET_TRUST_EFFECTS_3]"
  AST_cabinet_trust_effects_4: "[GET_AST_CABINET_TRUST_EFFECTS_4]"
  AST_cabinet_trust_effects_5: "[GET_AST_CABINET_TRUST_EFFECTS_5]"
- #}
  NZL_railways_board: "政府鐵路局"
  NZL_railways_board_desc: "政府鐵路局成立於1931年，旨在重組鐵路部門，試圖將決策權從政府部門中分離出來。然而，自成立以來，鐵路網絡幾乎沒有改善的跡象。要求政府廢除該局並收回直接控制權的壓力越來越大。"
  NZL_great_depression: "大蕭條"
@@ -459,7 +440,6 @@
  NZL_national_coal_board_idea: "國家煤炭局"
  NZL_ministry_of_public_works_dynamic_modifier: "公共工程部"
  modify_NZL_ministry_of_public_works_dynamic_modifier_tt: "§Y$NZL_ministry_of_public_works_dynamic_modifier$§!追加效果："
- # ABDACOM Supreme Command dynamic modifier
  ABDA_supreme_command: "美英荷澳最高司令部"
  ABDA_supreme_command_desc: "美英荷澳司令部已在所有成員國海軍中建立了統一的海軍條令。隨著聯盟的深化，共享情報、協調巡邏任務和相互後勤支持，穩步提升了每一支在美英荷澳司令部旗幟下航行的艦隊的作戰效能。"
  modify_ABDA_supreme_command_tt: "§Y$ABDA_supreme_command$§!追加效果："

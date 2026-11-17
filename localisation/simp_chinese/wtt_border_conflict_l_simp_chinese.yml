@@ -21,11 +21,6 @@
  at_least_one_division_in_state: "在該地區至少駐紮§H1§!個師"
  in_45_days: "在45日內：\n"
  border_incident_active: "各地區沒有正在進行的邊境衝突"
- ### #   # ### #  # ###  ##
- ##   # #   ## #  #  #
- ##   # #  ##  # ##  #   #
- ## #  #   #  #  #    #
- ###   #   ### #  #  #  ##
  wtt_border_conflict_won_attacker.1.t: "[their_state.GetName]大捷"
  wtt_border_conflict_won_attacker.1.desc: "日前在[our_state.GetName]和[their_state.GetName]交界地區發生的衝突最終以我軍完勝[their_country.GetLeader]軍隊而告捷。[their_country.GetAdjective]軍隊現已被擊退，而我方則順勢攻佔了此爭議地區。"
  wtt_border_conflict_won_attacker.1.a: "我們展現了自身的實力！"

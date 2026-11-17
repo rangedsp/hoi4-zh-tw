@@ -35,7 +35,6 @@
  ETH_bop_is_mesafint_power_or_higher_tt: "世襲貴族影響力：\n至少§Y$ETH_mesafint_power_range$§!"
  ETH_bop_is_mekwanint_influence_or_higher_tt: "中央選官影響力：\n至少為§Y$ETH_mekwanint_influence_range$§!"
  ETH_bop_is_mekwanint_power_or_higher_tt: "中央選官影響力：\n至少為§Y$ETH_mekwanint_power_range$§!"
- #Ethiopia Static Modifiers
  ETH_withdraw_priviliges_power_balance: "世襲貴族特權減少"
  ETH_increase_priviliges_power_balance: "世襲貴族特權增加"
  ETH_increase_communist_power_balance: "增加對共產主義者的支持"
@@ -57,7 +56,6 @@
  ETH_risk_of_disintegration_tt: "[ROOT.GetName]分裂的§R風險§!\n若穩定度低於§Y15%§!或執政黨支持率低於§Y40%§!，國家將會解體。"
  ETH_risk_of_demoralized_ras_tt: "如果當前控制的本國領土僅有50%或更少，將有王公離心離德的§R風險§!。\n這將會觸發一個收復領土的§Y任務§!。"
  ETH_BoP_spanish_exiles_modifier: "西班牙流亡安那其的避難所"
- ####### SWITZERLAND BoP Modifiers #######
  SWI_centralization_bop: "權力平衡"
  SWI_centralization_bop_canton: "州"
  SWI_centralization_bop_council: "聯邦委員會"
@@ -70,7 +68,6 @@
  SWI_guiding_principles_council: "瑞士指導原則"
  SWI_guisan_power_balance: "亨利·吉桑"
  SWI_aktion_nationaler_widerstand_mod: "全國抵抗運動"
- ####### ITALY #######
  ITA_power_balance: "國家權力平衡"
  ITA_grand_council_side: "[GetGrandCouncilName]"
  ITA_mussolini_side: "$ITA_benito_mussolini$"

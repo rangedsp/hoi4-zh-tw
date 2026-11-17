@@ -1361,7 +1361,7 @@
  bftb_bulgaria_equipment_purchases.10.t: "造艦工程完畢-輕巡洋艦"
  bftb_bulgaria_equipment_purchases.10.desc: "在經過近一年的建造後，我國訂購的[FROM.GetAdjective]輕巡洋艦日前已經完成了海試，現已做好準備加入海軍在役序列。\n這些軍艦正停泊在[Root.GetAdjective]港，而艦上人員亦正聽候調遣。"
  bftb_bulgaria_scw_volunteers.1.t: "[ROOT.GetAdjective]志願兵自西班牙歸來"
- bftb_bulgaria_scw_volunteers.1.desc: "投身國際縱隊併為西班牙人民的自由而英勇奮戰的[ROOT.GetAdjective]志願兵們，如今已然返回了他們的祖國，[GetVictoryOrDefeatRepublicans]這些歷戰歸來的無畏[ROOT.GetAdjective]勇士隊伍當中，技術高超的軍方飛行員扎哈里·扎哈里耶夫赫然在列，他因戰時的諸多壯舉而廣受褒獎，並將被高度推薦晉升為保加利亞的空軍總長。" #FROM.FROM is SCW loser // #FROM is SCW winner
+ bftb_bulgaria_scw_volunteers.1.desc: "投身國際縱隊併為西班牙人民的自由而英勇奮戰的[ROOT.GetAdjective]志願兵們，如今已然返回了他們的祖國，[GetVictoryOrDefeatRepublicans]這些歷戰歸來的無畏[ROOT.GetAdjective]勇士隊伍當中，技術高超的軍方飛行員扎哈里·扎哈里耶夫赫然在列，他因戰時的諸多壯舉而廣受褒獎，並將被高度推薦晉升為保加利亞的空軍總長。"
  bftb_bulgaria_scw_volunteers.1.desc_republicans_victorious: "縱使這場戰爭給西班牙人民造成了深重的苦難，但大家還是為[FROM.GetNameDef]在內戰中所取得的勝利而歡呼慶賀。而在"
  bftb_bulgaria_scw_volunteers.1.desc_republicans_defeated: "眾人皆為[FROM.GetNameDef]所遭受的慘痛失敗而深表哀悼，後者如今終究還是屈服於法西斯暴政的鐵蹄下……\n無論如何，在"
  bftb_bulgaria_scw_volunteers.1.a: "他們如英雄般凱旋！"
@@ -1631,7 +1631,7 @@
  bftb_news.10.t: "巴爾幹的統一"
  bftb_news.10.desc: "[BUL.GetNameDef]日前由此前的[BUL.GetOldNameDef]政府宣告成立，後者希望能以此使[BUL.GetFactionName]更進一步，將其聯盟的諸成員國整合至統一的中央政府管轄下。\n根據[BUL.GetLeader]所言，[BUL.GetNameDef]將尋求實現巴爾幹諸國放下彼此舊日的恩怨和衝突，通過完全的合作進而促進巴爾幹人民的團結。"
  bftb_news.10.a: "夢想已然成真！"
- bftb_news.10.b: "這是[THIS.GetNameDef]真正需要的嗎？" #THIS
+ bftb_news.10.b: "這是[THIS.GetNameDef]真正需要的嗎？"
  bftb_news.10.c: "這是巴爾幹諸國真正需要的嗎？"
  bftb_news.10.d: "胡說八道！"
  bftb_news.11.t: "[BUL.GetNameDefCap]向[GER.GetNameDef]求助"
