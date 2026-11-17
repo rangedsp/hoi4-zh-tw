@@ -64,6 +64,7 @@
  CAREER_PROFILE_VISIBILITY: "檔案可見性"
  #Chat
  CHAT_ERROR_UNKNOWNSLASH: "未知指令，輸入'/help'或'?'來查看指令列表。"
+ CHAT_ERROR_SPAM: "你發送消息過快，請等待幾秒鐘。"
  CHAT_ERROR_UNKNOWNCHANNELUSER: "在目前頻道無法找到玩家'$NAME$'"
  CHAT_SLAP: "$FIRST$用小型核彈把$SECOND$擊飛"
  CHAT_ERROR_SLAP_MISSINGARG: "無效句式，示例：/slap <用戶名>"

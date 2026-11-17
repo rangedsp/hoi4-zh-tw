@@ -149,7 +149,7 @@
  CZE_forgive_trading_debts_idea: "免除貿易債務"
  CZE_forgive_trading_debts_idea_desc: "$CZE_forgive_trading_debts_desc$"
  CZE_soviet_influence: "[SOV.GetAdjective]影響力"
- CZE_mil_access_debuff_cancels_after_month_tt: "§Y該國家精神將在取消軍事通行權的30他後失效。\n§!"
+ CZE_mil_access_debuff_cancels_after_month_tt: "§Y該國家精神將在取消軍事通行權的30天后失效。\n§!"
  CZE_state_catholicism: "$POL_state_catholicism$"
  CZE_exiles_idea_POL: "[CZE.GetAdjective]流亡者"
  ##SLOVAKIA##
@@ -208,15 +208,15 @@
  CZE_trait_mountaineer_random_generals_tt: "§Y兩名§!隨機的陸軍將領會獲得§Y山地專家§!：\n-§Y山地地形§!：\n移動：§G+5.0%§!\n進攻：§G+10.0%§!\n防禦：§G+10.0%§!"
  CZE_trickster_random_general_tt: "§Y一名§!隨機陸軍將領會獲得§Y奇謀百出§!：\n-偵察：§G+25.0%§!"
  #Custom Trigger Tooltips
- CZE_has_a_skoda_planes_focus_tt: "$CZE_skoda_texticon_ref$ §Y飛機重心§!是當前的§Y斯柯達優先事項§!"
- CZE_has_a_skoda_no_focus_tt: "$CZE_skoda_texticon_ref$ §Y重工業重心§!是當前的§Y斯柯達優先事項§!"
+ CZE_has_a_skoda_planes_focus_tt: "$CZE_skoda_texticon_ref$§Y飛機重心§!是當前的§Y斯柯達優先事項§!"
+ CZE_has_a_skoda_no_focus_tt: "$CZE_skoda_texticon_ref$§Y重工業重心§!是當前的§Y斯柯達優先事項§!"
  CZE_has_a_skoda_no_focus_tt_NOT: "$CZE_skoda_texticon_ref$ §Y重工業聚焦§!不是當前的§Y斯柯達優先事項§!"
- CZE_has_a_skoda_infantry_focus_tt: "$CZE_skoda_texticon_ref$ §Y步兵重心§!是當前的§Y斯柯達優先事項§!"
- CZE_has_a_skoda_tank_focus_tt: "$CZE_skoda_texticon_ref$ §Y坦克重心§!是當前的§Y斯柯達優先事項§!"
- CZE_has_a_skoda_naval_focus_tt: "$CZE_skoda_texticon_ref$ §Y海軍重心§!是當前的§Y斯柯達優先事項§!"
+ CZE_has_a_skoda_infantry_focus_tt: "$CZE_skoda_texticon_ref$§Y步兵重心§!是當前的§Y斯柯達優先事項§!"
+ CZE_has_a_skoda_tank_focus_tt: "$CZE_skoda_texticon_ref$§Y坦克重心§!是當前的§Y斯柯達優先事項§!"
+ CZE_has_a_skoda_naval_focus_tt: "$CZE_skoda_texticon_ref$§Y海軍重心§!是當前的§Y斯柯達優先事項§!"
  #Skoda Focus Effects Tooltips - NOTE: These are used on the Skoda Works in focus tree/event context and not the GUI!!!
- CZE_start_skoda_GUI_tt: "$CZE_skoda_texticon_ref$ §Y斯柯達優先事項§!系統激活，其效果為：\n$CZE_skoda_works_dynamic_custom_modifier_tt$"
- CZE_start_skoda_GUI_event_tt: "$CZE_skoda_texticon_ref$ §Y斯柯達優先事項§!已激活。"
+ CZE_start_skoda_GUI_tt: "$CZE_skoda_texticon_ref$§Y斯柯達優先事項§!系統激活，其效果為：\n$CZE_skoda_works_dynamic_custom_modifier_tt$"
+ CZE_start_skoda_GUI_event_tt: "$CZE_skoda_texticon_ref$§Y斯柯達優先事項§!已激活。"
  CZE_start_skoda_GUI_focus_tt: "£GFX_CZE_skoda_text_icon §Y斯柯達優先事項§!將被激活。"
  CZE_start_skoda_raise_more_industrial_funds_tt: "獲得§Y$CZE_skoda_works_dynamic_modifier$§!，其效果為：\n工廠產出：§G+5%§!"
  #Dynamic modifier intro Tooltips

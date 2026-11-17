@@ -745,6 +745,7 @@
  HOL_unity_through_democracy: "“通過民主來團結”"
  HOL_unity_through_democracy_desc: "“荷蘭通過民主來團結運動（Eenheid door Democratie）”成立於1935年，從成立時以來一直是一種直言不諱的議會外的聲音，對抗所有非民主意識形態的煽動者。支持這一運動，可以捍衛我們的民主和加強我們的政府，我們將從中獲利。"
  HOL_go_with_britain: "站在英國一方"
+ HOL_go_with_britain_event_tt: "向§Y[ENG.GetNameWithFlag]§!所在陣營的陣營領袖發送請求加入陣營的事件。"
  HOL_go_with_britain_desc: "在當前的危機中，英國人堅持民主理念，在維護殖民帝國的完整性方面，我們與他們有著共同的利益。我們加入他們的事業是理所當然的。"
  HOL_de_vaarplicht: "航行義務法案"
  HOL_de_vaarplicht_desc: "在經歷了一百五十年的中立和數十年和平主義的日益增長後，我們必須向新盟友證明我們的戰鬥決心。我們不會像其他國家一樣依賴基於志願者的商船海軍，而是通過了航行義務（Vaarplicht）法案。所有尚未入伍的荷蘭公民，今後都有義務為商船海軍服役，或為其提供協助。"

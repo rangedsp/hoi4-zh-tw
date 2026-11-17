@@ -1108,6 +1108,7 @@
  japan_border_conflict.4.t: "哈桑湖之戰陷入僵局"
  japan_border_conflict.4.desc: "在雙方均撤出爭議地段以重新補給和集結後，日本和[SOV.GetAdjective]兩國的軍隊圍繞著哈桑湖所爆發的邊境衝突暫且偃旗息鼓。也許是意識到繼續進攻亦無濟於事，日本軍方現已要求停火談判，以期恢復邊境態勢。"
  japan_border_conflict.4.a: "我們至少得到了寶貴的經驗"
+ japan_border_conflict.4.b: "邊界依舊如故"
  japan_border_conflict.5.t: "哈桑湖之戰衝突升級"
  japan_border_conflict.5.desc: "日本和[SOV.GetAdjective]兩國的軍隊圍繞著哈桑湖所爆發的戰鬥仍在進行。也許是為了打破戰場的僵局，這個大地區下轄其他各地的日軍均已開始與[SOV.GetAdjective]軍隊交戰。而情報表明，日本人很有可能會很快從其帝國的其他地域徵調新軍，以增援此次戰事。"
  japan_border_conflict.5.a: "我們必須堅守戰線。"

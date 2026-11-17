@@ -48,7 +48,7 @@
  poland.20.d: "沒有團結就沒有自由！"
  poland.20.e: "好極了！"
  poland.20.f: "該死！"
- poland.21.t: "[DNZ.GetNameDef]尋求併入[Ger.GetNameDefCap]"
+ poland.21.t: "[DNZ.GetNameDef]尋求併入[GER.GetNameDef]"
  poland.21.d: "當戰火燃遍[DNZ.GetNameDef]街道時，[DNZ.GetLeader]堅決抵抗[POL.GetLeader]的軍隊，然而，一座孤城顯然不足以抵禦[POL.GetNameDef]軍隊的猛攻。作為[Root.GetRulingParty]的黨員，[DNZ.GetLeader]應對[Root.GetLeader]負責，而[DNZ.GetAdjective]絕對不能戰敗。[GER.GetNameDefCap]將作為[DNZ.GetNameDef]的保護國介入戰爭。他們的出現，不僅意味著城防大大增強，同時也是奪取這座城市的千載良機……"
  poland.21.a: "但澤不能成為格但斯克！"
  poland.21.b: "我們不應介入。"

@@ -42,7 +42,7 @@
  LOG_IN: "登錄"
  LOG_IN_NO: "§R登錄§!"
  LOG_OUT: "登出"
- MISSING_REQUIRED_FIELD: "§R您有必填項沒有填寫§!"
+ MISSING_REQUIRED_FIELD: "§R你有必填項沒有填寫§!"
  MODTOOLS: "Mod工具"
  MOD_CREATE_SUCCESS: "§G成功在以下目錄創建Mod文件：§!$PATH$"
  MOD_DETAILS: "詳情："
